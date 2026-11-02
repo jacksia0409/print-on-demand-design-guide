@@ -1,0 +1,83 @@
+[← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/scene/background--scene--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+
+<a id="guide-main"></a>
+
+Scenes / CREATIVE DIRECTION / Scenes
+
+# Solid background
+
+Scenes: One uniform color forms the ground; white is also a solid background.
+
+<a id="understand"></a>
+
+![Solid background: Scenes: One uniform color forms the ground; white is also a solid background.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+
+Composition illustration
+
+HOW TO RECOGNIZE IT
+
+## What defines this direction
+
+Do not add patterns, gradients, texture or a scene to the backing. This does not restrict colors and details within the foreground content.
+
+[← Back to scenes](../scene.md)
+
+<a id="ai-directions"></a>
+
+AI DIRECTIONS
+
+## Take this direction into AI
+
+Use with an image, or ask AI to rewrite your image prompt in this direction.
+
+**Target direction**
+
+Scenes → Background → Solid background
+
+**Input and output**
+
+If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+**Target structure**
+
+Preserve the scene’s essential space, setting and any existing event. Change the ground behind it, the sky layer or the surrounding backing rather than removing the context that makes it a scene.
+
+**Background**
+
+Choose one suitable color from the existing background or theme, or use a specified color. If no ground is supplied, create a theme-related single-color backing and keep it uniform.
+
+**Wording**
+
+Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+**Preserve and adapt**
+
+Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+**Scope and boundaries**
+
+Do not add patterns, gradients, texture or a scene to the backing. This does not restrict colors and details within the foreground content.
+
+<a id="related"></a>
+
+## Compare nearby directions
+
+[![Transparent background: Scenes: The ground stays transparent; a checkerboard is only a display aid.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+
+### Transparent background↗
+
+Scenes: The ground stays transparent; a checkerboard is only a display aid.](background--scene--transparent.md)[![Gradient background: Scenes: The backing changes continuously in color or brightness while the main content remains clear.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+
+### Gradient background↗
+
+Scenes: The backing changes continuously in color or brightness while the main content remains clear.](background--scene--gradient.md)[![Patterned background: local: Scenes: A decorative patch sits behind the content, leaving an area outside the patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+
+### Patterned background: local↗
+
+Scenes: A decorative patch sits behind the content, leaving an area outside the patch.](background--scene--pattern-local.md)[![Patterned background: full area: Scenes: A patterned ground covers the image behind clearly readable foreground content.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-full-1.svg)
+
+### Patterned background: full area↗
+
+Scenes: A patterned ground covers the image behind clearly readable foreground content.](background--scene--pattern-full.md)
+
+Code-drawn studies compare composition and visual treatments; media and style examples are conceptual. These directions have not been individually tested with image models. Check generated text, transparency and repeat edges.
