@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/pattern/background--pattern--pattern-full.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/pattern/background--pattern--pattern-full.md) · [Español](../../../es/artwork-types/pattern/background--pattern--pattern-full.md) · [Français](../../../fr/artwork-types/pattern/background--pattern--pattern-full.md) · [Deutsch](../../../de/artwork-types/pattern/background--pattern--pattern-full.md) · [العربية](../../../ar/artwork-types/pattern/background--pattern--pattern-full.md) · [Русский](../../../ru/artwork-types/pattern/background--pattern--pattern-full.md) · [日本語](../../../ja/artwork-types/pattern/background--pattern--pattern-full.md) · [हिन्दी](../../../hi/artwork-types/pattern/background--pattern--pattern-full.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/pattern/background--pattern--pattern-full?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

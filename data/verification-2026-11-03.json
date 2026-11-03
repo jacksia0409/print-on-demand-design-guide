@@ -1,0 +1,70 @@
+{
+  "edition": "2026-11-03",
+  "repository": "jacksia0409/print-on-demand-design-guide",
+  "sourceCommit": "83ce42fdb4c45405eb77a22153fb7314f7259556",
+  "languages": [
+    "en",
+    "zh-CN",
+    "pt-BR",
+    "es",
+    "fr",
+    "de",
+    "ar",
+    "ru",
+    "ja",
+    "hi"
+  ],
+  "guideDocumentsPerLanguage": 167,
+  "exportedArticlesPerLanguage": 165,
+  "publicDirectionsPerLanguage": 123,
+  "validation": {
+    "status": "PASS",
+    "languages": [
+      "en",
+      "zh-CN",
+      "pt-BR",
+      "es",
+      "fr",
+      "de",
+      "ar",
+      "ru",
+      "ja",
+      "hi"
+    ],
+    "counts": {
+      "assertions": 279251,
+      "links": 70106,
+      "documents": 1670,
+      "codeBlocks": 984,
+      "images": 25008
+    },
+    "errorCount": 0,
+    "errors": []
+  },
+  "rebuildIdempotent": true,
+  "originalEnglishBodiesPreserved": true,
+  "negativeChecks": [
+    "Missing translations rejected before writing",
+    "Broken relative links detected"
+  ],
+  "rendering": {
+    "method": "GitHub Markdown API HTML rendered in headless Chrome with a local reading stylesheet",
+    "rootReadmes": 8,
+    "additionalArabicSamples": 2,
+    "viewports": 20,
+    "viewportWidths": [
+      390,
+      980,
+      1280
+    ],
+    "pageOverflow": 0,
+    "failedSampleImages": 0,
+    "arabicRTLVerified": true,
+    "largePromptDocuments": "Russian and Hindi exceed the Markdown API 400 KB limit; source structure validated in full and prompt blocks sampled. Repository previews have a separate limit."
+  },
+  "translationReview": {
+    "method": "Machine translation, terminology overrides, shared-instruction rewrites and sampled semantic review",
+    "independentNativeSpeakerReview": false
+  },
+  "publication": "Publish this snapshot only; no application deployment"
+}

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/products/greeting-cards.md) · **简体中文** · [Português (Brasil)](../../pt-BR/products/greeting-cards.md) · [Español](../../es/products/greeting-cards.md) · [Français](../../fr/products/greeting-cards.md) · [Deutsch](../../de/products/greeting-cards.md) · [العربية](../../ar/products/greeting-cards.md) · [Русский](../../ru/products/greeting-cards.md) · [日本語](../../ja/products/greeting-cards.md) · [हिन्दी](../../hi/products/greeting-cards.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/products/greeting-cards?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

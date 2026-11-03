@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/techniques/series-builder.md) · **简体中文** · [Português (Brasil)](../../pt-BR/techniques/series-builder.md) · [Español](../../es/techniques/series-builder.md) · [Français](../../fr/techniques/series-builder.md) · [Deutsch](../../de/techniques/series-builder.md) · [العربية](../../ar/techniques/series-builder.md) · [Русский](../../ru/techniques/series-builder.md) · [日本語](../../ja/techniques/series-builder.md) · [हिन्दी](../../hi/techniques/series-builder.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/techniques/series-builder?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

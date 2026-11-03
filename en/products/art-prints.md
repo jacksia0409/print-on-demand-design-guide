@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/art-prints.md) · [Português (Brasil)](../../pt-BR/products/art-prints.md) · [Español](../../es/products/art-prints.md) · [Français](../../fr/products/art-prints.md) · [Deutsch](../../de/products/art-prints.md) · [العربية](../../ar/products/art-prints.md) · [Русский](../../ru/products/art-prints.md) · [日本語](../../ja/products/art-prints.md) · [हिन्दी](../../hi/products/art-prints.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/art-prints?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/wallpaper.md) · [Português (Brasil)](../../pt-BR/products/wallpaper.md) · [Español](../../es/products/wallpaper.md) · [Français](../../fr/products/wallpaper.md) · [Deutsch](../../de/products/wallpaper.md) · [العربية](../../ar/products/wallpaper.md) · [Русский](../../ru/products/wallpaper.md) · [日本語](../../ja/products/wallpaper.md) · [हिन्दी](../../hi/products/wallpaper.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/wallpaper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

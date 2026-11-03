@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/subject/background--single--solid.md) · [Português (Brasil)](../../../pt-BR/artwork-types/subject/background--single--solid.md) · [Español](../../../es/artwork-types/subject/background--single--solid.md) · [Français](../../../fr/artwork-types/subject/background--single--solid.md) · [Deutsch](../../../de/artwork-types/subject/background--single--solid.md) · [العربية](../../../ar/artwork-types/subject/background--single--solid.md) · [Русский](../../../ru/artwork-types/subject/background--single--solid.md) · [日本語](../../../ja/artwork-types/subject/background--single--solid.md) · [हिन्दी](../../../hi/artwork-types/subject/background--single--solid.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--single--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

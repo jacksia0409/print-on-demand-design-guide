@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/scene/background--scene--solid.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/scene/background--scene--solid.md) · [Español](../../../es/artwork-types/scene/background--scene--solid.md) · [Français](../../../fr/artwork-types/scene/background--scene--solid.md) · [Deutsch](../../../de/artwork-types/scene/background--scene--solid.md) · [العربية](../../../ar/artwork-types/scene/background--scene--solid.md) · [Русский](../../../ru/artwork-types/scene/background--scene--solid.md) · [日本語](../../../ja/artwork-types/scene/background--scene--solid.md) · [हिन्दी](../../../hi/artwork-types/scene/background--scene--solid.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/scene/background--scene--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

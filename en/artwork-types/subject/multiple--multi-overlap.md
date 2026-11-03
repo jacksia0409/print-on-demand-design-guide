@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/subject/multiple--multi-overlap.md) · [Português (Brasil)](../../../pt-BR/artwork-types/subject/multiple--multi-overlap.md) · [Español](../../../es/artwork-types/subject/multiple--multi-overlap.md) · [Français](../../../fr/artwork-types/subject/multiple--multi-overlap.md) · [Deutsch](../../../de/artwork-types/subject/multiple--multi-overlap.md) · [العربية](../../../ar/artwork-types/subject/multiple--multi-overlap.md) · [Русский](../../../ru/artwork-types/subject/multiple--multi-overlap.md) · [日本語](../../../ja/artwork-types/subject/multiple--multi-overlap.md) · [हिन्दी](../../../hi/artwork-types/subject/multiple--multi-overlap.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/subject/multiple--multi-overlap?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

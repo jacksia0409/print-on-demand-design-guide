@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/texture/texture--texture-weave.md) · [Português (Brasil)](../../../pt-BR/artwork-types/texture/texture--texture-weave.md) · [Español](../../../es/artwork-types/texture/texture--texture-weave.md) · [Français](../../../fr/artwork-types/texture/texture--texture-weave.md) · [Deutsch](../../../de/artwork-types/texture/texture--texture-weave.md) · [العربية](../../../ar/artwork-types/texture/texture--texture-weave.md) · [Русский](../../../ru/artwork-types/texture/texture--texture-weave.md) · [日本語](../../../ja/artwork-types/texture/texture--texture-weave.md) · [हिन्दी](../../../hi/artwork-types/texture/texture--texture-weave.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/texture/texture--texture-weave?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

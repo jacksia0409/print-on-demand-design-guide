@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/products/blankets.md) · **简体中文** · [Português (Brasil)](../../pt-BR/products/blankets.md) · [Español](../../es/products/blankets.md) · [Français](../../fr/products/blankets.md) · [Deutsch](../../de/products/blankets.md) · [العربية](../../ar/products/blankets.md) · [Русский](../../ru/products/blankets.md) · [日本語](../../ja/products/blankets.md) · [हिन्दी](../../hi/products/blankets.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/products/blankets?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

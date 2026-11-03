@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/gifts/gratitude.md) · **简体中文** · [Português (Brasil)](../../pt-BR/gifts/gratitude.md) · [Español](../../es/gifts/gratitude.md) · [Français](../../fr/gifts/gratitude.md) · [Deutsch](../../de/gifts/gratitude.md) · [العربية](../../ar/gifts/gratitude.md) · [Русский](../../ru/gifts/gratitude.md) · [日本語](../../ja/gifts/gratitude.md) · [हिन्दी](../../hi/gifts/gratitude.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/gifts/gratitude?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

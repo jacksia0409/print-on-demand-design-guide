@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/techniques/holiday-versions.md) · [Português (Brasil)](../../pt-BR/techniques/holiday-versions.md) · [Español](../../es/techniques/holiday-versions.md) · [Français](../../fr/techniques/holiday-versions.md) · [Deutsch](../../de/techniques/holiday-versions.md) · [العربية](../../ar/techniques/holiday-versions.md) · [Русский](../../ru/techniques/holiday-versions.md) · [日本語](../../ja/techniques/holiday-versions.md) · [हिन्दी](../../hi/techniques/holiday-versions.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/techniques/holiday-versions?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

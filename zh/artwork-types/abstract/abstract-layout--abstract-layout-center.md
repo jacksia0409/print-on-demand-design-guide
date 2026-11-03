@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/abstract/abstract-layout--abstract-layout-center.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/abstract/abstract-layout--abstract-layout-center.md) · [Español](../../../es/artwork-types/abstract/abstract-layout--abstract-layout-center.md) · [Français](../../../fr/artwork-types/abstract/abstract-layout--abstract-layout-center.md) · [Deutsch](../../../de/artwork-types/abstract/abstract-layout--abstract-layout-center.md) · [العربية](../../../ar/artwork-types/abstract/abstract-layout--abstract-layout-center.md) · [Русский](../../../ru/artwork-types/abstract/abstract-layout--abstract-layout-center.md) · [日本語](../../../ja/artwork-types/abstract/abstract-layout--abstract-layout-center.md) · [हिन्दी](../../../hi/artwork-types/abstract/abstract-layout--abstract-layout-center.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/abstract/abstract-layout--abstract-layout-center?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

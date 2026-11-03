@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/gifts/memories-and-memorials.md) · [Português (Brasil)](../../pt-BR/gifts/memories-and-memorials.md) · [Español](../../es/gifts/memories-and-memorials.md) · [Français](../../fr/gifts/memories-and-memorials.md) · [Deutsch](../../de/gifts/memories-and-memorials.md) · [العربية](../../ar/gifts/memories-and-memorials.md) · [Русский](../../ru/gifts/memories-and-memorials.md) · [日本語](../../ja/gifts/memories-and-memorials.md) · [हिन्दी](../../hi/gifts/memories-and-memorials.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/gifts/memories-and-memorials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

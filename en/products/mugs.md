@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/mugs.md) · [Português (Brasil)](../../pt-BR/products/mugs.md) · [Español](../../es/products/mugs.md) · [Français](../../fr/products/mugs.md) · [Deutsch](../../de/products/mugs.md) · [العربية](../../ar/products/mugs.md) · [Русский](../../ru/products/mugs.md) · [日本語](../../ja/products/mugs.md) · [हिन्दी](../../hi/products/mugs.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/mugs?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/techniques/change-ratio.md) · **简体中文** · [Português (Brasil)](../../pt-BR/techniques/change-ratio.md) · [Español](../../es/techniques/change-ratio.md) · [Français](../../fr/techniques/change-ratio.md) · [Deutsch](../../de/techniques/change-ratio.md) · [العربية](../../ar/techniques/change-ratio.md) · [Русский](../../ru/techniques/change-ratio.md) · [日本語](../../ja/techniques/change-ratio.md) · [हिन्दी](../../hi/techniques/change-ratio.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/techniques/change-ratio?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/puzzles.md) · [Português (Brasil)](../../pt-BR/products/puzzles.md) · [Español](../../es/products/puzzles.md) · [Français](../../fr/products/puzzles.md) · [Deutsch](../../de/products/puzzles.md) · [العربية](../../ar/products/puzzles.md) · [Русский](../../ru/products/puzzles.md) · [日本語](../../ja/products/puzzles.md) · [हिन्दी](../../hi/products/puzzles.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/puzzles?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

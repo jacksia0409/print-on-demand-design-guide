@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/texture/background--texture--transparent.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/texture/background--texture--transparent.md) · [Español](../../../es/artwork-types/texture/background--texture--transparent.md) · [Français](../../../fr/artwork-types/texture/background--texture--transparent.md) · [Deutsch](../../../de/artwork-types/texture/background--texture--transparent.md) · [العربية](../../../ar/artwork-types/texture/background--texture--transparent.md) · [Русский](../../../ru/artwork-types/texture/background--texture--transparent.md) · [日本語](../../../ja/artwork-types/texture/background--texture--transparent.md) · [हिन्दी](../../../hi/artwork-types/texture/background--texture--transparent.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/texture/background--texture--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

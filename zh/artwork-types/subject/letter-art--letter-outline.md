@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/subject/letter-art--letter-outline.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/subject/letter-art--letter-outline.md) · [Español](../../../es/artwork-types/subject/letter-art--letter-outline.md) · [Français](../../../fr/artwork-types/subject/letter-art--letter-outline.md) · [Deutsch](../../../de/artwork-types/subject/letter-art--letter-outline.md) · [العربية](../../../ar/artwork-types/subject/letter-art--letter-outline.md) · [Русский](../../../ru/artwork-types/subject/letter-art--letter-outline.md) · [日本語](../../../ja/artwork-types/subject/letter-art--letter-outline.md) · [हिन्दी](../../../hi/artwork-types/subject/letter-art--letter-outline.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/subject/letter-art--letter-outline?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

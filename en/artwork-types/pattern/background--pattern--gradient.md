@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/pattern/background--pattern--gradient.md) · [Português (Brasil)](../../../pt-BR/artwork-types/pattern/background--pattern--gradient.md) · [Español](../../../es/artwork-types/pattern/background--pattern--gradient.md) · [Français](../../../fr/artwork-types/pattern/background--pattern--gradient.md) · [Deutsch](../../../de/artwork-types/pattern/background--pattern--gradient.md) · [العربية](../../../ar/artwork-types/pattern/background--pattern--gradient.md) · [Русский](../../../ru/artwork-types/pattern/background--pattern--gradient.md) · [日本語](../../../ja/artwork-types/pattern/background--pattern--gradient.md) · [हिन्दी](../../../hi/artwork-types/pattern/background--pattern--gradient.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/background--pattern--gradient?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/artwork-types/texture.md) · [Português (Brasil)](../../pt-BR/artwork-types/texture.md) · [Español](../../es/artwork-types/texture.md) · [Français](../../fr/artwork-types/texture.md) · [Deutsch](../../de/artwork-types/texture.md) · [العربية](../../ar/artwork-types/texture.md) · [Русский](../../ru/artwork-types/texture.md) · [日本語](../../ja/artwork-types/texture.md) · [हिन्दी](../../hi/artwork-types/texture.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

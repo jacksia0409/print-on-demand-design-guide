@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/subject/relationship--relation-side.md) · [Português (Brasil)](../../../pt-BR/artwork-types/subject/relationship--relation-side.md) · [Español](../../../es/artwork-types/subject/relationship--relation-side.md) · [Français](../../../fr/artwork-types/subject/relationship--relation-side.md) · [Deutsch](../../../de/artwork-types/subject/relationship--relation-side.md) · [العربية](../../../ar/artwork-types/subject/relationship--relation-side.md) · [Русский](../../../ru/artwork-types/subject/relationship--relation-side.md) · [日本語](../../../ja/artwork-types/subject/relationship--relation-side.md) · [हिन्दी](../../../hi/artwork-types/subject/relationship--relation-side.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/subject/relationship--relation-side?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

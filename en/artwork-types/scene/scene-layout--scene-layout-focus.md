@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/scene/scene-layout--scene-layout-focus.md) · [Português (Brasil)](../../../pt-BR/artwork-types/scene/scene-layout--scene-layout-focus.md) · [Español](../../../es/artwork-types/scene/scene-layout--scene-layout-focus.md) · [Français](../../../fr/artwork-types/scene/scene-layout--scene-layout-focus.md) · [Deutsch](../../../de/artwork-types/scene/scene-layout--scene-layout-focus.md) · [العربية](../../../ar/artwork-types/scene/scene-layout--scene-layout-focus.md) · [Русский](../../../ru/artwork-types/scene/scene-layout--scene-layout-focus.md) · [日本語](../../../ja/artwork-types/scene/scene-layout--scene-layout-focus.md) · [हिन्दी](../../../hi/artwork-types/scene/scene-layout--scene-layout-focus.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene-layout--scene-layout-focus?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

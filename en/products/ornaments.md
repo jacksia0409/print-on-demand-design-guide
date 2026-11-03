@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/ornaments.md) · [Português (Brasil)](../../pt-BR/products/ornaments.md) · [Español](../../es/products/ornaments.md) · [Français](../../fr/products/ornaments.md) · [Deutsch](../../de/products/ornaments.md) · [العربية](../../ar/products/ornaments.md) · [Русский](../../ru/products/ornaments.md) · [日本語](../../ja/products/ornaments.md) · [हिन्दी](../../hi/products/ornaments.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/ornaments?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

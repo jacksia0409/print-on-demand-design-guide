@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/products/phone-cases.md) · **简体中文** · [Português (Brasil)](../../pt-BR/products/phone-cases.md) · [Español](../../es/products/phone-cases.md) · [Français](../../fr/products/phone-cases.md) · [Deutsch](../../de/products/phone-cases.md) · [العربية](../../ar/products/phone-cases.md) · [Русский](../../ru/products/phone-cases.md) · [日本語](../../ja/products/phone-cases.md) · [हिन्दी](../../hi/products/phone-cases.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/products/phone-cases?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/artwork-types/pattern.md) · [Português (Brasil)](../../pt-BR/artwork-types/pattern.md) · [Español](../../es/artwork-types/pattern.md) · [Français](../../fr/artwork-types/pattern.md) · [Deutsch](../../de/artwork-types/pattern.md) · [العربية](../../ar/artwork-types/pattern.md) · [Русский](../../ru/artwork-types/pattern.md) · [日本語](../../ja/artwork-types/pattern.md) · [हिन्दी](../../hi/artwork-types/pattern.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

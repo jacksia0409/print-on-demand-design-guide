@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/products/canvas-prints.md) · **简体中文** · [Português (Brasil)](../../pt-BR/products/canvas-prints.md) · [Español](../../es/products/canvas-prints.md) · [Français](../../fr/products/canvas-prints.md) · [Deutsch](../../de/products/canvas-prints.md) · [العربية](../../ar/products/canvas-prints.md) · [Русский](../../ru/products/canvas-prints.md) · [日本語](../../ja/products/canvas-prints.md) · [हिन्दी](../../hi/products/canvas-prints.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/products/canvas-prints?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

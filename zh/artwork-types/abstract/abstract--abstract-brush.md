@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/abstract/abstract--abstract-brush.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/abstract/abstract--abstract-brush.md) · [Español](../../../es/artwork-types/abstract/abstract--abstract-brush.md) · [Français](../../../fr/artwork-types/abstract/abstract--abstract-brush.md) · [Deutsch](../../../de/artwork-types/abstract/abstract--abstract-brush.md) · [العربية](../../../ar/artwork-types/abstract/abstract--abstract-brush.md) · [Русский](../../../ru/artwork-types/abstract/abstract--abstract-brush.md) · [日本語](../../../ja/artwork-types/abstract/abstract--abstract-brush.md) · [हिन्दी](../../../hi/artwork-types/abstract/abstract--abstract-brush.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/abstract/abstract--abstract-brush?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/pattern/bounded--pattern-radial.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/pattern/bounded--pattern-radial.md) · [Español](../../../es/artwork-types/pattern/bounded--pattern-radial.md) · [Français](../../../fr/artwork-types/pattern/bounded--pattern-radial.md) · [Deutsch](../../../de/artwork-types/pattern/bounded--pattern-radial.md) · [العربية](../../../ar/artwork-types/pattern/bounded--pattern-radial.md) · [Русский](../../../ru/artwork-types/pattern/bounded--pattern-radial.md) · [日本語](../../../ja/artwork-types/pattern/bounded--pattern-radial.md) · [हिन्दी](../../../hi/artwork-types/pattern/bounded--pattern-radial.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/pattern/bounded--pattern-radial?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

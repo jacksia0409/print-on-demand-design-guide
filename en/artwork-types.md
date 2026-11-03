@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../zh/artwork-types.md) · [Português (Brasil)](../pt-BR/artwork-types.md) · [Español](../es/artwork-types.md) · [Français](../fr/artwork-types.md) · [Deutsch](../de/artwork-types.md) · [العربية](../ar/artwork-types.md) · [Русский](../ru/artwork-types.md) · [日本語](../ja/artwork-types.md) · [हिन्दी](../hi/artwork-types.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

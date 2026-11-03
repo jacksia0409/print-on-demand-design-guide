@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/products/pillows.md) · **简体中文** · [Português (Brasil)](../../pt-BR/products/pillows.md) · [Español](../../es/products/pillows.md) · [Français](../../fr/products/pillows.md) · [Deutsch](../../de/products/pillows.md) · [العربية](../../ar/products/pillows.md) · [Русский](../../ru/products/pillows.md) · [日本語](../../ja/products/pillows.md) · [हिन्दी](../../hi/products/pillows.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/products/pillows?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

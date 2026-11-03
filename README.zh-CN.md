@@ -1,5 +1,13 @@
-<h1 align="center">Print-on-Demand Design Guide</h1>
-<p align="center"><strong>A visual guide to graphic styles, composition, typography, and AI-powered design.</strong></p>
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](README.md) · **简体中文** · [Português (Brasil)](README.pt-BR.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
+<h1 align="center">POD 做图指南</h1>
+<p align="center"><strong>图解图案风格、构图、文字排版与 AI 创作。</strong></p>
 
 <p align="center">同一素材，更多构图，更多创作可能。</p>
 
@@ -7,7 +15,7 @@
 
 <p align="center"><a href="https://podplo.app/zh/pod-guide?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_hero_guide"><strong>打开网页做图指南</strong></a> · <a href="https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_hero_skills"><strong>使用 PodPlo 创作</strong></a> · <a href="https://podplo.app/elements?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_hero_elements">寻找创作素材</a></p>
 
-<p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
+
 
 <table>
 <tr>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/products/pet-products.md) · **简体中文** · [Português (Brasil)](../../pt-BR/products/pet-products.md) · [Español](../../es/products/pet-products.md) · [Français](../../fr/products/pet-products.md) · [Deutsch](../../de/products/pet-products.md) · [العربية](../../ar/products/pet-products.md) · [Русский](../../ru/products/pet-products.md) · [日本語](../../ja/products/pet-products.md) · [हिन्दी](../../hi/products/pet-products.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/products/pet-products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

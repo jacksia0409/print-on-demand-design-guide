@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/notebooks.md) · [Português (Brasil)](../../pt-BR/products/notebooks.md) · [Español](../../es/products/notebooks.md) · [Français](../../fr/products/notebooks.md) · [Deutsch](../../de/products/notebooks.md) · [العربية](../../ar/products/notebooks.md) · [Русский](../../ru/products/notebooks.md) · [日本語](../../ja/products/notebooks.md) · [हिन्दी](../../hi/products/notebooks.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/notebooks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

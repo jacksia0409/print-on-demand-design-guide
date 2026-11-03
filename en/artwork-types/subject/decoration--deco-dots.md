@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/subject/decoration--deco-dots.md) · [Português (Brasil)](../../../pt-BR/artwork-types/subject/decoration--deco-dots.md) · [Español](../../../es/artwork-types/subject/decoration--deco-dots.md) · [Français](../../../fr/artwork-types/subject/decoration--deco-dots.md) · [Deutsch](../../../de/artwork-types/subject/decoration--deco-dots.md) · [العربية](../../../ar/artwork-types/subject/decoration--deco-dots.md) · [Русский](../../../ru/artwork-types/subject/decoration--deco-dots.md) · [日本語](../../../ja/artwork-types/subject/decoration--deco-dots.md) · [हिन्दी](../../../hi/artwork-types/subject/decoration--deco-dots.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-dots?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

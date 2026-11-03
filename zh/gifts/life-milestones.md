@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/gifts/life-milestones.md) · **简体中文** · [Português (Brasil)](../../pt-BR/gifts/life-milestones.md) · [Español](../../es/gifts/life-milestones.md) · [Français](../../fr/gifts/life-milestones.md) · [Deutsch](../../de/gifts/life-milestones.md) · [العربية](../../ar/gifts/life-milestones.md) · [Русский](../../ru/gifts/life-milestones.md) · [日本語](../../ja/gifts/life-milestones.md) · [हिन्दी](../../hi/gifts/life-milestones.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/gifts/life-milestones?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

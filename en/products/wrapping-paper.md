@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/wrapping-paper.md) · [Português (Brasil)](../../pt-BR/products/wrapping-paper.md) · [Español](../../es/products/wrapping-paper.md) · [Français](../../fr/products/wrapping-paper.md) · [Deutsch](../../de/products/wrapping-paper.md) · [العربية](../../ar/products/wrapping-paper.md) · [Русский](../../ru/products/wrapping-paper.md) · [日本語](../../ja/products/wrapping-paper.md) · [हिन्दी](../../hi/products/wrapping-paper.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/wrapping-paper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

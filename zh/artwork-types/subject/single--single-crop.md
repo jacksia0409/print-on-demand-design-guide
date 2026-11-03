@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/subject/single--single-crop.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/subject/single--single-crop.md) · [Español](../../../es/artwork-types/subject/single--single-crop.md) · [Français](../../../fr/artwork-types/subject/single--single-crop.md) · [Deutsch](../../../de/artwork-types/subject/single--single-crop.md) · [العربية](../../../ar/artwork-types/subject/single--single-crop.md) · [Русский](../../../ru/artwork-types/subject/single--single-crop.md) · [日本語](../../../ja/artwork-types/subject/single--single-crop.md) · [हिन्दी](../../../hi/artwork-types/subject/single--single-crop.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/subject/single--single-crop?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

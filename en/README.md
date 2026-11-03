@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../zh/README.md) · [Português (Brasil)](../pt-BR/README.md) · [Español](../es/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [العربية](../ar/README.md) · [Русский](../ru/README.md) · [日本語](../ja/README.md) · [हिन्दी](../hi/README.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

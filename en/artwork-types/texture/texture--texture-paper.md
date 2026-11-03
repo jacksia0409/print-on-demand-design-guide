@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/texture/texture--texture-paper.md) · [Português (Brasil)](../../../pt-BR/artwork-types/texture/texture--texture-paper.md) · [Español](../../../es/artwork-types/texture/texture--texture-paper.md) · [Français](../../../fr/artwork-types/texture/texture--texture-paper.md) · [Deutsch](../../../de/artwork-types/texture/texture--texture-paper.md) · [العربية](../../../ar/artwork-types/texture/texture--texture-paper.md) · [Русский](../../../ru/artwork-types/texture/texture--texture-paper.md) · [日本語](../../../ja/artwork-types/texture/texture--texture-paper.md) · [हिन्दी](../../../hi/artwork-types/texture/texture--texture-paper.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/texture/texture--texture-paper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

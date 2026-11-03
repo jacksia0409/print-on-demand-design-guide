@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../zh/techniques.md) · [Português (Brasil)](../pt-BR/techniques.md) · [Español](../es/techniques.md) · [Français](../fr/techniques.md) · [Deutsch](../de/techniques.md) · [العربية](../ar/techniques.md) · [Русский](../ru/techniques.md) · [日本語](../ja/techniques.md) · [हिन्दी](../hi/techniques.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/techniques?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

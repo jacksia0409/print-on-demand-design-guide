@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../zh/personalization.md) · [Português (Brasil)](../pt-BR/personalization.md) · [Español](../es/personalization.md) · [Français](../fr/personalization.md) · [Deutsch](../de/personalization.md) · [العربية](../ar/personalization.md) · [Русский](../ru/personalization.md) · [日本語](../ja/personalization.md) · [हिन्दी](../hi/personalization.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/personalization?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

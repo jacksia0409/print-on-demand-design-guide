@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/gifts/personality-and-fun.md) · **简体中文** · [Português (Brasil)](../../pt-BR/gifts/personality-and-fun.md) · [Español](../../es/gifts/personality-and-fun.md) · [Français](../../fr/gifts/personality-and-fun.md) · [Deutsch](../../de/gifts/personality-and-fun.md) · [العربية](../../ar/gifts/personality-and-fun.md) · [Русский](../../ru/gifts/personality-and-fun.md) · [日本語](../../ja/gifts/personality-and-fun.md) · [हिन्दी](../../hi/gifts/personality-and-fun.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/gifts/personality-and-fun?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

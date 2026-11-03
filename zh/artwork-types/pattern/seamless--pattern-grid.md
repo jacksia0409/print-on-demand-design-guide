@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/pattern/seamless--pattern-grid.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/pattern/seamless--pattern-grid.md) · [Español](../../../es/artwork-types/pattern/seamless--pattern-grid.md) · [Français](../../../fr/artwork-types/pattern/seamless--pattern-grid.md) · [Deutsch](../../../de/artwork-types/pattern/seamless--pattern-grid.md) · [العربية](../../../ar/artwork-types/pattern/seamless--pattern-grid.md) · [Русский](../../../ru/artwork-types/pattern/seamless--pattern-grid.md) · [日本語](../../../ja/artwork-types/pattern/seamless--pattern-grid.md) · [हिन्दी](../../../hi/artwork-types/pattern/seamless--pattern-grid.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/pattern/seamless--pattern-grid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

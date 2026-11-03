@@ -1,6 +1,14 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../zh/INDEX.md) · [Português (Brasil)](../pt-BR/INDEX.md) · [Español](../es/INDEX.md) · [Français](../fr/INDEX.md) · [Deutsch](../de/INDEX.md) · [العربية](../ar/INDEX.md) · [Русский](../ru/INDEX.md) · [日本語](../ja/INDEX.md) · [हिन्दी](../hi/INDEX.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 # Guide contents
 
-[English](../en/INDEX.md) · [简体中文](../zh/INDEX.md)
+
 
 [Copyable public AI directions](ai-directions.md)
 

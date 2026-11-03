@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/subject/transformation--transform-blocks.md) · [Português (Brasil)](../../../pt-BR/artwork-types/subject/transformation--transform-blocks.md) · [Español](../../../es/artwork-types/subject/transformation--transform-blocks.md) · [Français](../../../fr/artwork-types/subject/transformation--transform-blocks.md) · [Deutsch](../../../de/artwork-types/subject/transformation--transform-blocks.md) · [العربية](../../../ar/artwork-types/subject/transformation--transform-blocks.md) · [Русский](../../../ru/artwork-types/subject/transformation--transform-blocks.md) · [日本語](../../../ja/artwork-types/subject/transformation--transform-blocks.md) · [हिन्दी](../../../hi/artwork-types/subject/transformation--transform-blocks.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-blocks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

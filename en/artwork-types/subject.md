@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/artwork-types/subject.md) · [Português (Brasil)](../../pt-BR/artwork-types/subject.md) · [Español](../../es/artwork-types/subject.md) · [Français](../../fr/artwork-types/subject.md) · [Deutsch](../../de/artwork-types/subject.md) · [العربية](../../ar/artwork-types/subject.md) · [Русский](../../ru/artwork-types/subject.md) · [日本語](../../ja/artwork-types/subject.md) · [हिन्दी](../../hi/artwork-types/subject.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

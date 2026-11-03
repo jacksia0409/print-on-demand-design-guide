@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/pattern/background--pattern--solid.md) · [Português (Brasil)](../../../pt-BR/artwork-types/pattern/background--pattern--solid.md) · [Español](../../../es/artwork-types/pattern/background--pattern--solid.md) · [Français](../../../fr/artwork-types/pattern/background--pattern--solid.md) · [Deutsch](../../../de/artwork-types/pattern/background--pattern--solid.md) · [العربية](../../../ar/artwork-types/pattern/background--pattern--solid.md) · [Русский](../../../ru/artwork-types/pattern/background--pattern--solid.md) · [日本語](../../../ja/artwork-types/pattern/background--pattern--solid.md) · [हिन्दी](../../../hi/artwork-types/pattern/background--pattern--solid.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/background--pattern--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

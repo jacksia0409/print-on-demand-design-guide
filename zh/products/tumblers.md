@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/products/tumblers.md) · **简体中文** · [Português (Brasil)](../../pt-BR/products/tumblers.md) · [Español](../../es/products/tumblers.md) · [Français](../../fr/products/tumblers.md) · [Deutsch](../../de/products/tumblers.md) · [العربية](../../ar/products/tumblers.md) · [Русский](../../ru/products/tumblers.md) · [日本語](../../ja/products/tumblers.md) · [हिन्दी](../../hi/products/tumblers.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/products/tumblers?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

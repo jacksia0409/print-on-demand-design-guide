@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/stickers.md) · [Português (Brasil)](../../pt-BR/products/stickers.md) · [Español](../../es/products/stickers.md) · [Français](../../fr/products/stickers.md) · [Deutsch](../../de/products/stickers.md) · [العربية](../../ar/products/stickers.md) · [Русский](../../ru/products/stickers.md) · [日本語](../../ja/products/stickers.md) · [हिन्दी](../../hi/products/stickers.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/stickers?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

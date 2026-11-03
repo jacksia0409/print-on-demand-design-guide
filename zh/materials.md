@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../en/materials.md) · **简体中文** · [Português (Brasil)](../pt-BR/materials.md) · [Español](../es/materials.md) · [Français](../fr/materials.md) · [Deutsch](../de/materials.md) · [العربية](../ar/materials.md) · [Русский](../ru/materials.md) · [日本語](../ja/materials.md) · [हिन्दी](../hi/materials.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/materials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

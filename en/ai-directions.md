@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../zh/ai-directions.md) · [Português (Brasil)](../pt-BR/ai-directions.md) · [Español](../es/ai-directions.md) · [Français](../fr/ai-directions.md) · [Deutsch](../de/ai-directions.md) · [العربية](../ar/ai-directions.md) · [Русский](../ru/ai-directions.md) · [日本語](../ja/ai-directions.md) · [हिन्दी](../hi/ai-directions.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 # Public AI creative directions
 
 These are public Guide instructions, not private Skill rules. The visual studies are conceptual; outputs must be reviewed.

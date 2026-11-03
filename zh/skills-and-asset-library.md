@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../en/skills-and-asset-library.md) · **简体中文** · [Português (Brasil)](../pt-BR/skills-and-asset-library.md) · [Español](../es/skills-and-asset-library.md) · [Français](../fr/skills-and-asset-library.md) · [Deutsch](../de/skills-and-asset-library.md) · [العربية](../ar/skills-and-asset-library.md) · [Русский](../ru/skills-and-asset-library.md) · [日本語](../ja/skills-and-asset-library.md) · [हिन्दी](../hi/skills-and-asset-library.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/skills-and-asset-library?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

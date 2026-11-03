@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/subject/letter-art--letter-texture.md) · [Português (Brasil)](../../../pt-BR/artwork-types/subject/letter-art--letter-texture.md) · [Español](../../../es/artwork-types/subject/letter-art--letter-texture.md) · [Français](../../../fr/artwork-types/subject/letter-art--letter-texture.md) · [Deutsch](../../../de/artwork-types/subject/letter-art--letter-texture.md) · [العربية](../../../ar/artwork-types/subject/letter-art--letter-texture.md) · [Русский](../../../ru/artwork-types/subject/letter-art--letter-texture.md) · [日本語](../../../ja/artwork-types/subject/letter-art--letter-texture.md) · [हिन्दी](../../../hi/artwork-types/subject/letter-art--letter-texture.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/subject/letter-art--letter-texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

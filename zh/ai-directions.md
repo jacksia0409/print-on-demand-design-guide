@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../en/ai-directions.md) · **简体中文** · [Português (Brasil)](../pt-BR/ai-directions.md) · [Español](../es/ai-directions.md) · [Français](../fr/ai-directions.md) · [Deutsch](../de/ai-directions.md) · [العربية](../ar/ai-directions.md) · [Русский](../ru/ai-directions.md) · [日本語](../ja/ai-directions.md) · [हिन्दी](../hi/ai-directions.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 # 公开 AI 创作指令
 
 以下是 Guide 的公开创作指令，不是 Skill 隐藏规则。图例属于概念示意，生成结果仍需检查。

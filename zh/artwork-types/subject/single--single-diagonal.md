@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/subject/single--single-diagonal.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/subject/single--single-diagonal.md) · [Español](../../../es/artwork-types/subject/single--single-diagonal.md) · [Français](../../../fr/artwork-types/subject/single--single-diagonal.md) · [Deutsch](../../../de/artwork-types/subject/single--single-diagonal.md) · [العربية](../../../ar/artwork-types/subject/single--single-diagonal.md) · [Русский](../../../ru/artwork-types/subject/single--single-diagonal.md) · [日本語](../../../ja/artwork-types/subject/single--single-diagonal.md) · [हिन्दी](../../../hi/artwork-types/subject/single--single-diagonal.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/subject/single--single-diagonal?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

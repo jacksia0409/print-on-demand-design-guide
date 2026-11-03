@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/gifts/relationships.md) · [Português (Brasil)](../../pt-BR/gifts/relationships.md) · [Español](../../es/gifts/relationships.md) · [Français](../../fr/gifts/relationships.md) · [Deutsch](../../de/gifts/relationships.md) · [العربية](../../ar/gifts/relationships.md) · [Русский](../../ru/gifts/relationships.md) · [日本語](../../ja/gifts/relationships.md) · [हिन्दी](../../hi/gifts/relationships.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/gifts/relationships?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

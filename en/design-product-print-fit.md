@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../zh/design-product-print-fit.md) · [Português (Brasil)](../pt-BR/design-product-print-fit.md) · [Español](../es/design-product-print-fit.md) · [Français](../fr/design-product-print-fit.md) · [Deutsch](../de/design-product-print-fit.md) · [العربية](../ar/design-product-print-fit.md) · [Русский](../ru/design-product-print-fit.md) · [日本語](../ja/design-product-print-fit.md) · [हिन्दी](../hi/design-product-print-fit.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/design-product-print-fit?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

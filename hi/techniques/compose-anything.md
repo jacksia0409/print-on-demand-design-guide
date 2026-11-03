@@ -1,0 +1,183 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/techniques/compose-anything.md) · [简体中文](../../zh/techniques/compose-anything.md) · [Português (Brasil)](../../pt-BR/techniques/compose-anything.md) · [Español](../../es/techniques/compose-anything.md) · [Français](../../fr/techniques/compose-anything.md) · [Deutsch](../../de/techniques/compose-anything.md) · [العربية](../../ar/techniques/compose-anything.md) · [Русский](../../ru/techniques/compose-anything.md) · [日本語](../../ja/techniques/compose-anything.md) · **हिन्दी**
+
+</div>
+<!-- LANGUAGES:END -->
+
+[← गाइड इंडेक्स](../INDEX.md) · [PodPlo पर पढ़ें](https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+
+<a id="guide-main"></a>
+
+# एक चित्र। अनगिनत संभावनाएँ।
+
+Remix आपकी छवियां और टेक्स्ट विभिन्न Skills के साथ। नए लेआउट आज़माएं और एक विचार को डिज़ाइन की श्रृंखला में बदलें।
+
+<a id="material-is-the-start"></a>
+
+## एक मजबूत केन्द्रित ग्राफ़िक बनाएं
+
+<a id="skills-solve-structure"></a>
+
+<a id="transparent-layout-family"></a>
+
+<a id="opaque-artwork"></a>
+
+[कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout) एक पहचानने योग्य विषय और कॉपी को एक बोल्ड केंद्रित ग्राफ़िक में संयोजित करता है।
+
+अपलोड की गई छवि या PodPlo संपत्ति से प्रारंभ करें। [कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout) स्रोत को पहचानने योग्य बनाए रखते हुए विषय और प्रतिलिपि को एक संतुलित केंद्रित ग्राफ़िक में संयोजित करता है।
+
+### एक मजबूत केन्द्रित ग्राफ़िक बनाएं
+
+[कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout) एक विषय और प्रतिलिपि को सघन, संतुलित आकार में जोड़ता है। एक ढीली स्रोत छवि एक स्पष्ट केंद्र बिंदु के साथ एक मजबूत केंद्रित ग्राफ़िक बन जाती है।
+
+### एक लम्बे विषय को ढेर करें और कॉपी करें
+
+[लंबवत स्टैक लेआउट](https://podplo.app/skills/vertical-stack-layout) एक लंबे विषय को व्यवस्थित करता है और पढ़ने के स्पष्ट क्रम में ऊपर से नीचे तक कॉपी करता है। खुली रचना से कलाकृति के चारों ओर पृष्ठभूमि दिखाई देती है।
+
+### पूरा दृश्य बरकरार रखें
+
+[पोस्टर निर्माता](https://podplo.app/skills/poster-maker) जब परिवेश डिज़ाइन का हिस्सा हो तो संपूर्ण दृश्य, फ़्रेम या बनावट को संरक्षित कर सकता है। परिणाम एक पृथक विषय के बजाय एक पूर्ण पोस्टर के रूप में पढ़ा जाता है।
+
+![स्रोत तत्व और सटीक शब्दांकन](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
+
+इनपुट
+
+[![सघन केन्द्रित रचना](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+
+कॉम्पैक्ट सेंटर लेआउट
+
+**जानने के लिए और अधिक Skills**
+
+<a id="_R_5irk_-title"></a>
+
+### जानने के लिए और अधिक Skills
+
+4 / 10
+
+<a id="_R_5irk_-cards"></a>
+
+[![पोस्टर निर्माता कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
+
+पोस्टर निर्माता](https://podplo.app/skills/poster-maker)[![वर्टिकल स्टैक लेआउट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+
+लंबवत स्टैक लेआउट](https://podplo.app/skills/vertical-stack-layout)[![शीर्षक-विषय-उपशीर्षक लेआउट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+
+शीर्षक-विषय-उपशीर्षक लेआउट](https://podplo.app/skills/title-subject-subtitle-layout)[![सर्कुलर बैज लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+
+सर्कुलर बैज लेआउट](https://podplo.app/skills/circular-badge-layout)
+
+<a id="skill-defines-the-job"></a>
+
+## एक रूपांकन को दोहराव में बदलें
+
+<a id="choose-fewer-skills"></a>
+
+[बिना जोड़ वाला पैटर्न](https://podplo.app/skills/seamless-pattern) एक छोटे रूपांकन को निरंतर दोहराव में बदल देता है।
+
+[बिना जोड़ वाला पैटर्न](https://podplo.app/skills/seamless-pattern) विभिन्न अंतराल, पैमाने और दिशा के साथ एक ही रूपांकन को दोहराता है। एक फूल, चिह्न या पात्र एक सतत पैटर्न बन जाता है जबकि मूल आकार पहचानने योग्य बना रहता है।
+
+### एक प्रतीक की तुलना एक खुले लेआउट से करें
+
+[सर्कुलर बैज लेआउट](https://podplo.app/skills/circular-badge-layout) कलाकृति और प्रतिलिपि को पूर्ण प्रतीक में संलग्न करता है, जबकि कॉम्पैक्ट सेंटर लेआउट एक सघन खुला आकार बनाता है। वही स्रोत क्लासिक और निहित या अधिक ऊर्जावान और अनौपचारिक महसूस कर सकता है।
+
+![एकल स्रोत मूलभाव](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+
+इनपुट
+
+[![दोहराने योग्य सीमलेस पैटर्न टाइल](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+
+बिना जोड़ वाला पैटर्न
+
+**जानने के लिए और अधिक Skills**
+
+<a id="_R_5krk_-title"></a>
+
+### जानने के लिए और अधिक Skills
+
+4 / 11
+
+<a id="_R_5krk_-cards"></a>
+
+[![पोस्टर निर्माता कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
+
+पोस्टर निर्माता](https://podplo.app/skills/poster-maker)[![कॉम्पैक्ट सेंटर लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+
+कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)[![वर्टिकल स्टैक लेआउट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+
+लंबवत स्टैक लेआउट](https://podplo.app/skills/vertical-stack-layout)[![शीर्षक-विषय-उपशीर्षक लेआउट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+
+शीर्षक-विषय-उपशीर्षक लेआउट](https://podplo.app/skills/title-subject-subtitle-layout)
+
+<a id="product-changes-the-result"></a>
+
+## एक थीम को ग्राफिक सेट में बदलें
+
+<a id="verify-the-output"></a>
+
+किसी पात्र या उत्सव को मेल खाते संग्रह में विकसित करें, जिसमें प्रत्येक ग्राफ़िक अपने आप उपयोग के लिए तैयार हो।
+
+[स्टीकर एवं क्लिपआर्ट पैक](https://podplo.app/skills/sticker-clipart-pack) किसी चरित्र, शौक या उत्सव को कई समन्वित स्टैंडअलोन ग्राफिक्स में विस्तारित करता है। प्रत्येक टुकड़ा अपने आप काम करता है, और पूरा सेट दृष्टिगत रूप से सुसंगत रहता है।
+
+### संदर्भ में डिज़ाइन का पूर्वावलोकन करें
+
+यह देखने के लिए कि रंग, वस्तु का आकार और परिवेश इसे कैसे प्रभावित करते हैं, चयनित ग्राफ़िक को एक साधारण उत्पाद दृश्य में रखें। एक ही डिज़ाइन को विभिन्न सेटिंग्स में बोल्ड, संक्षिप्त, चंचल या उदासीन के रूप में पढ़ा जा सकता है।
+
+![सेट जेनरेशन से पहले एक स्रोत थीम](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18-before.webp)
+
+इनपुट
+
+[![समन्वित स्टिकर और क्लिपआर्ट सेट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)](https://podplo.app/skills/sticker-clipart-pack)
+
+स्टीकर एवं क्लिपआर्ट पैक
+
+**जानने के लिए और अधिक Skills**
+
+<a id="_R_5mrk_-title"></a>
+
+### जानने के लिए और अधिक Skills
+
+2 / 2
+
+<a id="_R_5mrk_-cards"></a>
+
+[![4पीसी ग्रिड जेनरेटर कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+
+4पीसी ग्रिड जेनरेटर](https://podplo.app/skills/four-piece-grid)[![6पीसी ग्रिड जेनरेटर कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
+
+6पीसी ग्रिड जेनरेटर](https://podplo.app/skills/six-piece-grid)
+
+<a id="repeatable-combination-workflow"></a>
+
+## दोहराने योग्य रचनात्मक सेटअप सहेजें
+
+स्रोत, Skill और सबसे मजबूत परिणाम सहेजें ताकि सेटअप का पुन: उपयोग करना आसान हो।
+
+स्रोत, Skill और सबसे मजबूत परिणाम को एक साथ रखें। इससे नए लेआउट, दोहराव पैटर्न, मौसमी बदलाव या संग्रह के लिए समान सेटअप का पुन: उपयोग करना आसान हो जाता है।
+
+उदाहरण इनपुट और मूल्यों के साथ वर्कफ़्लो चित्रण।
+
+![स्रोत, चुना गया Skill, और पसंदीदा परिणाम](https://podplo.app/pod-guide/generated/records-result.webp)
+
+उदाहरण
+
+**जानने के लिए और अधिक Skills**
+
+<a id="_R_5ork_-title"></a>
+
+### जानने के लिए और अधिक Skills
+
+4 / 6
+
+<a id="_R_5ork_-cards"></a>
+
+[![कॉम्पैक्ट सेंटर लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+
+कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)[![वर्टिकल स्टैक लेआउट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+
+लंबवत स्टैक लेआउट](https://podplo.app/skills/vertical-stack-layout)[![सर्कुलर बैज लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+
+सर्कुलर बैज लेआउट](https://podplo.app/skills/circular-badge-layout)[![पोस्टर निर्माता कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
+
+पोस्टर निर्माता](https://podplo.app/skills/poster-maker)

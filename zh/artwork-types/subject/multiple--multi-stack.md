@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/subject/multiple--multi-stack.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/subject/multiple--multi-stack.md) · [Español](../../../es/artwork-types/subject/multiple--multi-stack.md) · [Français](../../../fr/artwork-types/subject/multiple--multi-stack.md) · [Deutsch](../../../de/artwork-types/subject/multiple--multi-stack.md) · [العربية](../../../ar/artwork-types/subject/multiple--multi-stack.md) · [Русский](../../../ru/artwork-types/subject/multiple--multi-stack.md) · [日本語](../../../ja/artwork-types/subject/multiple--multi-stack.md) · [हिन्दी](../../../hi/artwork-types/subject/multiple--multi-stack.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/subject/multiple--multi-stack?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

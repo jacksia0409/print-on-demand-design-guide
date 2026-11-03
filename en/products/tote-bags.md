@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/tote-bags.md) · [Português (Brasil)](../../pt-BR/products/tote-bags.md) · [Español](../../es/products/tote-bags.md) · [Français](../../fr/products/tote-bags.md) · [Deutsch](../../de/products/tote-bags.md) · [العربية](../../ar/products/tote-bags.md) · [Русский](../../ru/products/tote-bags.md) · [日本語](../../ja/products/tote-bags.md) · [हिन्दी](../../hi/products/tote-bags.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/tote-bags?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/products/t-shirts.md) · **简体中文** · [Português (Brasil)](../../pt-BR/products/t-shirts.md) · [Español](../../es/products/t-shirts.md) · [Français](../../fr/products/t-shirts.md) · [Deutsch](../../de/products/t-shirts.md) · [العربية](../../ar/products/t-shirts.md) · [Русский](../../ru/products/t-shirts.md) · [日本語](../../ja/products/t-shirts.md) · [हिन्दी](../../hi/products/t-shirts.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/products/t-shirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/techniques/photo-to-art.md) · **简体中文** · [Português (Brasil)](../../pt-BR/techniques/photo-to-art.md) · [Español](../../es/techniques/photo-to-art.md) · [Français](../../fr/techniques/photo-to-art.md) · [Deutsch](../../de/techniques/photo-to-art.md) · [العربية](../../ar/techniques/photo-to-art.md) · [Русский](../../ru/techniques/photo-to-art.md) · [日本語](../../ja/techniques/photo-to-art.md) · [हिन्दी](../../hi/techniques/photo-to-art.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/techniques/photo-to-art?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/scene/background--scene--pattern-local.md) · [Português (Brasil)](../../../pt-BR/artwork-types/scene/background--scene--pattern-local.md) · [Español](../../../es/artwork-types/scene/background--scene--pattern-local.md) · [Français](../../../fr/artwork-types/scene/background--scene--pattern-local.md) · [Deutsch](../../../de/artwork-types/scene/background--scene--pattern-local.md) · [العربية](../../../ar/artwork-types/scene/background--scene--pattern-local.md) · [Русский](../../../ru/artwork-types/scene/background--scene--pattern-local.md) · [日本語](../../../ja/artwork-types/scene/background--scene--pattern-local.md) · [हिन्दी](../../../hi/artwork-types/scene/background--scene--pattern-local.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/scene/background--scene--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

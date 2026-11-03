@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](README.zh-CN.md) · [Português (Brasil)](README.pt-BR.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 <h1 align="center">Print-on-Demand Design Guide</h1>
 <p align="center"><strong>A visual guide to graphic styles, composition, typography, and AI-powered design.</strong></p>
 
@@ -7,7 +15,7 @@
 
 <p align="center"><a href="https://podplo.app/pod-guide?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_hero_guide"><strong>Explore the visual guide</strong></a> · <a href="https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_hero_skills"><strong>Create with PodPlo</strong></a> · <a href="https://podplo.app/elements?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_hero_elements">Find source elements</a></p>
 
-<p align="center"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
+
 
 <table>
 <tr>

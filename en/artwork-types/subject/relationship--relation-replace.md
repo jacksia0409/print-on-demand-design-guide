@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/subject/relationship--relation-replace.md) · [Português (Brasil)](../../../pt-BR/artwork-types/subject/relationship--relation-replace.md) · [Español](../../../es/artwork-types/subject/relationship--relation-replace.md) · [Français](../../../fr/artwork-types/subject/relationship--relation-replace.md) · [Deutsch](../../../de/artwork-types/subject/relationship--relation-replace.md) · [العربية](../../../ar/artwork-types/subject/relationship--relation-replace.md) · [Русский](../../../ru/artwork-types/subject/relationship--relation-replace.md) · [日本語](../../../ja/artwork-types/subject/relationship--relation-replace.md) · [हिन्दी](../../../hi/artwork-types/subject/relationship--relation-replace.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/subject/relationship--relation-replace?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

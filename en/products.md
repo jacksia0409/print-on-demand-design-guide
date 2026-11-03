@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../zh/products.md) · [Português (Brasil)](../pt-BR/products.md) · [Español](../es/products.md) · [Français](../fr/products.md) · [Deutsch](../de/products.md) · [العربية](../ar/products.md) · [Русский](../ru/products.md) · [日本語](../ja/products.md) · [हिन्दी](../hi/products.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

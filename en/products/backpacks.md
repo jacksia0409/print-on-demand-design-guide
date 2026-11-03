@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/backpacks.md) · [Português (Brasil)](../../pt-BR/products/backpacks.md) · [Español](../../es/products/backpacks.md) · [Français](../../fr/products/backpacks.md) · [Deutsch](../../de/products/backpacks.md) · [العربية](../../ar/products/backpacks.md) · [Русский](../../ru/products/backpacks.md) · [日本語](../../ja/products/backpacks.md) · [हिन्दी](../../hi/products/backpacks.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/backpacks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

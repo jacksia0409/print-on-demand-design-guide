@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../../en/artwork-types/subject/decoration--deco-frame.md) · **简体中文** · [Português (Brasil)](../../../pt-BR/artwork-types/subject/decoration--deco-frame.md) · [Español](../../../es/artwork-types/subject/decoration--deco-frame.md) · [Français](../../../fr/artwork-types/subject/decoration--deco-frame.md) · [Deutsch](../../../de/artwork-types/subject/decoration--deco-frame.md) · [العربية](../../../ar/artwork-types/subject/decoration--deco-frame.md) · [Русский](../../../ru/artwork-types/subject/decoration--deco-frame.md) · [日本語](../../../ja/artwork-types/subject/decoration--deco-frame.md) · [हिन्दी](../../../hi/artwork-types/subject/decoration--deco-frame.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/artwork-types/subject/decoration--deco-frame?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

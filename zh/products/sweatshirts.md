@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+[English](../../en/products/sweatshirts.md) · **简体中文** · [Português (Brasil)](../../pt-BR/products/sweatshirts.md) · [Español](../../es/products/sweatshirts.md) · [Français](../../fr/products/sweatshirts.md) · [Deutsch](../../de/products/sweatshirts.md) · [العربية](../../ar/products/sweatshirts.md) · [Русский](../../ru/products/sweatshirts.md) · [日本語](../../ja/products/sweatshirts.md) · [हिन्दी](../../hi/products/sweatshirts.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← 指南目录](../INDEX.md) · [在 PodPlo 阅读](https://podplo.app/zh/pod-guide/products/sweatshirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

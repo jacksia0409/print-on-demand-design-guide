@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/products/hats.md) · [Português (Brasil)](../../pt-BR/products/hats.md) · [Español](../../es/products/hats.md) · [Français](../../fr/products/hats.md) · [Deutsch](../../de/products/hats.md) · [العربية](../../ar/products/hats.md) · [Русский](../../ru/products/hats.md) · [日本語](../../ja/products/hats.md) · [हिन्दी](../../hi/products/hats.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/products/hats?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/abstract/abstract-layout--abstract-layout-crop.md) · [Português (Brasil)](../../../pt-BR/artwork-types/abstract/abstract-layout--abstract-layout-crop.md) · [Español](../../../es/artwork-types/abstract/abstract-layout--abstract-layout-crop.md) · [Français](../../../fr/artwork-types/abstract/abstract-layout--abstract-layout-crop.md) · [Deutsch](../../../de/artwork-types/abstract/abstract-layout--abstract-layout-crop.md) · [العربية](../../../ar/artwork-types/abstract/abstract-layout--abstract-layout-crop.md) · [Русский](../../../ru/artwork-types/abstract/abstract-layout--abstract-layout-crop.md) · [日本語](../../../ja/artwork-types/abstract/abstract-layout--abstract-layout-crop.md) · [हिन्दी](../../../hi/artwork-types/abstract/abstract-layout--abstract-layout-crop.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/abstract-layout--abstract-layout-crop?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../zh/print-ready-files.md) · [Português (Brasil)](../pt-BR/print-ready-files.md) · [Español](../es/print-ready-files.md) · [Français](../fr/print-ready-files.md) · [Deutsch](../de/print-ready-files.md) · [العربية](../ar/print-ready-files.md) · [Русский](../ru/print-ready-files.md) · [日本語](../ja/print-ready-files.md) · [हिन्दी](../hi/print-ready-files.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/print-ready-files?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

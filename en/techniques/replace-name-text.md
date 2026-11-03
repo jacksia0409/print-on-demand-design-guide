@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/techniques/replace-name-text.md) · [Português (Brasil)](../../pt-BR/techniques/replace-name-text.md) · [Español](../../es/techniques/replace-name-text.md) · [Français](../../fr/techniques/replace-name-text.md) · [Deutsch](../../de/techniques/replace-name-text.md) · [العربية](../../ar/techniques/replace-name-text.md) · [Русский](../../ru/techniques/replace-name-text.md) · [日本語](../../ja/techniques/replace-name-text.md) · [हिन्दी](../../hi/techniques/replace-name-text.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/techniques/replace-name-text?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

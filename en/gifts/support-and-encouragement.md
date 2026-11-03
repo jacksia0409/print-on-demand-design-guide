@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../zh/gifts/support-and-encouragement.md) · [Português (Brasil)](../../pt-BR/gifts/support-and-encouragement.md) · [Español](../../es/gifts/support-and-encouragement.md) · [Français](../../fr/gifts/support-and-encouragement.md) · [Deutsch](../../de/gifts/support-and-encouragement.md) · [العربية](../../ar/gifts/support-and-encouragement.md) · [Русский](../../ru/gifts/support-and-encouragement.md) · [日本語](../../ja/gifts/support-and-encouragement.md) · [हिन्दी](../../hi/gifts/support-and-encouragement.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/gifts/support-and-encouragement?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>

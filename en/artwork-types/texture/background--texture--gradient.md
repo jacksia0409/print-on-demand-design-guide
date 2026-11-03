@@ -1,3 +1,11 @@
+<!-- LANGUAGES:START -->
+<div dir="ltr">
+
+**English** · [简体中文](../../../zh/artwork-types/texture/background--texture--gradient.md) · [Português (Brasil)](../../../pt-BR/artwork-types/texture/background--texture--gradient.md) · [Español](../../../es/artwork-types/texture/background--texture--gradient.md) · [Français](../../../fr/artwork-types/texture/background--texture--gradient.md) · [Deutsch](../../../de/artwork-types/texture/background--texture--gradient.md) · [العربية](../../../ar/artwork-types/texture/background--texture--gradient.md) · [Русский](../../../ru/artwork-types/texture/background--texture--gradient.md) · [日本語](../../../ja/artwork-types/texture/background--texture--gradient.md) · [हिन्दी](../../../hi/artwork-types/texture/background--texture--gradient.md)
+
+</div>
+<!-- LANGUAGES:END -->
+
 [← Guide index](../../INDEX.md) · [Read on PodPlo](https://podplo.app/pod-guide/artwork-types/texture/background--texture--gradient?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
