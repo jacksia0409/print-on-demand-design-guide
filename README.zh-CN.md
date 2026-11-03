@@ -49,7 +49,7 @@
 | 喜欢的一张图案 | 居中、上下堆叠，或做成徽章 | [排版变化](zh/techniques/compose-anything.md) | [Compact Center Layout](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_start_layout) |
 | 姓名或一句短话 | 花卉姓名框、文字主导设计或纪念构图 | [文字与姓名](zh/techniques/replace-name-text.md) | [Floral Name Frame](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_start_text) |
 | 图形或纹样参考 | 重复排列与协调的纹样方向 | [认识纹样](zh/artwork-types/pattern.md) | [Seamless Pattern](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_start_pattern) |
-| 一段文字想法 | 选一个结构，再改写成完整的生图描述 | [可复制 AI 指令](zh/ai-directions.md) | [浏览图像 Skill](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_start_prompt) |
+| 一段文字想法 | 选一个结构，再改写成完整的生图描述 | [可复制 AI 指令](zh/ai-directions/INDEX.md) | [浏览图像 Skill](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -227,7 +227,7 @@
 
 </details>
 
-[查看全部 123 条公开指令](zh/ai-directions.md) · [在 PodPlo 探索图像 Skill](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_after_prompts)
+[查看全部 123 条公开指令](zh/ai-directions/INDEX.md) · [在 PodPlo 探索图像 Skill](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=zh_after_prompts)
 
 <a id="products"></a>
 

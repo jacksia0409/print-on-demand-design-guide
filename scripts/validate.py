@@ -140,7 +140,7 @@ def validate_manifest():
     manifest = json.loads((ROOT / "data/manifest.json").read_text())
     check(manifest["languages"] == list(LOCALES), "Manifest language list mismatch")
     check(manifest["guidePages"] == len(manifest["pages"]) == 1650, "Expected 1,650 exported articles")
-    check(manifest["totalGuideDocuments"] == len(manifest["documents"]) == 1670, "Expected 1,670 guide documents")
+    check(manifest["totalGuideDocuments"] == len(manifest["documents"]) == 1700, "Expected 1,700 guide documents")
     check(len(manifest["readmes"]) == 10, "Expected ten root READMEs")
     check(manifest["visualForms"] == 1388 and manifest["visualGroups"] == 128, "Catalog scope changed")
     check(manifest["publicDirectionsPerLanguage"] == 123, "Public direction count changed")
@@ -165,7 +165,7 @@ def validate_manifest():
 
 def main():
     source_tree = {p.relative_to(ROOT / "en") for p in (ROOT / "en").rglob("*.md")}
-    check(len(source_tree) == 167, "Expected 167 English source documents")
+    check(len(source_tree) == 170, "Expected 170 English guide documents including prompt reading parts")
     required = set(source_strings())
     for locale in NEW_LOCALES:
         catalog = polished_catalog(locale)
@@ -200,6 +200,11 @@ def main():
     for locale, data in LOCALES.items():
         blocks = CODE_BLOCKS.findall((ROOT / data["dir"] / "ai-directions.md").read_text())
         check(len(blocks) == 123, f"Expected 123 copyable public directions: {locale}")
+        parts = [(ROOT / data["dir"] / f"ai-directions/part-{i}.md").read_text() for i in (1, 2)]
+        part_blocks = [block for text in parts for block in CODE_BLOCKS.findall(text)]
+        check(blocks == part_blocks, f"Reading parts changed or omitted instructions: {locale}")
+        for i, part in enumerate(parts):
+            check(len(part.encode()) < 390_000, f"Reading part exceeds preview budget: {locale} #{i + 1}")
     manifest = validate_manifest()
     print(json.dumps({"status": "PASS" if not ERRORS else "FAIL", "languages": manifest["languages"],
                       "counts": dict(COUNTS), "errorCount": len(ERRORS), "errors": ERRORS[:80]},

@@ -51,7 +51,7 @@ Sie müssen nicht mit einem fertigen Design beginnen. Wählen Sie die Zeile aus,
 | Eine Grafik, die Sie lieben | Zentrieren Sie es, stapeln Sie es oder rahmen Sie es als Abzeichen ein | [Kompositionsideen](de/techniques/compose-anything.md) | [Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=de_start_layout) |
 | Ein Name oder eine kurze Nachricht | Blumenrahmen, textbasierte Grafiken oder Gedenklayouts | [Texte und Namen](de/techniques/replace-name-text.md) | [Floraler Namensrahmen](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=de_start_text) |
 | Eine Motiv- oder Musterreferenz | Wiederholte Arrangements und abgestimmte Musterideen | [Mustertypen](de/artwork-types/pattern.md) | [Nahtloses Muster](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=de_start_pattern) |
-| Eine schriftliche Idee | Wählen Sie eine Struktur und passen Sie eine öffentliche KI-Richtung an | [Kopierbare KI-Anweisungen](de/ai-directions.md) | [Bild durchsuchen Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=de_start_prompt) |
+| Eine schriftliche Idee | Wählen Sie eine Struktur und passen Sie eine öffentliche KI-Richtung an | [Kopierbare KI-Anweisungen](de/ai-directions/INDEX.md) | [Bild durchsuchen Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=de_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -229,7 +229,7 @@ Ergebnisprüfung: Testen Sie horizontale, vertikale und vierkachelige Anordnunge
 
 </details>
 
-[Durchsuchen Sie alle 123 öffentlichen Wegbeschreibungen](de/ai-directions.md) · [Entdecken Sie das Bild Skills auf PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=de_after_prompts)
+[Durchsuchen Sie alle 123 öffentlichen Wegbeschreibungen](de/ai-directions/INDEX.md) · [Entdecken Sie das Bild Skills auf PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=de_after_prompts)
 
 <a id="products"></a>
 

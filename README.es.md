@@ -51,7 +51,7 @@ No es necesario comenzar con un diseño terminado. Elija la fila más cercana a 
 | Un gráfico que te encanta | Céntrelo, apílelo o enmárquelo como una insignia | [Ideas de composición](es/techniques/compose-anything.md) | [Diseño central compacto](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_layout) |
 | Un nombre o mensaje corto | Marcos florales, gráficos basados en texto o diseños conmemorativos | [Texto y nombres](es/techniques/replace-name-text.md) | [Marco de nombre floral](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_text) |
 | Una referencia de motivo o patrón. | Arreglos repetidos e ideas de patrones coordinados. | [Tipos de patrones](es/artwork-types/pattern.md) | [Patrón sin costuras](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_pattern) |
-| una idea escrita | Elija una estructura y adapte una dirección pública de IA | [Direcciones de IA copiables](es/ai-directions.md) | [Explorar imagen Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_prompt) |
+| una idea escrita | Elija una estructura y adapte una dirección pública de IA | [Direcciones de IA copiables](es/ai-directions/INDEX.md) | [Explorar imagen Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -229,7 +229,7 @@ Comprobación del resultado: Pruebe disposiciones horizontales, verticales y de 
 
 </details>
 
-[Explora las 123 direcciones públicas](es/ai-directions.md) · [Explorar imagen Skills en PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_after_prompts)
+[Explora las 123 direcciones públicas](es/ai-directions/INDEX.md) · [Explorar imagen Skills en PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_after_prompts)
 
 <a id="products"></a>
 

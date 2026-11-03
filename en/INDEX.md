@@ -10,7 +10,7 @@
 
 
 
-[Copyable public AI directions](ai-directions.md)
+[Copyable public AI directions](ai-directions/INDEX.md)
 
 ## Start here
 

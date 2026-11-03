@@ -6,8 +6,9 @@ PodPlo Guide snapshot exported on November 2, 2026.
 - Ten languages: English, Simplified Chinese, Brazilian Portuguese, Spanish,
   French, German, Arabic, Russian, Japanese, and Hindi.
 - 1,650 exported article pages: the same 165 articles in each language.
-- Each language also has a contents page and a collected public AI directions
-  document: 167 documents per language, 1,670 in total, plus ten root READMEs.
+- Each language also has a contents page, a complete public AI directions
+  collection, and a reading index with two instruction parts: 170 documents per
+  language, 1,700 in total, plus ten root READMEs.
 - 1,388 current visual forms in 128 groups, with original identifiers preserved.
 - 123 public creative directions in each language, also collected as copyable text.
 - The original diagram and direction order is preserved. Removed entries stay removed.
@@ -34,6 +35,11 @@ Language selectors link to the equivalent chapter in each language. Filenames,
 slugs, explicit anchor identifiers, diagram URLs, and article ordering are
 preserved. Arabic documents use right-to-left reading direction, with an isolated
 left-to-right language selector.
+
+The instruction reading index links to two bounded parts (1–62 and 63–123).
+The split preserves every complete instruction and avoids GitHub preview limits
+for longer translations. The original complete collection remains available as
+a raw download. Reading actions point to the split index in every language.
 
 New-language documents retain the existing English PodPlo website destinations;
 translation of this repository does not establish localized website routes.

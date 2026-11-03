@@ -10,7 +10,7 @@
 
 
 
-[可复制的公开 AI 指令](ai-directions.md)
+[可复制的公开 AI 指令](ai-directions/INDEX.md)
 
 ## 从这里开始
 

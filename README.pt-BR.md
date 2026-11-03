@@ -51,7 +51,7 @@ Você não precisa começar com um design finalizado. Escolha a linha mais próx
 | Um gráfico que você adora | Centralize, empilhe ou emoldure como um emblema | [Ideias de composição](pt-BR/techniques/compose-anything.md) | [Layout central compacto](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=pt-BR_start_layout) |
 | Um nome ou mensagem curta | Molduras florais, gráficos com texto ou layouts comemorativos | [Texto e nomes](pt-BR/techniques/replace-name-text.md) | [Moldura floral com nome](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=pt-BR_start_text) |
 | Um motivo ou referência de padrão | Arranjos repetidos e ideias de padrões coordenados | [Tipos de padrão](pt-BR/artwork-types/pattern.md) | [Padrão sem emendas](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=pt-BR_start_pattern) |
-| Uma ideia escrita | Escolha uma estrutura e adapte uma direção de IA pública | [Direções de IA copiáveis](pt-BR/ai-directions.md) | [Navegar pela imagem Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=pt-BR_start_prompt) |
+| Uma ideia escrita | Escolha uma estrutura e adapte uma direção de IA pública | [Direções de IA copiáveis](pt-BR/ai-directions/INDEX.md) | [Navegar pela imagem Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=pt-BR_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -229,7 +229,7 @@ Verificação do resultado: Teste arranjos horizontais, verticais e de quatro la
 
 </details>
 
-[Navegue por todas as 123 rotas públicas](pt-BR/ai-directions.md) · [Explore a imagem Skills em PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=pt-BR_after_prompts)
+[Navegue por todas as 123 rotas públicas](pt-BR/ai-directions/INDEX.md) · [Explore a imagem Skills em PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=pt-BR_after_prompts)
 
 <a id="products"></a>
 

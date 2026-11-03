@@ -15956,17 +15956,32 @@
     "https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp"
   ],
   "sourceEdition": "2026-11-02",
-  "totalGuideDocuments": 1670,
+  "totalGuideDocuments": 1700,
   "documents": [
     {
       "path": "en/INDEX.md",
       "locale": "en",
-      "sha256": "2aa830016922d80d491ba494676c410e095a6aaa7370339276c99443538fcad2"
+      "sha256": "84741bf91f3e244cb785e57da37bcd61c18261bec2efc015be04179f65515d3d"
     },
     {
       "path": "en/README.md",
       "locale": "en",
       "sha256": "e7c43d6a002ed48b1c32429241403ea620a5da425365e2ac8b8a20b9f7092a52"
+    },
+    {
+      "path": "en/ai-directions/INDEX.md",
+      "locale": "en",
+      "sha256": "ca8e9243f084a4bdc2107e0c91e19407a58b383609869aa77ab803c7c601a7b4"
+    },
+    {
+      "path": "en/ai-directions/part-1.md",
+      "locale": "en",
+      "sha256": "3e1ea3a8ffb479cd678f84086b8d93e5dcce6508148cdacaae6a8b5da8475ce1"
+    },
+    {
+      "path": "en/ai-directions/part-2.md",
+      "locale": "en",
+      "sha256": "c28b3d2db70ec650ad9eb6ababc24c5224e5830bd03b1cd87bba63a7d63bb526"
     },
     {
       "path": "en/ai-directions.md",
@@ -16796,12 +16811,27 @@
     {
       "path": "zh/INDEX.md",
       "locale": "zh-CN",
-      "sha256": "6a735ebec03f4f5c5f95f82f167839527dfa57ce0b4fbfbc6fbaf8bab0293b3e"
+      "sha256": "b3cb22fc116f973d628186829c947b17df1f123ed7ab8d56545bfb6937986c45"
     },
     {
       "path": "zh/README.md",
       "locale": "zh-CN",
       "sha256": "28acb29a89e6d1a88d6a080afc8ffa62ea2ce6f4b344fb0b4d733952dbb7a692"
+    },
+    {
+      "path": "zh/ai-directions/INDEX.md",
+      "locale": "zh-CN",
+      "sha256": "81dcca31a005da6f5500986963a516b9802bb8acf0a317f3616898a01138126a"
+    },
+    {
+      "path": "zh/ai-directions/part-1.md",
+      "locale": "zh-CN",
+      "sha256": "d81145a515ac8ec40558dcd68b24665c24b20e915347f05682be6998c2b3340f"
+    },
+    {
+      "path": "zh/ai-directions/part-2.md",
+      "locale": "zh-CN",
+      "sha256": "62feded3afa8a69e3c7365f5a1105d66ade4a1bc79bb4750caa16e9e6f034c9d"
     },
     {
       "path": "zh/ai-directions.md",
@@ -17631,12 +17661,27 @@
     {
       "path": "pt-BR/INDEX.md",
       "locale": "pt-BR",
-      "sha256": "5ebc72647254a6dd55cddfdbbcdbdd0f74c161008f60037355cacda65a73185d"
+      "sha256": "c317af9e0b4f1c01699c4660c0b212da67af2f3cbb586919f292f53def953927"
     },
     {
       "path": "pt-BR/README.md",
       "locale": "pt-BR",
       "sha256": "78535c0c8f875d7017ff9d236b1126fcb18b434138f01803d437ebde9094961e"
+    },
+    {
+      "path": "pt-BR/ai-directions/INDEX.md",
+      "locale": "pt-BR",
+      "sha256": "6000d2b00cb1f48929579a4ad3d931a05409cfba8f4e0def0123e0b3590f8639"
+    },
+    {
+      "path": "pt-BR/ai-directions/part-1.md",
+      "locale": "pt-BR",
+      "sha256": "761ca7571ab025303a168f56ff06ff5b2d46dce46fbd0059cd057cc7d72aefc3"
+    },
+    {
+      "path": "pt-BR/ai-directions/part-2.md",
+      "locale": "pt-BR",
+      "sha256": "26a3938bbd95763a3c5cbd801693455a5f56a4fb5215f2f3860a7554dfd8e3e0"
     },
     {
       "path": "pt-BR/ai-directions.md",
@@ -18466,12 +18511,27 @@
     {
       "path": "es/INDEX.md",
       "locale": "es",
-      "sha256": "d6f1228d8ba6350e02fdf43913731779970f4ba99231dabff4053fe59593321c"
+      "sha256": "895a7e6e437a4288be24901763d23f9ac4e712a6c7372dbd49098adde12441aa"
     },
     {
       "path": "es/README.md",
       "locale": "es",
       "sha256": "281fb5871160602151d8ed1eb0c435dec4aa0b8a2b10cc554eef481495e5d346"
+    },
+    {
+      "path": "es/ai-directions/INDEX.md",
+      "locale": "es",
+      "sha256": "0f4bc01be14131d90266ee64d26f3f668306fb66895b99f9da72530ac105293c"
+    },
+    {
+      "path": "es/ai-directions/part-1.md",
+      "locale": "es",
+      "sha256": "1c6d1c5d7505126d93c2735ccce0ca3f4a427e175ab07b93fd6b086733571172"
+    },
+    {
+      "path": "es/ai-directions/part-2.md",
+      "locale": "es",
+      "sha256": "13ef70e5d15defdd719ba6d916de20d51eaf251cf0532b28413c9e88cf03cd3b"
     },
     {
       "path": "es/ai-directions.md",
@@ -19301,12 +19361,27 @@
     {
       "path": "fr/INDEX.md",
       "locale": "fr",
-      "sha256": "5431c8de428104bd02b598cf4b46290a80eb7e9c512a710069609d98de88f2a4"
+      "sha256": "f8410e923d9590b43297bb44feb5797f3323f30eb2082e991821834ad0f37834"
     },
     {
       "path": "fr/README.md",
       "locale": "fr",
       "sha256": "4c8575d7009e8260008a809156a97342653930b68522e5459cf1be009c36fb7b"
+    },
+    {
+      "path": "fr/ai-directions/INDEX.md",
+      "locale": "fr",
+      "sha256": "e10e2ef07194392202d4032e8faae5e81df51bfe65697c9e25538f724fdd583d"
+    },
+    {
+      "path": "fr/ai-directions/part-1.md",
+      "locale": "fr",
+      "sha256": "7a522bf9ab63ef3236ce57a9bdfa0ff552c3ae377ff4cfd1f538be03a739793e"
+    },
+    {
+      "path": "fr/ai-directions/part-2.md",
+      "locale": "fr",
+      "sha256": "e797c50ceae6250cfc964b1363df1f560347b1acfd136df63f415d78494f7311"
     },
     {
       "path": "fr/ai-directions.md",
@@ -20136,12 +20211,27 @@
     {
       "path": "de/INDEX.md",
       "locale": "de",
-      "sha256": "3ffa70e884dc4fdaa4b4a5a29c2200253ba2610e2485a43cf68c56448e6fa8b7"
+      "sha256": "35360db4f08fa5807ce74539772a5f27002654e4fd07554f3ba617e3e1224a24"
     },
     {
       "path": "de/README.md",
       "locale": "de",
       "sha256": "c2d0030230bb8dcf968bbc0f04d1ca1f49ec4c10bb867b3045fcf02f857e4de7"
+    },
+    {
+      "path": "de/ai-directions/INDEX.md",
+      "locale": "de",
+      "sha256": "f93e391ca68db3b316e2e7f669e3bce461e83a895c8bbdd7029670e29d84453d"
+    },
+    {
+      "path": "de/ai-directions/part-1.md",
+      "locale": "de",
+      "sha256": "69342ed378be0d2840d184ce3bb7c2d9d83939899cce5c3c45daba8992235002"
+    },
+    {
+      "path": "de/ai-directions/part-2.md",
+      "locale": "de",
+      "sha256": "07fd58118d3483949609eeb1a3e3b1fcd60cfaf852b5351ec5dfbabab9902afb"
     },
     {
       "path": "de/ai-directions.md",
@@ -20971,12 +21061,27 @@
     {
       "path": "ar/INDEX.md",
       "locale": "ar",
-      "sha256": "6805055dea0be0ad238c83d6c9d8a63f0f83f766e9e49c16778a8411afba8040"
+      "sha256": "e66a53742d8cba008e2b2d3f0b0fe273e1c2bc769952328ce1ec287334bd9c6d"
     },
     {
       "path": "ar/README.md",
       "locale": "ar",
       "sha256": "6beab97c1572d249d0a764f26b39e81482b1129df235037a00ffa91111e1267d"
+    },
+    {
+      "path": "ar/ai-directions/INDEX.md",
+      "locale": "ar",
+      "sha256": "c63c910655bcd08e323ea5129258b07847eaaff744658fea326e34d098d5f2b0"
+    },
+    {
+      "path": "ar/ai-directions/part-1.md",
+      "locale": "ar",
+      "sha256": "c1635197662894cce1a63697c02738ac60a3fbbf379f672c2a118b1ee2520af9"
+    },
+    {
+      "path": "ar/ai-directions/part-2.md",
+      "locale": "ar",
+      "sha256": "bb563e46548695c56f7b219bb72309b6c97fe393f41cd862ffd8e1ffcdbbe4d0"
     },
     {
       "path": "ar/ai-directions.md",
@@ -21806,12 +21911,27 @@
     {
       "path": "ru/INDEX.md",
       "locale": "ru",
-      "sha256": "53d8f915fac5fb098cadbce1b5cc83997f47018c93ea58563496714ee0a03282"
+      "sha256": "449ae87ee84334c3dd2e6649656387605e8c77d042634cb3a947288f6fe98e36"
     },
     {
       "path": "ru/README.md",
       "locale": "ru",
       "sha256": "a67c61cf6218e3c5997cdbba80a26c21c22551089d71b39e10161cbf198c9ac5"
+    },
+    {
+      "path": "ru/ai-directions/INDEX.md",
+      "locale": "ru",
+      "sha256": "6df03efd74b3337c8307529c684990ea01e8140f67ec7fc4896c464035a8993b"
+    },
+    {
+      "path": "ru/ai-directions/part-1.md",
+      "locale": "ru",
+      "sha256": "fd2e8a4bfff5b19c1b7c8ae0a1511d67834b86cacc0e945c22293ba4537e3a30"
+    },
+    {
+      "path": "ru/ai-directions/part-2.md",
+      "locale": "ru",
+      "sha256": "b6b5b39b1851014e6574492d2aa67a004107a8ff40dc254973d839e35f29fb12"
     },
     {
       "path": "ru/ai-directions.md",
@@ -22641,12 +22761,27 @@
     {
       "path": "ja/INDEX.md",
       "locale": "ja",
-      "sha256": "da599458e22b2bc1c13a2b3696a9ee1f5a17b0bd8b678b693c60ec478fc8cd04"
+      "sha256": "7f3d9ff40625e6eaf4bc008cc970e71903bb3f69f7ac85f9daa83a6e048a82ca"
     },
     {
       "path": "ja/README.md",
       "locale": "ja",
       "sha256": "16eeb2bb3ecbc0171646a46ffff33a7d759fa089e1a7f82b6201ac114ce5277f"
+    },
+    {
+      "path": "ja/ai-directions/INDEX.md",
+      "locale": "ja",
+      "sha256": "8fc712509f50a8b74d4624962a4aef5c36fd509d47f1e0905f2fabe168cac3ee"
+    },
+    {
+      "path": "ja/ai-directions/part-1.md",
+      "locale": "ja",
+      "sha256": "4de5961f2215291bd6f1e25a3b5530963b4d298fe7e1b139bac9edb272c70237"
+    },
+    {
+      "path": "ja/ai-directions/part-2.md",
+      "locale": "ja",
+      "sha256": "529c6026487a8b2acf8b0e3849cf5c113ca810fcfccd758532edc1d7cbff8a00"
     },
     {
       "path": "ja/ai-directions.md",
@@ -23476,12 +23611,27 @@
     {
       "path": "hi/INDEX.md",
       "locale": "hi",
-      "sha256": "ae462e7bc13f78109caa3821ffc651c2da79c9b2375d073b8ec8c41fa3c2a36f"
+      "sha256": "846e877c585c6e484ed9656a86b25c52813751fa53d82601cd325575afc58120"
     },
     {
       "path": "hi/README.md",
       "locale": "hi",
       "sha256": "f02ceda43872b4281ef902e710fb02cd914065d6ff277136aa78fa605e950805"
+    },
+    {
+      "path": "hi/ai-directions/INDEX.md",
+      "locale": "hi",
+      "sha256": "b77a76237fedec79ad21382996db3e48e9564038b112b40a4ecef194109f44fe"
+    },
+    {
+      "path": "hi/ai-directions/part-1.md",
+      "locale": "hi",
+      "sha256": "23db24b5fb64690ae1a9b82834178687f01bf2a53a66fea7f627bf2f0bbc16ca"
+    },
+    {
+      "path": "hi/ai-directions/part-2.md",
+      "locale": "hi",
+      "sha256": "483d6e2cca75761c85d478af8dad50c74569915fe29afa1d0bdb3c7f22d77781"
     },
     {
       "path": "hi/ai-directions.md",
@@ -24313,52 +24463,52 @@
     {
       "path": "README.md",
       "locale": "en",
-      "sha256": "6c079e79168c2fabd7023a9784bcc8fe130219f78bd77ac51f82c2e2f500adca"
+      "sha256": "3f8d24a8554f50c922ec0a1dffbd5b934510acf6af58173f85e6068c6deeda13"
     },
     {
       "path": "README.zh-CN.md",
       "locale": "zh-CN",
-      "sha256": "5ea7a01070f65997450fcfd64e4e5709edd1090a0bcbe19b8e001d209435731d"
+      "sha256": "c5cfe7e62d6b661254fc6b0032ad48816d21bd723ce93f9b9e8c63e66594bd01"
     },
     {
       "path": "README.pt-BR.md",
       "locale": "pt-BR",
-      "sha256": "7683a9e2289b406bd14744e7373760861636ed500d044c6c232f5da2f8be6bfd"
+      "sha256": "d82acda9c15329ffb57f8dba1ae35cf8b41ce648a6a2f87c6ec5ed150e62f16f"
     },
     {
       "path": "README.es.md",
       "locale": "es",
-      "sha256": "933efedd01a9f340aa55d4cec05426003ca9732f7b069feb166af115e2cc298b"
+      "sha256": "fec43deffbbc22cb1a6b85ca148e96388b45c4f9ec62d5e94b0dbd556c1fbdcb"
     },
     {
       "path": "README.fr.md",
       "locale": "fr",
-      "sha256": "b26041ed35801a25b5fae791ba69123623bf8aa2496231a463a089de7f056e9c"
+      "sha256": "57b6ece7768c6b7f30bcd362c4e24fdfbd09cf57850c253382f42816cc679649"
     },
     {
       "path": "README.de.md",
       "locale": "de",
-      "sha256": "95d4b01f3ecdafcb78537f6e9a1d40f48831403a2997b80cde18b23312faedbd"
+      "sha256": "034e46ac7810b23a96f96fd943ecc7f47af8707ab5832337decfefd7ccb6eeed"
     },
     {
       "path": "README.ar.md",
       "locale": "ar",
-      "sha256": "0b884d7c078ee132d93a59de6c57e22b49aff51e89526252716e6c064b55e8a1"
+      "sha256": "90a3d8c34c6de0402c75f9fc1392ef63b69dc9d1777ec9398b58d6b7b96ffeb6"
     },
     {
       "path": "README.ru.md",
       "locale": "ru",
-      "sha256": "32ebaeb52e0ec15c1af7bf41ce2fb1b4e8c8be4a7a1406c16077dc63fd896010"
+      "sha256": "bc4e56d9958d7017a0099aa858e4da784d866df7b487feb8f9d1877808f0d0c3"
     },
     {
       "path": "README.ja.md",
       "locale": "ja",
-      "sha256": "165669d94392a938e62e9a427121563c5e71b1ed44803a0b2fb40170a9920003"
+      "sha256": "87d8cfe557d9897bc2122b815446b3bee9f873a1800f6592c1d2fbfc7a873be7"
     },
     {
       "path": "README.hi.md",
       "locale": "hi",
-      "sha256": "611c9b9f238e1cf88e6da3d33f23facadb0d85ea5d8659472e8ab2e05239bbb0"
+      "sha256": "d72787900cf9632689a04c8641abd22ea1ca2cad493a458cac1472c4402a5138"
     }
   ],
   "localeDirectories": {
@@ -24390,5 +24540,6 @@
     "nativeSpeakerReviewed": false,
     "websiteLinks": "New locales retain existing English website destinations",
     "originalImageText": "Preserved"
-  }
+  },
+  "promptReadingPartsPerLanguage": 2
 }

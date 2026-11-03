@@ -12,7 +12,7 @@
 
 
 
-[Consignes publiques pour l’IA à copier](ai-directions.md)
+[Consignes publiques pour l’IA à copier](ai-directions/INDEX.md)
 
 ## Commencez ici
 

@@ -51,7 +51,7 @@
 | Графика, которая вам нравится | Отцентрируйте его, сложите в стопку или создайте рамку в виде значка. | [Идеи композиции](ru/techniques/compose-anything.md) | [Компактная центральная планировка](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ru_start_layout) |
 | Имя или короткое сообщение | Цветочные рамки, текстовая графика или памятные макеты. | [Текст и имена](ru/techniques/replace-name-text.md) | [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ru_start_text) |
 | Ссылка на мотив или узор | Повторяющиеся аранжировки и скоординированные идеи узоров. | [Типы узоров](ru/artwork-types/pattern.md) | [Бесшовный узор](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ru_start_pattern) |
-| Написанная идея | Выберите структуру и адаптируйте общедоступное направление ИИ | [Копируемые направления ИИ](ru/ai-directions.md) | [Просмотреть изображение Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ru_start_prompt) |
+| Написанная идея | Выберите структуру и адаптируйте общедоступное направление ИИ | [Копируемые направления ИИ](ru/ai-directions/INDEX.md) | [Просмотреть изображение Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ru_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -229,7 +229,7 @@
 
 </details>
 
-[Просмотреть все 123 общедоступных направления](ru/ai-directions.md) · [Изучите изображение Skills на PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ru_after_prompts)
+[Просмотреть все 123 общедоступных направления](ru/ai-directions/INDEX.md) · [Изучите изображение Skills на PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ru_after_prompts)
 
 <a id="products"></a>
 

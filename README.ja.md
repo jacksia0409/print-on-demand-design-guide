@@ -51,7 +51,7 @@
 | お気に入りのグラフィック | 中央に配置したり、重ねたり、バッジとしてフレームに入れたりできます | [構成のアイデア](ja/techniques/compose-anything.md) | [コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_start_layout) |
 | 名前または短いメッセージ | 花のフレーム、テキスト主導のグラフィック、または記念レイアウト | [テキストと名前](ja/techniques/replace-name-text.md) | [花のネームフレーム](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_start_text) |
 | モチーフやパターンのリファレンス | 繰り返しのアレンジとコーディネートパターンのアイデア | [パターンの種類](ja/artwork-types/pattern.md) | [シームレスパターン](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_start_pattern) |
-| 書かれたアイデア | 構造を選択し、パブリック AI の方向性を適応させる | [コピー可能な AI 指示](ja/ai-directions.md) | [画像用のSkillsを見る](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_start_prompt) |
+| 書かれたアイデア | 構造を選択し、パブリック AI の方向性を適応させる | [コピー可能な AI 指示](ja/ai-directions/INDEX.md) | [画像用のSkillsを見る](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -229,7 +229,7 @@
 
 </details>
 
-[123 の公共ルートをすべて参照する](ja/ai-directions.md) · [PodPlo の画像 Skills を探索する](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_after_prompts)
+[123 の公共ルートをすべて参照する](ja/ai-directions/INDEX.md) · [PodPlo の画像 Skills を探索する](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_after_prompts)
 
 <a id="products"></a>
 

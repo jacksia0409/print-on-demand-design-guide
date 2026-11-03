@@ -51,7 +51,7 @@
 | एक ग्राफ़िक जो आपको पसंद है | इसे केन्द्रित करें, इसे ढेर करें, या इसे बैज के रूप में फ़्रेम करें | [रचना विचार](hi/techniques/compose-anything.md) | [कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=hi_start_layout) |
 | एक नाम या संक्षिप्त संदेश | पुष्प फ़्रेम, टेक्स्ट-आधारित ग्राफ़िक्स, या स्मारक लेआउट | [पाठ और नाम](hi/techniques/replace-name-text.md) | [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=hi_start_text) |
 | एक रूपांकन या पैटर्न संदर्भ | बार-बार की गई व्यवस्थाएं और समन्वित पैटर्न विचार | [पैटर्न के प्रकार](hi/artwork-types/pattern.md) | [बिना जोड़ वाला पैटर्न](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=hi_start_pattern) |
-| एक लिखित विचार | एक संरचना चुनें और सार्वजनिक एआई दिशा को अनुकूलित करें | [प्रतिलिपि योग्य एआई निर्देश](hi/ai-directions.md) | [छवि Skills ब्राउज़ करें](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=hi_start_prompt) |
+| एक लिखित विचार | एक संरचना चुनें और सार्वजनिक एआई दिशा को अनुकूलित करें | [प्रतिलिपि योग्य एआई निर्देश](hi/ai-directions/INDEX.md) | [छवि Skills ब्राउज़ करें](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=hi_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -229,7 +229,7 @@
 
 </details>
 
-[सभी 123 सार्वजनिक दिशानिर्देश ब्राउज़ करें](hi/ai-directions.md) · [PodPlo पर छवि Skills देखें](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=hi_after_prompts)
+[सभी 123 सार्वजनिक दिशानिर्देश ब्राउज़ करें](hi/ai-directions/INDEX.md) · [PodPlo पर छवि Skills देखें](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=hi_after_prompts)
 
 <a id="products"></a>
 

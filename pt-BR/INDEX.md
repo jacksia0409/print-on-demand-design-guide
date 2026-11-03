@@ -12,7 +12,7 @@
 
 
 
-[Orientações públicas para IA prontas para copiar](ai-directions.md)
+[Orientações públicas para IA prontas para copiar](ai-directions/INDEX.md)
 
 ## Comece aqui
 

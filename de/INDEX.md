@@ -12,7 +12,7 @@
 
 
 
-[Öffentliche KI-Anweisungen zum Kopieren](ai-directions.md)
+[Öffentliche KI-Anweisungen zum Kopieren](ai-directions/INDEX.md)
 
 ## Beginnen Sie hier
 

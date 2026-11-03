@@ -70,6 +70,18 @@ FULL_GUIDE = {
 }
 BY = {"pt-BR": "Por", "es": "Por", "fr": "Par", "de": "Von", "ar": "إعداد",
       "ru": "Автор", "ja": "制作：", "hi": "प्रस्तुतकर्ता:"}
+PROMPT_READING = {
+    "en": ("Read all 123 directions in two parts. Each direction has a copyable instruction block.", "Download the complete collection"),
+    "zh-CN": ("分两卷阅读全部 123 条创作指令，每条均附可复制的完整文本。", "下载完整指令合集"),
+    "pt-BR": ("Leia as 123 orientações em duas partes. Cada uma inclui um bloco de instruções pronto para copiar.", "Baixar a coleção completa"),
+    "es": ("Lee las 123 instrucciones en dos partes. Cada una incluye un bloque de texto listo para copiar.", "Descargar la colección completa"),
+    "fr": ("Lisez les 123 consignes en deux parties. Chacune comprend un bloc de texte à copier.", "Télécharger la collection complète"),
+    "de": ("Lesen Sie alle 123 Anweisungen in zwei Teilen. Jede enthält einen kopierbaren Anweisungsblock.", "Vollständige Sammlung herunterladen"),
+    "ar": ("اقرأ جميع التعليمات البالغ عددها 123 في جزأين. تتضمن كل تعليمة نصًا كاملًا قابلًا للنسخ.", "تنزيل المجموعة الكاملة"),
+    "ru": ("Все 123 инструкции доступны в двух частях. Каждая содержит полный текст, который можно скопировать.", "Скачать полный сборник"),
+    "ja": ("全123件の制作指示を2つのパートに分けて読めます。各項目の指示文はそのままコピーできます。", "全件をまとめてダウンロード"),
+    "hi": ("सभी 123 निर्देश दो भागों में पढ़ें। हर निर्देश में कॉपी करने योग्य पूरा पाठ दिया गया है।", "पूरा संग्रह डाउनलोड करें"),
+}
 
 
 def write_json(path, value):
@@ -206,7 +218,8 @@ def map_document(text, lookup):
 
 
 def source_documents():
-    return [ROOT / "README.md", *sorted((ROOT / "en").rglob("*.md"))]
+    return [ROOT / "README.md", *sorted(p for p in (ROOT / "en").rglob("*.md")
+                                        if "ai-directions" not in p.relative_to(ROOT / "en").parts[:-1])]
 
 
 def source_strings():
@@ -341,6 +354,45 @@ def with_navigation(body, locale, path, article=None):
     return nav + "\n\n" + body + "\n"
 
 
+def reading_links(text):
+    # Collection pages can exceed GitHub's rendered-preview budget in scripts
+    # with more UTF-8 bytes per character. Point reading actions to bounded parts.
+    return re.sub(r'(?<=[("\'])((?:[^"\')\n]*/)?ai-directions)\.md(?=[)"\'])', r'\1/INDEX.md', text)
+
+
+def build_prompt_parts():
+    """Keep the full collection for download and add two small reading files."""
+    for locale, data in LOCALES.items():
+        directory = ROOT / data["dir"]
+        body = strip_navigation((directory / "ai-directions.md").read_text()).strip()
+        if locale == "ar":
+            body = body.removeprefix('<div dir="rtl" lang="ar">').removesuffix("</div>").strip()
+        sections = re.split(r'(?m)(?=^## )', body)
+        intro, instructions = sections[0].strip(), sections[1:]
+        if len(instructions) != 123:
+            raise ValueError(f"{locale}: expected 123 public instructions")
+        parts = []
+        for number, start, end in ((1, 0, 62), (2, 62, 123)):
+            article = Path(f"ai-directions/part-{number}.md")
+            target = Path(data["dir"]) / article
+            # Each part keeps complete code blocks and the original numbering.
+            content = intro + f"\n\n[← {PROMPT_READING[locale][0]}](INDEX.md)\n\n" + "\n".join(instructions[start:end]).strip()
+            rendered = with_navigation(content, locale, target, article)
+            if len(rendered.encode()) >= 390_000:
+                raise ValueError(f"{locale}: split instruction document exceeds preview budget")
+            path = ROOT / target
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text(rendered)
+            parts.append(f"- [{start + 1}–{end}](part-{number}.md)")
+        article = Path("ai-directions/INDEX.md")
+        target = Path(data["dir"]) / article
+        # A stable entry point for every locale, with a raw download for the
+        # original full collection even when GitHub cannot preview that file.
+        content = (intro + "\n\n" + PROMPT_READING[locale][0] + "\n\n" + "\n".join(parts)
+                   + f"\n\n[{PROMPT_READING[locale][1]}](../ai-directions.md?raw=1)")
+        (ROOT / target).write_text(with_navigation(content, locale, target, article))
+
+
 def rewrite_locale_links(text, locale):
     directory = LOCALES[locale]["dir"]
     # Relative links within en/ already point to the corresponding local file.
@@ -363,7 +415,7 @@ def build(locales):
         raise ValueError("Build is atomic at the edition level: all eight new locales are required. "
                          "Use --locales only with translate to resume selected translations.")
     # Do not read application files, private configuration, or live site data.
-    source = {p.relative_to(ROOT / "en"): p.read_text() for p in sorted((ROOT / "en").rglob("*.md"))}
+    source = {p.relative_to(ROOT / "en"): p.read_text() for p in source_documents() if p.is_relative_to(ROOT / "en")}
     readme_source = (ROOT / "README.md").read_text()
     required = set(source_strings())
     original = json.loads((ROOT / "data/manifest.json").read_text())
@@ -382,13 +434,13 @@ def build(locales):
         directory = LOCALES[locale]["dir"]
         for article, body in source.items():
             target = Path(directory) / article
-            translated = rewrite_locale_links(map_document(body, catalog.__getitem__), locale)
+            translated = reading_links(rewrite_locale_links(map_document(body, catalog.__getitem__), locale))
             if article == Path("INDEX.md"):
                 translated = re.sub(r"^(# .+)$", r"\1\n\n> " + NOTES[locale], translated, count=1, flags=re.MULTILINE)
             path = ROOT / target
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_text(with_navigation(translated, locale, target, article))
-        translated = rewrite_locale_links(map_document(readme_source, catalog.__getitem__), locale)
+        translated = reading_links(rewrite_locale_links(map_document(readme_source, catalog.__getitem__), locale))
         publisher = (f"https://podplo.app/?utm_source=github&utm_medium=readme"
                      f"&utm_campaign=print-on-demand-design-guide&utm_content={locale}_publisher")
         author = f"{BY[locale]} [PodPlo]({publisher}) · [{FULL_GUIDE[locale]}]({directory}/INDEX.md)"
@@ -405,11 +457,14 @@ def build(locales):
     for locale in ("en", "zh-CN"):
         data = LOCALES[locale]
         for path in sorted((ROOT / data["dir"]).rglob("*.md")):
+            if "ai-directions" in path.relative_to(ROOT / data["dir"]).parts[:-1]:
+                continue
             relative = path.relative_to(ROOT)
             article = path.relative_to(ROOT / data["dir"])
-            path.write_text(with_navigation(path.read_text(), locale, relative, article))
+            path.write_text(with_navigation(reading_links(path.read_text()), locale, relative, article))
         path = ROOT / data["readme"]
-        path.write_text(with_navigation(path.read_text(), locale, path.relative_to(ROOT)))
+        path.write_text(with_navigation(reading_links(path.read_text()), locale, path.relative_to(ROOT)))
+    build_prompt_parts()
     build_manifest()
 
 
@@ -443,6 +498,7 @@ def build_manifest():
         "sourceEdition": manifest.get("sourceEdition", manifest["edition"]),
         "edition": "2026-11-03", "languages": list(LOCALES), "guidePages": len(pages),
         "totalGuideDocuments": len(documents), "pages": pages,
+        "promptReadingPartsPerLanguage": 2,
         "documents": documents, "readmes": readmes,
         "localeDirectories": {k: v["dir"] for k, v in LOCALES.items()},
         "translation": {"sourceLocale": "en", "addedLocales": list(NEW_LOCALES),

@@ -12,7 +12,7 @@
 
 
 
-[コピーして使える公開AI制作指示](ai-directions.md)
+[コピーして使える公開AI制作指示](ai-directions/INDEX.md)
 
 ## ここから始めましょう
 

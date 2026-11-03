@@ -53,7 +53,7 @@
 | الرسم الذي تحبه | قم بتوسيطها أو تكديسها أو وضعها في إطار كشارة | [أفكار التكوين](ar/techniques/compose-anything.md) | [تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ar_start_layout) |
 | اسم أو رسالة قصيرة | إطارات الأزهار، أو الرسومات التي يقودها النص، أو التخطيطات التذكارية | [النص والأسماء](ar/techniques/replace-name-text.md) | [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ar_start_text) |
 | مرجع عزر أو نمط | الترتيبات المتكررة والأفكار النمطية المنسقة | [أنواع الأنماط](ar/artwork-types/pattern.md) | [نمط متكرر بلا فواصل](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ar_start_pattern) |
-| فكرة مكتوبة | اختر هيكلًا وقم بتكييف اتجاه الذكاء الاصطناعي العام | [اتجاهات الذكاء الاصطناعي القابلة للنسخ](ar/ai-directions.md) | [تصفح الصورة Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ar_start_prompt) |
+| فكرة مكتوبة | اختر هيكلًا وقم بتكييف اتجاه الذكاء الاصطناعي العام | [اتجاهات الذكاء الاصطناعي القابلة للنسخ](ar/ai-directions/INDEX.md) | [تصفح الصورة Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ar_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -231,7 +231,7 @@
 
 </details>
 
-[تصفح جميع الاتجاهات العامة 123](ar/ai-directions.md) · [استكشف الصورة Skills على PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ar_after_prompts)
+[تصفح جميع الاتجاهات العامة 123](ar/ai-directions/INDEX.md) · [استكشف الصورة Skills على PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ar_after_prompts)
 
 <a id="products"></a>
 

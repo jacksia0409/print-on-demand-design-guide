@@ -49,7 +49,7 @@ You do not need to begin with a finished design. Pick the row closest to your st
 | A graphic you love | Center it, stack it, or frame it as a badge | [Composition ideas](en/techniques/compose-anything.md) | [Compact Center Layout](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_start_layout) |
 | A name or short message | Floral frames, text-led graphics, or commemorative layouts | [Text and names](en/techniques/replace-name-text.md) | [Floral Name Frame](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_start_text) |
 | A motif or pattern reference | Repeated arrangements and coordinated pattern ideas | [Pattern types](en/artwork-types/pattern.md) | [Seamless Pattern](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_start_pattern) |
-| A written idea | Choose a structure and adapt a public AI direction | [Copyable AI directions](en/ai-directions.md) | [Browse Image Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_start_prompt) |
+| A written idea | Choose a structure and adapt a public AI direction | [Copyable AI directions](en/ai-directions/INDEX.md) | [Browse Image Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -227,7 +227,7 @@ Output check: Test horizontal, vertical and four-tile arrangements for seams, rh
 
 </details>
 
-[Browse all 123 public directions](en/ai-directions.md) · [Explore Image Skills on PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_after_prompts)
+[Browse all 123 public directions](en/ai-directions/INDEX.md) · [Explore Image Skills on PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=en_after_prompts)
 
 <a id="products"></a>
 
