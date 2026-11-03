@@ -71,16 +71,16 @@ FULL_GUIDE = {
 BY = {"pt-BR": "Por", "es": "Por", "fr": "Par", "de": "Von", "ar": "إعداد",
       "ru": "Автор", "ja": "制作：", "hi": "प्रस्तुतकर्ता:"}
 PROMPT_READING = {
-    "en": ("Read all 123 directions in two parts. Each direction has a copyable instruction block.", "Download the complete collection"),
-    "zh-CN": ("分两卷阅读全部 123 条创作指令，每条均附可复制的完整文本。", "下载完整指令合集"),
-    "pt-BR": ("Leia as 123 orientações em duas partes. Cada uma inclui um bloco de instruções pronto para copiar.", "Baixar a coleção completa"),
-    "es": ("Lee las 123 instrucciones en dos partes. Cada una incluye un bloque de texto listo para copiar.", "Descargar la colección completa"),
-    "fr": ("Lisez les 123 consignes en deux parties. Chacune comprend un bloc de texte à copier.", "Télécharger la collection complète"),
-    "de": ("Lesen Sie alle 123 Anweisungen in zwei Teilen. Jede enthält einen kopierbaren Anweisungsblock.", "Vollständige Sammlung herunterladen"),
-    "ar": ("اقرأ جميع التعليمات البالغ عددها 123 في جزأين. تتضمن كل تعليمة نصًا كاملًا قابلًا للنسخ.", "تنزيل المجموعة الكاملة"),
-    "ru": ("Все 123 инструкции доступны в двух частях. Каждая содержит полный текст, который можно скопировать.", "Скачать полный сборник"),
-    "ja": ("全123件の制作指示を2つのパートに分けて読めます。各項目の指示文はそのままコピーできます。", "全件をまとめてダウンロード"),
-    "hi": ("सभी 123 निर्देश दो भागों में पढ़ें। हर निर्देश में कॉपी करने योग्य पूरा पाठ दिया गया है।", "पूरा संग्रह डाउनलोड करें"),
+    "en": ("Read all 123 directions in four parts. Each direction has a copyable instruction block.", "Download the complete collection"),
+    "zh-CN": ("分四卷阅读全部 123 条创作指令，每条均附可复制的完整文本。", "下载完整指令合集"),
+    "pt-BR": ("Leia as 123 orientações em quatro partes. Cada uma inclui um bloco de instruções pronto para copiar.", "Baixar a coleção completa"),
+    "es": ("Lee las 123 instrucciones en cuatro partes. Cada una incluye un bloque de texto listo para copiar.", "Descargar la colección completa"),
+    "fr": ("Lisez les 123 consignes en quatre parties. Chacune comprend un bloc de texte à copier.", "Télécharger la collection complète"),
+    "de": ("Lesen Sie alle 123 Anweisungen in vier Teilen. Jede enthält einen kopierbaren Anweisungsblock.", "Vollständige Sammlung herunterladen"),
+    "ar": ("اقرأ جميع التعليمات البالغ عددها 123 في أربعة أجزاء. تتضمن كل تعليمة نصًا كاملًا قابلًا للنسخ.", "تنزيل المجموعة الكاملة"),
+    "ru": ("Все 123 инструкции доступны в четырёх частях. Каждая содержит полный текст, который можно скопировать.", "Скачать полный сборник"),
+    "ja": ("全123件の制作指示を4つのパートに分けて読めます。各項目の指示文はそのままコピーできます。", "全件をまとめてダウンロード"),
+    "hi": ("सभी 123 निर्देश चार भागों में पढ़ें। हर निर्देश में कॉपी करने योग्य पूरा पाठ दिया गया है।", "पूरा संग्रह डाउनलोड करें"),
 }
 
 
@@ -361,7 +361,7 @@ def reading_links(text):
 
 
 def build_prompt_parts():
-    """Keep the full collection for download and add two small reading files."""
+    """Keep the full collection for download and add four small reading files."""
     for locale, data in LOCALES.items():
         directory = ROOT / data["dir"]
         body = strip_navigation((directory / "ai-directions.md").read_text()).strip()
@@ -372,13 +372,13 @@ def build_prompt_parts():
         if len(instructions) != 123:
             raise ValueError(f"{locale}: expected 123 public instructions")
         parts = []
-        for number, start, end in ((1, 0, 62), (2, 62, 123)):
+        for number, start, end in ((1, 0, 31), (2, 31, 62), (3, 62, 93), (4, 93, 123)):
             article = Path(f"ai-directions/part-{number}.md")
             target = Path(data["dir"]) / article
             # Each part keeps complete code blocks and the original numbering.
             content = intro + f"\n\n[← {PROMPT_READING[locale][0]}](INDEX.md)\n\n" + "\n".join(instructions[start:end]).strip()
             rendered = with_navigation(content, locale, target, article)
-            if len(rendered.encode()) >= 390_000:
+            if len(rendered.encode()) >= 190_000:
                 raise ValueError(f"{locale}: split instruction document exceeds preview budget")
             path = ROOT / target
             path.parent.mkdir(parents=True, exist_ok=True)
@@ -498,7 +498,7 @@ def build_manifest():
         "sourceEdition": manifest.get("sourceEdition", manifest["edition"]),
         "edition": "2026-11-03", "languages": list(LOCALES), "guidePages": len(pages),
         "totalGuideDocuments": len(documents), "pages": pages,
-        "promptReadingPartsPerLanguage": 2,
+        "promptReadingPartsPerLanguage": 4,
         "documents": documents, "readmes": readmes,
         "localeDirectories": {k: v["dir"] for k, v in LOCALES.items()},
         "translation": {"sourceLocale": "en", "addedLocales": list(NEW_LOCALES),

@@ -10,9 +10,11 @@
 
 These are public Guide instructions, not private Skill rules. The visual studies are conceptual; outputs must be reviewed.
 
-Read all 123 directions in two parts. Each direction has a copyable instruction block.
+Read all 123 directions in four parts. Each direction has a copyable instruction block.
 
-- [1–62](part-1.md)
-- [63–123](part-2.md)
+- [1–31](part-1.md)
+- [32–62](part-2.md)
+- [63–93](part-3.md)
+- [94–123](part-4.md)
 
 [Download the complete collection](../ai-directions.md?raw=1)

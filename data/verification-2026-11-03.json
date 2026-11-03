@@ -14,7 +14,7 @@
     "ja",
     "hi"
   ],
-  "guideDocumentsPerLanguage": 170,
+  "guideDocumentsPerLanguage": 172,
   "exportedArticlesPerLanguage": 165,
   "publicDirectionsPerLanguage": 123,
   "validation": {
@@ -32,9 +32,9 @@
       "hi"
     ],
     "counts": {
-      "assertions": 282810,
-      "links": 70426,
-      "documents": 1700,
+      "assertions": 283884,
+      "links": 70646,
+      "documents": 1720,
       "codeBlocks": 1968,
       "images": 25008
     },
@@ -68,37 +68,63 @@
   "publication": "Publish this snapshot only; no application deployment",
   "originalEnglishProsePreserved": true,
   "promptReading": {
-    "partsPerLanguage": 2,
+    "partsPerLanguage": 4,
     "partRanges": [
-      "1–62",
-      "63–123"
+      "1–31",
+      "32–62",
+      "63–93",
+      "94–123"
     ],
     "allCodeBlocksMatchFullCollection": true,
     "fullCollectionRawDownload": true,
-    "maximumUtf8Bytes": 289137,
+    "maximumUtf8Bytes": 146003,
     "githubMarkdownApiChecks": [
       {
         "path": "ru/ai-directions/part-1.md",
-        "utf8Bytes": 224024,
-        "renderedCodeBlocks": 62,
+        "utf8Bytes": 111684,
+        "renderedCodeBlocks": 31,
         "status": "PASS"
       },
       {
         "path": "ru/ai-directions/part-2.md",
-        "utf8Bytes": 215140,
-        "renderedCodeBlocks": 61,
+        "utf8Bytes": 113452,
+        "renderedCodeBlocks": 31,
+        "status": "PASS"
+      },
+      {
+        "path": "ru/ai-directions/part-3.md",
+        "utf8Bytes": 109051,
+        "renderedCodeBlocks": 31,
+        "status": "PASS"
+      },
+      {
+        "path": "ru/ai-directions/part-4.md",
+        "utf8Bytes": 107201,
+        "renderedCodeBlocks": 30,
         "status": "PASS"
       },
       {
         "path": "hi/ai-directions/part-1.md",
-        "utf8Bytes": 289137,
-        "renderedCodeBlocks": 62,
+        "utf8Bytes": 144320,
+        "renderedCodeBlocks": 31,
         "status": "PASS"
       },
       {
         "path": "hi/ai-directions/part-2.md",
-        "utf8Bytes": 276632,
-        "renderedCodeBlocks": 61,
+        "utf8Bytes": 146003,
+        "renderedCodeBlocks": 31,
+        "status": "PASS"
+      },
+      {
+        "path": "hi/ai-directions/part-3.md",
+        "utf8Bytes": 138768,
+        "renderedCodeBlocks": 31,
+        "status": "PASS"
+      },
+      {
+        "path": "hi/ai-directions/part-4.md",
+        "utf8Bytes": 139050,
+        "renderedCodeBlocks": 30,
         "status": "PASS"
       }
     ]

@@ -16,10 +16,10 @@ Each language has the same 165 exported articles, `INDEX.md`, and
 copyable `text` code fences. Translate the instructions; preserve the fences,
 article slugs, explicit anchor IDs, image URLs, and file hierarchy.
 
-`ai-directions/INDEX.md` and `part-1.md` / `part-2.md` are generated reading views,
-bringing the total to 170 Markdown files per language. Each part is smaller than
-390 KB for reliable GitHub previews. The index links to the complete original
-collection as a raw download. These three generated files are excluded from
+`ai-directions/INDEX.md` and `part-1.md` through `part-4.md` are generated reading views,
+bringing the total to 172 Markdown files per language. Each part is smaller than
+190 KB for reliable GitHub previews. The index links to the complete original
+collection as a raw download. These five generated files are excluded from
 translation source extraction; their instruction text comes from the complete
 collection. Never remove a direction to satisfy a preview limit.
 

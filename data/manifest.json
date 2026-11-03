@@ -15956,7 +15956,7 @@
     "https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp"
   ],
   "sourceEdition": "2026-11-02",
-  "totalGuideDocuments": 1700,
+  "totalGuideDocuments": 1720,
   "documents": [
     {
       "path": "en/INDEX.md",
@@ -15971,17 +15971,27 @@
     {
       "path": "en/ai-directions/INDEX.md",
       "locale": "en",
-      "sha256": "ca8e9243f084a4bdc2107e0c91e19407a58b383609869aa77ab803c7c601a7b4"
+      "sha256": "a192186eb2106f46a0639e8575c2ba9c8de609a50a38b466ff359c1f4317dc6f"
     },
     {
       "path": "en/ai-directions/part-1.md",
       "locale": "en",
-      "sha256": "3e1ea3a8ffb479cd678f84086b8d93e5dcce6508148cdacaae6a8b5da8475ce1"
+      "sha256": "fa5ca1c7a3130825a7843f7ce688b139716627c2e5ae389b634d0da27d337830"
     },
     {
       "path": "en/ai-directions/part-2.md",
       "locale": "en",
-      "sha256": "c28b3d2db70ec650ad9eb6ababc24c5224e5830bd03b1cd87bba63a7d63bb526"
+      "sha256": "d0883539e0b02d679aad6cd481617465361ebc3c33126171176bc89e11413a66"
+    },
+    {
+      "path": "en/ai-directions/part-3.md",
+      "locale": "en",
+      "sha256": "8caa407752ec145d107486ed5ac45ae243edc93068bef5e19c4bdd8bd1b993d1"
+    },
+    {
+      "path": "en/ai-directions/part-4.md",
+      "locale": "en",
+      "sha256": "a8d9765c984c52ea1e09ced39ddcff7f07fb2467efbb3b37364489e6e59acd91"
     },
     {
       "path": "en/ai-directions.md",
@@ -16821,17 +16831,27 @@
     {
       "path": "zh/ai-directions/INDEX.md",
       "locale": "zh-CN",
-      "sha256": "81dcca31a005da6f5500986963a516b9802bb8acf0a317f3616898a01138126a"
+      "sha256": "f49960dcd91b9de34917344a5f8eb8ccb26e9d711c8d85869381c4b40c86dcc0"
     },
     {
       "path": "zh/ai-directions/part-1.md",
       "locale": "zh-CN",
-      "sha256": "d81145a515ac8ec40558dcd68b24665c24b20e915347f05682be6998c2b3340f"
+      "sha256": "418a54ce74e6798de803c7bed0552ebaf4653edd5a1fcc52a09f76754c63ddbe"
     },
     {
       "path": "zh/ai-directions/part-2.md",
       "locale": "zh-CN",
-      "sha256": "62feded3afa8a69e3c7365f5a1105d66ade4a1bc79bb4750caa16e9e6f034c9d"
+      "sha256": "8088af5ca53b8f23f47b511505aa304072ff2d755f69911a4ea07aac5101bbd4"
+    },
+    {
+      "path": "zh/ai-directions/part-3.md",
+      "locale": "zh-CN",
+      "sha256": "2f18c0e8f078fdda33b1e33413cdd9c09caa0fd48bdd43156b38bc4c08914129"
+    },
+    {
+      "path": "zh/ai-directions/part-4.md",
+      "locale": "zh-CN",
+      "sha256": "36aef2b1bfbd4c403613551bc39dd7a644550f6e2536d078551326609a0858a5"
     },
     {
       "path": "zh/ai-directions.md",
@@ -17671,17 +17691,27 @@
     {
       "path": "pt-BR/ai-directions/INDEX.md",
       "locale": "pt-BR",
-      "sha256": "6000d2b00cb1f48929579a4ad3d931a05409cfba8f4e0def0123e0b3590f8639"
+      "sha256": "e4812c543e565ca9b71f29d341d6dd2835b372de81ca788880bc2d7898ff7075"
     },
     {
       "path": "pt-BR/ai-directions/part-1.md",
       "locale": "pt-BR",
-      "sha256": "761ca7571ab025303a168f56ff06ff5b2d46dce46fbd0059cd057cc7d72aefc3"
+      "sha256": "2569475c5ded458e2889008de1c41abb73dcf6f8857ee36f5b5ca33e664ad28f"
     },
     {
       "path": "pt-BR/ai-directions/part-2.md",
       "locale": "pt-BR",
-      "sha256": "26a3938bbd95763a3c5cbd801693455a5f56a4fb5215f2f3860a7554dfd8e3e0"
+      "sha256": "7f707105173e7a0045629d74f1a2092a18338ca3306e03fb2d4a9f0672de73d0"
+    },
+    {
+      "path": "pt-BR/ai-directions/part-3.md",
+      "locale": "pt-BR",
+      "sha256": "8cf8aa2640b6433b9a8f1b67ba8c1421b813d4fccd906b2732c9f751d1ced1c2"
+    },
+    {
+      "path": "pt-BR/ai-directions/part-4.md",
+      "locale": "pt-BR",
+      "sha256": "1ef5cc12bcce3c595246bb4ece1d81e0a18d44f9eb5d915fb25dd5fb236e019e"
     },
     {
       "path": "pt-BR/ai-directions.md",
@@ -18521,17 +18551,27 @@
     {
       "path": "es/ai-directions/INDEX.md",
       "locale": "es",
-      "sha256": "0f4bc01be14131d90266ee64d26f3f668306fb66895b99f9da72530ac105293c"
+      "sha256": "bd77ca83763e857e0127d6a878818d046d584897251835b2a5cc67388d6c5d30"
     },
     {
       "path": "es/ai-directions/part-1.md",
       "locale": "es",
-      "sha256": "1c6d1c5d7505126d93c2735ccce0ca3f4a427e175ab07b93fd6b086733571172"
+      "sha256": "b778a48e01b6ca971f83c333c7b78a208d689af6fe342180d808e6a398043c7d"
     },
     {
       "path": "es/ai-directions/part-2.md",
       "locale": "es",
-      "sha256": "13ef70e5d15defdd719ba6d916de20d51eaf251cf0532b28413c9e88cf03cd3b"
+      "sha256": "ff38b4e297d26ff3870a78339b3b64d6a9921e6f662015a0f64aa333f0cf243e"
+    },
+    {
+      "path": "es/ai-directions/part-3.md",
+      "locale": "es",
+      "sha256": "3ea521dc7afcbd291daf169f83f9897055d0559796a296628b36977e50a3f9d0"
+    },
+    {
+      "path": "es/ai-directions/part-4.md",
+      "locale": "es",
+      "sha256": "43cb075207fe6b0842ad07c2ac43c178599152caf09431e6de95a4d0b011eb49"
     },
     {
       "path": "es/ai-directions.md",
@@ -19371,17 +19411,27 @@
     {
       "path": "fr/ai-directions/INDEX.md",
       "locale": "fr",
-      "sha256": "e10e2ef07194392202d4032e8faae5e81df51bfe65697c9e25538f724fdd583d"
+      "sha256": "790f5e417d2a5c5628b39ff2798cc3d4eca166e6307cdf0d60dabe08af0eb8a1"
     },
     {
       "path": "fr/ai-directions/part-1.md",
       "locale": "fr",
-      "sha256": "7a522bf9ab63ef3236ce57a9bdfa0ff552c3ae377ff4cfd1f538be03a739793e"
+      "sha256": "b47a327004a91b83de23c142ccdfe8cbb5900f2fc87c339b9a275991e7b98103"
     },
     {
       "path": "fr/ai-directions/part-2.md",
       "locale": "fr",
-      "sha256": "e797c50ceae6250cfc964b1363df1f560347b1acfd136df63f415d78494f7311"
+      "sha256": "eb83028a4d10e944979e4d0d460609018a453a56448eb7d6cd8b0adaba6829e1"
+    },
+    {
+      "path": "fr/ai-directions/part-3.md",
+      "locale": "fr",
+      "sha256": "1f3b157c0261f25104a742f8d18f39624d5d421a6fbc220870c2cede82945fa1"
+    },
+    {
+      "path": "fr/ai-directions/part-4.md",
+      "locale": "fr",
+      "sha256": "cd20a9c183d002fcd09bfb45a07032766be14f39b780331e2849615f8f7bbeff"
     },
     {
       "path": "fr/ai-directions.md",
@@ -20221,17 +20271,27 @@
     {
       "path": "de/ai-directions/INDEX.md",
       "locale": "de",
-      "sha256": "f93e391ca68db3b316e2e7f669e3bce461e83a895c8bbdd7029670e29d84453d"
+      "sha256": "d31cc3158ff24215783f031a9b3141c27ece9565a199912a5590fc7c2aedf119"
     },
     {
       "path": "de/ai-directions/part-1.md",
       "locale": "de",
-      "sha256": "69342ed378be0d2840d184ce3bb7c2d9d83939899cce5c3c45daba8992235002"
+      "sha256": "3fdeb731d05e9b96a63b1c8390d16f4d51b85de2ddf12e048c1e02350b04d676"
     },
     {
       "path": "de/ai-directions/part-2.md",
       "locale": "de",
-      "sha256": "07fd58118d3483949609eeb1a3e3b1fcd60cfaf852b5351ec5dfbabab9902afb"
+      "sha256": "15afebf41a11d0b4ae6faa6afbac7bd3f013149bca26c87a92ee0e71963b201f"
+    },
+    {
+      "path": "de/ai-directions/part-3.md",
+      "locale": "de",
+      "sha256": "07fff73e76ddddbb4dd17a235ea67bb00d5fc9b7bff806d09de42467d80b37e9"
+    },
+    {
+      "path": "de/ai-directions/part-4.md",
+      "locale": "de",
+      "sha256": "896d1d6effc02195c036d2d9d56c373b77d5591325af9d25e80dc1370b5b5312"
     },
     {
       "path": "de/ai-directions.md",
@@ -21071,17 +21131,27 @@
     {
       "path": "ar/ai-directions/INDEX.md",
       "locale": "ar",
-      "sha256": "c63c910655bcd08e323ea5129258b07847eaaff744658fea326e34d098d5f2b0"
+      "sha256": "266ce86b893c02b5a95cc6724998ae705e57d151b81dc4443f2e86752ecb6c9b"
     },
     {
       "path": "ar/ai-directions/part-1.md",
       "locale": "ar",
-      "sha256": "c1635197662894cce1a63697c02738ac60a3fbbf379f672c2a118b1ee2520af9"
+      "sha256": "a91b7555c508e1efdd4e4ac94f01fcf1dfc3bbbd3e040a2bca0ac09d64929100"
     },
     {
       "path": "ar/ai-directions/part-2.md",
       "locale": "ar",
-      "sha256": "bb563e46548695c56f7b219bb72309b6c97fe393f41cd862ffd8e1ffcdbbe4d0"
+      "sha256": "4e84f3009017033f09c723ffd63181af8b850a8555d3cb514289ebe941704c7d"
+    },
+    {
+      "path": "ar/ai-directions/part-3.md",
+      "locale": "ar",
+      "sha256": "8cde11588d13eaafd716eb4e98457900f8aa77f39bf9f2d5295a23fefbb23cc6"
+    },
+    {
+      "path": "ar/ai-directions/part-4.md",
+      "locale": "ar",
+      "sha256": "e419444ac966762a4815d4316f68cce65898380c9d49c36b43e3a77492b1fc8e"
     },
     {
       "path": "ar/ai-directions.md",
@@ -21921,17 +21991,27 @@
     {
       "path": "ru/ai-directions/INDEX.md",
       "locale": "ru",
-      "sha256": "6df03efd74b3337c8307529c684990ea01e8140f67ec7fc4896c464035a8993b"
+      "sha256": "c0dedd5de85c061377c34613cd0b8870d7df3fec5094a899b7a0526c88c0a622"
     },
     {
       "path": "ru/ai-directions/part-1.md",
       "locale": "ru",
-      "sha256": "fd2e8a4bfff5b19c1b7c8ae0a1511d67834b86cacc0e945c22293ba4537e3a30"
+      "sha256": "905c6c804e26a95b89ac473ce9263daa0dc7091655ecec635a0287f16ec93f3d"
     },
     {
       "path": "ru/ai-directions/part-2.md",
       "locale": "ru",
-      "sha256": "b6b5b39b1851014e6574492d2aa67a004107a8ff40dc254973d839e35f29fb12"
+      "sha256": "a50ce40328780141a9262efd4fb5340e8acca143ba33b772a654a0fe8cc33ba9"
+    },
+    {
+      "path": "ru/ai-directions/part-3.md",
+      "locale": "ru",
+      "sha256": "16bd37206642ea469b0e4ae15abe8908cbd4472641c3f2a170ee0382194bef6c"
+    },
+    {
+      "path": "ru/ai-directions/part-4.md",
+      "locale": "ru",
+      "sha256": "d073034ed498e4ee59f7ac74444f0ccc6e63c793c73c4623da08c499c54ddcc8"
     },
     {
       "path": "ru/ai-directions.md",
@@ -22771,17 +22851,27 @@
     {
       "path": "ja/ai-directions/INDEX.md",
       "locale": "ja",
-      "sha256": "8fc712509f50a8b74d4624962a4aef5c36fd509d47f1e0905f2fabe168cac3ee"
+      "sha256": "f4172cb74d3b9d0a0c41141cb00dee80e5e683a2f58f8d2664b634a606cb2274"
     },
     {
       "path": "ja/ai-directions/part-1.md",
       "locale": "ja",
-      "sha256": "4de5961f2215291bd6f1e25a3b5530963b4d298fe7e1b139bac9edb272c70237"
+      "sha256": "e01c456d3cca18e0ee7bce7e6903675c9aa7107945c6edb13f60af3daee07feb"
     },
     {
       "path": "ja/ai-directions/part-2.md",
       "locale": "ja",
-      "sha256": "529c6026487a8b2acf8b0e3849cf5c113ca810fcfccd758532edc1d7cbff8a00"
+      "sha256": "ba1d852729dc4710575f63672811229ae879db344d41aeefaac8dcbdb65046d9"
+    },
+    {
+      "path": "ja/ai-directions/part-3.md",
+      "locale": "ja",
+      "sha256": "09091e85989464ce0bf25211c9f2c5f0d1a72a9eeee9b5c6bb503e49d28e053c"
+    },
+    {
+      "path": "ja/ai-directions/part-4.md",
+      "locale": "ja",
+      "sha256": "20eace3ea2236e462f75c1292ae9c8480b631fc51ec74b3041b69dae40075f59"
     },
     {
       "path": "ja/ai-directions.md",
@@ -23621,17 +23711,27 @@
     {
       "path": "hi/ai-directions/INDEX.md",
       "locale": "hi",
-      "sha256": "b77a76237fedec79ad21382996db3e48e9564038b112b40a4ecef194109f44fe"
+      "sha256": "37f5219018d0a77a1294ca866d3fb96e1dfb7e922f136d1daf63e6d897ff0117"
     },
     {
       "path": "hi/ai-directions/part-1.md",
       "locale": "hi",
-      "sha256": "23db24b5fb64690ae1a9b82834178687f01bf2a53a66fea7f627bf2f0bbc16ca"
+      "sha256": "b408e54f62fe2099a921b13b85e93d5b0e0095fbca83014e800e33939c6c8beb"
     },
     {
       "path": "hi/ai-directions/part-2.md",
       "locale": "hi",
-      "sha256": "483d6e2cca75761c85d478af8dad50c74569915fe29afa1d0bdb3c7f22d77781"
+      "sha256": "0045e95d756af7e7bb575d9ae8029a572b3d2628bae794848f6ddb685e01882b"
+    },
+    {
+      "path": "hi/ai-directions/part-3.md",
+      "locale": "hi",
+      "sha256": "3e96206b165427906ffeeddd3868cbecc0af909a362bc6e8da20e6b59cdc7d35"
+    },
+    {
+      "path": "hi/ai-directions/part-4.md",
+      "locale": "hi",
+      "sha256": "f963ba9b30ded777c56569f885b6553be0e962da375f0de74a95da977b3cc8f9"
     },
     {
       "path": "hi/ai-directions.md",
@@ -24541,5 +24641,5 @@
     "websiteLinks": "New locales retain existing English website destinations",
     "originalImageText": "Preserved"
   },
-  "promptReadingPartsPerLanguage": 2
+  "promptReadingPartsPerLanguage": 4
 }

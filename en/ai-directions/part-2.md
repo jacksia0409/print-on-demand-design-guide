@@ -10,39 +10,570 @@
 
 These are public Guide instructions, not private Skill rules. The visual studies are conceptual; outputs must be reviewed.
 
-[← Read all 123 directions in two parts. Each direction has a copyable instruction block.](INDEX.md)
+[← Read all 123 directions in four parts. Each direction has a copyable instruction block.](INDEX.md)
 
-## Full-area texture
+## Image or texture-filled type
 
-Surface detail fills the image, so the main content and ground become one.
+Patterns, imagery or material details fill the inside of the letters.
 
 ```text
-Target direction: Textures → Composition → Full-area texture
+Target direction: Subject-led → Text and subject relationships → Lettering treatments → Image or texture-filled type
 
 Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
 
-Target structure: Extend the chosen texture across the entire image. Keep material scale, palette and density coherent through the edges without leaving a separate visible backing area.
+Target structure: Place relevant imagery, patterns or texture within the letter boundaries. Keep outer contours clear and coordinate fill scale, contrast and spacing.
 
-Background: Translate relevant color or material cues from the original backing into the main texture itself. Create related full-area surface detail if no backing exists; content and ground merge in this direction rather than leaving a separate complete background visible.
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
 
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create concise theme-related copy and make the lettering the focus of this treatment. Retain reading order and meaning and check spelling. If an explicit no-text request conflicts with this text-based direction, state the conflict rather than silently adding words.
 
-Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
 
-Scope and boundaries: Full coverage does not imply seamless tiling. Do not simultaneously require a different complete background to remain visibly behind an opaque full-area texture.
+Scope and boundaries: The fill should mainly occupy the letters. An image placed behind ordinary text is a background, not a letterform fill; recheck spelling and readability.
 ```
 
 
-## Local texture fragment
+## Rays and radiating accents
 
-A textured area occupies part of the image, leaving another ground visible.
+Lines or radiating shapes extend outward from the subject.
 
 ```text
-Target direction: Textures → Composition → Local texture fragment
+Target direction: Subject-led → Shared decoration → Rays and radiating accents
 
 Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
 
-Target structure: Concentrate relevant surface detail inside a localized patch with a regular, natural or fading boundary. Retain surrounding room for a background or supporting information.
+Target structure: Keep the single subject or multi-subject grouping and add localized rays or radiating shapes behind or around it. Coordinate their length, density and reach to support the focal content.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Literal emitted light is optional, as is a full ring. The rays remain supporting decoration rather than becoming the main abstract composition.
+```
+
+
+## Small surrounding accents
+
+A few small elements enrich the space around the main subject.
+
+```text
+Target direction: Subject-led → Shared decoration → Small surrounding accents
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Add a limited number of theme-related symbols, flowers, lines or small motifs near the subject. Vary spacing while keeping the subject outline and open areas clear.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Keep the accents subordinate. A continuous surrounding arrangement is closer to a wreath; coverage across the canvas is a background or pattern treatment.
+```
+
+
+## Surrounding decoration
+
+Decorative elements form a partial or complete enclosure around the subject.
+
+```text
+Target direction: Subject-led → Shared decoration → Surrounding decoration
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Arrange related branches, lines, symbols or motifs mainly around the outside of the subject or grouping. Build a partial ring, wreath or free enclosure with the subject as its focal point.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Symmetry and a closed ring are optional. A patch mainly behind the subject is a local patterned backdrop; the two approaches may be combined.
+```
+
+
+## Framed subject
+
+A defined frame, badge or enclosing structure holds the subject.
+
+```text
+Target direction: Subject-led → Shared decoration → Framed subject
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Create a circular, rectangular, badge-shaped or irregular frame suited to the subject and theme. Coordinate scale, internal spacing and any deliberate parts extending beyond the frame.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: The boundary should be clearly organized. A few scattered accents are not a frame, and the frame should not conceal essential subject features.
+```
+
+
+## Interlaced decoration
+
+Decorative elements weave in front of and behind the subject.
+
+```text
+Target direction: Subject-led → Shared decoration → Interlaced decoration
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Retain the focal subject or group and weave related branches, lines or ribbons through it. Place some parts behind and some in front to establish understandable overlap.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Putting all decoration on top is not interlacing. Preserve identifying features and keep the decoration secondary.
+```
+
+
+## Recognizable base form
+
+The subject has a familiar, readable form that provides a reference for other treatments.
+
+```text
+Target direction: Subject-led → Shared subject treatments → Recognizable base form
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Organize the core subject into a clear, familiar structure and proportion. Retain its theme and important features while simplifying details that obstruct recognition.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: A familiar form need not be photorealistic or measurement-accurate. If the original object cannot be identified, create a plausible form from the theme without claiming a factual restoration.
+```
+
+
+## Exaggerated proportions
+
+Parts of the subject are elongated, compressed or enlarged while it remains identifiable.
+
+```text
+Target direction: Subject-led → Shared subject treatments → Exaggerated proportions
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Select distinctive or expressive parts and deliberately change their relative proportions. For several subjects, coordinate the treatment while preserving recognizable identifying cues.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: This changes object form rather than merely position. If object identity is lost entirely, assess the result as abstract artwork instead.
+```
+
+
+## Geometric simplification
+
+Simple geometric shapes describe the essential features of an identifiable object.
+
+```text
+Target direction: Subject-led → Shared subject treatments → Geometric simplification
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Translate the subject’s silhouette and main structures into fewer geometric forms. Use proportion, connections and direction to preserve identity, retaining the grouping when there are several subjects.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: The geometric forms still describe the object. Shapes with no clear object reference belong under nonfigurative geometric abstraction.
+```
+
+
+## Line simplification
+
+A small number of lines retain the subject’s essential contours.
+
+```text
+Target direction: Subject-led → Shared subject treatments → Line simplification
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Extract the main outline and a few important internal structures, then express them with clear lines. Omit secondary details while preserving relationships between multiple subjects.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: A continuous single stroke and fully closed contours are optional. Arbitrary curves should not be presented as a recognizable object without identifying cues.
+```
+
+
+## Color-block reconstruction
+
+A recognizable subject is reconstructed from a small number of color areas.
+
+```text
+Target direction: Subject-led → Shared subject treatments → Color-block reconstruction
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Divide the subject according to silhouette, volume or structure. Simplify detail and shading so the connections, overlaps and proportions of color areas describe the original object.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: The divisions may be irregular or expressive but should still reference the subject. Changing only background blocks is not a subject reconstruction.
+```
+
+
+## Fragmented and offset form
+
+Recognizable parts are separated, displaced or reassembled into a new whole.
+
+```text
+Target direction: Subject-led → Shared subject treatments → Fragmented and offset form
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Divide the subject into structurally meaningful parts and introduce controlled gaps, shifts or rearrangements. Retain enough shape and positional relationships to suggest the original object.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Realistic connections are optional. Once fragments no longer suggest an identifiable object, treat the result as nonfigurative abstraction.
+```
+
+
+## Narrative moment
+
+An event, action or interaction makes it possible to understand what is happening.
+
+```text
+Target direction: Scenes → Scene forms → Narrative moment
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Retain the core subject and build a theme-related action, interaction or event around it. Objects can participate through use, surrounding activity or a change taking place.
+
+Background: Use existing location, environmental and atmospheric cues to develop a coherent setting. If no background exists, or only a solid or transparent backing is supplied, create a related environment. A decorative pattern alone must not replace essential context.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Objects placed side by side or against decoration alone do not establish an event. People are optional; animals, objects or natural phenomena can also create a narrative.
+```
+
+
+## Environmental setting
+
+A subject and its surroundings establish a situation, with or without action.
+
+```text
+Target direction: Scenes → Scene forms → Environmental setting
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Build a related setting around the subject’s purpose, location or theme. Organize space and object relationships so the environment contributes essential context.
+
+Background: Use existing location, environmental and atmospheric cues to develop a coherent setting. If no background exists, or only a solid or transparent backing is supplied, create a related environment. A decorative pattern alone must not replace essential context.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: An action or person is optional. If the environment is only interchangeable decoration and contributes no context, the result is closer to a subject-led graphic.
+```
+
+
+## Landscape and space
+
+The environment as a whole is the main focus of the image.
+
+```text
+Target direction: Scenes → Scene forms → Landscape and space
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Use location, theme, color or atmosphere from the input to develop a natural, architectural or street setting. Establish scale, depth and a coherent field of view.
+
+Background: Use existing location, environmental and atmospheric cues to develop a coherent setting. If no background exists, or only a solid or transparent backing is supplied, create a related environment. A decorative pattern alone must not replace essential context.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Figures or objects may act as small accents, but should not replace the environment as the main subject. A narrative event is not required.
+```
+
+
+## Everyday vignette
+
+A small area of everyday life suggests a shared situation or activity.
+
+```text
+Target direction: Scenes → Scene forms → Everyday vignette
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Choose a contextual fragment such as a desk or window area. Arrange a few related objects through use, support, contact and overlap so they suggest a moment in everyday life.
+
+Background: Use existing location, environmental and atmospheric cues to develop a coherent setting. If no background exists, or only a solid or transparent backing is supplied, create a related environment. A decorative pattern alone must not replace essential context.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: The objects need a shared space or use relationship. Independent elements evenly displayed without contextual cues are a collection.
+```
+
+
+## Horizontal scene
+
+The environment extends across the image with a horizontal reading direction.
+
+```text
+Target direction: Scenes → Composition → Horizontal scene
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Organize the setting and spatial relationships horizontally. Extend relevant content to the sides so the eye can move across connected scenery or areas of activity.
+
+Background: Use existing location, environmental and atmospheric cues to develop a coherent setting. If no background exists, or only a solid or transparent backing is supplied, create a related environment. A decorative pattern alone must not replace essential context.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: This is a compositional direction, not a mandatory aspect ratio. Do not horizontally stretch objects to create the effect.
+```
+
+
+## Layers of depth
+
+Foreground, middle ground and distance create a readable sense of space.
+
+```text
+Target direction: Scenes → Composition → Layers of depth
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Organize the scene into clear near and far relationships using scale, overlap, placement, clarity or contrast. Keep the objects consistent with the chosen spatial approach.
+
+Background: Use existing location, environmental and atmospheric cues to develop a coherent setting. If no background exists, or only a solid or transparent backing is supplied, create a related environment. A decorative pattern alone must not replace essential context.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Realistic perspective and exactly three layers are optional. Overlapping unrelated cutouts alone does not establish a coherent setting.
+```
+
+
+## Centered scene focus
+
+An important event or object sits near the center, with the environment supporting it.
+
+```text
+Target direction: Scenes → Composition → Centered scene focus
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Choose the key event or object and concentrate the visual focus near the center. Use environmental direction, spacing, contrast or density to guide attention while preserving context.
+
+Background: Use existing location, environmental and atmospheric cues to develop a coherent setting. If no background exists, or only a solid or transparent backing is supplied, create a related environment. A decorative pattern alone must not replace essential context.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Do not remove the environment until only an isolated object remains. Exact symmetry and placing every figure at the center are unnecessary.
+```
+
+
+## Contextual close-up
+
+A cropped part of a scene retains enough relationships to suggest its context.
+
+```text
+Target direction: Scenes → Composition → Contextual close-up
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Enlarge a representative scene detail, retaining contact, support, overlap, use or activity cues. The visible fragment should still suggest a setting or event.
+
+Background: Use existing location, environmental and atmospheric cues to develop a coherent setting. If no background exists, or only a solid or transparent backing is supplied, create a related environment. A decorative pattern alone must not replace essential context.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: An isolated enlarged object without contextual relationships is a subject detail, not a scene close-up. Do not crop away the action that makes the moment understandable.
+```
+
+
+## Sequential panels
+
+Related frames show a change, process or sequence of events.
+
+```text
+Target direction: Scenes → Composition → Sequential panels
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Divide the theme into a few connected moments, actions or viewpoints. Use clearly separated panels and preserve subject identity and environmental cues across the sequence.
+
+Background: Use existing location, environmental and atmospheric cues to develop a coherent setting. If no background exists, or only a solid or transparent backing is supplied, create a related environment. A decorative pattern alone must not replace essential context.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: The frames need a process or narrative connection. A grid of unrelated images is a collection or collage, not sequential storytelling.
+```
+
+
+## Straight repeat
+
+A repeated unit aligns in rows and columns across a surface.
+
+```text
+Target direction: Patterns → Seamless repeats → Straight repeat
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Extract suitable motifs and establish a consistent tile that repeats horizontally and vertically. Match content crossing tile edges to its opposite edges and coordinate spacing and ground color.
+
+Background: Reference background palette and motifs, designing background and foreground inside the same repeat unit. When absent, create a related base color or a backing that can continue periodically. Rebuild a nonmatching source background rather than claiming the complete image tiles automatically.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: A finite grid is not automatically seamless. Check horizontal and vertical tiled output; a prompt alone does not verify edge continuity.
+
+Output check: Test horizontal, vertical and four-tile arrangements for seams, rhythm and base-color continuity. Do not claim verified seamlessness without checking or when the tool cannot ensure it.
+```
+
+
+## Offset repeat
+
+Adjacent rows or columns shift by a consistent amount within a repeating system.
+
+```text
+Target direction: Patterns → Seamless repeats → Offset repeat
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Build a tile containing a stable offset relationship between adjacent rows or columns. Coordinate motif direction, spacing and density, including opposite-edge continuation.
+
+Background: Reference background palette and motifs, designing background and foreground inside the same repeat unit. When absent, create a related base color or a backing that can continue periodically. Rebuild a nonmatching source background rather than claiming the complete image tiles automatically.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Offsets may vary by design but require a stable overall period. Moving a few individual motifs does not establish seamless tiling.
+
+Output check: Test horizontal, vertical and four-tile arrangements for seams, rhythm and base-color continuity. Do not claim verified seamlessness without checking or when the tool cannot ensure it.
+```
+
+
+## Scattered repeat
+
+Motifs appear loosely scattered, but the complete arrangement repeats periodically.
+
+```text
+Target direction: Patterns → Seamless repeats → Scattered repeat
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Arrange motif position, scale and rotation freely inside a repeat tile, avoiding an obvious grid. Handle cross-edge motifs so the full unit can continue periodically.
+
+Background: Reference background palette and motifs, designing background and foreground inside the same repeat unit. When absent, create a related base color or a backing that can continue periodically. Rebuild a nonmatching source background rather than claiming the complete image tiles automatically.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Scattering describes the organization inside the tile, not a lack of all structure. Randomly filling an image does not make it seamless.
+
+Output check: Test horizontal, vertical and four-tile arrangements for seams, rhythm and base-color continuity. Do not claim verified seamlessness without checking or when the tool cannot ensure it.
+```
+
+
+## Bounded pattern
+
+Motifs follow a decorative arrangement within a finite area.
+
+```text
+Target direction: Patterns → Finite patterns → Bounded pattern
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Extract related motifs and establish repetition, alternating rows, symmetry or another clear order within a defined image area. Coordinate the overall boundary and open space without requiring edge continuation.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: Seamless tiling is optional rather than deliberately prohibited. If the main purpose is to show distinct assets individually, use a collection layout.
+```
+
+
+## Radial ornament
+
+Decorative units repeat around a center to form a finite circular design.
+
+```text
+Target direction: Patterns → Finite patterns → Radial ornament
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Repeat related motifs around a center using a clear angular, directional or layered order. Coordinate inner and outer density to form one complete decorative ornament.
+
+Background: Reference existing background content, treatment and palette, adapting it to the target structure. If absent or only plain or transparent, create theme-related background treatment. An explicit solid, transparent or other background requirement takes precedence.
+
+Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
+
+Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
+
+Scope and boundaries: The repeating ornament is the focus. Independently expressive objects arranged in a circle are closer to a radial subject grouping.
+```
+
+
+## Natural texture: water
+
+Ripples, movement and surface reflections provide the main visual content.
+
+```text
+Target direction: Textures → Surface forms → Natural texture: water
+
+Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
+
+Target structure: Use color, light, atmosphere or water cues from the input to develop a water-surface texture. Reduce independent objects such as boats, people or buildings that would shift attention away from the surface.
 
 Background: Reference material, palette and atmosphere, creating relevant surface treatment when missing. A local patch can have a separate backing; a full-area texture merges with its ground. Avoid adding a dominant object or narrative setting.
 
@@ -50,20 +581,20 @@ Wording: Keep clearly readable source wording and its language, adapting its pre
 
 Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
 
-Scope and boundaries: Texture remains the main content. If the patch becomes an identifiable object whose identity dominates, reconsider it as subject artwork.
+Scope and boundaries: The focus is surface character, not necessarily a whole waterside setting. When shores, architecture and space dominate, use the scene category.
 ```
 
 
-## Layered texture collage
+## Natural texture: stone
 
-Several textured fragments overlap to create material and edge relationships.
+Grain, veins, cracks and surface variation suggest a stone-like material.
 
 ```text
-Target direction: Textures → Composition → Layered texture collage
+Target direction: Textures → Surface forms → Natural texture: stone
 
 Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
 
-Target structure: Select a few theme- or color-related surface fragments. Organize their size, placement, rotation and overlap while retaining material differences and understandable edges.
+Target structure: Develop stone-like surface features from relevant color, material or natural-structure cues. Let surface variation lead rather than the silhouette of a separate rock.
 
 Background: Reference material, palette and atmosphere, creating relevant surface treatment when missing. A local patch can have a separate backing; a full-area texture merges with its ground. Avoid adding a dominant object or narrative setting.
 
@@ -71,1223 +602,68 @@ Wording: Keep clearly readable source wording and its language, adapting its pre
 
 Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
 
-Scope and boundaries: The main interest is texture and layering. A collage of unrelated photographs is not automatically a texture collage.
+Scope and boundaries: Do not claim a precise stone species or geological identity without evidence. A complete rock presented as an object is subject-led artwork.
 ```
 
 
-## Geometric abstraction
+## Material texture: paper
 
-Shapes, lines and proportions form a design without a clear object reference.
+Fine fibers, grain and unevenness suggest a paper surface.
 
 ```text
-Target direction: Abstract artwork → Forms → Geometric abstraction
+Target direction: Textures → Surface forms → Material texture: paper
 
 Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
 
-Target structure: Extract palette, rhythm, direction or structure from the input and reorganize them as geometric shapes and lines. Use scale, placement, intersections and open space rather than preserving object recognition.
+Target structure: Use the theme, palette and any existing paper cues to organize subtle fibers, particles and tonal variation. Keep surface quality more important than an independent object.
 
-Background: Reference background colors, rhythm and mood. If absent, create related supporting ground or spatial relationships. Figurative source surroundings may be simplified into supporting cues without replacing the nonfigurative composition.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Geometry that still clearly depicts an object is geometric subject treatment. Nonfigurative geometry may be regular or irregular.
-```
-
-
-## Organic flow
-
-Curves, ribbons and free forms create movement without depicting a specific object.
-
-```text
-Target direction: Abstract artwork → Forms → Organic flow
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Translate the input’s palette, movement or atmosphere into connected curves, flowing bands or organic forms. Coordinate turns, thickness, connections and open areas.
-
-Background: Reference background colors, rhythm and mood. If absent, create related supporting ground or spatial relationships. Figurative source surroundings may be simplified into supporting cues without replacing the nonfigurative composition.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Organic forms need not depict living things. Clear object depiction belongs under subjects; a material surface may belong under textures.
-```
-
-
-## Expressive marks
-
-The direction, energy and rhythm of marks become the image’s main expression.
-
-```text
-Target direction: Abstract artwork → Forms → Expressive marks
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Reorganize the input’s palette and atmosphere through directional marks. Coordinate density, length, thickness and overlap so the marks themselves carry the expression.
-
-Background: Reference background colors, rhythm and mood. If absent, create related supporting ground or spatial relationships. Figurative source surroundings may be simplified into supporting cues without replacing the nonfigurative composition.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Simulating a particular real painting tool is optional. Marks mainly depicting a recognizable object remain a subject treatment.
-```
-
-
-## Color fields
-
-Color areas, overlap and color relationships form the abstract composition.
-
-```text
-Target direction: Abstract artwork → Forms → Color fields
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Reduce palette and mood from the input into a few color fields. Organize area, placement, boundaries, transparency or transitions so color relationships carry the image.
-
-Background: Reference background colors, rhythm and mood. If absent, create related supporting ground or spatial relationships. Figurative source surroundings may be simplified into supporting cues without replacing the nonfigurative composition.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: A single plain background is not automatically a color-field composition. Color blocks clearly depicting an object remain a subject treatment.
-```
-
-
-## Central cluster
-
-Abstract shapes gather near the center, with quieter surrounding space.
-
-```text
-Target direction: Abstract artwork → Composition → Central cluster
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Concentrate nonfigurative shapes, lines or color areas near the center. Build focus through scale, overlap and density while coordinating the surrounding space.
-
-Background: Reference background colors, rhythm and mood. If absent, create related supporting ground or spatial relationships. Figurative source surroundings may be simplified into supporting cues without replacing the nonfigurative composition.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Mirror symmetry is optional. If the arrangement clearly forms a specific object, reassess it as subject artwork.
-```
-
-
-## Offset abstraction
-
-Abstract elements concentrate on one side, creating contrast with an open area.
-
-```text
-Target direction: Abstract artwork → Composition → Offset abstraction
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Move the main abstract shapes or fields toward one side. Limit visual weight in the quieter region so the offset and open space remain clear.
-
-Background: Reference background colors, rhythm and mood. If absent, create related supporting ground or spatial relationships. Figurative source surroundings may be simplified into supporting cues without replacing the nonfigurative composition.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Open space may include color or a subtle texture; it need not be transparent. Do not distribute everything evenly just to fill the area.
-```
-
-
-## Free distribution
-
-Abstract elements occupy varied positions without a periodic repeat.
-
-```text
-Target direction: Abstract artwork → Composition → Free distribution
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Arrange nonfigurative shapes, lines and colors with varied scale and spacing. Balance dense and open regions while retaining free, nonperiodic organization.
-
-Background: Reference background colors, rhythm and mood. If absent, create related supporting ground or spatial relationships. Figurative source surroundings may be simplified into supporting cues without replacing the nonfigurative composition.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Free distribution is not the same as an unconsidered pile. An arrangement repeating as a periodic unit belongs under patterns.
-```
-
-
-## Cropped abstract forms
-
-Forms extend beyond the image edges, suggesting a larger composition.
-
-```text
-Target direction: Abstract artwork → Composition → Cropped abstract forms
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Enlarge or move abstract forms beyond selected edges. Use cropping to create scale and extension while coordinating the relationships that remain visible.
-
-Background: Reference background colors, rhythm and mood. If absent, create related supporting ground or spatial relationships. Figurative source surroundings may be simplified into supporting cues without replacing the nonfigurative composition.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Crossing an edge does not establish seamless tiling. A complete physical object or scene outside the frame is not required.
-```
-
-
-## Overlapping zones
-
-Abstract regions divide the image and establish layers through intersections.
-
-```text
-Target direction: Abstract artwork → Composition → Overlapping zones
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Organize the input palette and forms into a few main regions. Build relationships through partition, overlap, crossing shapes or transparency.
-
-Background: Reference background colors, rhythm and mood. If absent, create related supporting ground or spatial relationships. Figurative source surroundings may be simplified into supporting cues without replacing the nonfigurative composition.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Equal divisions and a regular grid are optional. Independent photographs shown side by side are not a nonfigurative zoned composition.
-```
-
-
-## Transparent background
-
-Single subject: The ground stays transparent; a checkerboard is only a display aid.
-
-```text
-Target direction: Subject-led → Single subject → Background → Transparent background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain one coherent focal subject. If several independent objects are present, choose the lead subject or organize a clearly unified visual whole.
-
-Background: Use any relevant palette, treatment or necessary theme cues from an existing background, then remove the backing layer. Keep an absent background transparent rather than painting a false ground; necessary colors inside the content can remain.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: True transparency requires an alpha channel. Do not paint a checkerboard or white ground into the image and call it transparent; state that post-processing is needed if the tool cannot produce transparency.
-```
-
-
-## Solid background
-
-Single subject: One uniform color forms the ground; white is also a solid background.
-
-```text
-Target direction: Subject-led → Single subject → Background → Solid background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain one coherent focal subject. If several independent objects are present, choose the lead subject or organize a clearly unified visual whole.
-
-Background: Choose one suitable color from the existing background or theme, or use a specified color. If no ground is supplied, create a theme-related single-color backing and keep it uniform.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Do not add patterns, gradients, texture or a scene to the backing. This does not restrict colors and details within the foreground content.
-```
-
-
-## Gradient background
-
-Single subject: The backing changes continuously in color or brightness while the main content remains clear.
-
-```text
-Target direction: Subject-led → Single subject → Background → Gradient background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain one coherent focal subject. If several independent objects are present, choose the lead subject or organize a clearly unified visual whole.
-
-Background: Use color and atmosphere from the source background or theme to create a continuous tonal, color or opacity transition. When absent, create a related gradient and coordinate its direction and strength.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Two flat areas with a hard division are not a gradient. Keep the transition from overwhelming the main content.
-```
-
-
-## Patterned background: local
-
-Single subject: A decorative patch sits behind the content, leaving an area outside the patch.
-
-```text
-Target direction: Subject-led → Single subject → Background → Patterned background: local
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain one coherent focal subject. If several independent objects are present, choose the lead subject or organize a clearly unified visual whole.
-
-Background: Use background elements, treatment and palette as references and reorganize them into a local decorative backing. If none exists, or the source only has a plain or transparent ground, create related motifs. Retain transparency, the original base color or an explicitly requested ground outside the patch.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: The patch may be regular or free-form but does not cover the canvas. Decoration mainly enclosing the outer contour is surrounding decoration; keep the main content dominant.
-```
-
-
-## Patterned background: full area
-
-Single subject: A patterned ground covers the image behind clearly readable foreground content.
-
-```text
-Target direction: Subject-led → Single subject → Background → Patterned background: full area
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain one coherent focal subject. If several independent objects are present, choose the lead subject or organize a clearly unified visual whole.
-
-Background: Develop existing background motif and color cues into a backing that covers the entire image. If absent, create related motifs; control scale, density and contrast to preserve the foreground hierarchy.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Full coverage is not proof that the complete image tiles seamlessly. Keep foreground content visible and retain the pattern’s arrangement when patterns are the main category.
-```
-
-
-## Textured background
-
-Single subject: Paper grain, particles or another surface character support the foreground content.
-
-```text
-Target direction: Subject-led → Single subject → Background → Textured background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain one coherent focal subject. If several independent objects are present, choose the lead subject or organize a clearly unified visual whole.
-
-Background: Reference existing surface detail, palette and density, or create a theme-related low-interference texture when absent. Coordinate scale and contrast so the material stays in a supporting role.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: A textured backing should not automatically become an independent object or a whole narrative scene. In the texture category, distinguish the main surface fragment from its supporting ground.
-```
-
-
-## Environmental background
-
-Single subject: A theme-related environment supports the main content from behind or around it.
-
-```text
-Target direction: Subject-led → Single subject → Background → Environmental background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain one coherent focal subject. If several independent objects are present, choose the lead subject or organize a clearly unified visual whole.
-
-Background: Reference the existing location, environmental elements and atmosphere, adapting them to the main content. If absent or only plain or transparent, create a related setting and coordinate scale, direction and depth.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: For subject, pattern, texture or abstract categories, the setting remains secondary. Reassess the image as a scene if environment or narrative becomes the main expression.
-```
-
-
-## Transparent background
-
-Multiple subjects: The ground stays transparent; a checkerboard is only a display aid.
-
-```text
-Target direction: Subject-led → Multiple subjects → Background → Transparent background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain several identifiable subjects and their main grouping. Add theme-related objects if needed; a collection should still show its elements independently.
-
-Background: Use any relevant palette, treatment or necessary theme cues from an existing background, then remove the backing layer. Keep an absent background transparent rather than painting a false ground; necessary colors inside the content can remain.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: True transparency requires an alpha channel. Do not paint a checkerboard or white ground into the image and call it transparent; state that post-processing is needed if the tool cannot produce transparency.
-```
-
-
-## Solid background
-
-Multiple subjects: One uniform color forms the ground; white is also a solid background.
-
-```text
-Target direction: Subject-led → Multiple subjects → Background → Solid background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain several identifiable subjects and their main grouping. Add theme-related objects if needed; a collection should still show its elements independently.
-
-Background: Choose one suitable color from the existing background or theme, or use a specified color. If no ground is supplied, create a theme-related single-color backing and keep it uniform.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Do not add patterns, gradients, texture or a scene to the backing. This does not restrict colors and details within the foreground content.
-```
-
-
-## Gradient background
-
-Multiple subjects: The backing changes continuously in color or brightness while the main content remains clear.
-
-```text
-Target direction: Subject-led → Multiple subjects → Background → Gradient background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain several identifiable subjects and their main grouping. Add theme-related objects if needed; a collection should still show its elements independently.
-
-Background: Use color and atmosphere from the source background or theme to create a continuous tonal, color or opacity transition. When absent, create a related gradient and coordinate its direction and strength.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Two flat areas with a hard division are not a gradient. Keep the transition from overwhelming the main content.
-```
-
-
-## Patterned background: local
-
-Multiple subjects: A decorative patch sits behind the content, leaving an area outside the patch.
-
-```text
-Target direction: Subject-led → Multiple subjects → Background → Patterned background: local
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain several identifiable subjects and their main grouping. Add theme-related objects if needed; a collection should still show its elements independently.
-
-Background: Use background elements, treatment and palette as references and reorganize them into a local decorative backing. If none exists, or the source only has a plain or transparent ground, create related motifs. Retain transparency, the original base color or an explicitly requested ground outside the patch.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: The patch may be regular or free-form but does not cover the canvas. Decoration mainly enclosing the outer contour is surrounding decoration; keep the main content dominant.
-```
-
-
-## Patterned background: full area
-
-Multiple subjects: A patterned ground covers the image behind clearly readable foreground content.
-
-```text
-Target direction: Subject-led → Multiple subjects → Background → Patterned background: full area
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain several identifiable subjects and their main grouping. Add theme-related objects if needed; a collection should still show its elements independently.
-
-Background: Develop existing background motif and color cues into a backing that covers the entire image. If absent, create related motifs; control scale, density and contrast to preserve the foreground hierarchy.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Full coverage is not proof that the complete image tiles seamlessly. Keep foreground content visible and retain the pattern’s arrangement when patterns are the main category.
-```
-
-
-## Textured background
-
-Multiple subjects: Paper grain, particles or another surface character support the foreground content.
-
-```text
-Target direction: Subject-led → Multiple subjects → Background → Textured background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain several identifiable subjects and their main grouping. Add theme-related objects if needed; a collection should still show its elements independently.
-
-Background: Reference existing surface detail, palette and density, or create a theme-related low-interference texture when absent. Coordinate scale and contrast so the material stays in a supporting role.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: A textured backing should not automatically become an independent object or a whole narrative scene. In the texture category, distinguish the main surface fragment from its supporting ground.
-```
-
-
-## Environmental background
-
-Multiple subjects: A theme-related environment supports the main content from behind or around it.
-
-```text
-Target direction: Subject-led → Multiple subjects → Background → Environmental background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain several identifiable subjects and their main grouping. Add theme-related objects if needed; a collection should still show its elements independently.
-
-Background: Reference the existing location, environmental elements and atmosphere, adapting them to the main content. If absent or only plain or transparent, create a related setting and coordinate scale, direction and depth.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: For subject, pattern, texture or abstract categories, the setting remains secondary. Reassess the image as a scene if environment or narrative becomes the main expression.
-```
-
-
-## Transparent background
-
-Text and subject relationships: The ground stays transparent; a checkerboard is only a display aid.
-
-```text
-Target direction: Subject-led → Text and subject relationships → Background → Transparent background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain the theme and core relationship of text and image. Coordinate hierarchy, placement and reading without turning supporting wording into an unrelated dominant headline.
-
-Background: Use any relevant palette, treatment or necessary theme cues from an existing background, then remove the backing layer. Keep an absent background transparent rather than painting a false ground; necessary colors inside the content can remain.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: True transparency requires an alpha channel. Do not paint a checkerboard or white ground into the image and call it transparent; state that post-processing is needed if the tool cannot produce transparency.
-```
-
-
-## Solid background
-
-Text and subject relationships: One uniform color forms the ground; white is also a solid background.
-
-```text
-Target direction: Subject-led → Text and subject relationships → Background → Solid background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain the theme and core relationship of text and image. Coordinate hierarchy, placement and reading without turning supporting wording into an unrelated dominant headline.
-
-Background: Choose one suitable color from the existing background or theme, or use a specified color. If no ground is supplied, create a theme-related single-color backing and keep it uniform.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Do not add patterns, gradients, texture or a scene to the backing. This does not restrict colors and details within the foreground content.
-```
-
-
-## Gradient background
-
-Text and subject relationships: The backing changes continuously in color or brightness while the main content remains clear.
-
-```text
-Target direction: Subject-led → Text and subject relationships → Background → Gradient background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain the theme and core relationship of text and image. Coordinate hierarchy, placement and reading without turning supporting wording into an unrelated dominant headline.
-
-Background: Use color and atmosphere from the source background or theme to create a continuous tonal, color or opacity transition. When absent, create a related gradient and coordinate its direction and strength.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Two flat areas with a hard division are not a gradient. Keep the transition from overwhelming the main content.
-```
-
-
-## Patterned background: local
-
-Text and subject relationships: A decorative patch sits behind the content, leaving an area outside the patch.
-
-```text
-Target direction: Subject-led → Text and subject relationships → Background → Patterned background: local
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain the theme and core relationship of text and image. Coordinate hierarchy, placement and reading without turning supporting wording into an unrelated dominant headline.
-
-Background: Use background elements, treatment and palette as references and reorganize them into a local decorative backing. If none exists, or the source only has a plain or transparent ground, create related motifs. Retain transparency, the original base color or an explicitly requested ground outside the patch.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: The patch may be regular or free-form but does not cover the canvas. Decoration mainly enclosing the outer contour is surrounding decoration; keep the main content dominant.
-```
-
-
-## Patterned background: full area
-
-Text and subject relationships: A patterned ground covers the image behind clearly readable foreground content.
-
-```text
-Target direction: Subject-led → Text and subject relationships → Background → Patterned background: full area
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain the theme and core relationship of text and image. Coordinate hierarchy, placement and reading without turning supporting wording into an unrelated dominant headline.
-
-Background: Develop existing background motif and color cues into a backing that covers the entire image. If absent, create related motifs; control scale, density and contrast to preserve the foreground hierarchy.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Full coverage is not proof that the complete image tiles seamlessly. Keep foreground content visible and retain the pattern’s arrangement when patterns are the main category.
-```
-
-
-## Textured background
-
-Text and subject relationships: Paper grain, particles or another surface character support the foreground content.
-
-```text
-Target direction: Subject-led → Text and subject relationships → Background → Textured background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain the theme and core relationship of text and image. Coordinate hierarchy, placement and reading without turning supporting wording into an unrelated dominant headline.
-
-Background: Reference existing surface detail, palette and density, or create a theme-related low-interference texture when absent. Coordinate scale and contrast so the material stays in a supporting role.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: A textured backing should not automatically become an independent object or a whole narrative scene. In the texture category, distinguish the main surface fragment from its supporting ground.
-```
-
-
-## Environmental background
-
-Text and subject relationships: A theme-related environment supports the main content from behind or around it.
-
-```text
-Target direction: Subject-led → Text and subject relationships → Background → Environmental background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain the theme and core relationship of text and image. Coordinate hierarchy, placement and reading without turning supporting wording into an unrelated dominant headline.
-
-Background: Reference the existing location, environmental elements and atmosphere, adapting them to the main content. If absent or only plain or transparent, create a related setting and coordinate scale, direction and depth.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: For subject, pattern, texture or abstract categories, the setting remains secondary. Reassess the image as a scene if environment or narrative becomes the main expression.
-```
-
-
-## Transparent background
-
-Scenes: The ground stays transparent; a checkerboard is only a display aid.
-
-```text
-Target direction: Scenes → Background → Transparent background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Preserve the scene’s essential space, setting and any existing event. Change the ground behind it, the sky layer or the surrounding backing rather than removing the context that makes it a scene.
-
-Background: Use any relevant palette, treatment or necessary theme cues from an existing background, then remove the backing layer. Keep an absent background transparent rather than painting a false ground; necessary colors inside the content can remain.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: True transparency requires an alpha channel. Do not paint a checkerboard or white ground into the image and call it transparent; state that post-processing is needed if the tool cannot produce transparency.
-```
-
-
-## Solid background
-
-Scenes: One uniform color forms the ground; white is also a solid background.
-
-```text
-Target direction: Scenes → Background → Solid background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Preserve the scene’s essential space, setting and any existing event. Change the ground behind it, the sky layer or the surrounding backing rather than removing the context that makes it a scene.
-
-Background: Choose one suitable color from the existing background or theme, or use a specified color. If no ground is supplied, create a theme-related single-color backing and keep it uniform.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Do not add patterns, gradients, texture or a scene to the backing. This does not restrict colors and details within the foreground content.
-```
-
-
-## Gradient background
-
-Scenes: The backing changes continuously in color or brightness while the main content remains clear.
-
-```text
-Target direction: Scenes → Background → Gradient background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Preserve the scene’s essential space, setting and any existing event. Change the ground behind it, the sky layer or the surrounding backing rather than removing the context that makes it a scene.
-
-Background: Use color and atmosphere from the source background or theme to create a continuous tonal, color or opacity transition. When absent, create a related gradient and coordinate its direction and strength.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Two flat areas with a hard division are not a gradient. Keep the transition from overwhelming the main content.
-```
-
-
-## Patterned background: local
-
-Scenes: A decorative patch sits behind the content, leaving an area outside the patch.
-
-```text
-Target direction: Scenes → Background → Patterned background: local
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Preserve the scene’s essential space, setting and any existing event. Change the ground behind it, the sky layer or the surrounding backing rather than removing the context that makes it a scene.
-
-Background: Use background elements, treatment and palette as references and reorganize them into a local decorative backing. If none exists, or the source only has a plain or transparent ground, create related motifs. Retain transparency, the original base color or an explicitly requested ground outside the patch.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: The patch may be regular or free-form but does not cover the canvas. Decoration mainly enclosing the outer contour is surrounding decoration; keep the main content dominant.
-```
-
-
-## Patterned background: full area
-
-Scenes: A patterned ground covers the image behind clearly readable foreground content.
-
-```text
-Target direction: Scenes → Background → Patterned background: full area
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Preserve the scene’s essential space, setting and any existing event. Change the ground behind it, the sky layer or the surrounding backing rather than removing the context that makes it a scene.
-
-Background: Develop existing background motif and color cues into a backing that covers the entire image. If absent, create related motifs; control scale, density and contrast to preserve the foreground hierarchy.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Full coverage is not proof that the complete image tiles seamlessly. Keep foreground content visible and retain the pattern’s arrangement when patterns are the main category.
-```
-
-
-## Textured background
-
-Scenes: Paper grain, particles or another surface character support the foreground content.
-
-```text
-Target direction: Scenes → Background → Textured background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Preserve the scene’s essential space, setting and any existing event. Change the ground behind it, the sky layer or the surrounding backing rather than removing the context that makes it a scene.
-
-Background: Reference existing surface detail, palette and density, or create a theme-related low-interference texture when absent. Coordinate scale and contrast so the material stays in a supporting role.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: A textured backing should not automatically become an independent object or a whole narrative scene. In the texture category, distinguish the main surface fragment from its supporting ground.
-```
-
-
-## Environmental background
-
-Scenes: A theme-related environment supports the main content from behind or around it.
-
-```text
-Target direction: Scenes → Background → Environmental background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Preserve the scene’s essential space, setting and any existing event. Change the ground behind it, the sky layer or the surrounding backing rather than removing the context that makes it a scene.
-
-Background: Reference the existing location, environmental elements and atmosphere, adapting them to the main content. If absent or only plain or transparent, create a related setting and coordinate scale, direction and depth.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: For subject, pattern, texture or abstract categories, the setting remains secondary. Reassess the image as a scene if environment or narrative becomes the main expression.
-```
-
-
-## Transparent background
-
-Patterns: The ground stays transparent; a checkerboard is only a display aid.
-
-```text
-Target direction: Patterns → Background → Transparent background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain motif repetition or decorative order. If the chosen subtype requires seamless tiling, foreground, background and wording must continue together and be checked again after a background change.
-
-Background: Use any relevant palette, treatment or necessary theme cues from an existing background, then remove the backing layer. Keep an absent background transparent rather than painting a false ground; necessary colors inside the content can remain.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: True transparency requires an alpha channel. Do not paint a checkerboard or white ground into the image and call it transparent; state that post-processing is needed if the tool cannot produce transparency.
-```
-
-
-## Solid background
-
-Patterns: One uniform color forms the ground; white is also a solid background.
-
-```text
-Target direction: Patterns → Background → Solid background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain motif repetition or decorative order. If the chosen subtype requires seamless tiling, foreground, background and wording must continue together and be checked again after a background change.
-
-Background: Choose one suitable color from the existing background or theme, or use a specified color. If no ground is supplied, create a theme-related single-color backing and keep it uniform.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Do not add patterns, gradients, texture or a scene to the backing. This does not restrict colors and details within the foreground content.
-```
-
-
-## Gradient background
-
-Patterns: The backing changes continuously in color or brightness while the main content remains clear.
-
-```text
-Target direction: Patterns → Background → Gradient background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain motif repetition or decorative order. If the chosen subtype requires seamless tiling, foreground, background and wording must continue together and be checked again after a background change.
-
-Background: Use color and atmosphere from the source background or theme to create a continuous tonal, color or opacity transition. When absent, create a related gradient and coordinate its direction and strength.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Two flat areas with a hard division are not a gradient. Keep the transition from overwhelming the main content.
-```
-
-
-## Patterned background: local
-
-Patterns: A decorative patch sits behind the content, leaving an area outside the patch.
-
-```text
-Target direction: Patterns → Background → Patterned background: local
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain motif repetition or decorative order. If the chosen subtype requires seamless tiling, foreground, background and wording must continue together and be checked again after a background change.
-
-Background: Use background elements, treatment and palette as references and reorganize them into a local decorative backing. If none exists, or the source only has a plain or transparent ground, create related motifs. Retain transparency, the original base color or an explicitly requested ground outside the patch.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: The patch may be regular or free-form but does not cover the canvas. Decoration mainly enclosing the outer contour is surrounding decoration; keep the main content dominant.
-```
-
-
-## Patterned background: full area
-
-Patterns: A patterned ground covers the image behind clearly readable foreground content.
-
-```text
-Target direction: Patterns → Background → Patterned background: full area
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain motif repetition or decorative order. If the chosen subtype requires seamless tiling, foreground, background and wording must continue together and be checked again after a background change.
-
-Background: Develop existing background motif and color cues into a backing that covers the entire image. If absent, create related motifs; control scale, density and contrast to preserve the foreground hierarchy.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Full coverage is not proof that the complete image tiles seamlessly. Keep foreground content visible and retain the pattern’s arrangement when patterns are the main category.
-```
-
-
-## Textured background
-
-Patterns: Paper grain, particles or another surface character support the foreground content.
-
-```text
-Target direction: Patterns → Background → Textured background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain motif repetition or decorative order. If the chosen subtype requires seamless tiling, foreground, background and wording must continue together and be checked again after a background change.
-
-Background: Reference existing surface detail, palette and density, or create a theme-related low-interference texture when absent. Coordinate scale and contrast so the material stays in a supporting role.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: A textured backing should not automatically become an independent object or a whole narrative scene. In the texture category, distinguish the main surface fragment from its supporting ground.
-```
-
-
-## Environmental background
-
-Patterns: A theme-related environment supports the main content from behind or around it.
-
-```text
-Target direction: Patterns → Background → Environmental background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain motif repetition or decorative order. If the chosen subtype requires seamless tiling, foreground, background and wording must continue together and be checked again after a background change.
-
-Background: Reference the existing location, environmental elements and atmosphere, adapting them to the main content. If absent or only plain or transparent, create a related setting and coordinate scale, direction and depth.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a short theme-related word or phrase as a supporting motif. When seamless tiling is required, include wording in the repeat unit and check spelling, edge continuation and readability; otherwise do not promise seamlessness. Respect an explicit request for no text.
-
-Preserve and adapt: Keep the core theme and identifying features. Use the source treatment and palette as a starting point, changing them only as required by the selected direction. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: For subject, pattern, texture or abstract categories, the setting remains secondary. Reassess the image as a scene if environment or narrative becomes the main expression.
-```
-
-
-## Transparent background
-
-Textures: The ground stays transparent; a checkerboard is only a display aid.
-
-```text
-Target direction: Textures → Background → Transparent background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Keep material character dominant. Use a local texture fragment when a separate ground must be visible; an opaque full-area texture and its ground become one, so a different complete backing cannot also remain visible.
-
-Background: Use any relevant palette, treatment or necessary theme cues from an existing background, then remove the backing layer. Keep an absent background transparent rather than painting a false ground; necessary colors inside the content can remain.
+Background: Reference material, palette and atmosphere, creating relevant surface treatment when missing. A local patch can have a separate backing; a full-area texture merges with its ground. Avoid adding a dominant object or narrative setting.
 
 Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
 
 Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
 
-Scope and boundaries: True transparency requires an alpha channel. Do not paint a checkerboard or white ground into the image and call it transparent; state that post-processing is needed if the tool cannot produce transparency.
+Scope and boundaries: Aged color, torn edges and yellowing are optional. A book or sheet presented mainly as an object belongs under subject or scene artwork.
 ```
 
 
-## Solid background
+## Material texture: fabric
 
-Textures: One uniform color forms the ground; white is also a solid background.
+Interwoven lines and fiber detail suggest a woven surface.
 
 ```text
-Target direction: Textures → Background → Solid background
+Target direction: Textures → Surface forms → Material texture: fabric
 
 Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
 
-Target structure: Keep material character dominant. Use a local texture fragment when a separate ground must be visible; an opaque full-area texture and its ground become one, so a different complete backing cannot also remain visible.
+Target structure: Use the input palette and material cues to develop crossing threads, fiber layers or a woven surface. Coordinate line thickness and density so the material character is readable.
 
-Background: Choose one suitable color from the existing background or theme, or use a specified color. If no ground is supplied, create a theme-related single-color backing and keep it uniform.
+Background: Reference material, palette and atmosphere, creating relevant surface treatment when missing. A local patch can have a separate backing; a full-area texture merges with its ground. Avoid adding a dominant object or narrative setting.
 
 Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
 
 Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
 
-Scope and boundaries: Do not add patterns, gradients, texture or a scene to the backing. This does not restrict colors and details within the foreground content.
+Scope and boundaries: Not every grid is a fabric texture. A purely decorative flat check without material cues is closer to a pattern.
 ```
 
 
-## Gradient background
+## Applied texture: wear
 
-Textures: The backing changes continuously in color or brightness while the main content remains clear.
+Scuffs, brush marks and uneven wear give a surface a used or worked character.
 
 ```text
-Target direction: Textures → Background → Gradient background
+Target direction: Textures → Surface forms → Applied texture: wear
 
 Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
 
-Target structure: Keep material character dominant. Use a local texture fragment when a separate ground must be visible; an opaque full-area texture and its ground become one, so a different complete backing cannot also remain visible.
+Target structure: Develop varied abrasion, particles, worn patches or brush marks that appear to belong to the same surface. Coordinate their density and intensity with the source theme and material.
 
-Background: Use color and atmosphere from the source background or theme to create a continuous tonal, color or opacity transition. When absent, create a related gradient and coordinate its direction and strength.
+Background: Reference material, palette and atmosphere, creating relevant surface treatment when missing. A local patch can have a separate backing; a full-area texture merges with its ground. Avoid adding a dominant object or narrative setting.
 
 Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
 
 Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
 
-Scope and boundaries: Two flat areas with a hard division are not a gradient. Keep the transition from overwhelming the main content.
-```
-
-
-## Patterned background: local
-
-Textures: A decorative patch sits behind the content, leaving an area outside the patch.
-
-```text
-Target direction: Textures → Background → Patterned background: local
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Keep material character dominant. Use a local texture fragment when a separate ground must be visible; an opaque full-area texture and its ground become one, so a different complete backing cannot also remain visible.
-
-Background: Use background elements, treatment and palette as references and reorganize them into a local decorative backing. If none exists, or the source only has a plain or transparent ground, create related motifs. Retain transparency, the original base color or an explicitly requested ground outside the patch.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: The patch may be regular or free-form but does not cover the canvas. Decoration mainly enclosing the outer contour is surrounding decoration; keep the main content dominant.
-```
-
-
-## Patterned background: full area
-
-Textures: A patterned ground covers the image behind clearly readable foreground content.
-
-```text
-Target direction: Textures → Background → Patterned background: full area
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Keep material character dominant. Use a local texture fragment when a separate ground must be visible; an opaque full-area texture and its ground become one, so a different complete backing cannot also remain visible.
-
-Background: Develop existing background motif and color cues into a backing that covers the entire image. If absent, create related motifs; control scale, density and contrast to preserve the foreground hierarchy.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Full coverage is not proof that the complete image tiles seamlessly. Keep foreground content visible and retain the pattern’s arrangement when patterns are the main category.
-```
-
-
-## Textured background
-
-Textures: Paper grain, particles or another surface character support the foreground content.
-
-```text
-Target direction: Textures → Background → Textured background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Keep material character dominant. Use a local texture fragment when a separate ground must be visible; an opaque full-area texture and its ground become one, so a different complete backing cannot also remain visible.
-
-Background: Reference existing surface detail, palette and density, or create a theme-related low-interference texture when absent. Coordinate scale and contrast so the material stays in a supporting role.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: A textured backing should not automatically become an independent object or a whole narrative scene. In the texture category, distinguish the main surface fragment from its supporting ground.
-```
-
-
-## Environmental background
-
-Textures: A theme-related environment supports the main content from behind or around it.
-
-```text
-Target direction: Textures → Background → Environmental background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Keep material character dominant. Use a local texture fragment when a separate ground must be visible; an opaque full-area texture and its ground become one, so a different complete backing cannot also remain visible.
-
-Background: Reference the existing location, environmental elements and atmosphere, adapting them to the main content. If absent or only plain or transparent, create a related setting and coordinate scale, direction and depth.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain relevant material, surface, palette and atmosphere without requiring an object silhouette or complete scene. Create the requested effect when material cues are absent, without claiming to have identified the source’s real material. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: For subject, pattern, texture or abstract categories, the setting remains secondary. Reassess the image as a scene if environment or narrative becomes the main expression.
-```
-
-
-## Transparent background
-
-Abstract artwork: The ground stays transparent; a checkerboard is only a display aid.
-
-```text
-Target direction: Abstract artwork → Background → Transparent background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain nonfigurative form, line and color relationships. The ground should support the abstraction rather than introduce a dominant identifiable object.
-
-Background: Use any relevant palette, treatment or necessary theme cues from an existing background, then remove the backing layer. Keep an absent background transparent rather than painting a false ground; necessary colors inside the content can remain.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: True transparency requires an alpha channel. Do not paint a checkerboard or white ground into the image and call it transparent; state that post-processing is needed if the tool cannot produce transparency.
-```
-
-
-## Solid background
-
-Abstract artwork: One uniform color forms the ground; white is also a solid background.
-
-```text
-Target direction: Abstract artwork → Background → Solid background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain nonfigurative form, line and color relationships. The ground should support the abstraction rather than introduce a dominant identifiable object.
-
-Background: Choose one suitable color from the existing background or theme, or use a specified color. If no ground is supplied, create a theme-related single-color backing and keep it uniform.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Do not add patterns, gradients, texture or a scene to the backing. This does not restrict colors and details within the foreground content.
-```
-
-
-## Gradient background
-
-Abstract artwork: The backing changes continuously in color or brightness while the main content remains clear.
-
-```text
-Target direction: Abstract artwork → Background → Gradient background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain nonfigurative form, line and color relationships. The ground should support the abstraction rather than introduce a dominant identifiable object.
-
-Background: Use color and atmosphere from the source background or theme to create a continuous tonal, color or opacity transition. When absent, create a related gradient and coordinate its direction and strength.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Two flat areas with a hard division are not a gradient. Keep the transition from overwhelming the main content.
-```
-
-
-## Patterned background: local
-
-Abstract artwork: A decorative patch sits behind the content, leaving an area outside the patch.
-
-```text
-Target direction: Abstract artwork → Background → Patterned background: local
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain nonfigurative form, line and color relationships. The ground should support the abstraction rather than introduce a dominant identifiable object.
-
-Background: Use background elements, treatment and palette as references and reorganize them into a local decorative backing. If none exists, or the source only has a plain or transparent ground, create related motifs. Retain transparency, the original base color or an explicitly requested ground outside the patch.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: The patch may be regular or free-form but does not cover the canvas. Decoration mainly enclosing the outer contour is surrounding decoration; keep the main content dominant.
-```
-
-
-## Patterned background: full area
-
-Abstract artwork: A patterned ground covers the image behind clearly readable foreground content.
-
-```text
-Target direction: Abstract artwork → Background → Patterned background: full area
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain nonfigurative form, line and color relationships. The ground should support the abstraction rather than introduce a dominant identifiable object.
-
-Background: Develop existing background motif and color cues into a backing that covers the entire image. If absent, create related motifs; control scale, density and contrast to preserve the foreground hierarchy.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: Full coverage is not proof that the complete image tiles seamlessly. Keep foreground content visible and retain the pattern’s arrangement when patterns are the main category.
-```
-
-
-## Textured background
-
-Abstract artwork: Paper grain, particles or another surface character support the foreground content.
-
-```text
-Target direction: Abstract artwork → Background → Textured background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain nonfigurative form, line and color relationships. The ground should support the abstraction rather than introduce a dominant identifiable object.
-
-Background: Reference existing surface detail, palette and density, or create a theme-related low-interference texture when absent. Coordinate scale and contrast so the material stays in a supporting role.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: A textured backing should not automatically become an independent object or a whole narrative scene. In the texture category, distinguish the main surface fragment from its supporting ground.
-```
-
-
-## Environmental background
-
-Abstract artwork: A theme-related environment supports the main content from behind or around it.
-
-```text
-Target direction: Abstract artwork → Background → Environmental background
-
-Input and output: If given an image, adapt the image to this direction. If given a prompt, rewrite it as a complete prompt ready for image generation.
-
-Target structure: Retain nonfigurative form, line and color relationships. The ground should support the abstraction rather than introduce a dominant identifiable object.
-
-Background: Reference the existing location, environmental elements and atmosphere, adapting them to the main content. If absent or only plain or transparent, create a related setting and coordinate scale, direction and depth.
-
-Wording: Keep clearly readable source wording and its language, adapting its presentation. Do not claim to have recovered unreadable text. If no words are supplied, create a brief related phrase as supporting copy without obscuring key subjects, action or structure. Follow the target hierarchy for existing wording and respect an explicit request for no text.
-
-Preserve and adapt: Retain theme, atmosphere, palette, rhythm or direction while allowing concrete object identity to be reduced or removed. Do not simultaneously require the original object silhouette to remain intact. Do not describe newly created content as present in the source. State a conflict between explicit input restrictions and necessary target conditions rather than claiming both were met.
-
-Scope and boundaries: For subject, pattern, texture or abstract categories, the setting remains secondary. Reassess the image as a scene if environment or narrative becomes the main expression.
+Scope and boundaries: Heavy damage is optional. Unrelated random noise does not replace all material detail, and the treatment does not verify a historical age or real manufacturing process.
 ```

@@ -10,9 +10,11 @@
 
 Estas son instrucciones de la Guía pública, no reglas privadas de Skill. Los estudios visuales son conceptuales; Los resultados deben ser revisados.
 
-Lee las 123 instrucciones en dos partes. Cada una incluye un bloque de texto listo para copiar.
+Lee las 123 instrucciones en cuatro partes. Cada una incluye un bloque de texto listo para copiar.
 
-- [1–62](part-1.md)
-- [63–123](part-2.md)
+- [1–31](part-1.md)
+- [32–62](part-2.md)
+- [63–93](part-3.md)
+- [94–123](part-4.md)
 
 [Descargar la colección completa](../ai-directions.md?raw=1)
