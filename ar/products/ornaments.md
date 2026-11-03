@@ -12,7 +12,7 @@
 
 <a id="guide-main"></a>
 
-# الحلي وواقيات الشمس
+# زينة معلّقة وزينة نوافذ ملتقطة للشمس
 
 قم بتحويل صورة حيوان أليف أو صورة زوجية أو اسم أو تاريخ إلى تصميم زينة للعطلات.
 
@@ -24,7 +24,7 @@
 
 تعمل الزخارف بشكل أفضل مع عنصر واحد واضح، أو رسم بسيط للعطلة، أو اسم قصير وسنة. حيوان أليف أو شخص كعنصر رئيسي؛ أيقونة عطلة بسيطة. الاسم والسنة مدمجة في التصميم.
 
-[![الحلي وكاذبات الشمس · الزخرفة الأكريليكية](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
+[![زينة معلّقة وزينة نوافذ ملتقطة للشمس · زينة أكريليك](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
 <a id="product-create"></a>
 
@@ -48,13 +48,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bf3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 1 / 1
 
@@ -80,7 +80,7 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
 <a id="product-mockup"></a>
 
@@ -96,8 +96,8 @@
 
 - تبرز لوحة بسيطة مقابل ديكور العطلات التفصيلي
 
-[![الحلي وكاذبات الشمس · الزخرفة الأكريليكية](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
+[![زينة معلّقة وزينة نوافذ ملتقطة للشمس · زينة أكريليك](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
-[![الحلي وواقيات الشمس · العلامة التذكارية 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)](https://podplo.app/products/mockup-temu-605893919926956)
+[![زينة معلّقة وزينة نوافذ ملتقطة للشمس · قلادة تذكارية 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)](https://podplo.app/products/mockup-temu-605893919926956)
 
 </div>

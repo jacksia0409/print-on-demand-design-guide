@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/techniques/series-builder?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/techniques/series-builder?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Erstellen Sie ein aufeinander abgestimmtes vier- oder sechsteiliges Set mit eine
 
 [4PC-Gittergenerator](https://podplo.app/skills/four-piece-grid) entwickelt eine Referenz in vier aufeinander abgestimmte Designrichtungen.
 
-[4PC-Gittergenerator](https://podplo.app/skills/four-piece-grid) entwickelt eine Referenz in vier verwandte, aber unterschiedliche Kompositionen. Das Thema bleibt konsistent, während sich das Layout, die unterstützenden Elemente und der Schwerpunkt von Panel zu Panel ändern.
+[4PC-Gittergenerator](https://podplo.app/skills/four-piece-grid) entwickelt aus einer Referenz vier zusammengehörige, unterschiedliche Kompositionen. Das Motiv bleibt konsistent, während Layout, ergänzende Elemente und Blickpunkt von Bildfeld zu Bildfeld wechseln.
 
 ![Referenz für eine vierteilige Kollektion](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16-before.webp)
 

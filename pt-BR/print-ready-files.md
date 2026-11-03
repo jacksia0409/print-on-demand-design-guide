@@ -18,9 +18,9 @@ Aumente a nitidez dos detalhes, remova um fundo ou amplie uma cena. Destaque o q
 
 ## Destaque detalhes finos
 
-[Alto padrão em alta definição](https://podplo.app/skills/hd-upscale) aguça a textura e pequenos detalhes preservando a composição.
+[Ampliação HD](https://podplo.app/skills/hd-upscale) aguça a textura e pequenos detalhes preservando a composição.
 
-[Alto padrão em alta definição](https://podplo.app/skills/hd-upscale) pode aumentar a nitidez de bordas finas, texturas e formas pequenas em uma imagem selecionada. Adiciona clareza sem alterar o assunto ou a composição.
+[Ampliação HD](https://podplo.app/skills/hd-upscale) pode aumentar a nitidez das bordas finas, texturas e pequenas formas de uma imagem selecionada. Adiciona nitidez sem alterar o elemento principal ou a composição.
 
 ![Imagem escolhida antes do enriquecimento de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2-before.webp)
 
@@ -28,7 +28,7 @@ Entrada
 
 [![Versão enriquecida com detalhes da mesma imagem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)](https://podplo.app/skills/hd-upscale)
 
-Alto padrão em alta definição
+Ampliação HD
 
 **Mais Skills para explorar**
 
@@ -40,27 +40,27 @@ Alto padrão em alta definição
 
 <a id="_R_5irk_-cards"></a>
 
-[![Exemplo de arte de reparo detalhado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Exemplo de arte do Reparo de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparo Detalhado](https://podplo.app/skills/detail-repair)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Reparo de detalhes](https://podplo.app/skills/detail-repair)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte do Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Pintura Inteligente](https://podplo.app/skills/smart-outpaint)
+Expansão inteligente da imagem](https://podplo.app/skills/smart-outpaint)
 
 <a id="transparency"></a>
 
-## Reutilize um assunto em novos fundos
+## Reutilize um elemento principal em novos fundos
 
-[Removedor de fundo](https://podplo.app/skills/background-remover) isola um assunto para que ele possa ser reutilizado em diferentes layouts e cenas.
+[Removedor de fundo](https://podplo.app/skills/background-remover) isola um elemento principal para que possa ser reutilizado em diferentes layouts e cenas.
 
 [Removedor de fundo](https://podplo.app/skills/background-remover) isola um retrato, uma flor ou um objeto para que possa ser usado com novas cores, layouts e cenas. Uma foto se torna um elemento de design reutilizável para diversas composições.
 
-![Assunto com seu plano de fundo original](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3-before.webp)
+![Elemento principal com seu fundo original](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3-before.webp)
 
 Entrada
 
-[![Assunto transparente pronto para novas composições](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
+[![Elemento principal com fundo transparente, pronto para novas composições](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
 
 Removedor de fundo
 
@@ -74,21 +74,21 @@ Removedor de fundo
 
 <a id="_R_5krk_-cards"></a>
 
-[![Exemplo de arte de reparo detalhado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Exemplo de arte do Reparo de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparo Detalhado](https://podplo.app/skills/detail-repair)[![Exemplo de arte HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Reparo de detalhes](https://podplo.app/skills/detail-repair)[![Exemplo de arte HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-Alto padrão em alta definição](https://podplo.app/skills/hd-upscale)[![Exemplo de arte do Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+Ampliação HD](https://podplo.app/skills/hd-upscale)[![Exemplo de arte do Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Pintura Inteligente](https://podplo.app/skills/smart-outpaint)
+Expansão inteligente da imagem](https://podplo.app/skills/smart-outpaint)
 
 <a id="bleed"></a>
 
 ## Estenda a cena além do quadro
 
-[Pintura Inteligente](https://podplo.app/skills/smart-outpaint) estende uma foto em uma composição mais larga, mais alta ou mais espaçosa.
+[Expansão inteligente da imagem](https://podplo.app/skills/smart-outpaint) estende uma foto em uma composição mais larga, mais alta ou mais espaçosa.
 
-[Pintura Inteligente](https://podplo.app/skills/smart-outpaint) adiciona céu, paisagem, espaço interior ou atmosfera plausíveis ao redor da cena original sem esticar o assunto. A mesma foto pode se tornar uma composição mais ampla, mais alta ou um cenário mais espaçoso.
+[Expansão inteligente da imagem](https://podplo.app/skills/smart-outpaint) adiciona céu, paisagem, espaço interno ou atmosfera plausíveis ao redor da cena original sem esticar o elemento principal. A mesma foto pode se tornar uma composição mais larga, mais alta ou um cenário mais espaçoso.
 
 ![Imagem de origem antes da extensão da tela](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6-before.webp)
 
@@ -96,7 +96,7 @@ Entrada
 
 [![Versão naturalmente estendida da mesma cena](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)](https://podplo.app/skills/smart-outpaint)
 
-Pintura Inteligente
+Expansão inteligente da imagem
 
 **Mais Skills para explorar**
 
@@ -108,11 +108,11 @@ Pintura Inteligente
 
 <a id="_R_5mrk_-cards"></a>
 
-[![Exemplo de arte de reparo detalhado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Exemplo de arte do Reparo de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparo Detalhado](https://podplo.app/skills/detail-repair)[![Exemplo de arte HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Reparo de detalhes](https://podplo.app/skills/detail-repair)[![Exemplo de arte HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-Alto padrão em alta definição](https://podplo.app/skills/hd-upscale)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Ampliação HD](https://podplo.app/skills/hd-upscale)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Removedor de fundo](https://podplo.app/skills/background-remover)
 
@@ -122,15 +122,15 @@ Removedor de fundo](https://podplo.app/skills/background-remover)
 
 Variações lado a lado facilitam a escolha do que desenvolver a seguir.
 
-Mantenha o original ao lado de algumas variações fortes. Compará-los lado a lado facilita a escolha do melhor motivo, cópia ou composição para a próxima rodada.
+Mantenha o original ao lado de algumas variações fortes. A comparação lado a lado facilita escolher o melhor motivo, texto ou composição para a próxima rodada.
 
-Explorações de layout geradas por IA usando a mesma referência rosa.
+Explorações de layout geradas por IA com a mesma referência de rosa.
 
-![Texto Rose e ETERNAL BLOOM em um layout compacto e centralizado](https://podplo.app/pod-guide/generated/rose-compact-center.webp)
+![Rosa e texto ETERNAL BLOOM em um layout compacto e centralizado](https://podplo.app/pod-guide/generated/rose-compact-center.webp)
 
 Composição compacta
 
-![O mesmo texto rosa e ETERNAL BLOOM em um layout de crachá circular](https://podplo.app/pod-guide/generated/rose-circular-badge.webp)
+![A mesma rosa e o texto ETERNAL BLOOM em um layout de emblema circular](https://podplo.app/pod-guide/generated/rose-circular-badge.webp)
 
 Composição circular
 
@@ -150,6 +150,6 @@ Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte 
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte de reparo detalhado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte do Reparo de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparo Detalhado](https://podplo.app/skills/detail-repair)
+Reparo de detalhes](https://podplo.app/skills/detail-repair)

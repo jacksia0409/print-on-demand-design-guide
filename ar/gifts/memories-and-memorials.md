@@ -22,7 +22,7 @@
 
 [إصلاح التفاصيل](https://podplo.app/skills/detail-repair) يعمل على إصلاح الضرر في الصورة القديمة مع الحفاظ على الأشخاص والأشياء المألوفة.
 
-قد تكون الصورة العائلية أو السفر أو الزفاف أو الصورة الأرشيفية هي السجل الوحيد للحظة مهمة. [إصلاح التفاصيل](https://podplo.app/skills/detail-repair) يمكنه إصلاح الخدوش أو المناطق غير الواضحة أو الأشياء التالفة مع الحفاظ على الوجوه المألوفة والتفاصيل الرئيسية.
+قد تكون صورة عائلية أو صورة سفر أو زفاف أو صورة أرشيفية باهتة هي السجل الوحيد للحظة مهمة. [إصلاح التفاصيل](https://podplo.app/skills/detail-repair) يمكنه إصلاح الخدوش أو المناطق غير الواضحة أو الأشياء التالفة مع الحفاظ على الوجوه المألوفة والتفاصيل الرئيسية.
 
 ![صورة فوتوغرافية للذاكرة التالفة أو الباهتة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1-before.webp)
 
@@ -42,9 +42,9 @@
 
 <a id="_R_2qrk_-cards"></a>
 
-[![مثال على العمل الفني الراقي عالي الدقة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+[![مثال عمل فني لرفع الدقة إلى HD](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-عالية الدقة](https://podplo.app/skills/hd-upscale)[![مثال على العمل الفني لمزيل الخلفية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+رفع الدقة إلى HD](https://podplo.app/skills/hd-upscale)[![مثال على العمل الفني لمزيل الخلفية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 مزيل الخلفية](https://podplo.app/skills/background-remover)[![مثال على العمل الفني Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 

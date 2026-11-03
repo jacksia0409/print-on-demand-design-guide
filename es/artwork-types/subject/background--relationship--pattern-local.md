@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Orientado por el sujeto / DIRECCIÓN CREATIVA / texto e imagen
+Motivo principal / DIRECCIÓN CREATIVA / texto e imagen
 
 # Fondo estampado: local
 
-Relaciones entre texto y tema: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.
+Relaciones entre texto y motivo principal: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.
 
 <a id="understand"></a>
 
-![Fondo estampado: local: Relaciones entre texto y tema: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+![Fondo estampado localizado: relaciones entre texto y motivo principal: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
 Ilustración de la composición
 
@@ -28,19 +28,19 @@ CÓMO RECONOCERLO
 
 El parche puede ser regular o libre pero no cubre el lienzo. La decoración que encierra principalmente el contorno exterior es decoración circundante; Mantenga el contenido principal dominante.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por tema → Relaciones entre texto y tema → Fondo → Fondo estampado: local
+Motivo principal → Relaciones entre texto y motivo principal → Fondo → Fondo estampado localizado
 
 **Entrada y salida**
 
@@ -68,24 +68,24 @@ El parche puede ser regular o libre pero no cubre el lienzo. La decoración que 
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
-[![Fondo transparente: Relaciones entre texto y tema: El fondo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
+[![Fondo transparente: relaciones entre texto y motivo principal: el fondo permanece transparente; el damero solo es una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Relaciones entre texto y tema: el fondo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--relationship--transparent.md)[![Fondo sólido: Relaciones entre texto y tema: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+Relaciones entre texto y motivo principal: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--relationship--transparent.md)[![Fondo de un solo color: relaciones entre texto y motivo principal: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
 ### Fondo sólido↗
 
-Relaciones entre texto y tema: un color uniforme forma el fondo; El blanco también es un fondo sólido.](background--relationship--solid.md)[![Fondo degradado: relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+Relaciones entre texto y motivo principal: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--relationship--solid.md)[![Fondo degradado: relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### Fondo degradado↗
 
-Relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--relationship--gradient.md)[![Fondo estampado: área completa: Relaciones entre texto y tema: un fondo estampado cubre la imagen detrás del contenido en primer plano claramente legible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
+Relaciones entre texto y motivo principal: el fondo cambia de color o brillo de forma continua y el contenido principal sigue distinguiéndose.](background--relationship--gradient.md)[![Fondo estampado integral: relaciones entre texto y motivo principal: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
 
 ### Fondo estampado: área completa↗
 
-Relaciones entre texto y tema: un fondo estampado cubre la imagen detrás del contenido en primer plano claramente legible.](background--relationship--pattern-full.md)
+Relaciones entre texto y motivo principal: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.](background--relationship--pattern-full.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

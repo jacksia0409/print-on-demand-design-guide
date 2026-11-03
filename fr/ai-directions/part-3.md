@@ -29,7 +29,7 @@ Texte: Conservez les mots clairement lisibles de la source et leur langue, en ad
 
 Préserver et adapter: Conservez les matériaux, surfaces, palettes et atmosphères pertinents sans nécessiter une silhouette d'objet ou une scène complète. Créer l’effet demandé lorsque les indices matériels sont absents, sans prétendre avoir identifié le véritable matériel de la source. Ne décrivez pas le contenu nouvellement créé comme étant présent dans la source. Énoncez un conflit entre les restrictions de saisie explicites et les conditions cibles nécessaires plutôt que de prétendre que les deux sont remplies.
 
-Portée et limites: Une couverture complète n’implique pas un carrelage sans couture. N'exigez pas simultanément qu'un arrière-plan complet différent reste visible derrière une texture opaque sur toute la surface.
+Portée et limites : Une couverture intégrale n’implique pas une répétition à raccords invisibles. N’exigez pas en même temps qu’un autre fond complet reste visible derrière une texture opaque couvrant toute l’image.
 ```
 
 
@@ -42,9 +42,9 @@ Orientation souhaitée: Textures → Composition → Fragment de texture locale
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Concentrez les détails de surface pertinents dans une zone localisée avec une limite régulière, naturelle ou décolorée. Conservez la pièce environnante pour un contexte ou des informations complémentaires.
+Structure souhaitée : Concentrez les détails de surface pertinents dans une zone localisée à la limite régulière, naturelle ou estompée. Conservez de l’espace autour pour un arrière-plan ou des informations complémentaires.
 
-Arrière-plan: Matériau de référence, palette et atmosphère, créant un traitement de surface pertinent en cas d'absence. Un correctif local peut avoir un support séparé ; une texture sur toute la surface se confond avec son fond. Évitez d'ajouter un objet ou un cadre narratif dominant.
+Arrière-plan : prenez pour référence la matière, la palette et l’atmosphère, et créez un traitement de surface pertinent s’il manque. Une zone de texture localisée peut avoir son propre fond ; une texture intégrale fusionne avec son fond. Évitez d’ajouter un objet dominant ou un décor narratif.
 
 Texte: Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez une courte phrase liée au thème comme texte d’accompagnement, sans masquer les sujets principaux, l’action ou la structure. Adaptez le texte existant à la hiérarchie souhaitée et respectez toute demande explicite de ne pas inclure de texte.
 
@@ -65,7 +65,7 @@ Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si
 
 Structure souhaitée: Sélectionnez quelques fragments de surface liés au thème ou à la couleur. Organisez leur taille, leur placement, leur rotation et leur chevauchement tout en conservant les différences de matériaux et les bords compréhensibles.
 
-Arrière-plan: Matériau de référence, palette et atmosphère, créant un traitement de surface pertinent en cas d'absence. Un correctif local peut avoir un support séparé ; une texture sur toute la surface se confond avec son fond. Évitez d'ajouter un objet ou un cadre narratif dominant.
+Arrière-plan : prenez pour référence la matière, la palette et l’atmosphère, et créez un traitement de surface pertinent s’il manque. Une zone de texture localisée peut avoir son propre fond ; une texture intégrale fusionne avec son fond. Évitez d’ajouter un objet dominant ou un décor narratif.
 
 Texte: Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez une courte phrase liée au thème comme texte d’accompagnement, sans masquer les sujets principaux, l’action ou la structure. Adaptez le texte existant à la hiérarchie souhaitée et respectez toute demande explicite de ne pas inclure de texte.
 
@@ -168,7 +168,7 @@ Orientation souhaitée: Art abstrait → Composition → Groupe central
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Concentrez les formes, lignes ou zones de couleur non figuratives près du centre. Concentrez-vous grâce à l’échelle, au chevauchement et à la densité tout en coordonnant l’espace environnant.
+Structure souhaitée : Concentrez les formes, les lignes ou les zones colorées non figuratives près du centre. Créez un point focal par l’échelle, les chevauchements et la densité, tout en coordonnant l’espace environnant.
 
 Arrière-plan: Référencez les couleurs d’arrière-plan, le rythme et l’ambiance. En cas d’absence, créez un terrain d’appui ou des relations spatiales connexes. L'environnement de la source figurative peut être simplifié en éléments de support sans remplacer la composition non figurative.
 
@@ -201,12 +201,12 @@ Portée et limites: L'espace ouvert peut inclure de la couleur ou une texture su
 ```
 
 
-## Distribution gratuite
+## Répartition libre
 
 Les éléments abstraits occupent des positions variées sans répétition périodique.
 
 ```text
-Orientation souhaitée: Art abstrait → Composition → Distribution gratuite
+Orientation souhaitée : art abstrait → Composition → Répartition libre
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -218,7 +218,7 @@ Texte: Conservez les mots clairement lisibles de la source et leur langue, en ad
 
 Préserver et adapter: Conservez le thème, l'atmosphère, la palette, le rythme ou la direction tout en permettant de réduire ou de supprimer l'identité de l'objet concret. N'exigez pas simultanément que la silhouette de l'objet d'origine reste intacte. Ne décrivez pas le contenu nouvellement créé comme étant présent dans la source. Énoncez un conflit entre les restrictions de saisie explicites et les conditions cibles nécessaires plutôt que de prétendre que les deux sont remplies.
 
-Portée et limites: La distribution gratuite n’est pas la même chose qu’une pile inconsidérée. Un arrangement se répétant sous forme d’unité périodique appartient aux modèles.
+Portée et limites : Une répartition libre n’est pas un amas irréfléchi. Une disposition se répétant comme une unité périodique relève des motifs.
 ```
 
 
@@ -252,7 +252,7 @@ Orientation souhaitée: Art abstrait → Composition → Zones superposées
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Organisez la palette de saisie et les formulaires en quelques régions principales. Établissez des relations grâce à la séparation, au chevauchement, au croisement de formes ou à la transparence.
+Structure souhaitée : Organisez la palette et les formes de l’entrée en quelques régions principales. Établissez des relations par la division, les chevauchements, les formes qui se croisent ou la transparence.
 
 Arrière-plan: Référencez les couleurs d’arrière-plan, le rythme et l’ambiance. En cas d’absence, créez un terrain d’appui ou des relations spatiales connexes. L'environnement de la source figurative peut être simplifié en éléments de support sans remplacer la composition non figurative.
 
@@ -266,10 +266,10 @@ Portée et limites: Les divisions égales et une grille régulière sont faculta
 
 ## Fond transparent
 
-Sujet unique : Le sol reste transparent ; un damier n'est qu'un support d'affichage.
+Sujet unique : le fond reste transparent ; le damier sert uniquement à l’affichage.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujet unique → Arrière-plan → Fond transparent
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Arrière-plan → Fond transparent
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -285,12 +285,12 @@ Portée et limites: La vraie transparence nécessite un canal alpha. Ne peignez 
 ```
 
 
-## Fond solide
+## Fond uni
 
 Sujet unique : une couleur uniforme forme le fond ; le blanc est également un fond uni.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujet unique → Contexte → Fond uni
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Arrière-plan → Fond uni
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -332,7 +332,7 @@ Portée et limites: Deux zones plates avec une division dure ne constituent pas 
 Sujet unique : un patch décoratif se trouve derrière le contenu, laissant une zone à l'extérieur du patch.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujet unique → Fond → Fond à motifs : local
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Arrière-plan → Fond à motifs : zone locale
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -353,7 +353,7 @@ Portée et limites: Le patch peut être de forme régulière ou libre mais ne re
 Sujet unique : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujet unique → Arrière-plan → Arrière-plan à motifs : zone entière
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Arrière-plan → Fond à motifs : toute la surface
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -365,7 +365,7 @@ Texte: Conservez les mots clairement lisibles de la source et leur langue, en ad
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
-Portée et limites: Une couverture complète ne constitue pas une preuve que l'image complète est mosaïque de manière transparente. Gardez le contenu de premier plan visible et conservez la disposition des motifs lorsque les motifs constituent la catégorie principale.
+Portée et limites : Une couverture intégrale ne prouve pas que l’image complète se répète sans raccord visible. Gardez le contenu du premier plan visible et préservez la disposition des motifs lorsque ceux-ci constituent la catégorie principale.
 ```
 
 
@@ -374,7 +374,7 @@ Portée et limites: Une couverture complète ne constitue pas une preuve que l'i
 Sujet unique : les grains de papier, les particules ou tout autre caractère de surface soutiennent le contenu du premier plan.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujet unique → Arrière-plan → Fond texturé
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Arrière-plan → Fond texturé
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -395,13 +395,13 @@ Portée et limites: Un support texturé ne doit pas automatiquement devenir un o
 Sujet unique : un environnement lié à un thème prend en charge le contenu principal derrière ou autour de lui.
 
 ```text
-Orientation souhaitée: Axé sur le sujet → Sujet unique → Contexte → Contexte environnemental
+Orientation souhaitée : composition centrée sur le sujet → Sujet unique → Arrière-plan → Décor environnemental
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
 Structure souhaitée: Conservez un sujet focal cohérent. Si plusieurs objets indépendants sont présents, choisissez le sujet principal ou organisez un ensemble visuel clairement unifié.
 
-Arrière-plan: Faites référence à l'emplacement existant, aux éléments environnementaux et à l'atmosphère, en les adaptant au contenu principal. S'il est absent ou uniquement clair ou transparent, créez un paramètre associé et coordonnez l'échelle, la direction et la profondeur.
+Arrière-plan : prenez pour référence le lieu, les éléments du décor et l’atmosphère existants en les adaptant au contenu principal. En l’absence de fond, ou s’il est seulement uni ou transparent, créez un décor apparenté et coordonnez son échelle, son orientation et sa profondeur.
 
 Texte: Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez une courte phrase liée au thème comme texte d’accompagnement, sans masquer les sujets principaux, l’action ou la structure. Adaptez le texte existant à la hiérarchie souhaitée et respectez toute demande explicite de ne pas inclure de texte.
 
@@ -413,10 +413,10 @@ Portée et limites: Pour les catégories sujet, motif, texture ou abstrait, le d
 
 ## Fond transparent
 
-Sujets multiples : Le sol reste transparent ; un damier n'est qu'un support d'affichage.
+Sujets multiples : le fond reste transparent ; le damier sert uniquement à l’affichage.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujets multiples → Contexte → Fond transparent
+Orientation souhaitée : composition centrée sur le sujet → Sujets multiples → Arrière-plan → Fond transparent
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -432,12 +432,12 @@ Portée et limites: La vraie transparence nécessite un canal alpha. Ne peignez 
 ```
 
 
-## Fond solide
+## Fond uni
 
 Sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujets multiples → Contexte → Fond uni
+Orientation souhaitée : composition centrée sur le sujet → Sujets multiples → Arrière-plan → Fond uni
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -458,7 +458,7 @@ Portée et limites: N'ajoutez pas de motifs, de dégradés, de textures ou de sc
 Sujets multiples : le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujets multiples → Contexte → Fond dégradé
+Orientation souhaitée : composition centrée sur le sujet → Sujets multiples → Arrière-plan → Fond dégradé
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -479,7 +479,7 @@ Portée et limites: Deux zones plates avec une division dure ne constituent pas 
 Sujets multiples : un patch décoratif se trouve derrière le contenu, laissant une zone à l'extérieur du patch.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujets multiples → Contexte → Fond à motifs : local
+Orientation souhaitée : composition centrée sur le sujet → Sujets multiples → Arrière-plan → Fond à motifs localisé
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -512,7 +512,7 @@ Texte: Conservez les mots clairement lisibles de la source et leur langue, en ad
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
-Portée et limites: Une couverture complète ne constitue pas une preuve que l'image complète est mosaïque de manière transparente. Gardez le contenu de premier plan visible et conservez la disposition des motifs lorsque les motifs constituent la catégorie principale.
+Portée et limites : Une couverture intégrale ne prouve pas que l’image complète se répète sans raccord visible. Gardez le contenu du premier plan visible et préservez la disposition des motifs lorsque ceux-ci constituent la catégorie principale.
 ```
 
 
@@ -542,13 +542,13 @@ Portée et limites: Un support texturé ne doit pas automatiquement devenir un o
 Sujets multiples : un environnement lié à un thème prend en charge le contenu principal derrière ou autour de lui.
 
 ```text
-Orientation souhaitée: Axé sur le sujet → Sujets multiples → Contexte → Contexte environnemental
+Orientation souhaitée : composition centrée sur le sujet → Sujets multiples → Arrière-plan → Décor environnemental
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
 Structure souhaitée: Conserver plusieurs sujets identifiables et leur regroupement principal. Ajoutez des objets liés au thème si nécessaire ; une collection doit toujours afficher ses éléments indépendamment.
 
-Arrière-plan: Faites référence à l'emplacement existant, aux éléments environnementaux et à l'atmosphère, en les adaptant au contenu principal. S'il est absent ou uniquement clair ou transparent, créez un paramètre associé et coordonnez l'échelle, la direction et la profondeur.
+Arrière-plan : prenez pour référence le lieu, les éléments du décor et l’atmosphère existants en les adaptant au contenu principal. En l’absence de fond, ou s’il est seulement uni ou transparent, créez un décor apparenté et coordonnez son échelle, son orientation et sa profondeur.
 
 Texte: Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez une courte phrase liée au thème comme texte d’accompagnement, sans masquer les sujets principaux, l’action ou la structure. Adaptez le texte existant à la hiérarchie souhaitée et respectez toute demande explicite de ne pas inclure de texte.
 
@@ -563,11 +563,11 @@ Portée et limites: Pour les catégories sujet, motif, texture ou abstrait, le d
 Relations entre texte et sujet : le fond reste transparent ; un damier n'est qu'un support d'affichage.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Texte et relations entre les sujets → Contexte → Fond transparent
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Arrière-plan → Fond transparent
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer les mots de soutien en un titre dominant sans rapport.
+Structure souhaitée : Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer le texte d’accompagnement en un titre dominant sans rapport.
 
 Arrière-plan: Utilisez n’importe quelle palette, traitement ou éléments de thème nécessaires à partir d’un arrière-plan existant, puis supprimez le calque de support. Gardez un fond absent transparent plutôt que de peindre un faux fond ; les couleurs nécessaires à l’intérieur du contenu peuvent rester.
 
@@ -579,16 +579,16 @@ Portée et limites: La vraie transparence nécessite un canal alpha. Ne peignez 
 ```
 
 
-## Fond solide
+## Fond uni
 
 Relations entre le texte et le sujet : une couleur uniforme forme le fond ; le blanc est également un fond uni.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Relations entre le texte et le sujet → Contexte → Fond uni
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Arrière-plan → Fond uni
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer les mots de soutien en un titre dominant sans rapport.
+Structure souhaitée : Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer le texte d’accompagnement en un titre dominant sans rapport.
 
 Arrière-plan: Choisissez une couleur appropriée parmi l’arrière-plan ou le thème existant, ou utilisez une couleur spécifiée. Si aucun support n'est fourni, créez un support monochrome lié au thème et gardez-le uniforme.
 
@@ -605,11 +605,11 @@ Portée et limites: N'ajoutez pas de motifs, de dégradés, de textures ou de sc
 Relations entre le texte et le sujet : le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Relations entre le texte et le sujet → Arrière-plan → Fond dégradé
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Arrière-plan → Fond dégradé
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer les mots de soutien en un titre dominant sans rapport.
+Structure souhaitée : Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer le texte d’accompagnement en un titre dominant sans rapport.
 
 Arrière-plan: Utilisez la couleur et l’atmosphère de l’arrière-plan ou du thème source pour créer une transition continue de tons, de couleurs ou d’opacité. En cas d'absence, créez un dégradé associé et coordonnez sa direction et sa force.
 
@@ -623,14 +623,14 @@ Portée et limites: Deux zones plates avec une division dure ne constituent pas 
 
 ## Fond à motifs : local
 
-Relations entre le texte et le sujet : un patch décoratif se trouve derrière le contenu, laissant une zone à l'extérieur du patch.
+Relations entre texte et sujet : une zone décorative se trouve derrière le contenu, laissant de l’espace à l’extérieur de cette zone.
 
 ```text
-Orientation souhaitée: Mené par le sujet → Texte et relations entre les sujets → Contexte → Fond à motifs : local
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Arrière-plan → Fond à motifs : zone locale
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer les mots de soutien en un titre dominant sans rapport.
+Structure souhaitée : Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer le texte d’accompagnement en un titre dominant sans rapport.
 
 Arrière-plan: Utilisez les éléments d’arrière-plan, le traitement et la palette comme références et réorganisez-les en un support décoratif local. S'il n'en existe pas, ou si la source n'a qu'un fond uni ou transparent, créez des motifs associés. Conservez la transparence, la couleur de base d'origine ou un fond explicitement demandé en dehors du patch.
 
@@ -647,11 +647,11 @@ Portée et limites: Le patch peut être de forme régulière ou libre mais ne re
 Relations entre le texte et le sujet : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Relations entre le texte et le sujet → Arrière-plan → Fond à motifs : zone entière
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Arrière-plan → Fond à motifs : toute la surface
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer les mots de soutien en un titre dominant sans rapport.
+Structure souhaitée : Conservez le thème et la relation fondamentale entre le texte et l’image. Coordonnez la hiérarchie, le placement et la lecture sans transformer le texte d’accompagnement en un titre dominant sans rapport.
 
 Arrière-plan: Développez le motif d’arrière-plan et les éléments de couleur existants dans un support qui couvre l’intégralité de l’image. En cas d'absence, créez des motifs associés ; contrôlez l’échelle, la densité et le contraste pour préserver la hiérarchie du premier plan.
 
@@ -659,5 +659,5 @@ Texte: Conservez les mots clairement lisibles de la source et leur langue, en ad
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
-Portée et limites: Une couverture complète ne constitue pas une preuve que l'image complète est mosaïque de manière transparente. Gardez le contenu de premier plan visible et conservez la disposition des motifs lorsque les motifs constituent la catégorie principale.
+Portée et limites : Une couverture intégrale ne prouve pas que l’image complète se répète sans raccord visible. Gardez le contenu du premier plan visible et préservez la disposition des motifs lorsque ceux-ci constituent la catégorie principale.
 ```

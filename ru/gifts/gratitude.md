@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/gratitude?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/gratitude?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -22,7 +22,7 @@
 
 Семейная фотография, общая фраза или список имен делают благодарность более личной, чем обычное сообщение. [3D Семейный Портрет](https://podplo.app/skills/3d-family-portrait) создает живой групповой портрет, сохраняя при этом людей и взаимоотношения на фотографии.
 
-[![Размерный семейный портрет-благодарность](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![Объёмный семейный портрет с благодарностью](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 3D Семейный Портрет
 
@@ -44,19 +44,19 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 <a id="guidance-and-care"></a>
 
 ## Персонализируйте дизайн благодарности
 
-Имя, роль, тема или короткое сообщение делают компактное благодарственное письмо индивидуальным.
+Имя, роль, учебный предмет или короткое сообщение делают компактный благодарственный дизайн личным.
 
-Имя, роль, команда, тема или короткое сообщение могут персонализировать компактный дизайн благодарности для учителя, тренера, наставника, коллеги или группы ухода. Конкретные детали не позволяют ему казаться общим.
+Имя, роль, команда, учебный предмет или короткое сообщение могут персонализировать компактный благодарственный дизайн для учителя, тренера, наставника, коллеги или команды специалистов по уходу. Конкретная деталь помогает избежать шаблонности.
 
-[![Компактный дизайн оценки](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![Компактный благодарственный дизайн](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
-Компактная центральная планировка
+Компактная композиция по центру
 
 **Еще больше Skills для изучения**
 
@@ -72,9 +72,9 @@
 
 Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)
 
@@ -86,7 +86,7 @@
 
 [Создатель Плакатов](https://podplo.app/skills/poster-maker) объединяет групповую фотографию, даты, название проекта и подписанное сообщение в одном прощальном плакате. Четкая иерархия дает каждому человеку и общим деталям достаточно места.
 
-![Утвержденная фотография команды и прощальный экземпляр](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
+![Согласованная фотография команды и прощальный текст](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
 Ввод
 
@@ -104,12 +104,12 @@
 
 <a id="_R_2urk_-cards"></a>
 
-[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)

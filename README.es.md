@@ -13,7 +13,7 @@
 
 <p align="center">Una imagen. Más composiciones. Nuevos caminos creativos.</p>
 
-<p align="center"><strong>1388 formularios visuales · 128 grupos · 123 direcciones públicas de IA · 20 guías de productos</strong></p>
+<p align="center"><strong>1.388 formas visuales · 128 grupos · 123 instrucciones públicas para IA · 20 guías de productos</strong></p>
 
 <p align="center"><a href="https://podplo.app/pod-guide?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_hero_guide"><strong>Explora la guía visual</strong></a> · <a href="https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_hero_skills"><strong>Crear con PodPlo</strong></a> · <a href="https://podplo.app/elements?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_hero_elements">Encuentra elementos fuente</a></p>
 
@@ -36,7 +36,7 @@ Es posible que su próximo diseño ya esté escondido en una foto, un pequeño g
 
 Por [PodPlo](https://podplo.app/?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_publisher) · [Guía completa en español](es/INDEX.md)
 
-[Empieza aquí](#start) | [Una obra de arte, tres diseños](#layouts) | [Photo to Art](#photo-to-art) | [Más formas de crear](#creative-variations) | [Cinco tipos de diseño](#artwork-types) | [Vocabulario de diseño](#design-vocabulary) | [Copiar una dirección de IA](#ai-directions) | [Ideas de productos](#products) | [guía completa](#guide-library) | [Crear con PodPlo](#create)
+[Empieza aquí](#start) | [Una obra de arte, tres diseños](#layouts) | [Photo to Art](#photo-to-art) | [Más formas de crear](#creative-variations) | [Cinco tipos de diseño](#artwork-types) | [Vocabulario de diseño](#design-vocabulary) | [Copiar una instrucción para IA](#ai-directions) | [Ideas de productos](#products) | [guía completa](#guide-library) | [Crear con PodPlo](#create)
 
 <a id="start"></a>
 
@@ -45,13 +45,13 @@ Por [PodPlo](https://podplo.app/?utm_source=github&utm_medium=readme&utm_campaig
 
 No es necesario comenzar con un diseño terminado. Elija la fila más cercana a su punto de partida.
 
-| Tu punto de partida | que explorar | Lee la guía | Pruébalo en PodPlo |
+| Tu punto de partida | Qué explorar | Lee la guía | Pruébalo en PodPlo |
 | --- | --- | --- | --- |
-| Una foto de persona o mascota. | Acuarela, retratos de personajes u otro tratamiento artístico. | [Photo to Art](es/techniques/photo-to-art.md) | [Abrir un retrato Skill](https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_photo) |
+| Una foto de persona o mascota. | Acuarela, retratos de personajes u otro tratamiento artístico. | [Photo to Art](es/techniques/photo-to-art.md) | [Abrir un Skill de retratos](https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_photo) |
 | Un gráfico que te encanta | Céntrelo, apílelo o enmárquelo como una insignia | [Ideas de composición](es/techniques/compose-anything.md) | [Diseño central compacto](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_layout) |
 | Un nombre o mensaje corto | Marcos florales, gráficos basados en texto o diseños conmemorativos | [Texto y nombres](es/techniques/replace-name-text.md) | [Marco de nombre floral](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_text) |
 | Una referencia de motivo o patrón. | Arreglos repetidos e ideas de patrones coordinados. | [Tipos de patrones](es/artwork-types/pattern.md) | [Patrón sin costuras](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_pattern) |
-| una idea escrita | Elija una estructura y adapte una dirección pública de IA | [Direcciones de IA copiables](es/ai-directions/INDEX.md) | [Explorar imagen Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_prompt) |
+| una idea escrita | Elige una estructura y adapta una instrucción pública para IA | [Instrucciones para IA listas para copiar](es/ai-directions/INDEX.md) | [Explorar Skills de imágenes](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -65,7 +65,7 @@ Conserva las rosas y las palabras “ETERNAL BLOOM”. Cambia la relación entre
 <table>
 <tr>
 <td align="center" valign="top"><a href="https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_layout_source"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/skill-categories/source/layout/tshirt-one--title-subject-subtitle-layout.jpg" alt="Ilustraciones de rosas originales utilizadas para los tres ejemplos de diseño." width="100" /></a><br />Diseño original</td>
-<td align="center" valign="top"><a href="https://podplo.app/skills/title-subject-subtitle-layout?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_layout_title-subject-subtitle-layout"><img src="https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp" alt="Título-asunto-subtítulo" width="210" /></a><br /><strong>Título-asunto-subtítulo</strong><br />Dé a las palabras y a la imagen un orden de lectura claro.<br /><a href="https://podplo.app/skills/title-subject-subtitle-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_layout_title-subject-subtitle-layout">Prueba este diseño</a></td>
+<td align="center" valign="top"><a href="https://podplo.app/skills/title-subject-subtitle-layout?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_layout_title-subject-subtitle-layout"><img src="https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp" alt="Título, motivo principal y subtítulo" width="210" /></a><br /><strong>Título, motivo principal y subtítulo</strong><br />Dé a las palabras y a la imagen un orden de lectura claro.<br /><a href="https://podplo.app/skills/title-subject-subtitle-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_layout_title-subject-subtitle-layout">Prueba este diseño</a></td>
 <td align="center" valign="top"><a href="https://podplo.app/skills/compact-center-layout?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_layout_compact-center-layout"><img src="https://podplo.app/pod-guide/generated/rose-compact-center.webp" alt="Centro compacto" width="210" /></a><br /><strong>Centro compacto</strong><br />Junte las imágenes y las letras en una forma conectada.<br /><a href="https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_layout_compact-center-layout">Prueba este diseño</a></td>
 <td align="center" valign="top"><a href="https://podplo.app/skills/circular-badge-layout?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_layout_circular-badge-layout"><img src="https://podplo.app/pod-guide/generated/rose-circular-badge.webp" alt="Insignia circular" width="210" /></a><br /><strong>Insignia circular</strong><br />Deje que el texto curvo y un marco rodeen al sujeto.<br /><a href="https://podplo.app/skills/circular-badge-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_layout_circular-badge-layout">Prueba este diseño</a></td>
 </tr>
@@ -78,12 +78,12 @@ Conserva las rosas y las palabras “ETERNAL BLOOM”. Cambia la relación entre
 ## Un rostro familiar, una expresión artística diferente
 
 
-Una buena foto inicial te brinda algo personal con lo que trabajar. Compare los cambios en el tratamiento con lo que mantiene al sujeto reconocible: la forma de la cara, las marcas, la pose o la relación entre dos personas.
+Una buena foto de partida aporta algo personal con lo que trabajar. Compara los cambios en el acabado visual con lo que mantiene reconocible al motivo principal: forma del rostro, marcas, pose o relación entre dos personas.
 
 <table>
 <tr><th>Dirección</th><th>Foto original</th><th>Ejemplo de obra de arte · haz clic para probar</th></tr>
 <tr><td><strong>Retrato de mascota en acuarela suave</strong><br />Un medio más suave, con el mismo perro como sujeto focal.</td><td><a href="https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_photo_source_soft-watercolor-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp" alt="Foto de origen para el retrato de mascota en acuarela suave." width="230" /></a></td><td><a href="https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_photo_result_soft-watercolor-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp" alt="Ejemplo de retrato de mascota en acuarela suave" width="230" /></a><br /><a href="https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_photo_cta_soft-watercolor-pet-portrait">Retrato de mascota de acuarela suave</a></td></tr>
-<tr><td><strong>Personaje mascota real</strong><br />Un divertido cambio de vestuario y ambientación.</td><td><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_photo_source_royal-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp" alt="Foto de origen del personaje mascota real." width="230" /></a></td><td><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_photo_result_royal-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp" alt="Ejemplo de personaje de mascota real" width="230" /></a><br /><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_photo_cta_royal-pet-portrait">Retrato de mascota real</a></td></tr>
+<tr><td><strong>Mascota como personaje de la realeza</strong><br />Un divertido cambio de vestuario y ambientación.</td><td><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_photo_source_royal-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp" alt="Foto de origen de la mascota como personaje de la realeza" width="230" /></a></td><td><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_photo_result_royal-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp" alt="Ejemplo de mascota como personaje de la realeza" width="230" /></a><br /><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_photo_cta_royal-pet-portrait">Retrato regio de mascota</a></td></tr>
 <tr><td><strong>Retrato de pareja dimensional</strong><br />Un retrato estilizado construido alrededor de la pareja de la referencia.</td><td><a href="https://podplo.app/skills/3d-couple-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_photo_source_3d-couple-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-before.webp" alt="Foto fuente del retrato de pareja dimensional." width="230" /></a></td><td><a href="https://podplo.app/skills/3d-couple-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_photo_result_3d-couple-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp" alt="Ejemplo de retrato de pareja dimensional" width="230" /></a><br /><a href="https://podplo.app/skills/3d-couple-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_photo_cta_3d-couple-portrait">Retrato de pareja 3D</a></td></tr>
 </table>
 
@@ -98,20 +98,20 @@ Una buena foto inicial te brinda algo personal con lo que trabajar. Compare los 
 <tr>
 <td align="center" valign="top"><a href="https://podplo.app/skills/floral-name-frame?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_variation_floral-name-frame"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp" alt="Un nombre dentro de un marco floral." width="240" /></a><br /><strong>Un nombre dentro de un marco floral.</strong><br />Utilice un nombre como punto focal, con flores formando la forma circundante.<br /><a href="https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_variation_floral-name-frame">Abra este Skill</a></td>
 <td align="center" valign="top"><a href="https://podplo.app/skills/seamless-pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_variation_seamless-pattern"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp" alt="Una repetición coordinada" width="240" /></a><br /><strong>Una repetición coordinada</strong><br />Explore la dirección, el espaciado y el ritmo de repetición del motivo. Inspeccione los bordes en una vista previa en mosaico.<br /><a href="https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_variation_seamless-pattern">Abra este Skill</a></td>
-<td align="center" valign="top"><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_variation_make-it-christmas"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp" alt="Una versión navideña" width="240" /></a><br /><strong>Una versión navideña</strong><br />Pruebe detalles estacionales coordinados en torno al tema principal.<br /><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_variation_make-it-christmas">Abra este Skill</a></td>
+<td align="center" valign="top"><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=es_variation_make-it-christmas"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp" alt="Una versión festiva" width="240" /></a><br /><strong>Una versión festiva</strong><br />Pruebe detalles estacionales coordinados en torno al tema principal.<br /><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_variation_make-it-christmas">Abra este Skill</a></td>
 </tr>
 </table>
 
-Estas son diferentes tareas creativas. Un diseño Skill cambia de organización; un Photo to Art Skill cambia de expresión artística; un nombre o día festivo Skill agrega un tipo específico de contenido. Sigue la guía para elegir la transformación que realmente deseas.
+Son tareas creativas diferentes. Un Skill de composición cambia la organización; un Skill de foto a arte cambia la expresión artística; uno de nombres o festividades añade un tipo concreto de contenido. Sigue la guía para elegir la transformación que quieres.
 
-[Nombres y mensajes personales](es/techniques/replace-name-text.md) · [Variaciones de vacaciones](es/techniques/holiday-versions.md) · [Construye una serie coordinada](es/techniques/series-builder.md)
+[Nombres y mensajes personales](es/techniques/replace-name-text.md) · [Variaciones festivas](es/techniques/holiday-versions.md) · [Construye una serie coordinada](es/techniques/series-builder.md)
 
 <a id="artwork-types"></a>
 
 ## Cinco formas de construir un diseño.
 
 
-Un diseño puede estar guiado por un tema reconocible, un motivo repetido, un entorno, una superficie o formas no figurativas. Estos son puntos de partida estructurales. Un estilo como la acuarela se puede aplicar a más de uno de ellos.
+Un diseño puede estar protagonizado por un motivo reconocible, un motivo repetido, un escenario, una superficie o formas no figurativas. Son puntos de partida estructurales. Un estilo como la acuarela puede aplicarse a varios de ellos.
 
 <table>
 <tr><th>Tipo de obra de arte</th><th>Compara dos formas visuales</th><th>Explorar</th></tr>
@@ -129,7 +129,7 @@ Los dibujos de arriba son estudios conceptuales de la guía. Explican la estruct
 ## Desarrolla un vocabulario visual que realmente puedas usar
 
 
-“Hazlo mejor” deja a mucha gente indecisa. En su lugar, compare un cambio concreto: mueva el tema, arquee las letras, agregue un respaldo circular o cambie el medio. La guía completa organiza 1388 formularios visuales en 128 grupos para que puedas nombrar el cambio que desees.
+«Hazlo mejor» deja demasiadas decisiones abiertas. Prueba un cambio concreto: desplaza el motivo principal, curva las letras, añade un fondo circular o cambia el medio. La guía completa organiza 1.388 formas visuales en 128 grupos para que puedas expresar el cambio que quieres.
 
 <table>
 <tr>
@@ -149,7 +149,7 @@ Los dibujos de arriba son estudios conceptuales de la guía. Explican la estruct
 </tr>
 </table>
 
-[Composición y tratamientos temáticos.](es/artwork-types/subject.md) · [Texto y lettering](es/artwork-types.md#text-application) · [Diseño del fondo](es/artwork-types.md#background) · [Técnicas y materiales](es/artwork-types.md#media) · [Estilos artísticos](es/artwork-types.md#styles)
+[Composición y acabados del motivo principal](es/artwork-types/subject.md) · [Texto y lettering](es/artwork-types.md#text-application) · [Diseño del fondo](es/artwork-types.md#background) · [Técnicas y materiales](es/artwork-types.md#media) · [Estilos artísticos](es/artwork-types.md#styles)
 
 <a id="ai-directions"></a>
 
@@ -164,7 +164,7 @@ El repositorio incluye 123 direcciones públicas de IA en cada idioma. Describen
 Un sujeto principal se encuentra cerca del centro, con espacio a su alrededor.
 
 ```text
-Dirección deseada: Dirigido por materia → Materia única → Materia centrada
+Dirección deseada: Motivo principal → Motivo único → Motivo centrado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -176,18 +176,18 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: El centrado no requiere simetría especular. Evite distribuir varios temas independientes con igual énfasis.
+Alcance y límites: centrar no exige simetría especular. Evita repartir el mismo protagonismo entre varios motivos independientes.
 ```
 
 </details>
 
 <details>
-<summary><strong>Texto sobre el tema</strong> — Envuelva el texto alrededor del tema en lugar de colocarlo en un bloque separado.</summary>
+<summary><strong>Texto alrededor del motivo principal</strong> — Envuelva el texto alrededor del tema en lugar de colocarlo en un bloque separado.</summary>
 
 Las palabras siguen un arco o camino exterior alrededor de la imagen.
 
 ```text
-Dirección deseada: Dirigido por tema → Texto y relaciones entre el tema → Texto alrededor del tema
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Texto alrededor del motivo principal
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -210,26 +210,26 @@ Alcance y límites: Un círculo completo es opcional. Mantenga una trayectoria c
 Las filas o columnas adyacentes se desplazan en una cantidad constante dentro de un sistema repetitivo.
 
 ```text
-Dirección deseada: Patrones → Repeticiones perfectas → Repetición desplazada
+Dirección deseada: Patrones → Repeticiones sin juntas → Repetición desplazada
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
 Estructura deseada: Cree un mosaico que contenga una relación de desplazamiento estable entre filas o columnas adyacentes. Coordine la dirección, el espaciado y la densidad del motivo, incluida la continuación en el borde opuesto.
 
-Fondo: Paleta de fondo y motivos de referencia, diseñando fondo y primer plano dentro de la misma unidad repetida. Cuando esté ausente, cree un color base relacionado o un respaldo que pueda continuar periódicamente. Reconstruya un fondo de origen que no coincida en lugar de reclamar automáticamente los mosaicos de imágenes completos.
+Fondo: toma como referencia la paleta y los motivos del fondo, y diseña fondo y primer plano dentro del mismo módulo de repetición. Si no hay fondo, crea un color base relacionado o un fondo que pueda repetirse periódicamente. Reconstruye un fondo original que no encaje, en lugar de afirmar que la imagen completa se repite sin más.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Las compensaciones pueden variar según el diseño, pero requieren un período general estable. Mover algunos motivos individuales no crea un mosaico perfecto.
+Alcance y límites: los desplazamientos pueden variar según el diseño, pero requieren un periodo global estable. Mover unos pocos motivos individuales no garantiza una repetición sin juntas.
 
-Comprobación del resultado: Pruebe disposiciones horizontales, verticales y de cuatro mosaicos para ver las uniones, el ritmo y la continuidad del color base. No reclame la fluidez verificada sin verificarla o cuando la herramienta no pueda garantizarla.
+Comprobación del resultado: prueba disposiciones horizontales, verticales y de cuatro módulos para revisar las juntas, el ritmo y la continuidad del color de base. No afirmes que la repetición sin juntas está verificada sin comprobarlo o si la herramienta no puede garantizarlo.
 ```
 
 </details>
 
-[Explora las 123 direcciones públicas](es/ai-directions/INDEX.md) · [Explorar imagen Skills en PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_after_prompts)
+[Explora las 123 instrucciones públicas](es/ai-directions/INDEX.md) · [Explora Skills de imágenes en PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_after_prompts)
 
 <a id="products"></a>
 
@@ -258,14 +258,14 @@ La imagen del producto es una maqueta de IA para visualizar el diseño, no una f
 ## Explora la guía completa
 
 
-| Capítulo | que encontraras | leer |
+| Capítulo | Qué encontrarás | leer |
 | --- | --- | --- |
-| Tipos de obras de arte | Temas, patrones, escenas, texturas, formas abstractas, letras y fondos. | [capitulo abierto](es/artwork-types.md) |
+| Tipos de obras de arte | Motivos principales, patrones, escenas, texturas, formas abstractas, letras y fondos | [Abrir capítulo](es/artwork-types.md) |
 | Materiales de origen | Elementos, imágenes completas y colecciones seleccionadas para empezar | [Encuentra un punto de partida](es/materials.md) |
 | Composición | Un diseño diferente para la misma obra de arte original. | [Explorar diseños](es/techniques/compose-anything.md) |
 | Photo to Art | Fotografías de mascotas, personas y familias en nuevos tratamientos artísticos | [Explorar retratos](es/techniques/photo-to-art.md) |
 | Texto y nombres | Marcos de nombres, frases cortas y diseños conmemorativos. | [Hazlo personal](es/techniques/replace-name-text.md) |
-| Versiones navideñas | Nuevos detalles estacionales sobre temas familiares. | [Elige unas vacaciones](es/techniques/holiday-versions.md) |
+| Versiones festivas | Nuevos detalles estacionales sobre temas familiares. | [Elige una festividad](es/techniques/holiday-versions.md) |
 | Más allá del marco | Nuevas proporciones y composiciones para una imagen existente. | [Explorar variaciones](es/techniques/change-ratio.md) |
 | Serie coordinada | Diseños relacionados que comparten un tema o enfoque visual. | [construir una serie](es/techniques/series-builder.md) |
 | Productos POD | Aplicaciones creativas en 20 categorías de productos | [Explorar productos](es/products.md) |
@@ -278,17 +278,17 @@ La imagen del producto es una maqueta de IA para visualizar el diseño, no una f
 ## Da el siguiente paso en PodPlo
 
 
-Lee aquí cuando quieras ideas y vocabulario. Abra PodPlo cuando esté listo para trabajar con su propia imagen, elija una Imagen Skill o explore los elementos de origen.
+Lee aquí para encontrar ideas y vocabulario. Abre PodPlo cuando quieras trabajar con tu propia imagen, elegir un Skill de imagen o explorar elementos de origen.
 
 1. Elija una imagen de origen o una idea de diseño.
 2. Abra el Skill que coincida con el cambio que desea.
 3. Proporcione la imagen requerida y sus propias palabras.
-4. Revise la configuración de generación y la cotización de crédito, luego confirme.
+4. Revisa los ajustes de generación y el presupuesto en créditos y después confirma.
 
-| lo que quieres hacer | Sigue recto allí |
+| lo que quieres hacer | Ir directamente |
 | --- | --- |
 | Explore la guía con la navegación del sitio web. | [Abrir la guía](https://podplo.app/pod-guide?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_footer_guide) |
-| Encuentra una transformación de imagen específica | [Explorar imagen Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_footer_skills) |
+| Encuentra una transformación de imagen específica | [Explorar Skills de imágenes](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_footer_skills) |
 | Empezar desde un elemento | [Explorar elementos](https://podplo.app/elements?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_footer_elements) |
 | Pruebe un nuevo diseño ahora | [Diseño central compacto](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=es_footer_layout) |
 
@@ -303,13 +303,13 @@ Puede leer la Guía y explorar las páginas de Skill antes de iniciar sesión. L
 
 Describen objetivos visuales en un lenguaje sencillo. Puede adaptarlos a una herramienta con capacidad de imagen o utilizarlos para reescribir un mensaje. Los resultados dependen del modelo, las entradas y la configuración.
 
-**¿Los diagramas generados son ejemplos?**
+**¿Los diagramas son ejemplos generados?**
 
 Los pequeños diagramas de forma visual son ilustraciones conceptuales dibujadas en código. Los ejemplos de fotografías y obras de arte son imágenes de exhibición de la Guía pública existente y del Skill. No todas las instrucciones públicas de IA se han probado individualmente y las maquetas de productos no establecen resultados de fabricación.
 
 **¿Es esta una guía para administrar una tienda POD?**
 
-La atención se centra en crear imágenes: estructuras visuales, materiales de origen, transformaciones creativas e ideas de productos. La configuración de la tienda, la automatización de listados y el cumplimiento están fuera del enfoque creativo de esta guía.
+La guía se centra en crear imágenes: estructuras visuales, materiales de origen, transformaciones creativas e ideas de productos. La configuración de tiendas, la automatización de anuncios y la gestión de pedidos y entregas quedan fuera de su enfoque creativo.
 
 ¿Encontró un ejemplo confuso o un tema que vale la pena agregar? [Sugerir una mejora](https://github.com/jacksia0409/print-on-demand-design-guide/issues/new). Si la guía ayuda en tu trabajo creativo, una estrella hace que sea más fácil volver a encontrarla.
 

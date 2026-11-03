@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/letter-art--letter-outline?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/letter-art--letter-outline?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,9 +26,9 @@ COMMENT LE RECONNAÎTRE
 
 ## Qu'est-ce qui définit cette direction
 
-Le plan doit suivre les lettres plutôt que de former un cadre autour de la phrase entière. Revérifiez la lisibilité sur les petites tailles ou sur un arrière-plan chargé.
+Le contour doit suivre les lettres plutôt que former un cadre autour de la phrase entière. Revérifiez la lisibilité à petite taille ou sur un arrière-plan chargé.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -64,13 +64,13 @@ Conservez le thème central et les caractéristiques permettant de reconnaître 
 
 **Portée et limites**
 
-Le plan doit suivre les lettres plutôt que de former un cadre autour de la phrase entière. Revérifiez la lisibilité sur les petites tailles ou sur un arrière-plan chargé.
+Le contour doit suivre les lettres plutôt que former un cadre autour de la phrase entière. Revérifiez la lisibilité à petite taille ou sur un arrière-plan chargé.
 
 <a id="backgrounds"></a>
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
 [![Fond transparent : Relations entre le texte et le sujet : Le fond reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
@@ -78,7 +78,7 @@ Ces exemples comparent des motifs au sein d’une même famille de contenu. Cons
 
 Relations entre texte et sujet : le fond reste transparent ; un damier n'est qu'un support d'affichage.](background--relationship--transparent.md)[![Fond uni : relations entre le texte et le sujet : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Relations entre le texte et le sujet : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--relationship--solid.md)[![Fond dégradé : Relations entre le texte et le sujet : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
@@ -88,7 +88,7 @@ Relations entre le texte et le sujet : le support change continuellement de cou
 
 ### Fond à motifs : local↗
 
-Relations entre le texte et le sujet : un patch décoratif se trouve derrière le contenu, laissant une zone à l'extérieur du patch.](background--relationship--pattern-local.md)[![Fond à motifs : zone entière : relations entre le texte et le sujet : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
+Relations entre texte et sujet : une zone décorative se trouve derrière le contenu, laissant de l’espace à l’extérieur de cette zone.](background--relationship--pattern-local.md)[![Fond à motifs : zone entière : relations entre le texte et le sujet : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
 
 ### Fond à motifs : zone entière↗
 
@@ -100,27 +100,27 @@ Relations entre le texte et le sujet : le grain du papier, les particules ou to
 
 ### Contexte environnemental↗
 
-Relations entre le texte et le sujet : un environnement lié au thème prend en charge le contenu principal derrière ou autour de lui.](background--relationship--scene.md)
+Relations entre texte et sujet : un environnement lié au thème accompagne le contenu principal, derrière ou autour de lui.](background--relationship--scene.md)
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Caractères étirés ou compressés : les proportions des lettres sont visiblement allongées, rétrécies ou élargies.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-stretch-1.svg)
 
-### Type étiré ou compressé↗
+### Lettrage étiré ou comprimé↗
 
-Les proportions des lettres sont visiblement allongées, rétrécies ou élargies.](letter-art--letter-stretch.md)[![Type courbé ou ondulé : les lettres suivent une courbe ou une vague avec un rythme montant et descendant visible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-wave-1.svg)
+Les proportions des lettres sont visiblement allongées, rétrécies ou élargies.](letter-art--letter-stretch.md)[![Lettrage courbé ou ondulé : les lettres suivent une courbe ou une vague avec un rythme ascendant et descendant visible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-wave-1.svg)
 
-### Type courbé ou ondulé↗
+### Lettrage courbé ou ondulé↗
 
-Les lettres suivent une courbe ou une vague avec un rythme montant et descendant visible.](letter-art--letter-wave.md)[![Type de perspective inclinée : le lettrage modifie l'échelle apparente sur toute sa largeur pour suggérer la profondeur.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-perspective-1.svg)
+Les lettres suivent une courbe ou une vague avec un rythme montant et descendant visible.](letter-art--letter-wave.md)[![Lettrage en perspective oblique : la taille apparente des lettres varie sur la largeur du texte pour suggérer la profondeur.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-perspective-1.svg)
 
-### Type de perspective inclinée↗
+### Lettrage en perspective oblique↗
 
 Le lettrage change l’échelle apparente sur toute sa largeur pour suggérer la profondeur.](letter-art--letter-perspective.md)[![Caractères divisés et déplacés : les formes de lettres sont découpées en parties décalées tandis que les mots originaux restent reconnaissables.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-fracture-1.svg)
 
-### Type divisé et déplacé↗
+### Lettrage découpé et décalé↗
 
 Les formes de lettres sont découpées en parties décalées tandis que les mots originaux restent reconnaissables.](letter-art--letter-fracture.md)
 

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/pillows?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/pillows?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,7 +18,7 @@ Utilice el formato de almohada cuadrada para una imagen centrada, una frase cort
 
 ## Ideas de diseño para este producto.
 
-### Construir alrededor de la plaza
+### Organiza el diseño en torno al formato cuadrado
 
 Los sujetos centrados, los diseños simétricos y las repeticiones equilibradas funcionan bien sobre una almohada. Un retrato centrado; Una frase corta utilizada como gráfico principal; Una repetición diseñada para coordinar con otras almohadas.
 
@@ -32,7 +32,7 @@ Utilice diferentes Skills para convertir la misma imagen en nuevos diseños, ilu
 
 ### Crea un patrón de almohada equilibrado
 
-Toma detalles de tu imagen y organízalos en una repetición perfecta para la almohada cuadrada.
+Toma detalles de tu imagen y organízalos en una repetición sin juntas para la almohada cuadrada.
 
 [Patrón sin costuras](https://podplo.app/skills/seamless-pattern)
 
@@ -46,23 +46,23 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explore más diseños y configure Skills**
+**Explora más Skills de composición y conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore más diseños y configure Skills
+#### Explora más Skills de composición y conjuntos
 
 4 / 12
 
 <a id="_R_bf3k_-cards"></a>
 
-[![Ejemplo de arte del generador de cuadrícula 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+[![Ejemplo del generador de cuadrícula de 4 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-Generador de rejilla de 4 piezas](https://podplo.app/skills/four-piece-grid)[![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
+Generador de cuadrícula de 4 piezas](https://podplo.app/skills/four-piece-grid)[![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
@@ -72,25 +72,25 @@ Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)
 
 Una foto clara de una mascota se convierte en un retrato detallado para la almohada.
 
-[Retrato de mascota real](https://podplo.app/skills/royal-pet-portrait)
+[Retrato regio de mascota](https://podplo.app/skills/royal-pet-portrait)
 
-![Retrato de mascota real · Foto fuente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
+![Retrato regio de mascota · Foto de origen](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
 
 Foto original
 
-[![Retrato de mascota real · Obra de arte generada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
+[![Retrato regio de mascota · Imagen generada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
 
 Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más fotos e imágenes Skills**
+**Explora más Skills de fotos e imágenes**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explora más fotos e imágenes Skills
+#### Explora más Skills de fotos e imágenes
 
 4 / 91
 
@@ -122,23 +122,23 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más nombre y ocasión Skills**
+**Explora más Skills de nombres y ocasiones**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explora más nombre y ocasión Skills
+#### Explora más Skills de nombres y ocasiones
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Ejemplo de obra de arte con nombre de pata de cuadros de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Ejemplo del nombre con huella de cuadros búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nombre de la pata de cuadros de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de arte del cartel con el nombre del Polo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nombre con huella de cuadros búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de póster del Polo Norte con nombre](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Nombre del Polo Norte Póster](https://podplo.app/skills/north-pole-name-poster)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Póster del Polo Norte con nombre](https://podplo.app/skills/north-pole-name-poster)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Patrón de nombre de corazones de crayón](https://podplo.app/skills/crayon-hearts-name-pattern)[![Ejemplo de diseño artístico del patrón de nombre de dinosaurio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 

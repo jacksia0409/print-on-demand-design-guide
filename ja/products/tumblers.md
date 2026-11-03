@@ -12,7 +12,7 @@
 
 # タンブラー
 
-1 つの画像を背の高いセンターピース、全体のリピート、またはタンブラーの完全なラップに適応させます。
+一つの画像を、縦長の中心モチーフ、全面リピート柄、タンブラー全周を包むデザインへと展開します。
 
 <a id="product-overview"></a>
 
@@ -20,7 +20,7 @@
 
 ### 高さとフルラップを使用する
 
-背の高いキャラクター、スタックタイプ、散りばめられたモチーフ、パノラマの景色はすべてタンブラーによく合います。背の高い中心人物。小さなモチーフが上から下まで散りばめられています。タンブラーを囲むパノラマ風景。
+縦長のキャラクター、積み重ねた文字、小さなモチーフの散りばめ、パノラマの風景は、どれもタンブラーによく合います。中央の縦長キャラクター、上から下まで散りばめた小さなモチーフ、タンブラーを一周するパノラマ風景などが考えられます。
 
 ![タンブラー・ブランク商品ビジュアル](https://podplo.app/pod-guide/generated/tumblers-blank.webp)
 
@@ -32,7 +32,7 @@
 
 ### タンブラー全体のパターンを作成する
 
-画像から詳細を取得し、フルラップ全体にわたってシームレスに繰り返すように配置します。
+画像の細部を取り出し、ラップ全体に継ぎ目なく繰り返す模様として配置します。
 
 [シームレスパターン](https://podplo.app/skills/seamless-pattern)
 
@@ -48,11 +48,11 @@
 
 AI 製品のプレビュー
 
-**さらにレイアウトを調べて Skills を設定します**
+**レイアウトやセット作成のSkillをもっと見る**
 
 <a id="_R_bf3k_-title"></a>
 
-#### さらにレイアウトを調べて Skills を設定します
+#### レイアウトやセット作成のSkillをもっと見る
 
 4 / 11
 
@@ -62,9 +62,9 @@ AI 製品のプレビュー
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)
 
@@ -86,11 +86,11 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**写真と画像をもっと見る Skills**
+**写真や画像向けのSkillをもっと見る**
 
 <a id="_R_bn3k_-title"></a>
 
-#### 写真と画像をもっと見る Skills
+#### 写真や画像向けのSkillをもっと見る
 
 4 / 91
 
@@ -106,13 +106,13 @@ AI 製品のプレビュー
 
 ステンシルメーカー](https://podplo.app/skills/stencil-maker)
 
-### 背の高い花の名前デザインを作成する
+### 花で名前を彩る縦長のデザインを作る
 
 名前をワンポイントにして、タンブラーの縦型に合わせてお花をアレンジ。
 
 [花のネームフレーム](https://podplo.app/skills/floral-name-frame)
 
-アンドレア
+ANDREA
 
 名前
 
@@ -124,19 +124,19 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**名前と機会をさらに詳しく見る Skills**
+**名前やイベント向けのSkillをもっと見る**
 
 <a id="_R_bv3k_-title"></a>
 
-#### 名前と機会をさらに詳しく見る Skills
+#### 名前やイベント向けのSkillをもっと見る
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 北極名ポスター](https://podplo.app/skills/north-pole-name-poster)[![クレヨンハートネームパターンアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -158,4 +158,4 @@ AI プレビューには、主な焦点とタンブラーが回転するとき�
 
 - パノラマシーンはラップ全体を使用します
 
-![タンブラー・AIプロダクトプルーフ](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![タンブラー · AIによる仕上がり確認](https://podplo.app/pod-guide/generated/tumblers-proof.webp)

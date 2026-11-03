@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/pet-products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/pet-products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@
 
 ### Сделайте домашнее животное главным объектом внимания
 
-Поместите портрет рядом с мисками, повторите знакомый символ или впишите в дизайн имя питомца. Портрет, помещенный в сторону; Имя в сочетании с лапами и любимыми предметами; Повтор расположен вокруг чаши.
+Поместите портрет рядом с мисками, повторите знакомый символ или включите имя питомца в дизайн. Портрет, смещённый к одному краю; Имя в сочетании с лапами и любимыми предметами; Повторяющийся узор вокруг места для миски.
 
 [![Коврики для кормления домашних животных · Коврик для кормления домашних животных](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606560394791670.webp)](https://podplo.app/products/mockup-temu-606560394791670)
 
@@ -40,7 +40,7 @@
 
 Исходное фото
 
-[![Мягкий акварельный портрет питомца · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[![Нежный акварельный портрет питомца · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
 Созданное произведение искусства
 
@@ -48,11 +48,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Исследуйте больше фотографий и изображений Skills**
+**Изучите другие Skill для фотографий и изображений**
 
 <a id="_R_5v3k_-title"></a>
 
-#### Исследуйте больше фотографий и изображений Skills
+#### Изучите другие Skill для фотографий и изображений
 
 4 / 44
 
@@ -66,13 +66,13 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 <a id="product-mockup"></a>
 
 ## Предварительный просмотр дизайна продукта
 
-### Предварительный просмотр дизайна с установленными чашами
+### Посмотрите дизайн с установленными мисками
 
 Предварительный просмотр AI показывает размещение портрета, имени и мотивов домашнего животного вокруг мисок.
 
@@ -80,6 +80,6 @@
 
 - Используйте имя, чтобы соединить окружающие мотивы.
 
-- Повторение придает коврику единообразный вид со всех сторон.
+- Повторяющийся узор придаёт коврику единый вид с любого ракурса
 
 [![Коврики для кормления домашних животных · Коврик для кормления домашних животных](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606560394791670.webp)](https://podplo.app/products/mockup-temu-606560394791670)

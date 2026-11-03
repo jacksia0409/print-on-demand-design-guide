@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/greeting-cards?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/greeting-cards?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -30,7 +30,7 @@ El frente de la tarjeta puede comenzar con la imagen, el mensaje o una combinaci
 
 Utilice diferentes Skills para convertir la misma imagen en nuevos diseños, ilustraciones basadas en fotografías y diseños personalizados.
 
-### Crea un patrón perfecto para la tarjeta.
+### Crea un patrón sin juntas para la tarjeta.
 
 Elige tus objetos favoritos y colócalos en una repetición en el frente de la tarjeta.
 
@@ -46,13 +46,13 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explore más diseños y configure Skills**
+**Explora más Skills de composición y conjuntos**
 
 <a id="_R_5v3k_-title"></a>
 
-#### Explore más diseños y configure Skills
+#### Explora más Skills de composición y conjuntos
 
 4 / 11
 
@@ -60,13 +60,13 @@ Vista previa del producto de IA
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-mockup"></a>
 
@@ -82,4 +82,4 @@ Utilice la vista previa de IA para comparar un diseño de tarjeta divertido, per
 
 - Utilice la imagen y el texto para respaldar la misma idea.
 
-![Tarjetas de felicitación e invitaciones · Prueba de producto de IA](https://podplo.app/pod-guide/generated/greeting-cards-proof.webp)
+![Tarjetas de felicitación e invitaciones · Prueba visual de producto con IA](https://podplo.app/pod-guide/generated/greeting-cards-proof.webp)

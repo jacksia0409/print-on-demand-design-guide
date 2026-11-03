@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/ornaments?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/ornaments?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Ornements et attrape-soleil
 
-Transformez un portrait d'animal de compagnie, une photo de couple, un nom ou une date en un motif de décoration de vacances.
+Transformez un portrait d’animal, une photo de couple, un nom ou une date en un motif pour décoration de fête.
 
 <a id="product-overview"></a>
 
@@ -20,7 +20,7 @@ Transformez un portrait d'animal de compagnie, une photo de couple, un nom ou un
 
 ### Gardez le design concentré
 
-Les ornements fonctionnent mieux avec un sujet clair, un simple graphique de vacances ou un nom et une année courts. Un animal de compagnie ou une personne comme sujet principal ; Une simple icône de vacances ; Un nom et une année intégrés au design.
+Les décorations fonctionnent mieux avec un sujet clair, un graphisme de fête simple ou un prénom court accompagné d’une année. Un animal ou une personne comme sujet principal ; une icône de fête simple ; un prénom et une année intégrés au visuel.
 
 [![Ornements et attrape-soleil · Ornement en acrylique](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
@@ -46,13 +46,13 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de photos et d'images Skills**
+**Explorez davantage de Skills photo et image**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explorez plus de photos et d'images Skills
+#### Explorez davantage de Skills photo et image
 
 1 / 1
 
@@ -64,11 +64,11 @@ Portrait de famille en vitrail](https://podplo.app/skills/stained-glass-family-p
 
 ### Ajoutez des détails de Noël au sujet d'origine
 
-Ajoutez un petit ensemble d'éléments de vacances tout en préservant le sujet d'origine.
+Ajoutez quelques éléments de fête tout en préservant le sujet d’origine.
 
-[Faites-en Noël](https://podplo.app/skills/make-it-christmas)
+[Une touche de Noël](https://podplo.app/skills/make-it-christmas)
 
-![Faites-en Noël · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
+![Une touche de Noël · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 Image source
 
@@ -78,21 +78,21 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
 <a id="product-mockup"></a>
 
 ## Prévisualiser le design sur le produit
 
-### Prévisualisez-le avec un décor de vacances
+### Prévisualisez-le avec un décor de fête
 
-L'aperçu de l'IA place le design parmi les lumières, les branches et autres décorations de vacances.
+L’aperçu IA place le visuel parmi des lumières, des branches et d’autres décorations de fête.
 
 - Utilisez un sujet clair
 
 - Gardez le nom court et facile à lire
 
-- Une palette simple se démarque du décor de vacances détaillé
+- Une palette simple se détache d’un décor de fête détaillé
 
 [![Ornements et attrape-soleil · Ornement en acrylique](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 

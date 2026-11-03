@@ -64,7 +64,7 @@
 
 #### [निर्बाध पैटर्न](#tshirt-pattern-route)
 
-एक ही मूल भाव से शुरुआत करें. इसे पूरे शर्ट पर दोहराएं।
+एक रूपांकन से शुरुआत करें। उसे पूरी शर्ट पर दोहराएँ।
 
 एआई-जनित उत्पाद मॉकअप।
 
@@ -140,11 +140,11 @@
 
 इनपुट
 
-[![बेस्ट ट्रेल बडी शब्दों के साथ गोल्डन रिट्रीवर पोर्ट्रेट, वॉटरकलर पोर्ट्रेट चरण के बाद बनाया गया](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![BEST TRAIL BUDDY टेक्स्ट वाला गोल्डन रिट्रीवर पोर्ट्रेट, जिसे जलरंग पोर्ट्रेट चरण के बाद संयोजित किया गया है](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 कलाकृति
 
-![आइवरी टी-शर्ट पर उसी बेस्ट ट्रेल बडी कलाकृति का एआई पूर्वावलोकन](https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp)
+![आइवरी टी-शर्ट पर उसी BEST TRAIL BUDDY कलाकृति का AI पूर्वावलोकन](https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp)
 
 टी-शर्ट पर
 
@@ -152,7 +152,7 @@
 
 एक पालतू जानवर की तस्वीर को एक चित्र में बदलें, फिर एक वाक्यांश जोड़ें जो लेआउट Skill के साथ उनके व्यक्तित्व को दर्शाता है।
 
-[शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
 [![पाठ जोड़ने से पहले जलरंग पालतू चित्र](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
@@ -174,9 +174,9 @@
 
 रॉयल पेट पोर्ट्रेट](https://podplo.app/skills/royal-pet-portrait)[![3डी युगल पोर्ट्रेट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
 
-3डी युगल पोर्ट्रेट](https://podplo.app/skills/3d-couple-portrait)[![क्रिसमस युगल आभूषण कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607648296616502-after.webp)
+3डी युगल पोर्ट्रेट](https://podplo.app/skills/3d-couple-portrait)[![क्रिसमस युगल सजावटी लटकन की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607648296616502-after.webp)
 
-क्रिसमस युगल आभूषण](https://podplo.app/skills/christmas-couple-ornament)
+क्रिसमस युगल सजावटी लटकन](https://podplo.app/skills/christmas-couple-ornament)
 
 <a id="tshirt-people-route"></a>
 
@@ -194,15 +194,15 @@
 
 [3डी युगल पोर्ट्रेट](https://podplo.app/skills/3d-couple-portrait)
 
-चार्ली
+CHARLIE
 
 नाम
 
-[![उत्तरी ध्रुव क्रिसमस डिज़ाइन चार्ली के साथ वैयक्तिकृत](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)](https://podplo.app/skills/north-pole-name-poster)
+[![CHARLIE नाम के साथ वैयक्तिकृत नॉर्थ पोल क्रिसमस डिज़ाइन](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)](https://podplo.app/skills/north-pole-name-poster)
 
 कलाकृति
 
-![आइवरी टी-शर्ट पर उसी चार्ली क्रिसमस कलाकृति का एआई पूर्वावलोकन](https://podplo.app/pod-guide/generated/tshirt-north-pole-proof.webp)
+![आइवरी टी-शर्ट पर उसी CHARLIE क्रिसमस कलाकृति का AI पूर्वावलोकन](https://podplo.app/pod-guide/generated/tshirt-north-pole-proof.webp)
 
 टी-शर्ट पर
 
@@ -224,13 +224,13 @@
 
 [![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)[![क्रेयॉन हार्ट्स नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)[![क्रेयॉन हार्ट्स नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 क्रेयॉन दिल का नाम पैटर्न](https://podplo.app/skills/crayon-hearts-name-pattern)[![डायनासोर का नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 डायनासोर के नाम का पैटर्न](https://podplo.app/skills/dinosaur-name-pattern)[![क्रिसमस गनोम नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607445124489843-artwork.webp)
 
-क्रिसमस सूक्ति नाम पैटर्न](https://podplo.app/skills/christmas-gnome-name-pattern)
+क्रिसमस ग्नोम और नाम वाला पैटर्न](https://podplo.app/skills/christmas-gnome-name-pattern)
 
 <a id="tshirt-embroidery-route"></a>
 
@@ -244,7 +244,7 @@
 
 ### छोटा डिज़ाइन. विशाल व्यक्तित्व.
 
-कढ़ाई स्केच के साथ एक बिल्ली की तस्वीर को एक साधारण कढ़ाई-शैली ग्राफिक में बदलें। रंग की कुछ रेखाएँ और ब्लॉक बहुत सारे चरित्रों को पकड़ सकते हैं।
+एम्ब्रॉयडरी स्केच से बिल्ली की फ़ोटो को सरल कढ़ाई जैसी ग्राफ़िक में बदलें। कुछ रेखाएँ और रंग-खंड भी उसका भरपूर व्यक्तित्व दिखा सकते हैं।
 
 [कढ़ाई स्केच](https://podplo.app/skills/embroidery-sketch)
 

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/stickers?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/stickers?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Transformez une idée en autocollant de personnage, en phrase de réaction ou en
 
 ### Petit format, grande personnalité
 
-Utilisez un caractère clair, un symbole en gras ou un groupe de graphiques associés pouvant fonctionner seuls ou en ensemble. Une mascotte avec une expression claire ; Une courte phrase de réaction ; Un petit ensemble d’icônes associées.
+Utilisez un personnage bien identifiable, un symbole affirmé ou un groupe de visuels apparentés qui fonctionnent seuls ou en ensemble. Une mascotte à l’expression claire ; une courte phrase de réaction ; un petit ensemble d’icônes apparentées.
 
 ![Autocollants et étiquettes · visuel de produit vierge](https://podplo.app/pod-guide/generated/stickers-blank.webp)
 
@@ -46,13 +46,13 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de mise en page et définissez Skills**
+**Explorez davantage de Skills de mise en page et de création d’ensembles**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explorez plus de mise en page et définissez Skills
+#### Explorez davantage de Skills de mise en page et de création d’ensembles
 
 4 / 10
 
@@ -74,7 +74,7 @@ Placez un nom dans un cadre floral pour créer un petit graphique personnalisé.
 
 [Cadre de nom floral](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉA
+ANDREA
 
 Nom
 
@@ -84,25 +84,25 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Découvrez plus de noms et d'occasions Skills**
+**Découvrez davantage de Skills pour les noms et les occasions**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Découvrez plus de noms et d'occasions Skills
+#### Découvrez davantage de Skills pour les noms et les occasions
 
 4 / 10
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple d'illustration d'affiche de nom du pôle Nord](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple d'illustration d'affiche de nom du pôle Nord](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Nom du pôle Nord Poster](https://podplo.app/skills/north-pole-name-poster)[![Exemple d'illustration de motif de nom de crayon coeurs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Affiche du pôle Nord avec prénom](https://podplo.app/skills/north-pole-name-poster)[![Exemple de visuel « Motif de cœurs au crayon avec prénom »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Modèle de nom de coeurs de crayon](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Motif de cœurs au crayon avec prénom](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -112,9 +112,9 @@ Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)
 
 ### Aperçu de l'autocollant utilisé
 
-Utilisez l'aperçu IA pour voir le même design sur une bouteille, un ordinateur portable ou un ordinateur portable.
+Utilisez l’aperçu IA pour voir le même visuel sur une bouteille, un ordinateur portable ou un carnet.
 
-- Un contour audacieux aide à définir le personnage
+- Un contour épais aide à définir le personnage
 
 - Un jeu d'autocollants offre aux clients davantage de façons d'organiser les graphiques
 

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/bounded--pattern-radial?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/pattern/bounded--pattern-radial?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Das sich wiederholende Ornament steht im Mittelpunkt. In einem Kreis angeordnete, unabhängig ausdrucksstarke Objekte ähneln eher einer radialen Themengruppierung.
+Das wiederholte Ornament steht im Mittelpunkt. Eigenständig ausdrucksstarke Objekte in einer kreisförmigen Anordnung entsprechen eher einer radialen Motivgruppe.
 
 [← Zurück zu den Mustern](../pattern.md)
 
@@ -34,9 +34,9 @@ Das sich wiederholende Ornament steht im Mittelpunkt. In einem Kreis angeordnete
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -64,31 +64,31 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Das sich wiederholende Ornament steht im Mittelpunkt. In einem Kreis angeordnete, unabhängig ausdrucksstarke Objekte ähneln eher einer radialen Themengruppierung.
+Das wiederholte Ornament steht im Mittelpunkt. Eigenständig ausdrucksstarke Objekte in einer kreisförmigen Anordnung entsprechen eher einer radialen Motivgruppe.
 
 <a id="backgrounds"></a>
 
 ## Erkunden Sie den Hintergrund
 
-Diese Beispiele vergleichen Gründe innerhalb derselben Inhaltsfamilie. Behalten Sie die aktuelle Zusammensetzung bei, wenn Sie eine Behandlung anwenden. Öffnen Sie ein Beispiel für die vollständige Anleitung.
+Diese Beispiele vergleichen Hintergründe innerhalb derselben Inhaltsgruppe. Bewahren Sie beim Anwenden einer Gestaltung die aktuelle Komposition; öffnen Sie ein Beispiel, um die vollständige Anleitung zu lesen.
 
-[![Transparenter Hintergrund: Muster: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
+[![Transparenter Hintergrund: Muster: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Muster: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--pattern--transparent.md)[![Einfarbiger Hintergrund: Muster: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+Muster: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--pattern--transparent.md)[![Einfarbiger Hintergrund: Muster: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Muster: Eine einheitliche Farbe bildet den Grund; Weiß ist auch ein solider Hintergrund.](background--pattern--solid.md)[![Hintergrund mit Farbverlauf: Muster: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+Muster: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--pattern--solid.md)[![Hintergrund mit Farbverlauf: Muster: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Muster: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--pattern--gradient.md)[![Gemusterter Hintergrund: lokal: Muster: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
+Muster: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--pattern--gradient.md)[![Gemusterter Hintergrund, lokal: Muster: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Muster: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--pattern--pattern-local.md)[![Gemusterter Hintergrund: vollflächig: Muster: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-full-1.svg)
+Muster: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](background--pattern--pattern-local.md)[![Gemusterter Hintergrund: vollflächig: Muster: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
@@ -98,13 +98,13 @@ Muster: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vo
 
 Muster: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--pattern--texture.md)[![Umgebungshintergrund: Muster: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um sie herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
 
-### Umwelthintergrund↗
+### Umgebungshintergrund↗
 
 Muster: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--pattern--scene.md)
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Begrenztes Muster: Motive folgen einer dekorativen Anordnung innerhalb einer endlichen Fläche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-bounded--pattern-bounded-1.svg)
 
@@ -112,4 +112,4 @@ Muster: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder 
 
 Motive folgen einer dekorativen Anordnung innerhalb einer begrenzten Fläche.](bounded--pattern-bounded.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene--scene-story?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene--scene-story?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -32,11 +32,11 @@ Los objetos colocados uno al lado del otro o contra la decoración por sí solos
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -48,7 +48,7 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Conserve el tema central y cree una acción, interacción o evento relacionado con el tema en torno a él. Los objetos pueden participar a través del uso, la actividad circundante o un cambio que se esté produciendo.
+Conserva el motivo central y construye a su alrededor una acción, interacción o acontecimiento relacionado con el tema. Los objetos pueden participar mediante su uso, la actividad circundante o un cambio en curso.
 
 **Fondo**
 
@@ -70,13 +70,13 @@ Los objetos colocados uno al lado del otro o contra la decoración por sí solos
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
 [![Fondo transparente: Escenas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Escenas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--scene--transparent.md)[![Fondo sólido: Escenas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Escenas: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--scene--transparent.md)[![Fondo sólido: Escenas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### Fondo sólido↗
 
@@ -96,15 +96,15 @@ Escenas: un fondo estampado cubre la imagen detrás de un contenido en primer pl
 
 ### Fondo texturizado↗
 
-Escenas: Granos de papel, partículas u otros caracteres superficiales respaldan el contenido en primer plano.](background--scene--texture.md)[![Fondo ambiental: Escenas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
+Escenas: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](background--scene--texture.md)[![Fondo ambiental: Escenas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
 Escenas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](background--scene--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Entorno ambiental: Un sujeto y su entorno establecen una situación, con o sin acción.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-environment-1.svg)
 
@@ -120,4 +120,4 @@ El entorno en su conjunto es el foco principal de la imagen.](scene--scene-lands
 
 Una pequeña área de la vida cotidiana sugiere una situación o actividad compartida.](scene--scene-desk.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

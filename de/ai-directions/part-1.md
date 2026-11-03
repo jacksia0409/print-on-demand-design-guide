@@ -29,28 +29,28 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Ersetzen Sie das identifizierbare Schwerpunktthema nicht durch eine Umgebung, eine dekorative Wiederholung, eine materielle Oberfläche oder eine nichtfigurative Abstraktion.
+Umfang und Grenzen: Ersetzen Sie das erkennbare Hauptmotiv nicht durch eine Umgebung, einen dekorativen Rapport, eine Materialoberfläche oder eine nichtgegenständliche Abstraktion.
 ```
 
 
 ## 2 Szenen
 
-Subjekte, Umgebungen und räumliche oder erzählerische Beziehungen schaffen eine Situation.
+Motive, Umgebung und räumliche oder erzählerische Beziehungen schaffen eine Situation.
 
 ```text
 Gestaltungsrichtung: Szenen
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Organisieren Sie Themen, Umgebung und Raum rund um das ursprüngliche Thema. Das Ergebnis kann ein Ereignis, eine ruhige Umgebung, eine Landschaft oder eine Alltagsvignette sein; Schaffen Sie eine verwandte Umgebung, wenn sie nicht vorhanden sind.
+Zielstruktur: Ordnen Sie Motive, Schauplatz und Raum um das ursprüngliche Thema an. Das Ergebnis kann ein Ereignis, ein ruhiger Schauplatz, eine Landschaft oder eine Alltagsszene sein; schaffen Sie eine passende Umgebung, wenn sie fehlt.
 
-Hintergrund: Nutzen Sie vorhandene Standort-, Umgebungs- und Atmosphärenmerkmale, um eine kohärente Umgebung zu schaffen. Wenn kein Hintergrund vorhanden ist oder nur eine feste oder transparente Unterlage bereitgestellt wird, erstellen Sie eine entsprechende Umgebung. Ein dekoratives Muster allein darf den wesentlichen Kontext nicht ersetzen.
+Hintergrund: Nutzen Sie vorhandene Hinweise auf Ort, Umgebung und Atmosphäre, um einen stimmigen Schauplatz zu entwickeln. Fehlt ein Hintergrund oder ist er nur einfarbig oder transparent, schaffen Sie eine passende Umgebung. Ein dekoratives Muster allein darf wesentlichen Kontext nicht ersetzen.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Es besteht kein Handlungsbedarf. Die Dekoration hinter einem isolierten Objekt ohne Kontextbeziehungen ähnelt eher einem subjektorientierten Kunstwerk.
+Umfang und Grenzen: Eine Handlung ist nicht erforderlich. Dekoration hinter einem isolierten Objekt ohne kontextuelle Beziehungen entspricht eher einer motivbetonten Grafik.
 ```
 
 
@@ -84,9 +84,9 @@ Gestaltungsrichtung: Texturen
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Übersetzen Sie relevante Farbpaletten, Materialien und Atmosphären in oberflächenorientierte Kunstwerke. Verwenden Sie vollständige Abdeckung, lokale Fragmente oder Ebenen und reduzieren Sie nicht zusammenhängende Objekte, die zu unabhängigen Fokusthemen werden würden.
+Zielstruktur: Übertragen Sie relevante Farbpalette, Material und Atmosphäre in eine oberflächenbetonte Gestaltung. Nutzen Sie vollständige Abdeckung, örtlich begrenzte Fragmente oder Schichten und reduzieren Sie unpassende Objekte, die zu eigenständigen Hauptmotiven würden.
 
-Hintergrund: Referenzmaterial, Farbpalette und Atmosphäre, um bei Fehlen eine relevante Oberflächenbehandlung zu schaffen. Ein lokaler Patch kann eine separate Unterstützung haben; eine vollflächige Textur verschmilzt mit dem Untergrund. Vermeiden Sie das Hinzufügen eines dominanten Objekts oder einer narrativen Umgebung.
+Hintergrund: Orientieren Sie sich an Material, Farbpalette und Atmosphäre und gestalten Sie bei fehlender Vorlage eine passende Oberfläche. Ein lokal begrenztes Texturfeld kann einen eigenen Hintergrund haben; eine vollflächige Textur verschmilzt mit ihrem Untergrund. Fügen Sie keinen dominanten Gegenstand und keinen erzählerischen Schauplatz hinzu.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
@@ -107,13 +107,13 @@ Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsr
 
 Zielaufbau: Übersetzen Sie Palette, Rhythmus, Richtung oder Stimmung in geometrische Formen, organischen Fluss, Markierungen oder Farbfelder. Reorganisieren Sie Beziehungen und Räume, anstatt ein konkretes Objekt als Hauptziel zu bewahren.
 
-Hintergrund: Referenzieren Sie Hintergrundfarben, Rhythmus und Stimmung. Falls nicht vorhanden, erstellen Sie zugehörige unterstützende Boden- oder Raumbeziehungen. Die Umgebung figurativer Quellen kann in unterstützende Hinweise vereinfacht werden, ohne die nichtfigurative Komposition zu ersetzen.
+Hintergrund: Orientieren Sie sich an Hintergrundfarben, Rhythmus und Stimmung. Fehlen diese, schaffen Sie einen passenden unterstützenden Hintergrund oder räumliche Beziehungen. Eine gegenständliche Umgebung im Ausgangsbild darf zu unterstützenden Anhaltspunkten vereinfacht werden, ohne die nichtgegenständliche Komposition zu ersetzen.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
-Beibehalten und anpassen: Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Beibehalten und anpassen: Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung; die konkrete Gegenstandsidentität darf reduziert oder entfernt werden. Verlangen Sie nicht zugleich, dass die ursprüngliche Gegenstandssilhouette vollständig erhalten bleibt. Beschreiben Sie neu geschaffene Inhalte nicht so, als seien sie in der Vorlage vorhanden. Benennen Sie Konflikte zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Ein identifizierbares stilisiertes Objekt bleibt eine thematische Behandlung. Der Oberflächencharakter des Materials gehört zu den Texturen, wenn er den Hauptausdruck darstellt.
+Umfang und Grenzen: Ein erkennbares stilisiertes Objekt bleibt eine Gestaltung mit erkennbarem Motiv. Die Oberflächenbeschaffenheit eines Materials gehört zu den Texturen, wenn sie den Hauptausdruck bildet.
 ```
 
 
@@ -122,11 +122,11 @@ Umfang und Grenzen: Ein identifizierbares stilisiertes Objekt bleibt eine themat
 Ein Hauptmotiv befindet sich in der Nähe der Mitte und ist umgeben von Raum.
 
 ```text
-Gestaltungsrichtung: Subjektgesteuert → Einzelnes Subjekt → Zentriertes Subjekt
+Gestaltungsrichtung: Motiv im Mittelpunkt → Einzelmotiv → Zentriertes Motiv
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Wählen Sie ein zusammenhängendes Schwerpunktthema und platzieren Sie dessen visuelles Zentrum in der Nähe der Mitte. Passen Sie den Maßstab und den umgebenden Raum an, sodass die Komposition einen stabilen Schwerpunkt hat.
+Zielstruktur: Wählen Sie ein in sich stimmiges Hauptmotiv und platzieren Sie seinen visuellen Mittelpunkt nahe der Bildmitte. Stimmen Sie seine Größe und den umgebenden Raum so ab, dass die Komposition einen stabilen Blickpunkt erhält.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -134,7 +134,7 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Für die Zentrierung ist keine Spiegelsymmetrie erforderlich. Vermeiden Sie es, mehrere unabhängige Themen mit gleicher Gewichtung zu verteilen.
+Umfang und Grenzen: Eine zentrierte Anordnung verlangt keine Spiegelsymmetrie. Verteilen Sie nicht mehrere unabhängige Motive mit gleicher Gewichtung.
 ```
 
 
@@ -143,11 +143,11 @@ Umfang und Grenzen: Für die Zentrierung ist keine Spiegelsymmetrie erforderlich
 Das Hauptmotiv befindet sich auf einer Seite, sodass an anderer Stelle ein deutlich ruhigerer Bereich entsteht.
 
 ```text
-Gestaltungsrichtung: Subjektgeführt → Einzelsubjekt → Versetzt mit offenem Raum
+Gestaltungsrichtung: Motiv im Mittelpunkt → Einzelmotiv → Versetzt mit Freiraum
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Bewegen Sie ein Hauptmotiv zur Seite oder in eine außermittige Position. Stellen Sie einen deutlichen Unterschied in der visuellen Gewichtung fest. Der ruhigere Bereich kann unterstützenden Text enthalten oder offen bleiben.
+Zielstruktur: Verschieben Sie ein Hauptmotiv zu einer Seite oder an eine außermittige Position. Schaffen Sie einen klaren Unterschied im visuellen Gewicht; der ruhigere Bereich darf ergänzenden Text enthalten oder frei bleiben.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -164,11 +164,11 @@ Umfang und Grenzen: Ein versetztes Layout sollte erkennbare Merkmale bewahren. E
 Eine vergrößerte, beschnittene Ansicht bringt einen erkennbaren Teil des Motivs in den Fokus.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Einzelbetreff → Vergrößerter Ausschnitt
+Gestaltungsrichtung: Motiv im Mittelpunkt → Einzelmotiv → Vergrößertes Detail
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Wählen Sie einen markanten Teil des Eingabemotivs aus und vergrößern Sie es über einen oder mehrere Ränder hinaus. Behalten Sie genügend Kontur, Struktur oder Details bei, um das Objekt zu identifizieren.
+Zielstruktur: Wählen Sie einen markanten Teil des Ausgangsmotivs und vergrößern Sie ihn über einen oder mehrere Bildränder hinaus. Bewahren Sie genügend Kontur, Struktur oder Details, damit das Objekt erkennbar bleibt.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -185,7 +185,7 @@ Umfang und Grenzen: Dadurch wird ein einzelnes Motiv beschnitten. Zu einer Szene
 Das Motiv erstreckt sich entlang einer Diagonale und gibt dem Bild eine klare Richtung.
 
 ```text
-Gestaltungsrichtung: Themengesteuert → Einzelthema → Diagonale Komposition
+Gestaltungsrichtung: Motiv im Mittelpunkt → Einzelmotiv → Diagonale Komposition
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -201,16 +201,16 @@ Umfang und Grenzen: Wenn Sie nur den Hintergrund oder die Beschriftung neigen, w
 ```
 
 
-## Nebeneinander liegende Themen
+## Motive nebeneinander
 
 Mehrere erkennbare Motive werden horizontal angeordnet und gemeinsam dargestellt.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Mehrere Betreffzeilen → Nebenbelegte Betreffzeilen
+Gestaltungsrichtung: Motiv im Mittelpunkt → Mehrere Motive → Motive nebeneinander
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Wählen Sie verwandte Objekte aus und ordnen Sie sie nebeneinander an. Visueller Maßstab und Abstand koordinieren; Wenn die Eingabe nur ein Objekt enthält, fügen Sie bei Bedarf eine kleine Anzahl themenbezogener Objekte hinzu.
+Zielstruktur: Wählen Sie zusammengehörige Objekte und ordnen Sie sie nebeneinander an. Stimmen Sie Größenverhältnisse und Abstände ab; enthält die Eingabe nur ein Objekt, ergänzen Sie bei Bedarf wenige zum Thema passende Objekte.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -222,16 +222,16 @@ Umfang und Grenzen: Objekte müssen nicht die gleiche Größe oder den gleichen 
 ```
 
 
-## Haupt- und Nebenfächer
+## Haupt- und Nebenmotive
 
-Ein Subjekt leitet die Komposition, während andere Objekte sie unterstützen.
+Ein Motiv bestimmt die Komposition; andere Gegenstände unterstützen es.
 
 ```text
-Gestaltungsrichtung: Fachorientiert → Mehrere Fächer → Haupt- und Nebenfächer
+Gestaltungsrichtung: Motiv im Mittelpunkt → Mehrere Motive → Haupt- und Nebenmotive
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Wählen Sie ein Leitobjekt und stellen Sie dessen Hervorhebung anhand von Größe, Position, Kontrast oder Detail fest. Ordnen Sie andere relevante Objekte als sekundäre Ebene an.
+Zielstruktur: Wählen Sie ein Hauptobjekt und heben Sie es durch Größe, Position, Kontrast oder Detailgrad hervor. Ordnen Sie andere relevante Objekte als untergeordnete Ebene an.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -245,14 +245,14 @@ Umfang und Grenzen: Die Hierarchie muss sichtbar sein. Wenn eine Umgebung oder e
 
 ## Vertikale Gruppierung
 
-Mehrere Themen bilden eine Komposition, die sich von oben nach unten liest.
+Mehrere Motive bilden eine Komposition, deren Leseführung von oben nach unten verläuft.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Mehrere Betreffzeilen → Vertikale Gruppierung
+Gestaltungsrichtung: Motiv im Mittelpunkt → Mehrere Motive → Vertikale Gruppierung
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Ordnen Sie verwandte Themen vertikal an. Lassen Sie Versätze oder begrenzte Überlappungen zu und behalten Sie gleichzeitig eine klare Beziehung von oben nach unten und eine ausgewogene visuelle Gewichtung bei.
+Zielstruktur: Ordnen Sie zusammengehörige Motive vertikal an. Versätze oder begrenzte Überlagerungen sind erlaubt, solange eine klare Beziehung von oben nach unten und ausgewogenes visuelles Gewicht erhalten bleiben.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -269,11 +269,11 @@ Umfang und Grenzen: Objekte müssen einander nicht physisch unterstützen. Eine 
 Die Motive korrespondieren über eine Achse hinweg, um eine ausgewogene Komposition zu schaffen.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Mehrere Betreffzeilen → Symmetrische Gruppierung
+Gestaltungsrichtung: Motiv im Mittelpunkt → Mehrere Motive → Symmetrische Gruppierung
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Ordnen Sie Objekte um eine klare Achse an. Verwenden Sie gespiegelte Versionen eines Objekts oder verschiedener Objekte, deren Positionen, Größen und Formen einander ausgleichen.
+Zielstruktur: Ordnen Sie Objekte um eine klare Achse an. Verwenden Sie gespiegelte Versionen eines Objekts oder verschiedene Objekte, deren Positionen, Größen und Formen einander ausgleichen.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -285,16 +285,16 @@ Umfang und Grenzen: Einzelheiten können abweichen; Eine pixelgenaue Spiegelung 
 ```
 
 
-## Themen um ein Zentrum
+## Motive um einen Mittelpunkt
 
-Mehrere Fächer bilden eine endliche kreisförmige oder radiale Gruppe.
+Mehrere Motive bilden eine begrenzte kreisförmige oder radiale Gruppe.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Mehrere Betreffzeilen → Betreffzeilen um ein Zentrum
+Gestaltungsrichtung: Motiv im Mittelpunkt → Mehrere Motive → Motive um einen Mittelpunkt
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Ordnen Sie verwandte Themen um ein gemeinsames Zentrum an und koordinieren Sie dabei ihre Ausrichtung, Größe und Abstände. Die Mitte kann offen bleiben oder einen Leitgegenstand oder unterstützende Worte enthalten.
+Zielstruktur: Ordnen Sie zusammengehörige Motive um einen gemeinsamen Mittelpunkt an und stimmen Sie Ausrichtung, Größe und Abstände ab. Die Mitte darf frei bleiben oder ein Hauptobjekt beziehungsweise ergänzenden Text enthalten.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -311,7 +311,7 @@ Umfang und Grenzen: Sorgen Sie dafür, dass die Objekte unabhängig voneinander 
 Die Motive werden in einer kompakten Komposition mit einer klaren Reihenfolge von vorne nach hinten zusammengefasst.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Mehrere Betreffzeilen → Gruppiert und überlappend
+Gestaltungsrichtung: Motiv im Mittelpunkt → Mehrere Motive → Gruppiert und überlappend
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -323,7 +323,7 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Überlappungen sollten nicht alle Unterscheidungsmerkmale verdecken. Eine realistische Einstellung ist optional; Der Hauptzweck bleibt eine Objektgruppierung.
+Umfang und Grenzen: Überlagerungen sollten nicht alle charakteristischen Merkmale verdecken. Eine realistische Umgebung ist optional; der Hauptzweck bleibt eine Gruppierung von Objekten.
 ```
 
 
@@ -332,7 +332,7 @@ Umfang und Grenzen: Überlappungen sollten nicht alle Unterscheidungsmerkmale ve
 Unabhängige Elemente werden in Zeilen, Spalten oder einem einheitlichen Raster angezeigt.
 
 ```text
-Gestaltungsrichtung: Themengesteuert → Mehrere Themen → Sammlungen → Regelmäßiges Sammlungslayout
+Gestaltungsrichtung: Motiv im Mittelpunkt → Mehrere Motive → Sammlungen → Regelmäßiges Sammlungslayout
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -344,16 +344,16 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Der Zweck besteht darin, einzelne Elemente anzuzeigen. Ein endliches Gitter ist nicht automatisch eine nahtlose Wiederholung, und die Elemente müssen nicht identisch sein.
+Umfang und Grenzen: Ziel ist es, einzelne Elemente zu zeigen. Ein begrenztes Raster ist nicht automatisch ein nahtloser Rapport, und die Elemente müssen nicht identisch sein.
 ```
 
 
-## Kostenloses Sammlungslayout
+## Freies Sammlungslayout
 
 Unabhängige Elemente sind locker und unregelmäßig angeordnet und haben ein gemeinsames Thema.
 
 ```text
-Gestaltungsrichtung: Themengesteuert → Mehrere Themen → Sammlungen → Kostenloses Sammlungslayout
+Gestaltungsrichtung: Motiv im Mittelpunkt → Mehrere Motive → Sammlungen → Freies Sammlungslayout
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -374,11 +374,11 @@ Umfang und Grenzen: Vermeiden Sie eine offensichtliche Wiederholungseinheit. Wen
 Das Bild erregt zunächst Aufmerksamkeit; Wörter fügen Bedeutung oder Kontext hinzu.
 
 ```text
-Gestaltungsrichtung: Themenorientiert → Text- und Themenbeziehungen → Bildorientiert, mit unterstützendem Text
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Bildbetont, mit ergänzendem Text
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Behalten Sie das visuelle Motiv im Mittelpunkt. Platzieren Sie Formulierungen als sekundäre Ebene durch kleinere Maßstäbe, leiseren Kontrast oder eine unterstützende Position.
+Zielstruktur: Behalten Sie das Bildmotiv als Hauptblickpunkt bei. Ordnen Sie den Text durch geringere Größe, zurückhaltenderen Kontrast oder eine ergänzende Position unter.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -395,15 +395,15 @@ Umfang und Grenzen: Der unterstützende Text muss lesbar bleiben, ohne zum domin
 Worte tragen die Hauptbotschaft, wobei ein kleines Bild ihre Bedeutung unterstützt.
 
 ```text
-Gestaltungsrichtung: Subjektorientiert → Text- und Subjektbeziehungen → Textorientiert, mit unterstützenden Bildern
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Textbetont, mit ergänzenden Bildern
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Verwenden Sie den bereitgestellten Wortlaut oder erstellen Sie einen kurzen themenbezogenen Satz als Hauptvisual. Halten Sie verwandte Bilder in Bezug auf Maßstab und Betonung untergeordnet.
+Zielstruktur: Verwenden Sie den vorgegebenen Text oder verfassen Sie eine kurze, zum Thema passende Formulierung als Hauptbildelement. Halten Sie ergänzende Bilder in Größe und Gewichtung untergeordnet.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, verfassen Sie einen knappen, zum Thema passenden Text und machen Sie die Schriftgestaltung zum Mittelpunkt dieser Gestaltung. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht ein ausdrücklicher Wunsch nach einem Bild ohne Text dieser textbasierten Gestaltungsrichtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
@@ -411,24 +411,24 @@ Umfang und Grenzen: Der Text sollte klar leiten. Die gleiche visuelle Gewichtung
 ```
 
 
-## Nur-Typ-Ausdruck
+## Rein typografische Gestaltung
 
 Buchstabenformen, Maßstab und Anordnung bestimmen das Design.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Text- und Betreffbeziehungen → Nur-Typ-Ausdruck
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Rein typografische Gestaltung
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Verwandeln Sie das Thema in einen prägnanten typografischen Ausdruck. Wenn es sich bei der Eingabe um ein Bild handelt, übersetzen Sie dessen Thema oder Stimmung in Worte und entfernen Sie das unabhängige Bildthema. Behalten Sie den bereitgestellten Wortlaut bei, sofern vorhanden.
+Zielstruktur: Übertragen Sie das Thema in eine knappe typografische Gestaltung. Ist die Eingabe ein Bild, übertragen Sie dessen Thema oder Stimmung in Wörter und entfernen Sie das eigenständige Bildmotiv; bewahren Sie vorgegebenen Text, wenn er vorhanden ist.
 
 Hintergrund: Verweisen Sie auf die vorhandene Grundfarbe, Palette oder das vorhandene Material. Wenn nicht, erstellen Sie einen geeigneten Uni-, Farbverlaufs- oder dezent strukturierten Untergrund. Behalten Sie kein eigenständiges figuratives Bildmotiv im Hintergrund eines reinen Schriftdesigns bei.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, verfassen Sie einen knappen, zum Thema passenden Text und machen Sie die Schriftgestaltung zum Mittelpunkt dieser Gestaltung. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht ein ausdrücklicher Wunsch nach einem Bild ohne Text dieser textbasierten Gestaltungsrichtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
-Beibehalten und anpassen: Behalten Sie das Thema, den lesbaren Quelltext, die Sprache und die Farbpalette bei, während Sie Bildinformationen in Typografie übersetzen. Es ist auch nicht erforderlich, dass ein eigenständiges Bildthema erhalten bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Beibehalten und anpassen: Bewahren Sie Thema, lesbaren Vorlagentext, Sprache und Farbpalette und übertragen Sie Bildinformationen in Typografie. Verlangen Sie nicht zugleich, dass ein eigenständiges Bildmotiv erhalten bleibt. Beschreiben Sie neu geschaffene Inhalte nicht so, als seien sie in der Vorlage vorhanden. Benennen Sie Konflikte zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Eine Hintergrundfarbe, eine subtile Textur oder ein nicht-figurativer Akzent sind zulässig. Stellen Sie keine unabhängige Person oder ein unabhängiges Objekt als konkurrierendes Subjekt vor.
+Umfang und Grenzen: Eine Hintergrundfarbe, dezente Textur oder ein nichtgegenständlicher Akzent ist erlaubt. Führen Sie keine eigenständige Person oder kein eigenständiges Objekt als konkurrierendes Motiv ein.
 ```
 
 
@@ -437,11 +437,11 @@ Umfang und Grenzen: Eine Hintergrundfarbe, eine subtile Textur oder ein nicht-fi
 Bild und Text belegen obere und untere Bereiche und sorgen so für eine klare Lesereihenfolge.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Text- und Betreffbeziehungen → Bild und Text gestapelt
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Bild und Text übereinander
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Platzieren Sie Bild und Text in zwei vertikalen Hauptzonen. Wählen Sie je nach Inhalt „Bild oben“ oder „Text oben“ und koordinieren Sie dann Ausrichtung, Breite und Abstand.
+Zielstruktur: Platzieren Sie Bild und Text in zwei übereinanderliegenden Hauptbereichen. Entscheiden Sie je nach Inhalt, ob das Bild oder der Text oben steht, und stimmen Sie Ausrichtung, Breite und Abstände ab.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -458,7 +458,7 @@ Umfang und Grenzen: Keines der Elemente muss oben liegen oder das gleiche Gewich
 Bild und Text nehmen entgegengesetzte Seiten ein und reagieren aufeinander.
 
 ```text
-Gestaltungsrichtung: Subjektgesteuert → Text- und Subjektbeziehungen → Bild und Text nebeneinander
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Bild und Text nebeneinander
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -474,16 +474,16 @@ Umfang und Grenzen: Die Flächen müssen nicht gleich groß sein. Eine horizonta
 ```
 
 
-## Text rund um das Thema
+## Text um das Motiv
 
 Wörter folgen einem Bogen oder äußeren Pfad um das Bild.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Text- und Betreffbeziehungen → Text rund um das Betreff
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Text um das Motiv
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Behalten Sie die Erkennungsmerkmale des Motivs bei und ordnen Sie den Text entlang eines Bogens, Teilrings oder Vollrings um ihn herum an. Koordinatenabstand, Ausrichtung und Abstand zum Motiv.
+Zielstruktur: Bewahren Sie die Erkennungsmerkmale des Motivs und ordnen Sie den Text als Bogen, Teilring oder vollständigen Ring darum an. Stimmen Sie Textabstände, Ausrichtung und Abstand zum Motiv aufeinander ab.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -491,7 +491,7 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Ein vollständiger Kreis ist optional. Behalten Sie eine klare Flugbahn und eine lesbare Ausrichtung bei, anstatt kleine Wörter wahllos zu verstreuen.
+Umfang und Grenzen: Ein vollständiger Kreis ist optional. Bewahren Sie einen klaren umlaufenden Verlauf und eine lesbare Ausrichtung, statt kleine Wörter wahllos zu verstreuen.
 ```
 
 
@@ -500,11 +500,11 @@ Umfang und Grenzen: Ein vollständiger Kreis ist optional. Behalten Sie eine kla
 Bild- und Schriftteile verlaufen vor- oder hintereinander.
 
 ```text
-Gestaltungsrichtung: Subjektgesteuert → Text- und Subjektbeziehungen → Verwobenes Bild und Text
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Verflochtenes Bild und Text
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Bringen Sie Wortlaut und Thema in einen Designbereich. Platzieren Sie ausgewählte Bildteile vor Buchstaben und andere dahinter oder nutzen Sie Lücken in der Beschriftung, um eine Verflechtung herzustellen.
+Zielstruktur: Bringen Sie Text und Motiv in einem gemeinsamen Gestaltungsbereich zusammen. Platzieren Sie ausgewählte Bildteile vor Buchstaben und andere dahinter oder nutzen Sie Lücken in der Schrift, um eine Verflechtung zu schaffen.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
@@ -512,7 +512,7 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Eine einfache Textüberlagerung ist nicht unbedingt eine Verflechtung. Behalten Sie wichtige Themendetails und eine ausreichende Buchstabenstruktur bei, um die Wörter lesen zu können.
+Umfang und Grenzen: Eine einfache Textüberlagerung ist nicht unbedingt eine Verflechtung. Bewahren Sie wesentliche Motivdetails und genügend Buchstabenstruktur, damit die Wörter lesbar bleiben.
 ```
 
 
@@ -521,15 +521,15 @@ Umfang und Grenzen: Eine einfache Textüberlagerung ist nicht unbedingt eine Ver
 Ein relevantes Bild ersetzt oder wird Teil eines Buchstabens oder Strichs.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Text- und Betreffbeziehungen → Bilder innerhalb einer Buchstabenform
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Bild innerhalb einer Buchstabenform
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Wählen Sie eine passende Position im Wortlaut und integrieren Sie ein themenbezogenes Bild in einen Teil der Buchstabenform. Koordinatenmaßstab, Ausrichtung und Abstand; Behalten Sie einen Teil der ursprünglichen Buchstabenstruktur bei, wenn dies zum Lesen erforderlich ist.
+Zielstruktur: Wählen Sie eine geeignete Stelle im Text und integrieren Sie ein zum Thema passendes Bild in einen Teil einer Buchstabenform. Stimmen Sie Größe, Ausrichtung und Abstände ab; bewahren Sie bei Bedarf einen Teil der ursprünglichen Buchstabenstruktur, damit der Text lesbar bleibt.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, verfassen Sie einen knappen, zum Thema passenden Text und machen Sie die Schriftgestaltung zum Mittelpunkt dieser Gestaltung. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht ein ausdrücklicher Wunsch nach einem Bild ohne Text dieser textbasierten Gestaltungsrichtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
@@ -542,19 +542,19 @@ Umfang und Grenzen: Behalten Sie den beabsichtigten Wortlaut und die beabsichtig
 Die Anordnung und Dichte der Wörter bilden einen erkennbaren Umriss.
 
 ```text
-Gestaltungsrichtung: Subjektgesteuert → Text- und Subjektbeziehungen → Wörter, die eine Form bilden
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Wörter bilden eine Form
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Verwenden Sie themenbezogene Wörter als Bausteine für die Form des ursprünglichen Motivs. Passen Sie Linienlängen, Maßstab, Wiederholung und Dichte an. Verwenden Sie die bereitgestellten Formulierungen nach Möglichkeit wieder oder erstellen Sie eine relevante Kurzkopie.
+Zielstruktur: Verwenden Sie zum Thema passende Wörter als Bausteine für die Form des ursprünglichen Motivs. Stimmen Sie Zeilenlängen, Größe, Wiederholung und Dichte ab; verwenden Sie vorgegebenen Text möglichst wieder oder verfassen Sie passenden kurzen Text.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, verfassen Sie einen knappen, zum Thema passenden Text und machen Sie die Schriftgestaltung zum Mittelpunkt dieser Gestaltung. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht ein ausdrücklicher Wunsch nach einem Bild ohne Text dieser textbasierten Gestaltungsrichtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Die Form sollte sich in erster Linie aus der Anordnung der Buchstaben ergeben, wobei eine subtile Kontur als Unterstützung zulässig ist. Gewöhnlicher Text neben einem Bild ist nicht diese Behandlung.
+Umfang und Grenzen: Die Form sollte hauptsächlich durch die Anordnung der Buchstaben entstehen; eine dezente Kontur darf sie unterstützen. Gewöhnlicher Text neben einem Bild entspricht dieser Gestaltung nicht.
 ```
 
 
@@ -563,7 +563,7 @@ Umfang und Grenzen: Die Form sollte sich in erster Linie aus der Anordnung der B
 Die Buchstabenumrisse tragen das Design, während die meisten Innenräume offen bleiben.
 
 ```text
-Gestaltungsrichtung: Themenorientiert → Text- und Subjektbeziehungen → Schriftbehandlungen → Umrissbeschriftung
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Schriftgestaltung → Konturschrift
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -571,7 +571,7 @@ Zielaufbau: Zeichnen Sie entlang der Buchstabenformen eine klare Kontur. Koordin
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, verfassen Sie einen knappen, zum Thema passenden Text und machen Sie die Schriftgestaltung zum Mittelpunkt dieser Gestaltung. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht ein ausdrücklicher Wunsch nach einem Bild ohne Text dieser textbasierten Gestaltungsrichtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
@@ -579,12 +579,12 @@ Umfang und Grenzen: Der Umriss muss den Buchstaben folgen und darf keinen Rahmen
 ```
 
 
-## Gestreckter oder komprimierter Typ
+## Gestreckte oder gestauchte Schrift
 
 Die Buchstabenproportionen werden sichtbar verlängert, verengt oder verbreitert.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Text- und Betreffbeziehungen → Beschriftungsbehandlungen → Gestreckter oder gestauchter Typ
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Schriftgestaltung → Gestreckte oder gestauchte Schrift
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -592,20 +592,20 @@ Zielaufbau: Ändern Sie die horizontalen oder vertikalen Buchstabenproportionen 
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, verfassen Sie einen knappen, zum Thema passenden Text und machen Sie die Schriftgestaltung zum Mittelpunkt dieser Gestaltung. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht ein ausdrücklicher Wunsch nach einem Bild ohne Text dieser textbasierten Gestaltungsrichtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Die proportionale Änderung sollte sichtbar sein, nicht nur eine größere Schriftgröße. Vermeiden Sie es, Buchstaben zu komprimieren, bis ihre Identität mehrdeutig wird.
+Umfang und Grenzen: Die Veränderung der Proportionen sollte sichtbar sein und nicht bloß in einer größeren Schriftgröße bestehen. Stauchen Sie Buchstaben nicht so weit, dass sie nicht mehr eindeutig erkennbar sind.
 ```
 
 
-## Gebogener oder gewellter Typ
+## Geschwungene oder gewellte Schrift
 
 Buchstaben folgen einer Kurve oder Welle mit einem sichtbaren steigenden und fallenden Rhythmus.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Text- und Betreffbeziehungen → Beschriftungsbehandlungen → Geschwungene oder gewellte Schrift
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Schriftgestaltung → Gebogene oder gewellte Schrift
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -613,7 +613,7 @@ Zielaufbau: Variieren Sie die Grundlinie, die Buchstabenpositionen oder die Buch
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, verfassen Sie einen knappen, zum Thema passenden Text und machen Sie die Schriftgestaltung zum Mittelpunkt dieser Gestaltung. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht ein ausdrücklicher Wunsch nach einem Bild ohne Text dieser textbasierten Gestaltungsrichtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
@@ -621,20 +621,20 @@ Umfang und Grenzen: Sowohl eine wellenförmige Anordnung als auch verzogene Buch
 ```
 
 
-## Typ mit abgewinkelter Perspektive
+## Perspektivisch geneigte Schrift
 
 Der Schriftzug verändert seine scheinbare Skalierung über seine Breite, um Tiefe zu suggerieren.
 
 ```text
-Gestaltungsrichtung: Subjektgesteuert → Text- und Subjektbeziehungen → Beschriftungsbehandlungen → Typ mit abgewinkelter Perspektive
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Schriftgestaltung → Schräg perspektivische Schrift
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Wenden Sie eine konsistente perspektivische Behandlung an, sodass Buchstabenhöhen, Abstände oder Kanten mit dem scheinbaren Abstand kleiner werden. Koordinieren Sie diese Kontraktion mit der Richtung des Textes in der Komposition.
+Zielstruktur: Wenden Sie eine einheitliche perspektivische Gestaltung an, sodass Buchstabenhöhe, Abstände oder Kanten mit scheinbar zunehmender Entfernung kleiner werden. Stimmen Sie diese Verkleinerung auf die Richtung des Textes in der Komposition ab.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, verfassen Sie einen knappen, zum Thema passenden Text und machen Sie die Schriftgestaltung zum Mittelpunkt dieser Gestaltung. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht ein ausdrücklicher Wunsch nach einem Bild ohne Text dieser textbasierten Gestaltungsrichtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
@@ -642,22 +642,22 @@ Umfang und Grenzen: Rotation oder eine gleichmäßige Scherung allein sind nicht
 ```
 
 
-## Gespaltener und verschobener Typ
+## Zerschnittene und versetzte Schrift
 
 Buchstabenformen werden in verschobene Teile zerschnitten, während die ursprünglichen Wörter erkennbar bleiben.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Text- und Betreffbeziehungen → Beschriftungsbehandlungen → Gespaltener und verschobener Typ
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Schriftgestaltung → Zerschnittene und versetzte Schrift
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Wählen Sie bewusste Schnitte durch den Schriftzug und versetzen Sie ihn, trennen Sie ausgewählte Teile oder färben Sie sie neu. Behalten Sie einen ausreichenden Teil der gesamten Buchstabenstruktur bei, um den Wortlaut beizubehalten.
+Zielstruktur: Setzen Sie bewusst Schnitte durch die Schrift und versetzen, trennen oder färben Sie ausgewählte Teile neu. Bewahren Sie genügend von der gesamten Buchstabenstruktur, damit der Wortlaut erhalten bleibt.
 
 Hintergrund: Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhandenen Hintergrunds und passen Sie diese an den Zielaufbau an. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, gestalten Sie einen thematisch passenden Hintergrund. Eine ausdrückliche Vorgabe für einen einfarbigen, transparenten oder anderen Hintergrund hat Vorrang.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, verfassen Sie einen knappen, zum Thema passenden Text und machen Sie die Schriftgestaltung zum Mittelpunkt dieser Gestaltung. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht ein ausdrücklicher Wunsch nach einem Bild ohne Text dieser textbasierten Gestaltungsrichtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Zerstreuen Sie die Fragmente nicht, bis die Wörter ihre Bedeutung verlieren. Die Schnitte und Versätze können variieren, statt sich bei jedem Buchstaben identisch zu wiederholen.
+Umfang und Grenzen: Verstreuen Sie Fragmente nicht so weit, dass die Wörter ihre Bedeutung verlieren. Schnitte und Versätze dürfen variieren, statt sich bei jedem Buchstaben identisch zu wiederholen.
 ```

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/personalization?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/personalization?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -44,13 +44,13 @@ Resultado
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración del eliminador de fondo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Eliminador de fondo](https://podplo.app/skills/background-remover)[![Ejemplo de obra de arte de reparación detallada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Eliminador de fondo](https://podplo.app/skills/background-remover)[![Ejemplo de reparación de detalles](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparación detallada](https://podplo.app/skills/detail-repair)
+Reparación de detalles](https://podplo.app/skills/detail-repair)
 
 <a id="templates"></a>
 
@@ -76,15 +76,15 @@ Patrón de nombre de dinosaurio
 
 [![Ejemplo de arte floral con marco con nombre](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-Marco de nombre floral](https://podplo.app/skills/floral-name-frame)[![Ejemplo de obra de arte con nombre de pata de cuadros de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Marco de nombre floral](https://podplo.app/skills/floral-name-frame)[![Ejemplo del nombre con huella de cuadros búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nombre de la pata de cuadros de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
+Nombre con huella de cuadros búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="proofing"></a>
 
 ## Crear una tarjeta conmemorativa personal
 
-[Tarjeta conmemorativa con fotografía](https://podplo.app/skills/photo-memorial-card) combina una foto, un nombre, una fecha y un mensaje elegidos en un diseño conmemorativo.
+[Tarjeta conmemorativa con fotografía](https://podplo.app/skills/photo-memorial-card) combina una foto, un nombre, fechas y un mensaje elegidos en un diseño conmemorativo.
 
 [Tarjeta conmemorativa con fotografía](https://podplo.app/skills/photo-memorial-card) combina una foto elegida con el nombre, las fechas y el mensaje de la persona en un diseño conmemorativo sobrio. Mantiene la persona y los detalles biográficos sin cambios.
 
@@ -146,10 +146,10 @@ Resultado
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración del eliminador de fondo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Eliminador de fondo](https://podplo.app/skills/background-remover)[![Ejemplo de obra de arte de reparación detallada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Eliminador de fondo](https://podplo.app/skills/background-remover)[![Ejemplo de reparación de detalles](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparación detallada](https://podplo.app/skills/detail-repair)
+Reparación de detalles](https://podplo.app/skills/detail-repair)

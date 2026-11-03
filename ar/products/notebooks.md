@@ -12,7 +12,7 @@
 
 <a id="guide-main"></a>
 
-# دفاتر الملاحظات والمخططين
+# دفاتر ملاحظات ومفكرات
 
 حوّل غلاف دفتر الملاحظات إلى ملصق أو نمط أو تصميم شخصي.
 
@@ -48,13 +48,13 @@
 
 ![دفاتر الملاحظات والمخططات · صانع الملصقات · معاينة منتج الذكاء الاصطناعي](https://podplo.app/pod-guide/generated/notebooks-poster-maker-proof.webp)
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من التخطيط وقم بتعيين Skills**
+**استكشف المزيد من Skills للتخطيطات والمجموعات**
 
 <a id="_R_bf3k_-title"></a>
 
-#### اكتشف المزيد من التخطيط وقم بتعيين Skills
+#### استكشف المزيد من Skills للتخطيطات والمجموعات
 
 4 / 12
 
@@ -68,7 +68,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### تحويل الصورة إلى غلاف خيالي
 
@@ -86,13 +86,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bn3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 4 / 97
 
@@ -114,7 +114,7 @@
 
 [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)
 
-أندريا
+ANDREA
 
 الاسم
 
@@ -124,25 +124,25 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من الاسم والمناسبة Skills**
+**استكشف المزيد من Skills للأسماء والمناسبات**
 
 <a id="_R_bv3k_-title"></a>
 
-#### اكتشف المزيد من الاسم والمناسبة Skills
+#### استكشف المزيد من Skills للأسماء والمناسبات
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال على العمل الفني لنمط اسم قلوب تلوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال عمل فني لنمط اسم وقلوب بأقلام شمعية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-تلوين قلوب اسم النمط](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+نمط اسم وقلوب بأقلام شمعية](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -152,7 +152,7 @@
 
 ### معاينة تصميم الغلاف
 
-تُظهر معاينة الذكاء الاصطناعي كيف يتناسب العمل الفني مع غلاف الكمبيوتر المحمول وتقارن الصورة البؤرية الجريئة بنمط أبسط.
+تُظهر المعاينة بالذكاء الاصطناعي كيف يلائم العمل الفني غلاف دفتر الملاحظات، وتقارن صورة محورية بارزة بنمط أبسط.
 
 - الصورة المركزية تخلق نقطة محورية واضحة
 
@@ -160,6 +160,6 @@
 
 - يمكن أن يمتد التكرار عبر سلسلة دفاتر ملاحظات منسقة
 
-![أجهزة الكمبيوتر المحمولة والمخططات · إثبات منتج الذكاء الاصطناعي](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
+![دفاتر ملاحظات ومفكرات · معاينة منتج بالذكاء الاصطناعي](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
 
 </div>

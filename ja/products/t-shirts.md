@@ -94,9 +94,9 @@ AI が生成した製品のモックアップ。
 
 オリジナルアートワーク
 
-[![タイトル – 件名 – サブタイトル · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![タイトル・モチーフ・サブタイトル · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-[タイトル – 件名 – サブタイトル](https://podplo.app/skills/title-subject-subtitle-layout)
+[タイトル・モチーフ・サブタイトル](https://podplo.app/skills/title-subject-subtitle-layout)
 
 見出し、バラ、サブタイトルを重ねて、上から下まですっきりとしたレイアウトにします。
 
@@ -194,11 +194,11 @@ Tシャツに
 
 [３Dカップルのポートレート](https://podplo.app/skills/3d-couple-portrait)
 
-チャーリー
+CHARLIE
 
 名前
 
-[![チャーリーをパーソナライズした北極のクリスマスデザイン](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)](https://podplo.app/skills/north-pole-name-poster)
+[![CHARLIEの名前を入れた、北極のクリスマスデザイン](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)](https://podplo.app/skills/north-pole-name-poster)
 
 アートワーク
 
@@ -208,7 +208,7 @@ Tシャツに
 
 ### 彼らの名前をお祝いの一部に加えましょう
 
-クリスマスデザインの中心に二人の名前を入れます。別の機会に花のフレームや遊び心のあるレタリングを試してみてください。
+クリスマスのデザインの中心に名前を入れましょう。別のイベントでは、花のフレームや遊び心のある文字も試せます。
 
 [北極名ポスター](https://podplo.app/skills/north-pole-name-poster)
 
@@ -222,9 +222,9 @@ Tシャツに
 
 <a id="_R_ef3k_-cards"></a>
 
-[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![クレヨンハートネームパターンアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![クレヨンハートネームパターンアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 クレヨンハートの名前柄](https://podplo.app/skills/crayon-hearts-name-pattern)[![恐竜の名前パターンのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -290,9 +290,9 @@ AI が生成したモックアップ。
 
 1・完成したアートワーク
 
-![モックアップのリファレンスとして使用された空白のアイボリー T シャツ](https://podplo.app/pod-guide/generated/tshirt-blank.webp)
+![モックアップの参照に使う、無地のアイボリーのTシャツ](https://podplo.app/pod-guide/generated/tshirt-blank.webp)
 
-空白のアイボリー T シャツ
+無地のアイボリーのTシャツ
 
 ![ゴールデンレトリバーのデザインをTシャツのモックアップに配置](https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp)
 

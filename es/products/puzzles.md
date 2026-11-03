@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/puzzles?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/puzzles?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -46,31 +46,31 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
 ### Convierte una foto familiar en una obra de arte de cómic
 
-Crea un retrato familiar cómico manteniendo a cada persona reconocible.
+Crea un retrato familiar de cómic manteniendo reconocible a cada persona.
 
-[Retrato familiar cómico](https://podplo.app/skills/comic-family-portrait)
+[Retrato familiar de cómic](https://podplo.app/skills/comic-family-portrait)
 
-![Retrato de familia cómico · Foto fuente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-before.webp)
+![Retrato familiar de cómic · Foto de origen](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-before.webp)
 
 Foto original
 
-[![Retrato de familia cómico · Obra de arte generada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
+[![Retrato familiar de cómic · Imagen generada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
 
 Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más fotos e imágenes Skills**
+**Explora más Skills de fotos e imágenes**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explora más fotos e imágenes Skills
+#### Explora más Skills de fotos e imágenes
 
 4 / 92
 

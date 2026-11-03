@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/gifts/life-milestones?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/gifts/life-milestones?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -38,7 +38,7 @@ Floraler Namensrahmen
 
 [![Beispiel für ein Dinosaurier-Namensmuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern)[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern)[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)
 
@@ -46,9 +46,9 @@ Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 ## Feiern Sie einen Schul- oder Karriere-Meilenstein
 
-[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) Verleiht einem Schulnamen, einem Jahr oder einer Berufsbezeichnung eine fettzentrierte Darstellung.
+[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) gibt einem Schulnamen, einer Jahreszahl oder Berufsbezeichnung eine markante zentrierte Gestaltung.
 
-Ein Schulname, ein Abschlussjahr, eine Berufsbezeichnung oder eine Beförderung können zu einer klaren, selbstbewussten Komposition führen. [Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) gibt diesen Details eine stark zentrierte Behandlung.
+Ein Schulname, ein Abschlussjahr, eine Berufsbezeichnung oder eine Beförderung können zu einer klaren, selbstbewussten Komposition führen. [Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) gibt diesen Details eine markante zentrierte Gestaltung.
 
 [![Kompakte, titelgeleitete Meilensteinkomposition](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
@@ -68,9 +68,9 @@ Kompaktes Center-Layout
 
 Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout)
 
@@ -104,8 +104,8 @@ Plakatmacher
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout)

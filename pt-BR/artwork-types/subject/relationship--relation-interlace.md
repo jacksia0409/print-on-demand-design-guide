@@ -10,7 +10,7 @@
 
 <a id="guide-main"></a>
 
-Composição centrada no tema principal / DIREÇÃO CRIATIVA
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA
 
 # Imagem e texto entrelaçados
 
@@ -26,9 +26,9 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-Uma simples sobreposição de texto não é necessariamente entrelaçada. Mantenha detalhes essenciais do assunto e estrutura de letras suficiente para ler as palavras.
+Uma simples sobreposição de texto não é necessariamente um entrelaçamento. Preserve os detalhes essenciais do elemento principal e estrutura suficiente das letras para que as palavras sejam legíveis.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Orientado por assunto → Texto e relações de assunto → Imagem e texto entrelaçados
+Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Imagem e texto entrelaçados
 
 **Entrada e saída**
 
@@ -48,7 +48,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Traga o texto e o assunto para uma área de design. Coloque partes selecionadas da imagem na frente das letras e outras atrás delas, ou use espaços nas letras para estabelecer entrelaçamento.
+Reúna o texto e o elemento principal em uma única área de design. Coloque partes selecionadas da imagem na frente das letras e outras atrás, ou use espaços no letreiramento para criar o entrelaçamento.
 
 **Fundo**
 
@@ -64,51 +64,51 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-Uma simples sobreposição de texto não é necessariamente entrelaçada. Mantenha detalhes essenciais do assunto e estrutura de letras suficiente para ler as palavras.
+Uma simples sobreposição de texto não é necessariamente um entrelaçamento. Preserve os detalhes essenciais do elemento principal e estrutura suficiente das letras para que as palavras sejam legíveis.
 
 <a id="backgrounds"></a>
 
 ## Explorar o plano de fundo
 
-Esses exemplos comparam motivos dentro da mesma família de conteúdo. Manter a composição atual ao aplicar um tratamento; abra um exemplo para obter instruções completas.
+Esses exemplos comparam fundos dentro da mesma família de conteúdo. Preserve a composição atual ao aplicar um tratamento visual; abra um exemplo para ver as instruções completas.
 
-[![Fundo transparente: Relações entre texto e assunto: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
+[![Fundo transparente: relações entre texto e elemento principal: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Relações entre texto e assunto: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--relationship--transparent.md)[![Fundo sólido: Relações entre texto e assunto: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+Relações entre texto e elemento principal: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--relationship--transparent.md)[![Fundo sólido: relações entre texto e elemento principal: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
 ### Fundo sólido↗
 
-Relações entre texto e assunto: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--relationship--solid.md)[![Fundo gradiente: Relações entre texto e assunto: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+Relações entre texto e elemento principal: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--relationship--solid.md)[![Fundo em degradê: Relações entre texto e elemento principal: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Relações entre texto e assunto: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--relationship--gradient.md)[![Fundo padronizado: local: Relações entre texto e assunto: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+Relações entre texto e elemento principal: o fundo muda continuamente de cor ou brilho, enquanto o conteúdo principal permanece claro.](background--relationship--gradient.md)[![Fundo estampado: local: Relações entre texto e elemento principal: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Relações entre texto e assunto: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--relationship--pattern-local.md)[![Fundo padronizado: área completa: Relações entre texto e assunto: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
+Relações entre texto e elemento principal: uma área decorativa fica atrás do conteúdo, deixando uma região fora dela.](background--relationship--pattern-local.md)[![Fundo estampado: área completa: Relações entre texto e elemento principal: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
-Relações entre texto e assunto: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--relationship--pattern-full.md)[![Plano de fundo texturizado: Relações entre texto e assunto: granulação do papel, partículas ou outro caractere de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--texture-1.svg)
+Relações entre texto e elemento principal: um fundo com padrão cobre a imagem atrás de um conteúdo de primeiro plano claramente legível.](background--relationship--pattern-full.md)[![Fundo texturizado: relações entre texto e elemento principal: granulação do papel, partículas ou outra característica de superfície apoiam o conteúdo de primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--texture-1.svg)
 
 ### Fundo texturizado↗
 
-Relações entre texto e assunto: granulação do papel, partículas ou outro caractere de superfície sustentam o conteúdo do primeiro plano.](background--relationship--texture.md)[![Contexto ambiental: Relações entre texto e assunto: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
+Relações entre texto e elemento principal: granulação do papel, partículas ou outra característica de superfície apoiam o conteúdo de primeiro plano.](background--relationship--texture.md)[![Cenário ao fundo: Relações entre texto e elemento principal: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
 
-### Contexto ambiental↗
+### Cenário ao fundo↗
 
-Relações entre texto e assunto: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](background--relationship--scene.md)
+Relações entre texto e elemento principal: um ambiente relacionado ao tema apoia o conteúdo principal por trás ou ao redor dele.](background--relationship--scene.md)
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
 [![Conduzido por imagem, com texto de apoio: A imagem chama a atenção primeiro; palavras adicionam significado ou contexto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-image-led-1.svg)
 
-### Led de imagem, com texto de apoio↗
+### Imagem em destaque, com texto de apoio↗
 
 A imagem chama a atenção primeiro; palavras adicionam significado ou contexto.](relationship--relation-image-led.md)[![Orientado por texto, com imagens de apoio: As palavras transmitem a mensagem principal, com uma pequena imagem que sustenta seu significado.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-text-led-1.svg)
 
@@ -116,7 +116,7 @@ A imagem chama a atenção primeiro; palavras adicionam significado ou contexto.
 
 As palavras transmitem a mensagem principal, com uma pequena imagem apoiando o seu significado.](relationship--relation-text-led.md)[![Expressão somente tipográfica: as formas das letras, a escala e a disposição determinam o design.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-plain-type-1.svg)
 
-### Expressão somente de tipo↗
+### Expressão apenas tipográfica↗
 
 As formas das letras, a escala e a disposição conduzem o design.](relationship--relation-plain-type.md)[![Imagem e texto empilhados: A imagem e o texto ocupam as áreas superior e inferior, criando uma ordem de leitura clara.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-above-1.svg)
 

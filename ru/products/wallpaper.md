@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/wallpaper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/wallpaper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# обои
+# Обои
 
 Превратите один мотив в небольшой фоновый повтор, крупный эффектный узор или направленный дизайн обоев.
 
@@ -20,9 +20,9 @@
 
 ### Выберите масштаб и интервал
 
-Небольшие плотные мотивы создают тонкий фон, более крупные мотивы выделяются на стене, а вертикальные или диагональные повторы направляют взгляд по комнате. Небольшой повтор для тонкого фона; Большой разнесенный мотив для эффектной стены; Вертикальный или диагональный раппорт.
+Мелкие плотно расположенные мотивы создают ненавязчивый фон, более крупные мотивы с большими интервалами выделяются на стене, а вертикальные или диагональные повторяющиеся узоры направляют взгляд по комнате. Мелкий узор для ненавязчивого фона; Крупный мотив с большими интервалами для акцентной стены; Вертикальный или диагональный повторяющийся узор.
 
-![Обои · пустой визуальный продукт](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
+![Обои · Изображение продукта без дизайна](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
 
 <a id="product-create"></a>
 
@@ -40,7 +40,7 @@
 
 Исходное изображение
 
-[![Бесшовный узор · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Бесшовный узор · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Созданное произведение искусства
 
@@ -60,6 +60,6 @@
 
 - Крупные мотивы делают стену центром внимания
 
-- Направленные повторы могут изменить высоту или ширину комнаты.
+- Направленные узоры могут менять воспринимаемую высоту или ширину комнаты
 
-![Обои · Доказательство продукта AI](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
+![Обои · Проверочный макет продукта с ИИ](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)

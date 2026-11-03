@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/phone-cases?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/phone-cases?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Erstellen Sie ein vertikales Handyhüllen-Design aus einem Porträt, einem sich 
 
 ### Verwenden Sie das Hochformat
 
-Handyhüllen eignen sich gut für große Motive, verstreute Motive und in das Kunstwerk integrierte persönliche Details. Ein von kleinen Symbolen umrahmtes Porträt; Eine umfassende Wiederholung; Ein in die Grafik integrierter Name.
+Handyhüllen eignen sich für hohe Motive, verstreute Elemente und persönliche Details im Design. Ein von kleinen Symbolen umrahmtes Porträt; Ein vollflächiger Rapport; Ein in die Grafik integrierter Name.
 
 [![Handyhüllen · Handyhülle 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100560723646.webp)](https://podplo.app/products/mockup-temu-601100560723646)
 
@@ -48,11 +48,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 12
 
@@ -64,21 +64,21 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Verwandeln Sie ein Porträt in ein Buntstiftrahmen-Design
 
 Aus einem klaren Foto wird ein gerahmtes Porträt in der Größe der Handyhülle.
 
-[Foto-Crayon-Frame-Portrait](https://podplo.app/skills/photo-crayon-frame-portrait)
+[Fotoporträt mit Wachsmalkreiderahmen](https://podplo.app/skills/photo-crayon-frame-portrait)
 
-![Foto-Crayon-Frame-Portrait · Quellfoto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-04-before.webp)
+![Fotoporträt mit Wachsmalkreiderahmen · Ausgangsfoto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-04-before.webp)
 
 Ausgangsfoto
 
-[![Foto-Crayon-Frame-Portrait · Generierte Grafik](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-04-after.webp)](https://podplo.app/skills/photo-crayon-frame-portrait)
+[![Fotoporträt mit Wachsmalkreiderahmen · Generiertes Design](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-04-after.webp)](https://podplo.app/skills/photo-crayon-frame-portrait)
 
 Generiertes Kunstwerk
 
@@ -86,11 +86,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 97
 
@@ -98,17 +98,17 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
-### Gestalten Sie eine Handyhülle mit Blumennamen
+### Gestalten Sie eine Handyhülle mit einem Namen und Blumenmotiven
 
-Platzieren Sie einen Namen in einem Blumenarrangement, das für die vertikale Schachtel geeignet ist.
+Platzieren Sie einen Namen in einem Blumenarrangement, das zur hohen Handyhülle passt.
 
 [Floraler Namensrahmen](https://podplo.app/skills/floral-name-frame)
 
@@ -124,17 +124,17 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Nordpol-Namensplakat](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
@@ -148,7 +148,7 @@ Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern)
 
 ## Sehen Sie sich das Design auf dem Produkt in der Vorschau an
 
-### Sehen Sie sich den gesamten Fall in der Vorschau an
+### Vorschau der gesamten Handyhülle
 
 Die KI-Vorschau zeigt die vertikale Komposition und den Raum um den Kamerabereich.
 

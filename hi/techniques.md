@@ -36,9 +36,9 @@ Remix एक लेआउट, एक नाम जोड़ें, या एक
 
 <a id="_R_mrk_-cards"></a>
 
-[![शीतल जल रंग पालतू पोर्ट्रेट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
+[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)[![नाइव मार्कर पोर्ट्रेट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
+हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)[![नाइव मार्कर पोर्ट्रेट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
 
 नाइव मार्कर पोर्ट्रेट](https://podplo.app/skills/naive-marker-portrait)[![सर्कुलर बैज लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
@@ -52,12 +52,12 @@ Remix एक लेआउट, एक नाम जोड़ें, या एक
 
 **एक चित्र। अनगिनत संभावनाएँ।**](techniques/compose-anything.md)[![इसे क्रिसमस बनाओ](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**अपने डिज़ाइन को अवकाशीय मोड़ दें**](techniques/holiday-versions.md)[![स्मार्ट आउटपेंट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**अपने डिज़ाइन को उत्सवी रूप दें**](techniques/holiday-versions.md)[![स्मार्ट आउटपेंट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
 **अपनी छवि को फ़्रेम से परे ले जाएं**](techniques/change-ratio.md)[![4पीसी ग्रिड जेनरेटर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **एक विचार को संग्रह में बदलें**](techniques/series-builder.md)[![पुष्प नाम फ़्रेम](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-**इसे नाम या संदेश के साथ व्यक्तिगत बनाएं**](techniques/replace-name-text.md)[![शीतल जल रंग पालतू पोर्ट्रेट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
+**इसे नाम या संदेश के साथ व्यक्तिगत बनाएं**](techniques/replace-name-text.md)[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
 **Photo to Art: आपकी पसंदीदा तस्वीरों पर एक नया रूप**](techniques/photo-to-art.md)

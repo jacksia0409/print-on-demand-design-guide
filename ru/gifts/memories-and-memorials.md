@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/memories-and-memorials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/memories-and-memorials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,9 +18,9 @@
 
 ## Восстановить поврежденную фотографию на память
 
-[Детальный ремонт](https://podplo.app/skills/detail-repair) исправляет повреждения на старой фотографии, сохраняя при этом знакомых людей и предметы.
+[Восстановление деталей](https://podplo.app/skills/detail-repair) исправляет повреждения на старой фотографии, сохраняя при этом знакомых людей и предметы.
 
-Выцветшая семейная, туристическая, свадебная или архивная фотография может оказаться единственным свидетельством важного момента. [Детальный ремонт](https://podplo.app/skills/detail-repair) может исправить царапины, размытые области или поврежденные объекты, сохраняя при этом знакомые лица и ключевые детали.
+Выцветшая семейная, туристическая, свадебная или архивная фотография может оказаться единственным свидетельством важного момента. [Восстановление деталей](https://podplo.app/skills/detail-repair) может исправить царапины, размытые области или поврежденные объекты, сохраняя при этом знакомые лица и ключевые детали.
 
 ![Поврежденная или выцветшая фотография на память](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1-before.webp)
 
@@ -28,7 +28,7 @@
 
 [![Обновленная фотография, сохранившая знакомые детали.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)](https://podplo.app/skills/detail-repair)
 
-Детальный ремонт
+Восстановление деталей
 
 **Еще больше Skills для изучения**
 
@@ -42,25 +42,25 @@
 
 [![Пример изображения HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD Высококлассное](https://podplo.app/skills/hd-upscale)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Повышение разрешения до HD](https://podplo.app/skills/hd-upscale)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Удаление фона](https://podplo.app/skills/background-remover)[![Пример графического изображения Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Умная раскраска](https://podplo.app/skills/smart-outpaint)
+Умная дорисовка за границами](https://podplo.app/skills/smart-outpaint)
 
 <a id="pet-memories"></a>
 
 ## Создайте портрет домашнего любимца на память
 
-[Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait) создает узнаваемый подарок на день рождения, день усыновления или мемориал.
+[Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait) создаёт узнаваемый памятный подарок на день рождения, день обретения питомцем дома или в память о нём.
 
-[Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait) превращает четкую фотографию домашнего животного в подарок на день рождения, день усыновления или мемориал. Отличительные черты и выражение лица делают портрет узнаваемым.
+[Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait) превращает чёткую фотографию питомца в памятный подарок на день рождения, день обретения дома или в память о питомце. Характерные отметины и выражение сохраняют узнаваемость портрета.
 
-![Фотография запомнившегося питомца](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
+![Фотография питомца, о котором сохраняют память](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
 
 Ввод
 
-[![Мягкий акварельный портрет, сохраняющий домашнее животное](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[![Нежный акварельный портрет с сохранением питомца](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
 Мягкий акварельный портрет питомца
 
@@ -82,7 +82,7 @@ HD Высококлассное](https://podplo.app/skills/hd-upscale)[![При�
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 <a id="loved-one-memorial"></a>
 
@@ -118,4 +118,4 @@ HD Высококлассное](https://podplo.app/skills/hd-upscale)[![При�
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)

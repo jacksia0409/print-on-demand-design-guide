@@ -18,11 +18,11 @@
 
 <a id="courage"></a>
 
-## بناء التصميم حول خط مشجع
+## ابنِ التصميم حول عبارة مشجعة
 
 [تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يعطي العبارة القصيرة المشجعة حضورا واضحا وثابتا.
 
-استخدم عبارة يقدرها المستلم بالفعل لامتحان أو تحدي أو بداية جديدة. [تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يمنح الخط حضوراً واضحاً وثابتاً دون أن يحوله إلى وعد بالنتيجة.
+استخدم عبارة يقدرها المستلم بالفعل لامتحان أو تحدي أو بداية جديدة. [تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يمنح العبارة حضورًا واضحًا وثابتًا دون تحويلها إلى وعد بالنتيجة.
 
 [![عمل فني تشجيعي مدمج](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
@@ -44,7 +44,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 
@@ -86,9 +86,9 @@
 
 [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame) يقرن الاسم برسالة شخصية مباشرة.
 
-يمكن أن يصبح الاسم والخط المباشر مثل "أفكر فيك" تصميمًا زهريًا شخصيًا. [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame) يعرض الرسالة بعناية دون محاولة استبدال المحادثة التي تقف وراءها.
+يمكن أن يتحول الاسم مع عبارة مباشرة مثل «أفكر فيك» إلى تصميم زهري شخصي. [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame) يعرض الرسالة بعناية دون محاولة استبدال المحادثة التي تقف وراءها.
 
-[![تصميم شخصي للتفكير في اسمك](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![تصميم اسم مخصص بعبارة أفكر فيك](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 إطار اسم الأزهار
 
@@ -104,8 +104,8 @@
 
 [![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 </div>

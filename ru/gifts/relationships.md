@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/relationships?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/relationships?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,7 +18,7 @@
 
 ## Отметьте дату, которая имеет значение
 
-[Цветочная рамка имени](https://podplo.app/skills/floral-name-frame) украсит имя или знаменательную дату личным цветочным сувениром.
+[Цветочная рамка имени](https://podplo.app/skills/floral-name-frame) располагает имя или значимую дату в персональной памятной цветочной композиции.
 
 Имя, дата, место или общая фраза могут стать основой для годовщины, свадьбы, помолвки или подарка на расстоянии. [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame) объединяет эти детали в сбалансированный акварельный цветочный дизайн.
 
@@ -36,11 +36,11 @@
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="people-and-history"></a>
 
@@ -48,13 +48,13 @@
 
 [3D Семейный Портрет](https://podplo.app/skills/3d-family-portrait) превращает общую фотографию в яркий групповой сувенир на память, сохраняя при этом всех узнаваемыми.
 
-Фотография дружбы или брата или сестры уже несет в себе годы общей истории. [3D Семейный Портрет](https://podplo.app/skills/3d-family-portrait) добавляет глубину и характер, сохраняя при этом узнаваемость каждого и используя только подпись, предоставленную клиентом.
+Фотография друзей или братьев и сестёр уже хранит годы общей истории. [3D Семейный Портрет](https://podplo.app/skills/3d-family-portrait) добавляет глубину и характер, сохраняя при этом узнаваемость каждого и используя только подпись, предоставленную клиентом.
 
 ![Предоставлены фотографии людей с общей историей.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-before.webp)
 
 Ввод
 
-[![Объемный групповой портрет с сохранением снабженных людей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![Объёмный групповой портрет с сохранением всех людей с предоставленных фотографий](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 3D Семейный Портрет
 
@@ -76,7 +76,7 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 <a id="family-reunion"></a>
 
@@ -106,6 +106,6 @@
 
 3D Семейный Портрет](https://podplo.app/skills/3d-family-portrait)[![Пример изображения портрета домашнего животного в мягкой акварели](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)

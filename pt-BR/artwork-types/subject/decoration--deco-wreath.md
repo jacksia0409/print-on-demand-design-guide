@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-Composição centrada no tema principal / DIREÇÃO CRIATIVA
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA
 
 # Decoração envolvente
 
-Os elementos decorativos formam um fechamento parcial ou completo em torno do tema.
+Elementos decorativos formam um contorno parcial ou completo ao redor do elemento principal.
 
 <a id="understand"></a>
 
-![Decoração envolvente: Os elementos decorativos formam um envoltório parcial ou completo em torno do tema.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
+![Decoração envolvente: elementos decorativos formam um contorno parcial ou completo ao redor do elemento principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
 
 Ilustração da composição
 
@@ -26,11 +26,11 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-Simetria e anel fechado são opcionais. Uma mancha principalmente atrás do tema é um cenário com padrão local; as duas abordagens podem ser combinadas.
+Simetria e anel fechado são opcionais. Uma área localizada principalmente atrás do elemento principal é um fundo com padrão localizado; as duas abordagens podem ser combinadas.
 
 O tratamento funciona em torno de um sujeito ou grupo identificável.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -42,7 +42,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Liderado por assunto → Decoração compartilhada → Decoração envolvente
+Composição guiada pelo elemento principal → Decoração compartilhada → Decoração envolvente
 
 **Entrada e saída**
 
@@ -50,7 +50,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Organize ramos, linhas, símbolos ou motivos relacionados principalmente na parte externa do assunto ou grupo. Construa um anel parcial, uma coroa de flores ou um recinto livre com o assunto como ponto focal.
+Organize ramos, linhas, símbolos ou motivos relacionados principalmente ao redor da parte externa do elemento principal ou grupo. Crie um anel parcial, uma guirlanda ou um contorno envolvente livre, tendo o elemento principal como ponto focal.
 
 **Fundo**
 
@@ -66,28 +66,28 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-Simetria e anel fechado são opcionais. Uma mancha principalmente atrás do tema é um cenário com padrão local; as duas abordagens podem ser combinadas.
+Simetria e anel fechado são opcionais. Uma área localizada principalmente atrás do elemento principal é um fundo com padrão localizado; as duas abordagens podem ser combinadas.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Raios e acentos radiantes: Linhas ou formas radiantes estendem-se para fora do assunto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-rays-1.svg)
+[![Raios e detalhes radiantes: linhas ou formas radiantes se estendem para fora do elemento principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-rays-1.svg)
 
-### Raios e acentos radiantes↗
+### Raios e detalhes radiantes↗
 
-Linhas ou formas radiantes estendem-se para fora do assunto.](decoration--deco-rays.md)[![Pequenos detalhes envolventes: Alguns pequenos elementos enriquecem o espaço em torno do tema principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-dots-1.svg)
+Linhas ou formas radiantes se estendem para fora do elemento principal.](decoration--deco-rays.md)[![Pequenos detalhes circundantes: alguns elementos pequenos enriquecem o espaço ao redor do elemento principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-dots-1.svg)
 
 ### Pequenos detalhes circundantes↗
 
-Alguns pequenos elementos enriquecem o espaço em torno do tema principal.](decoration--deco-dots.md)[![Assunto enquadrado: Uma moldura definida, emblema ou estrutura envolvente contém o assunto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-frame-1.svg)
+Alguns elementos pequenos enriquecem o espaço ao redor do elemento principal.](decoration--deco-dots.md)[![Elemento principal emoldurado: Uma moldura, emblema ou estrutura envolvente bem definida contém o elemento principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-frame-1.svg)
 
-### Assunto enquadrado↗
+### Elemento principal emoldurado↗
 
-Uma moldura definida, emblema ou estrutura envolvente contém o assunto.](decoration--deco-frame.md)[![Decoração entrelaçada: Elementos decorativos são tecidos na frente e atrás do tema.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-interlace-1.svg)
+Uma moldura, um emblema ou uma estrutura envolvente bem definidos contêm o elemento principal.](decoration--deco-frame.md)[![Decoração entrelaçada: Elementos decorativos se entrelaçam à frente e atrás do elemento principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-interlace-1.svg)
 
 ### Decoração entrelaçada↗
 
-Elementos decorativos são tecidos na frente e atrás do tema.](decoration--deco-interlace.md)
+Elementos decorativos se entrelaçam à frente e atrás do elemento principal.](decoration--deco-interlace.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

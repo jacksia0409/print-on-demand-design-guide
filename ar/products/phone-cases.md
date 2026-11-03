@@ -12,7 +12,7 @@
 
 <a id="guide-main"></a>
 
-# حالات الهاتف
+# حافظات هواتف
 
 أنشئ تصميمًا رأسيًا لحافظة الهاتف من صورة شخصية أو نمط متكرر أو رسم مخصص.
 
@@ -48,13 +48,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من التخطيط وقم بتعيين Skills**
+**استكشف المزيد من Skills للتخطيطات والمجموعات**
 
 <a id="_R_bf3k_-title"></a>
 
-#### اكتشف المزيد من التخطيط وقم بتعيين Skills
+#### استكشف المزيد من Skills للتخطيطات والمجموعات
 
 4 / 12
 
@@ -68,31 +68,31 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
-### تحويل الصورة إلى تصميم إطار للتلوين
+### حوّل بورتريه إلى تصميم بإطار من رسوم أقلام الشمع
 
 تصبح الصورة الواضحة صورة شخصية مؤطرة بحجم حافظة الهاتف.
 
-[صورة إطار الصورة للتلوين](https://podplo.app/skills/photo-crayon-frame-portrait)
+[بورتريه فوتوغرافي بإطار أقلام شمعية](https://podplo.app/skills/photo-crayon-frame-portrait)
 
-![صورة تلوين إطار صورة · مصدر الصورة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-04-before.webp)
+![بورتريه فوتوغرافي بإطار أقلام شمعية · الصورة الأصلية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-04-before.webp)
 
 الصورة الأصلية
 
-[![Photo Crayon Frame Portrait · العمل الفني الذي تم إنشاؤه](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-04-after.webp)](https://podplo.app/skills/photo-crayon-frame-portrait)
+[![بورتريه فوتوغرافي بإطار أقلام شمعية · عمل فني مولّد](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-04-after.webp)](https://podplo.app/skills/photo-crayon-frame-portrait)
 
 عمل فني تم إنشاؤه
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bn3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 4 / 97
 
@@ -108,13 +108,13 @@
 
 صانع الاستنسل](https://podplo.app/skills/stencil-maker)
 
-### إنشاء حالة الهاتف اسم الأزهار
+### أنشئ تصميم حافظة هاتف باسم وزهور
 
-ضع اسمًا داخل تنسيق زهور بحجم الحالة الرأسية.
+ضع اسمًا داخل تنسيق زهري بحجم يلائم حافظة الهاتف الرأسية.
 
 [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)
 
-أندريا
+ANDREA
 
 الاسم
 
@@ -124,25 +124,25 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من الاسم والمناسبة Skills**
+**استكشف المزيد من Skills للأسماء والمناسبات**
 
 <a id="_R_bv3k_-title"></a>
 
-#### اكتشف المزيد من الاسم والمناسبة Skills
+#### استكشف المزيد من Skills للأسماء والمناسبات
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال على العمل الفني لنمط اسم قلوب تلوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال عمل فني لنمط اسم وقلوب بأقلام شمعية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-تلوين قلوب اسم النمط](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+نمط اسم وقلوب بأقلام شمعية](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -150,11 +150,11 @@
 
 ## معاينة التصميم على المنتج
 
-### معاينة الحالة كاملة
+### عاين حافظة الهاتف كاملة
 
 تعرض معاينة الذكاء الاصطناعي التركيبة الرأسية والمساحة المحيطة بمنطقة الكاميرا.
 
-- يستخدم الهدف الرأسي ارتفاع الحالة
+- عنصر طولي يستفيد من ارتفاع حافظة الهاتف
 
 - الزخارف الصغيرة المتكررة تخلق نمطًا متساويًا
 

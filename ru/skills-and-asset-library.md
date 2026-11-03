@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/skills-and-asset-library?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/skills-and-asset-library?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@
 
 [Портрет королевского питомца](https://podplo.app/skills/royal-pet-portrait) добавляет старинный костюм и декорации, сохраняя при этом узнаваемость питомца.
 
-[Портрет королевского питомца](https://podplo.app/skills/royal-pet-portrait) превращает знакомую фотографию домашнего животного в портрет царственного персонажа. Костюм и обстановка могут кардинально меняться, в то время как форма морды, отметины на шерсти и выражение лица безошибочно сохраняют самого себя.
+[Портрет королевского питомца](https://podplo.app/skills/royal-pet-portrait) превращает знакомую фотографию питомца в портрет царственного персонажа. Костюм и окружение могут кардинально меняться, а форма морды, отметины на шерсти и выражение сохраняют безошибочную узнаваемость питомца.
 
 ![Фотография домашнего животного, предоставленная клиентом](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
 
@@ -48,7 +48,7 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 <a id="library"></a>
 
@@ -70,29 +70,29 @@
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Удаление фона](https://podplo.app/skills/background-remover)[![Пример иллюстрации «Детальный ремонт»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Удаление фона](https://podplo.app/skills/background-remover)[![Пример восстановления деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Детальный ремонт](https://podplo.app/skills/detail-repair)
+Восстановление деталей](https://podplo.app/skills/detail-repair)
 
 <a id="metadata"></a>
 
 ## Помечайте ресурсы для удобства повторного использования
 
-Четкие теги позволяют легко найти актив и создать сезонную вариацию с помощью [Сделай это Рождеством](https://podplo.app/skills/make-it-christmas).
+Четкие теги позволяют легко найти актив и создать сезонную вариацию с помощью [Оформить к Рождеству](https://podplo.app/skills/make-it-christmas).
 
-Теги для темы, сезона, макета, цвета и источника позволяют легко найти полезные ресурсы. Например, портрет домашнего животного, помеченный к Рождеству, готов к [Сделай это Рождеством](https://podplo.app/skills/make-it-christmas) вариация, в которой все еще присутствует тот же питомец.
+Теги для темы, сезона, макета, цвета и источника позволяют легко найти полезные ресурсы. Например, портрет домашнего животного, помеченный к Рождеству, готов к [Оформить к Рождеству](https://podplo.app/skills/make-it-christmas) вариация, в которой все еще присутствует тот же питомец.
 
 ![Эталонное изображение перед сезонным редактированием](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 Ввод
 
-[![Рождественская версия с сохранением исходной информации.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
+[![Рождественская версия с сохранением узнаваемости исходного объекта](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
-Сделай это Рождеством
+Оформить к Рождеству
 
 **Еще больше Skills для изучения**
 
@@ -106,25 +106,25 @@
 
 [![Пример иллюстрации «Сделай это на Хэллоуин»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример рисунка Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример оформления ко Дню святого Валентина](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines)[![Пример пасхальной работы Make It It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines)[![Пример оформления к Пасхе](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Сделай это Пасхой](https://podplo.app/skills/make-it-easter)[![Пример иллюстрации «Сделай это на День Благодарения»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Оформить к Пасхе](https://podplo.app/skills/make-it-easter)[![Пример оформления ко Дню благодарения](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Сделай это на День Благодарения](https://podplo.app/skills/make-it-thanksgiving)
+Оформить ко Дню благодарения](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="reuse"></a>
 
 ## Повторное использование макета с новым содержимым
 
-[Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern) адаптирует один проверенный макет повтора под каждое новое имя.
+[Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern) адаптирует один проверенный макет повтора под каждое новое имя.
 
-Сильная композиция может поддержать новое имя, предмет или цвет, не создавая ощущения копирования. [Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern) сохраняет игривую структуру повторения, регулируя интервал для каждого имени.
+Сильная композиция может поддержать новое имя, предмет или цвет, не создавая ощущения копирования. [Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern) сохраняет игривую структуру повторения, регулируя интервал для каждого имени.
 
-[![Персонализированный образец имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
+[![Персонализированный узор с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
 
-Образец имени динозавра
+Узор с динозаврами и именем
 
 **Еще больше Skills для изучения**
 
@@ -138,6 +138,6 @@
 
 [![Пример изображения цветочной рамки имени](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)

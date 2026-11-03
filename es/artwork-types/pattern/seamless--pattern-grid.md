@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/seamless--pattern-grid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/seamless--pattern-grid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,17 +26,17 @@ CÓMO RECONOCERLO
 
 ## ¿Qué define esta dirección?
 
-Una cuadrícula finita no es automáticamente perfecta. Verifique la salida en mosaico horizontal y vertical; un aviso por sí solo no verifica la continuidad del borde.
+Una cuadrícula finita no es automáticamente un patrón sin juntas. Comprueba la repetición horizontal y vertical de los módulos; una instrucción por sí sola no verifica la continuidad de los bordes.
 
 [← Volver a patrones](../pattern.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -52,11 +52,11 @@ Extraiga los motivos adecuados y establezca un mosaico consistente que se repita
 
 **Fondo**
 
-Paleta de fondo y motivos de referencia, diseñando fondo y primer plano dentro de la misma unidad repetida. Cuando esté ausente, cree un color base relacionado o un respaldo que pueda continuar periódicamente. Reconstruya un fondo de origen que no coincida en lugar de reclamar automáticamente los mosaicos de imágenes completos.
+Toma como referencia la paleta y los motivos del fondo y diseña el fondo y el primer plano dentro de la misma unidad de repetición. Si no existen, crea un color de base relacionado o un fondo que pueda repetirse periódicamente. Reconstruye un fondo original que no encaje, en vez de afirmar que la imagen completa se repite sin juntas automáticamente.
 
 **Texto**
 
-Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Cuando se requiera repetición sin juntas, incluye el texto en el módulo y comprueba la ortografía, la continuidad de los bordes y la legibilidad; en caso contrario, no prometas que no habrá juntas. Respeta cualquier petición explícita de no incluir texto.
 
 **Conservar y adaptar**
 
@@ -64,27 +64,27 @@ Conserva el tema central y los rasgos que permiten reconocer el original. Usa su
 
 **Alcance y límites**
 
-Una cuadrícula finita no es automáticamente perfecta. Verifique la salida en mosaico horizontal y vertical; un aviso por sí solo no verifica la continuidad del borde.
+Una cuadrícula finita no es automáticamente un patrón sin juntas. Comprueba la repetición horizontal y vertical de los módulos; una instrucción por sí sola no verifica la continuidad de los bordes.
 
 **Comprobación del resultado**
 
-Pruebe disposiciones horizontales, verticales y de cuatro mosaicos para ver las uniones, el ritmo y la continuidad del color base. No reclame la fluidez verificada sin verificarla o cuando la herramienta no pueda garantizarla.
+Prueba disposiciones horizontales, verticales y de cuatro módulos para revisar las juntas, el ritmo y la continuidad del color de base. No afirmes que la repetición sin juntas está verificada sin comprobarlo o si la herramienta no puede garantizarlo.
 
-[Patrón abierto sin costuras Skill ↗](https://podplo.app/generate?skill=seamless-pattern)
+[Abrir el Skill Seamless Pattern ↗](https://podplo.app/generate?skill=seamless-pattern)
 
-Cambia a este Skill y conserva las imágenes de referencia y de aviso existentes.
+Cambia a este Skill y conserva el prompt y las imágenes de referencia existentes.
 
 <a id="backgrounds"></a>
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
 [![Fondo transparente: Patrones: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Patrones: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--pattern--transparent.md)[![Fondo sólido: Patrones: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+Patrones: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--pattern--transparent.md)[![Fondo sólido: Patrones: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
 ### Fondo sólido↗
 
@@ -104,19 +104,19 @@ Patrones: un fondo estampado cubre la imagen detrás del contenido en primer pla
 
 ### Fondo texturizado↗
 
-Patrones: el grano de papel, las partículas u otros caracteres de la superficie respaldan el contenido del primer plano.](background--pattern--texture.md)[![Fondo ambiental: Patrones: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
+Patrones: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](background--pattern--texture.md)[![Fondo ambiental: Patrones: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
 Patrones: un entorno relacionado con un tema respalda el contenido principal desde detrás o alrededor de él.](background--pattern--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
-[![Repetición compensada: las filas o columnas adyacentes se desplazan en una cantidad constante dentro de un sistema repetitivo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-seamless--pattern-stagger-1.svg)
+[![Repetición desplazada: las filas o columnas adyacentes se desplazan una cantidad constante dentro de un sistema de repetición.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-seamless--pattern-stagger-1.svg)
 
-### Repetición compensada↗
+### Repetición desplazada↗
 
 Las filas o columnas adyacentes se desplazan en una cantidad constante dentro de un sistema repetitivo.](seamless--pattern-stagger.md)[![Repetición dispersa: los motivos aparecen vagamente dispersos, pero la disposición completa se repite periódicamente.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-seamless--pattern-scatter-1.svg)
 
@@ -124,4 +124,4 @@ Las filas o columnas adyacentes se desplazan en una cantidad constante dentro de
 
 Los motivos aparecen vagamente dispersos, pero la disposición completa se repite periódicamente.](seamless--pattern-scatter.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

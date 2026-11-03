@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/background--pattern--pattern-full?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/background--pattern--pattern-full?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,17 +26,17 @@ CÓMO RECONOCERLO
 
 ## ¿Qué define esta dirección?
 
-La cobertura total no es prueba de que la imagen completa se muestre sin problemas. Mantenga visible el contenido en primer plano y conserve la disposición del patrón cuando los patrones sean la categoría principal.
+La cobertura total no demuestra que la imagen completa se repita sin juntas. Mantén visible el contenido en primer plano y conserva la disposición del patrón cuando los patrones sean la categoría principal.
 
 [← Volver a patrones](../pattern.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -56,7 +56,7 @@ Desarrolla motivos de fondo y señales de color existentes en un respaldo que cu
 
 **Texto**
 
-Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Cuando se requiera repetición sin juntas, incluye el texto en el módulo y comprueba la ortografía, la continuidad de los bordes y la legibilidad; en caso contrario, no prometas que no habrá juntas. Respeta cualquier petición explícita de no incluir texto.
 
 **Conservar y adaptar**
 
@@ -64,17 +64,17 @@ Conserva el tema central y los rasgos que permiten reconocer el original. Usa su
 
 **Alcance y límites**
 
-La cobertura total no es prueba de que la imagen completa se muestre sin problemas. Mantenga visible el contenido en primer plano y conserve la disposición del patrón cuando los patrones sean la categoría principal.
+La cobertura total no demuestra que la imagen completa se repita sin juntas. Mantén visible el contenido en primer plano y conserva la disposición del patrón cuando los patrones sean la categoría principal.
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Fondo transparente: Patrones: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Patrones: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--pattern--transparent.md)[![Fondo sólido: Patrones: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+Patrones: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--pattern--transparent.md)[![Fondo sólido: Patrones: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
 ### Fondo sólido↗
 
@@ -88,4 +88,4 @@ Patrones: el respaldo cambia continuamente de color o brillo mientras el conteni
 
 Patrones: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--pattern--pattern-local.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene--scene-environment?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene--scene-environment?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,17 +26,17 @@ CÓMO RECONOCERLO
 
 ## ¿Qué define esta dirección?
 
-Una acción o persona es opcional. Si el entorno es sólo una decoración intercambiable y no aporta ningún contexto, el resultado se acerca más a un gráfico centrado en un tema.
+La acción o la presencia de una persona son opcionales. Si el entorno es solo decoración intercambiable y no aporta contexto, el resultado se aproxima más a un gráfico centrado en el motivo principal.
 
 [← Volver a escenas](../scene.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -48,7 +48,7 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Cree un entorno relacionado en torno al propósito, la ubicación o el tema del tema. Organizar el espacio y las relaciones entre objetos de manera que el entorno aporte un contexto esencial.
+Crea un entorno relacionado con la función, la ubicación o el tema del motivo principal. Organiza el espacio y las relaciones entre objetos para que el entorno aporte un contexto esencial.
 
 **Fondo**
 
@@ -64,19 +64,19 @@ Conserva el tema central y los rasgos que permiten reconocer el original. Usa su
 
 **Alcance y límites**
 
-Una acción o persona es opcional. Si el entorno es sólo una decoración intercambiable y no aporta ningún contexto, el resultado se acerca más a un gráfico centrado en un tema.
+La acción o la presencia de una persona son opcionales. Si el entorno es solo decoración intercambiable y no aporta contexto, el resultado se aproxima más a un gráfico centrado en el motivo principal.
 
 <a id="backgrounds"></a>
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
 [![Fondo transparente: Escenas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Escenas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--scene--transparent.md)[![Fondo sólido: Escenas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Escenas: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--scene--transparent.md)[![Fondo sólido: Escenas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### Fondo sólido↗
 
@@ -96,15 +96,15 @@ Escenas: un fondo estampado cubre la imagen detrás de un contenido en primer pl
 
 ### Fondo texturizado↗
 
-Escenas: Granos de papel, partículas u otros caracteres superficiales respaldan el contenido en primer plano.](background--scene--texture.md)[![Fondo ambiental: Escenas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
+Escenas: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](background--scene--texture.md)[![Fondo ambiental: Escenas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
 Escenas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](background--scene--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Momento narrativo: Un evento, acción o interacción permite comprender lo que está sucediendo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-story-1.svg)
 
@@ -120,4 +120,4 @@ El entorno en su conjunto es el foco principal de la imagen.](scene--scene-lands
 
 Una pequeña área de la vida cotidiana sugiere una situación o actividad compartida.](scene--scene-desk.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

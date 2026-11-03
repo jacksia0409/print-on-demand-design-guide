@@ -20,7 +20,7 @@
 
 ### 特定の機会に合わせたデザイン
 
-カードの表面には、画像、メッセージ、またはその両方のバランスの取れた組み合わせを先頭に置くことができます。温かみのあるイラストとシンプルなメッセージ。ジョークを中心に作られた遊び心のあるイメージ。名前または日付が機会に追加されました。
+カードの表面は、画像を主役にする、メッセージを主役にする、両者をバランスよく組み合わせる方法があります。温かなイラストに簡潔なメッセージを添える、ジョークを軸に遊び心のある絵を作る、記念の場面に名前や日付を加える、といった案が考えられます。
 
 ![グリーティング カードと招待状 · 空白の製品ビジュアル](https://podplo.app/pod-guide/generated/greeting-cards-blank.webp)
 
@@ -48,11 +48,11 @@
 
 AI 製品のプレビュー
 
-**さらにレイアウトを調べて Skills を設定します**
+**レイアウトやセット作成のSkillをもっと見る**
 
 <a id="_R_5v3k_-title"></a>
 
-#### さらにレイアウトを調べて Skills を設定します
+#### レイアウトやセット作成のSkillをもっと見る
 
 4 / 11
 
@@ -64,9 +64,9 @@ AI 製品のプレビュー
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-mockup"></a>
 
@@ -78,8 +78,8 @@ AI プレビューを使用して、遊び心のあるカード、個人的な�
 
 - カードを 1 つの明確なメッセージに集中させてください
 
-- 名前を付けると、見慣れた出来事が個人的なものになります
+- 名前を添えて、なじみの行事をその人だけの記念に
 
 - 同じアイデアをサポートするために画像と文言を使用する
 
-![グリーティングカードと招待状・AI製品証明](https://podplo.app/pod-guide/generated/greeting-cards-proof.webp)
+![グリーティングカードと招待状 · AIによる商品仕上がり確認画像](https://podplo.app/pod-guide/generated/greeting-cards-proof.webp)

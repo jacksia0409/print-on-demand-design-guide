@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene-layout--scene-layout-focus?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene-layout--scene-layout-focus?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,7 +26,7 @@ COMMENT LE RECONNAÎTRE
 
 ## Qu'est-ce qui définit cette direction
 
-Ne supprimez pas l’environnement tant qu’il ne reste qu’un objet isolé. Une symétrie exacte et le fait de placer chaque figure au centre sont inutiles.
+Ne supprimez pas l’environnement au point de ne laisser qu’un objet isolé. Une symétrie exacte et le placement de chaque personnage au centre ne sont pas nécessaires.
 
 [← Retour aux scènes](../scene.md)
 
@@ -52,7 +52,7 @@ Choisissez l’événement ou l’objet clé et concentrez la concentration visu
 
 **Arrière-plan**
 
-Utilisez l’emplacement existant, les indices environnementaux et atmosphériques pour développer un cadre cohérent. S'il n'existe aucun arrière-plan ou si seul un support solide ou transparent est fourni, créez un environnement associé. Un motif décoratif ne doit pas à lui seul remplacer le contexte essentiel.
+Utilisez les indices de lieu, d’environnement et d’atmosphère existants pour développer un décor cohérent. Si aucun arrière-plan n’existe, ou si seul un fond uni ou transparent est fourni, créez un environnement apparenté. Un motif décoratif ne doit pas remplacer à lui seul le contexte essentiel.
 
 **Texte**
 
@@ -64,23 +64,23 @@ Conservez le thème central et les caractéristiques permettant de reconnaître 
 
 **Portée et limites**
 
-Ne supprimez pas l’environnement tant qu’il ne reste qu’un objet isolé. Une symétrie exacte et le fait de placer chaque figure au centre sont inutiles.
+Ne supprimez pas l’environnement au point de ne laisser qu’un objet isolé. Une symétrie exacte et le placement de chaque personnage au centre ne sont pas nécessaires.
 
 <a id="backgrounds"></a>
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
-[![Fond transparent : Scènes : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![Fond transparent : scènes : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fond transparent↗
 
-Scènes : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--scene--transparent.md)[![Fond uni : Scènes : Une couleur uniforme forme le sol ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Scènes : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--scene--transparent.md)[![Fond uni : scènes : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
-Scènes : Une couleur uniforme forme le sol ; le blanc est également un fond uni.](background--scene--solid.md)[![Fond dégradé : Scènes : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Scènes : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](background--scene--solid.md)[![Fond dégradé : Scènes : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Fond dégradé↗
 
@@ -104,7 +104,7 @@ Scènes : un environnement lié à un thème prend en charge le contenu princip
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Scène horizontale : l'environnement s'étend sur l'image avec une direction de lecture horizontale.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-panorama-1.svg)
 
@@ -114,7 +114,7 @@ L'environnement s'étend sur l'image avec une direction de lecture horizontale.]
 
 ### Couches de profondeur↗
 
-Le premier plan, le milieu et la distance créent une impression d’espace lisible.](scene-layout--scene-layout-depth.md)[![Gros plan contextuel : une partie recadrée d'une scène conserve suffisamment de relations pour suggérer son contexte.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-close-1.svg)
+Le premier plan, le plan moyen et le lointain créent une impression d’espace lisible.](scene-layout--scene-layout-depth.md)[![Gros plan contextuel : une partie recadrée d'une scène conserve suffisamment de relations pour suggérer son contexte.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-close-1.svg)
 
 ### Gros plan contextuel↗
 

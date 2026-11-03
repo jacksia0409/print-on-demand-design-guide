@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--single--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--single--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Sujet / DIRECTION CRÉATIVE / sujet unique
+Composition centrée sur le sujet / DIRECTION CRÉATIVE / sujet unique
 
 # Fond transparent
 
-Sujet unique : Le sol reste transparent ; un damier n'est qu'un support d'affichage.
+Sujet unique : le fond reste transparent ; le damier sert uniquement à l’affichage.
 
 <a id="understand"></a>
 
-![Fond transparent : Sujet unique : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
+![Fond transparent : sujet unique : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 Schéma de composition
 
@@ -28,7 +28,7 @@ COMMENT LE RECONNAÎTRE
 
 La vraie transparence nécessite un canal alpha. Ne peignez pas un damier ou un fond blanc sur l’image et ne la qualifiez pas de transparente ; indiquer qu'un post-traitement est nécessaire si l'outil ne peut pas produire de transparence.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 ![Sujet découpé avec fond transparent isolé](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
@@ -70,17 +70,17 @@ Conservez le thème central et les caractéristiques permettant de reconnaître 
 
 La vraie transparence nécessite un canal alpha. Ne peignez pas un damier ou un fond blanc sur l’image et ne la qualifiez pas de transparente ; indiquer qu'un post-traitement est nécessaire si l'outil ne peut pas produire de transparence.
 
-[Ouvrir le dissolvant d'arrière-plan Skill ↗](https://podplo.app/generate?skill=background-remover)
+[Ouvrir le Skill de suppression d’arrière-plan ↗](https://podplo.app/generate?skill=background-remover)
 
-Bascule vers ce Skill et conserve vos images d'invite et de référence existantes.
+Passe à ce Skill et conserve votre prompt et vos images de référence existants.
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Fond uni : sujet unique : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Sujet unique : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--single--solid.md)[![Fond dégradé : Sujet unique : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 

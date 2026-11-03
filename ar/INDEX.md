@@ -54,9 +54,9 @@
 
 - [أشكال مجردة اقتصاص](artwork-types/abstract/abstract-layout--abstract-layout-crop.md)
 
-- [تجريد الأوفست](artwork-types/abstract/abstract-layout--abstract-layout-offset.md)
+- [تجريد مزاح عن المركز](artwork-types/abstract/abstract-layout--abstract-layout-offset.md)
 
-- [توزيع مجاني](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
+- [توزيع حر](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
 
 - [مناطق متداخلة](artwork-types/abstract/abstract-layout--abstract-layout-zones.md)
 
@@ -68,9 +68,9 @@
 
 - [الخلفية البيئية](artwork-types/abstract/background--abstract--scene.md)
 
-- [خلفية صلبة](artwork-types/abstract/background--abstract--solid.md)
+- [خلفية أحادية اللون](artwork-types/abstract/background--abstract--solid.md)
 
-- [خلفية محكم](artwork-types/abstract/background--abstract--texture.md)
+- [خلفية ذات ملمس](artwork-types/abstract/background--abstract--texture.md)
 
 - [خلفية شفافة](artwork-types/abstract/background--abstract--transparent.md)
 
@@ -84,9 +84,9 @@
 
 - [الخلفية البيئية](artwork-types/pattern/background--pattern--scene.md)
 
-- [خلفية صلبة](artwork-types/pattern/background--pattern--solid.md)
+- [خلفية أحادية اللون](artwork-types/pattern/background--pattern--solid.md)
 
-- [خلفية محكم](artwork-types/pattern/background--pattern--texture.md)
+- [خلفية ذات ملمس](artwork-types/pattern/background--pattern--texture.md)
 
 - [خلفية شفافة](artwork-types/pattern/background--pattern--transparent.md)
 
@@ -94,11 +94,11 @@
 
 - [زخرفة شعاعية](artwork-types/pattern/bounded--pattern-radial.md)
 
-- [كرر على التوالي](artwork-types/pattern/seamless--pattern-grid.md)
+- [تكرار مستقيم](artwork-types/pattern/seamless--pattern-grid.md)
 
 - [تكرار متفرقة](artwork-types/pattern/seamless--pattern-scatter.md)
 
-- [تكرار متزاحف](artwork-types/pattern/seamless--pattern-stagger.md)
+- [تكرار بإزاحة](artwork-types/pattern/seamless--pattern-stagger.md)
 
 - [المشاهد](artwork-types/scene.md)
 
@@ -110,13 +110,13 @@
 
 - [الخلفية البيئية](artwork-types/scene/background--scene--scene.md)
 
-- [خلفية صلبة](artwork-types/scene/background--scene--solid.md)
+- [خلفية أحادية اللون](artwork-types/scene/background--scene--solid.md)
 
-- [خلفية محكم](artwork-types/scene/background--scene--texture.md)
+- [خلفية ذات ملمس](artwork-types/scene/background--scene--texture.md)
 
 - [خلفية شفافة](artwork-types/scene/background--scene--transparent.md)
 
-- [المقالة القصيرة اليومية](artwork-types/scene/scene--scene-desk.md)
+- [لمحة من الحياة اليومية](artwork-types/scene/scene--scene-desk.md)
 
 - [الإعداد البيئي](artwork-types/scene/scene--scene-environment.md)
 
@@ -124,7 +124,7 @@
 
 - [لحظة روائية](artwork-types/scene/scene--scene-story.md)
 
-- [سياقية قريبة](artwork-types/scene/scene-layout--scene-layout-close.md)
+- [لقطة مقربة مع سياقها](artwork-types/scene/scene-layout--scene-layout-close.md)
 
 - [طبقات من العمق](artwork-types/scene/scene-layout--scene-layout-depth.md)
 
@@ -144,9 +144,9 @@
 
 - [الخلفية البيئية](artwork-types/subject/background--multiple--scene.md)
 
-- [خلفية صلبة](artwork-types/subject/background--multiple--solid.md)
+- [خلفية أحادية اللون](artwork-types/subject/background--multiple--solid.md)
 
-- [خلفية محكم](artwork-types/subject/background--multiple--texture.md)
+- [خلفية ذات ملمس](artwork-types/subject/background--multiple--texture.md)
 
 - [خلفية شفافة](artwork-types/subject/background--multiple--transparent.md)
 
@@ -158,9 +158,9 @@
 
 - [الخلفية البيئية](artwork-types/subject/background--relationship--scene.md)
 
-- [خلفية صلبة](artwork-types/subject/background--relationship--solid.md)
+- [خلفية أحادية اللون](artwork-types/subject/background--relationship--solid.md)
 
-- [خلفية محكم](artwork-types/subject/background--relationship--texture.md)
+- [خلفية ذات ملمس](artwork-types/subject/background--relationship--texture.md)
 
 - [خلفية شفافة](artwork-types/subject/background--relationship--transparent.md)
 
@@ -172,39 +172,39 @@
 
 - [الخلفية البيئية](artwork-types/subject/background--single--scene.md)
 
-- [خلفية صلبة](artwork-types/subject/background--single--solid.md)
+- [خلفية أحادية اللون](artwork-types/subject/background--single--solid.md)
 
-- [خلفية محكم](artwork-types/subject/background--single--texture.md)
+- [خلفية ذات ملمس](artwork-types/subject/background--single--texture.md)
 
 - [خلفية شفافة](artwork-types/subject/background--single--transparent.md)
 
-- [تخطيط المجموعة مجاني](artwork-types/subject/collection--collection-free.md)
+- [تخطيط حر لمجموعة](artwork-types/subject/collection--collection-free.md)
 
-- [تخطيط المجموعة العادية](artwork-types/subject/collection--collection-grid.md)
+- [تخطيط منتظم لمجموعة](artwork-types/subject/collection--collection-grid.md)
 
-- [لهجات المحيطة الصغيرة](artwork-types/subject/decoration--deco-dots.md)
+- [لمسات صغيرة محيطة](artwork-types/subject/decoration--deco-dots.md)
 
 - [عنصر مؤطر](artwork-types/subject/decoration--deco-frame.md)
 
 - [زخرفة متداخلة](artwork-types/subject/decoration--deco-interlace.md)
 
-- [الأشعة واللهجات المشعة](artwork-types/subject/decoration--deco-rays.md)
+- [أشعة ولمسات شعاعية](artwork-types/subject/decoration--deco-rays.md)
 
 - [الديكور المحيطي](artwork-types/subject/decoration--deco-wreath.md)
 
-- [نوع الانقسام والمشردين](artwork-types/subject/letter-art--letter-fracture.md)
+- [حروف مقسمة ومزاحة](artwork-types/subject/letter-art--letter-fracture.md)
 
 - [حروف الخطوط العريضة](artwork-types/subject/letter-art--letter-outline.md)
 
-- [نوع المنظور الزاوية](artwork-types/subject/letter-art--letter-perspective.md)
+- [كتابة بمنظور مائل](artwork-types/subject/letter-art--letter-perspective.md)
 
-- [نوع ممتد أو مضغوط](artwork-types/subject/letter-art--letter-stretch.md)
+- [حروف ممدودة أو مضغوطة](artwork-types/subject/letter-art--letter-stretch.md)
 
-- [صورة أو نوع مملوء بالملمس](artwork-types/subject/letter-art--letter-texture.md)
+- [حروف مملوءة بصور أو ملامس](artwork-types/subject/letter-art--letter-texture.md)
 
-- [نوع منحني أو متموج](artwork-types/subject/letter-art--letter-wave.md)
+- [كتابة منحنية أو متموجة](artwork-types/subject/letter-art--letter-wave.md)
 
-- [المواد الأساسية والداعمة](artwork-types/subject/multiple--multi-dominant.md)
+- [عناصر رئيسية ومساندة](artwork-types/subject/multiple--multi-dominant.md)
 
 - [متجمعة ومتداخلة](artwork-types/subject/multiple--multi-overlap.md)
 
@@ -224,7 +224,7 @@
 
 - [الصورة والنص متشابكان](artwork-types/subject/relationship--relation-interlace.md)
 
-- [تعبير النوع فقط](artwork-types/subject/relationship--relation-plain-type.md)
+- [تعبير بالحروف وحدها](artwork-types/subject/relationship--relation-plain-type.md)
 
 - [الصورة داخل شكل حرف](artwork-types/subject/relationship--relation-replace.md)
 
@@ -246,7 +246,7 @@
 
 - [النسب المبالغ فيها](artwork-types/subject/transformation--transform-distort.md)
 
-- [شكل مجزأة وتعويض](artwork-types/subject/transformation--transform-fragments.md)
+- [شكل مجزأ ومزاح](artwork-types/subject/transformation--transform-fragments.md)
 
 - [التبسيط الهندسي](artwork-types/subject/transformation--transform-geometry.md)
 
@@ -264,9 +264,9 @@
 
 - [الخلفية البيئية](artwork-types/texture/background--texture--scene.md)
 
-- [خلفية صلبة](artwork-types/texture/background--texture--solid.md)
+- [خلفية أحادية اللون](artwork-types/texture/background--texture--solid.md)
 
-- [خلفية محكم](artwork-types/texture/background--texture--texture.md)
+- [خلفية ذات ملمس](artwork-types/texture/background--texture--texture.md)
 
 - [خلفية شفافة](artwork-types/texture/background--texture--transparent.md)
 
@@ -278,11 +278,11 @@
 
 - [نسيج الخامة: قماش](artwork-types/texture/texture--texture-weave.md)
 
-- [الملمس المطبق: ارتداء](artwork-types/texture/texture--texture-worn.md)
+- [ملمس مضاف: اهتراء](artwork-types/texture/texture--texture-worn.md)
 
 - [نسيج كامل المنطقة](artwork-types/texture/texture-layout--texture-layout-full.md)
 
-- [مجمعة الملمس الطبقات](artwork-types/texture/texture-layout--texture-layout-layers.md)
+- [كولاج ملامس متعدد الطبقات](artwork-types/texture/texture-layout--texture-layout-layers.md)
 
 - [جزء الملمس المحلي](artwork-types/texture/texture-layout--texture-layout-local.md)
 
@@ -308,21 +308,21 @@
 
 - [البطانيات](products/blankets.md)
 
-- [مطبوعات قماشية ومؤطرة](products/canvas-prints.md)
+- [لوحات كانفاس ومطبوعات مؤطرة](products/canvas-prints.md)
 
 - [بطاقات التهنئة والدعوات](products/greeting-cards.md)
 
-- [القبعات والقبعات](products/hats.md)
+- [قبعات وطواقي](products/hats.md)
 
 - [أكواب](products/mugs.md)
 
-- [دفاتر الملاحظات والمخططين](products/notebooks.md)
+- [دفاتر ملاحظات ومفكرات](products/notebooks.md)
 
-- [الحلي وواقيات الشمس](products/ornaments.md)
+- [زينة معلّقة وزينة نوافذ ملتقطة للشمس](products/ornaments.md)
 
 - [سجادات تغذية الحيوانات الأليفة](products/pet-products.md)
 
-- [حالات الهاتف](products/phone-cases.md)
+- [حافظات هواتف](products/phone-cases.md)
 
 - [الوسائد والوسائد](products/pillows.md)
 
@@ -334,9 +334,9 @@
 
 - [أفكار تصميم تي شيرت](products/t-shirts.md)
 
-- [حمل الحقائب](products/tote-bags.md)
+- [حقائب توت](products/tote-bags.md)
 
-- [البهلوانات](products/tumblers.md)
+- [أكواب حرارية](products/tumblers.md)
 
 - [ورق جدران](products/wallpaper.md)
 

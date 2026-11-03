@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-FORMULARIO DE OBRA · 01 / 05
+FORMA DE LA IMAGEN · 01 / 05
 
 # Composición centrada en el motivo principal
 
@@ -26,7 +26,7 @@ Un objeto identificable, un grupo o una inscripción lidera el diseño. Explorar
 
 FORMAS VISUALES · 144
 
-### Tratamientos artísticos temáticos.
+### Tratamientos artísticos del motivo principal
 
 <a id="transformation-panel-word-g22"></a>
 
@@ -46,11 +46,11 @@ Aísle los bordes exteriores del sujeto en líneas decisivas, eliminando detalle
 
 <a id="form-art-22-2"></a>
 
-![Dibujo lineal mínimo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-22-2.svg)
+![Dibujo lineal minimalista: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-22-2.svg)
 
-##### Dibujo lineal mínimo
+##### Dibujo lineal minimalista
 
-Describe el tema con sólo unos pocos trazos económicos, dejando espacio abierto para llevar la mayor parte del formulario.
+Describe el motivo principal con unos pocos trazos esenciales y deja que el espacio vacío sugiera la mayor parte de la forma.
 
 <a id="form-art-22-7"></a>
 
@@ -74,7 +74,7 @@ Compare estrategias para eliminar detalles y al mismo tiempo preservar la identi
 
 ##### Quitar fondo
 
-Borre la configuración circundante para que el sujeto se lea como una forma gráfica limpia y autónoma.
+Elimina el entorno para que el motivo principal se perciba como una forma gráfica limpia y autónoma.
 
 <a id="form-art-23-1"></a>
 
@@ -198,7 +198,7 @@ Comprime los brazos o las piernas en proporciones rechonchas que hagan que el cu
 
 <a id="form-art-24-3"></a>
 
-![Detalle de la carrocería ampliado: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-24-3.svg)
+![Detalle corporal ampliado: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-24-3.svg)
 
 ##### Detalle del cuerpo ampliado
 
@@ -206,9 +206,9 @@ Amplíe una característica anatómica para que se convierta en la señal visual
 
 <a id="form-art-24-4"></a>
 
-![Detalle de carrocería reducido: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-24-4.svg)
+![Detalle corporal reducido: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-24-4.svg)
 
-##### Detalle de carrocería reducido
+##### Detalle corporal reducido
 
 Reduzca una característica seleccionada para crear contraste, vulnerabilidad o una proporción intencionalmente extraña.
 
@@ -290,7 +290,7 @@ Empuje las formas cercanas dramáticamente más grandes y las formas distantes m
 
 ##### distorsión ojo de pez
 
-Incline líneas rectas alrededor de un campo de visión redondeado, creando un bulto de gran angular similar a una lente.
+Curva las líneas rectas alrededor de un campo de visión redondeado para crear una protuberancia similar a la de una lente gran angular.
 
 <a id="transformation-panel-word-g25"></a>
 
@@ -338,7 +338,7 @@ Utilice tallos, hojas o flores como un cuerpo vivo con emoción humana y movimie
 
 ##### Expresión agregada
 
-Agregue ojos, boca o cejas que comuniquen claramente el estado de ánimo elegido a través de señales faciales económicas.
+Añade ojos, boca o cejas que comuniquen claramente el estado de ánimo elegido con pocos rasgos faciales.
 
 <a id="form-art-25-5"></a>
 
@@ -358,17 +358,17 @@ Utilice ropa para sugerir rol, época, estatus o temperamento manteniendo legibl
 
 <a id="form-art-25-7"></a>
 
-![Carácter ocupacional – estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-25-7.svg)
+![Personaje de profesión: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-25-7.svg)
 
-##### Carácter ocupacional
+##### Personaje de profesión
 
 Defina el personaje a través de la vestimenta, las herramientas, la postura y el comportamiento laboral específicos de la profesión.
 
 <a id="form-art-25-8"></a>
 
-![Carácter de personalidad: estudio visual.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-25-8.svg)
+![Personaje con personalidad: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-25-8.svg)
 
-##### Carácter de personalidad
+##### Personaje con personalidad
 
 Desarrolle un temperamento consistente a través de la postura, la expresión, el estilo y los detalles repetidos del comportamiento.
 
@@ -410,7 +410,7 @@ Compare cómo un sujeto se divide, desplaza, refleja, modulariza y reconstruye m
 
 ##### Descomposición geométrica
 
-Divida el tema en polígonos o sólidos básicos que revelen una geometría construida subyacente.
+Descompón el motivo principal en polígonos o sólidos básicos que revelen su geometría de construcción.
 
 <a id="form-art-26-1"></a>
 
@@ -418,7 +418,7 @@ Divida el tema en polígonos o sólidos básicos que revelen una geometría cons
 
 ##### Rebanadas en capas
 
-Divida el formulario en secciones transversales paralelas, separándolas ligeramente para exponer el volumen en capas.
+Divide la forma en secciones transversales paralelas y sepáralas ligeramente para mostrar el volumen en capas.
 
 <a id="form-art-26-2"></a>
 
@@ -432,7 +432,7 @@ Reconstruir un todo reconocible a partir de fragmentos desplazados cuyas costura
 
 ![Planos unidos - estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-26-3.svg)
 
-##### Aviones unidos
+##### Planos unidos
 
 Conecte superficies angulares de borde a borde, permitiendo que las facetas planas definan el volumen en lugar de un modelado suave.
 
@@ -538,13 +538,13 @@ Combine la estructura animal con hojas, raíces, cortezas o flores como una anat
 
 ##### Híbrido orgánico-mecánico
 
-Entrelazan carne y maquinaria a través de articulaciones, superficies y ritmos compartidos en lugar de un simple apego.
+Entrelaza carne y maquinaria mediante articulaciones, superficies y ritmos compartidos, en lugar de simplemente unirlas.
 
 <a id="form-art-27-3"></a>
 
-![Híbrido de construcción de objetos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-27-3.svg)
+![Híbrido de objeto y edificio: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-27-3.svg)
 
-##### Híbrido de construcción de objetos
+##### Híbrido de objeto y edificio
 
 Fusione un objeto familiar con una masa arquitectónica, convirtiendo aberturas y componentes en una estructura habitable.
 
@@ -562,7 +562,7 @@ Deje que los contornos corporales se conviertan en colinas, ríos o terrenos pre
 
 ##### Formas locales injertadas
 
-Adjunte una característica local extraña como si hubiera crecido naturalmente a partir del formulario anfitrión.
+Añade un rasgo local ajeno a la forma original como si hubiera crecido de ella de manera natural.
 
 <a id="form-art-27-6"></a>
 
@@ -570,7 +570,7 @@ Adjunte una característica local extraña como si hubiera crecido naturalmente 
 
 ##### doble imagen
 
-Construya una imagen que se resuelva en un tema diferente cuando la atención cambie entre formas.
+Construye una imagen en la que aparezca un motivo distinto al cambiar la atención entre las formas.
 
 <a id="form-art-27-7"></a>
 
@@ -602,7 +602,7 @@ Inventa una criatura de varias especies, unificando partes que no coinciden medi
 
 #### Rellenos y superficies interiores.
 
-Compare imágenes colocadas dentro, reveladas debajo o sustituidas a través de un sujeto, desde rellenos recortados hasta cortes y máscaras alternativas.
+Compara imágenes colocadas dentro de un motivo principal, reveladas bajo él o usadas para sustituir parte de él, desde rellenos recortados hasta vistas seccionadas y revestimientos alternativos.
 
 <a id="form-art-28-0"></a>
 
@@ -654,11 +654,11 @@ Recorte imágenes fotográficas a través de la forma del sujeto para que la ima
 
 <a id="form-art-28-6"></a>
 
-![Relleno de Starfield: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-28-6.svg)
+![Relleno de campo estelar: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-28-6.svg)
 
 ##### Relleno de campo estelar
 
-Abra el formulario a un campo de estrellas, nebulosas y profundidad cósmica contenidas dentro de sus límites.
+Abre la forma hacia un campo de estrellas, nebulosas y profundidad cósmica contenido dentro de su contorno.
 
 <a id="form-art-28-7"></a>
 
@@ -734,11 +734,11 @@ Haga que un límite describa dos sujetos adyacentes a la vez, vinculando sus per
 
 <a id="form-art-29-3"></a>
 
-![Figure-ground reversal — visual study](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-29-3.svg)
+![Inversión figura-fondo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-29-3.svg)
 
 ##### Inversión figura-fondo
 
-Organice formas positivas y negativas de modo que la atención cambie repetidamente entre el sujeto y el suelo.
+Organiza las formas positivas y negativas para que la atención oscile entre la figura y el fondo.
 
 <a id="form-art-29-4"></a>
 
@@ -798,11 +798,11 @@ Compare la repetición rítmica cambiando el tamaño, la dirección, la densidad
 
 <a id="form-art-30-0"></a>
 
-![Tema repetido: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-30-0.svg)
+![Motivo repetido: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-30-0.svg)
 
-##### Asunto repetido
+##### Motivo repetido
 
-Repita el mismo tema como una secuencia, patrón o multitud preservando al mismo tiempo una identidad visual consistente.
+Repite el mismo motivo principal como secuencia, patrón o multitud, conservando una identidad visual uniforme.
 
 <a id="form-art-30-1"></a>
 
@@ -936,7 +936,7 @@ Combine tonos de lados opuestos de la rueda de colores para lograr un contraste 
 
 ![Colores análogos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-31-5.svg)
 
-##### Colores analogos
+##### Colores análogos
 
 Utilice tonos vecinos para crear una armonía suave y cambios sutiles sin conflictos de color abruptos.
 
@@ -946,7 +946,7 @@ Utilice tonos vecinos para crear una armonía suave y cambios sutiles sin confli
 
 ##### Colores antinaturales
 
-Vuelva a colorear temas familiares con tonos deliberadamente inverosímiles para cambiar el estado de ánimo y el significado.
+Recolorea motivos familiares con tonos deliberadamente inverosímiles para cambiar el ambiente y el significado.
 
 <a id="form-art-31-7"></a>
 
@@ -970,7 +970,7 @@ Invierta las relaciones claro-oscuro o complementarias para que la paleta se lea
 
 ##### Mapeo de gradiente
 
-El brillo del mapa varía en una rampa de color diseñada, reemplazando el tono natural con bandas cromáticas ordenadas.
+Asigna los intervalos de luminosidad a una rampa de color diseñada, sustituyendo el tono natural por bandas cromáticas ordenadas.
 
 <a id="form-art-31-10"></a>
 
@@ -1038,9 +1038,9 @@ Utilice una iluminación uniforme casi sin sombras, manteniendo las superficies 
 
 <a id="form-art-32-2"></a>
 
-![Valores bloqueados: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-2.svg)
+![Masas tonales: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-2.svg)
 
-##### Valores bloqueados
+##### Masas tonales
 
 Divida el sujeto en distintas formas claras, medias y oscuras en lugar de un modelado gradual.
 
@@ -1054,9 +1054,9 @@ Coloque la fuente de luz detrás del sujeto para que su contorno se convierta en
 
 <a id="form-art-32-4"></a>
 
-![Luz de llanta: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-4.svg)
+![Luz de contorno: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-4.svg)
 
-##### Luz de llanta
+##### Luz de contorno
 
 Traza el borde sombreado con una estrecha franja de luz que lo separe del fondo.
 
@@ -1090,7 +1090,7 @@ Rodea líneas de colores brillantes con un suave derrame luminoso, lo que sugier
 
 ##### Brillo de enfoque suave
 
-Bloom resalta en bordes brumosos, dando a la imagen un resplandor suave y atmosférico.
+Difumina las altas luces en bordes brumosos para dar a la imagen un resplandor suave y atmosférico.
 
 <a id="form-art-32-9"></a>
 
@@ -1142,11 +1142,11 @@ Compare el desgaste de apariencia física y la distorsión digital, distinguiend
 
 <a id="form-art-33-0"></a>
 
-![Desgaste desgastado: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-0.svg)
+![Desgaste envejecido: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-0.svg)
 
-##### Desgaste desgastado
+##### Desgaste envejecido
 
-Lije los bordes y las superficies de manera desigual para que la imagen parezca manipulada, envejecida o impresa repetidamente en material desgastado.
+Desgasta de forma irregular los bordes y las superficies para que la imagen parezca manipulada muchas veces, envejecida o impresa sobre un soporte gastado.
 
 <a id="form-art-33-1"></a>
 
@@ -1166,9 +1166,9 @@ Corte cicatrices finas y direccionales en las superficies para sugerir fricción
 
 <a id="form-art-33-3"></a>
 
-![Lágrimas – estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-3.svg)
+![Desgarros: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-3.svg)
 
-##### lágrimas
+##### Desgarros
 
 Abra divisiones irregulares con bordes rizados o separados que revelan otra capa detrás.
 
@@ -1202,7 +1202,7 @@ Cree superficies picadas y carcomidas con cambios de color irregulares asociados
 
 ##### Manchas
 
-Agregue flores, anillos o salpicaduras desiguales que penetren en la imagen en lugar de quedar limpiamente encima de ella.
+Añade manchas difusas, anillos o salpicaduras irregulares que se absorban en la imagen en lugar de quedar nítidamente superpuestos.
 
 <a id="form-art-33-8"></a>
 
@@ -1218,7 +1218,7 @@ Reduzca el contraste y la saturación de forma selectiva para que las partes par
 
 ##### doble imagen
 
-Compensa un débil duplicado del sujeto para crear imágenes fantasma en lugar de una segunda figura independiente.
+Desplaza un duplicado tenue del motivo principal para crear un efecto fantasma, no una segunda figura independiente.
 
 <a id="form-art-33-10"></a>
 
@@ -1226,13 +1226,13 @@ Compensa un débil duplicado del sujeto para crear imágenes fantasma en lugar d
 
 ##### Registro incorrecto
 
-Cambie el color o imprima capas desalineadas, lo que producirá franjas visibles y superposiciones imperfectas.
+Desalinea las capas de color o de impresión para producir franjas visibles y superposiciones imperfectas.
 
 <a id="form-art-33-11"></a>
 
-![Senderos de escaneo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-11.svg)
+![Rastros de escaneo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-11.svg)
 
-##### Escanear senderos
+##### Rastros de escaneo
 
 Arrastre restos horizontales estrechos de las características de la imagen, evocando un escáner que no está sincronizado.
 
@@ -1292,7 +1292,7 @@ FORMAS VISUALES · 99
 
 #### Recuento de sujetos y combinaciones.
 
-Compare composiciones por número de temas e identidad, distinguiendo piezas individuales, parejas combinadas o mixtas, conjuntos, colecciones y multitudes.
+Compara las composiciones según el número y la identidad de los motivos principales, distinguiendo individuales, parejas iguales o mixtas, conjuntos, colecciones y multitudes.
 
 <a id="form-exp-9-0-0"></a>
 
@@ -1344,9 +1344,9 @@ Dale a un objeto el papel principal mientras los demás brindan compañía o con
 
 <a id="form-exp-9-0-6"></a>
 
-![Codirectores iguales: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-6.svg)
+![Protagonismo compartido por igual: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-6.svg)
 
-##### Co-líderes iguales
+##### Protagonismo compartido por igual
 
 Equilibra dos objetos principales con casi la misma prominencia visual.
 
@@ -1448,9 +1448,9 @@ Coloque el sujeto cerca de un borde del cuadro para crear apego y tensión visua
 
 <a id="form-exp-9-1-7"></a>
 
-![Conectado a tierra desde abajo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-7.svg)
+![Apoyado en la parte inferior: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-7.svg)
 
-##### Conectado a tierra en la parte inferior
+##### Apoyado en la parte inferior
 
 Mantenga el peso del sujeto cerca del borde inferior como si estuviera sobre un plano de tierra.
 
@@ -1464,11 +1464,11 @@ Compare la escala del sujeto y el recorte con el límite de la imagen, desde vis
 
 <a id="form-exp-9-2-0"></a>
 
-![Tema pequeño con espacio abierto: estudio visual.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-0.svg)
+![Motivo pequeño con espacio libre: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-0.svg)
 
-##### Tema pequeño con espacio abierto.
+##### Motivo pequeño con espacio libre
 
-Utilice un tema pequeño y un amplio espacio abierto para enfatizar la ligereza o el aislamiento.
+Usa un motivo principal pequeño y mucho espacio libre para enfatizar la ligereza o el aislamiento.
 
 <a id="form-exp-9-2-1"></a>
 
@@ -1490,15 +1490,15 @@ Deje que el sujeto ocupe la mayor parte del encuadre manteniendo su silueta casi
 
 ![Sujeto que llena el marco: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-3.svg)
 
-##### Asunto que llena el marco
+##### Motivo que llena el encuadre
 
 Acerque el sujeto a los cuatro bordes para crear una presión visual compacta.
 
 <a id="form-exp-9-2-4"></a>
 
-![Cultivo ampliado: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-4.svg)
+![Recorte ampliado: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-4.svg)
 
-##### Cultivo ampliado
+##### Recorte ampliado
 
 Ampliar el objeto completo hasta que el marco corte parte de su forma.
 
@@ -1544,9 +1544,9 @@ Extienda el sujeto a lo largo de uno o más bordes del cuadro para implicar una 
 
 <a id="form-exp-9-2-10"></a>
 
-![Interior completo exterior parcial: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-10.svg)
+![Interior completo y exterior parcial: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-10.svg)
 
-##### Totalmente interior parcial exterior
+##### Interior completo y exterior parcial
 
 Mantenga una forma completa dentro de un marco interior y permita extensiones parciales más allá de él.
 
@@ -1564,7 +1564,7 @@ Utilice diferentes tamaños de objetos en un cuadro para sugerir distancia o imp
 
 #### Filas y caminos
 
-Compare temas repetidos dispuestos como filas, columnas, cuadrículas, arcos, anillos, abanicos, espirales, caminos, siluetas o secuencias zonificadas.
+Compara motivos repetidos dispuestos en filas, columnas, cuadrículas, arcos, anillos, abanicos, espirales, recorridos, siluetas o secuencias por zonas.
 
 <a id="form-exp-9-3-0"></a>
 
@@ -1594,7 +1594,7 @@ Forme una fila continua de objetos a lo largo de un eje diagonal.
 
 ![Cuadrícula uniforme: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-3.svg)
 
-##### Incluso rejilla
+##### Cuadrícula uniforme
 
 Coloque objetos en intervalos iguales de filas y columnas en toda la cuadrícula.
 
@@ -1604,13 +1604,13 @@ Coloque objetos en intervalos iguales de filas y columnas en toda la cuadrícula
 
 ##### Cuadrícula escalonada
 
-Compense las filas o columnas vecinas para crear un ritmo entrelazado.
+Desplaza las filas o columnas vecinas para crear un ritmo entrelazado.
 
 <a id="form-exp-9-3-5"></a>
 
-![Disposición gratuita: estudio visual.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-5.svg)
+![Disposición libre: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-5.svg)
 
-##### Arreglo gratuito
+##### Disposición libre
 
 Varíe las posiciones de los objetos libremente mientras mantiene equilibrado el peso visual general.
 
@@ -1624,9 +1624,9 @@ Suba o baje el centro o la línea base de cada objeto en pasos sucesivos.
 
 <a id="form-exp-9-3-7"></a>
 
-![Disposición del arco: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-7.svg)
+![Disposición en arco: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-7.svg)
 
-##### disposición del arco
+##### Disposición en arco
 
 Coloque los objetos a lo largo de un arco curvo continuo.
 
@@ -1664,11 +1664,11 @@ Extienda los objetos hacia afuera alrededor de un centro con orientaciones visib
 
 <a id="form-exp-9-3-12"></a>
 
-![Difusión de fans: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-12.svg)
+![Disposición en abanico: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-12.svg)
 
-##### propagación del ventilador
+##### Disposición en abanico
 
-Abra los objetos hacia afuera dentro de un ángulo limitado como un ventilador de mano.
+Abre los objetos hacia fuera dentro de un ángulo limitado, como un abanico de mano.
 
 <a id="form-exp-9-3-13"></a>
 
@@ -1772,7 +1772,7 @@ Centra el sujeto principal y distribuye los objetos de apoyo a su alrededor.
 
 ##### Jerarquía dirigida lateralmente
 
-Compense al sujeto principal y equilibrelo con objetos de apoyo en el lado opuesto.
+Desplaza el motivo principal y equilíbralo con objetos de apoyo en el lado opuesto.
 
 <a id="form-exp-9-4-7"></a>
 
@@ -1850,7 +1850,7 @@ Deje espacios claramente visibles entre los objetos para que cada uno permanezca
 
 ![Contornos en contacto: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-1.svg)
 
-##### Tocando contornos
+##### Contornos en contacto
 
 Deje que los objetos se encuentren sólo en sus bordes preservando cada contorno completo.
 
@@ -1892,7 +1892,7 @@ Separe los objetos mientras los mantiene legibles como un solo grupo.
 
 ##### entrelazado alterno
 
-Deje que diferentes objetos se oscurezcan alternativamente entre sí en un patrón de capas tejidas.
+Deja que distintos objetos se oculten unos a otros de forma alterna, creando capas entretejidas.
 
 <a id="form-exp-9-5-7"></a>
 
@@ -1936,9 +1936,9 @@ Establezca todos los objetos en la misma línea base visible o implícita.
 
 <a id="form-exp-9-5-12"></a>
 
-![Temas de primer plano y fondo medio: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-12.svg)
+![Motivos en primer plano, plano medio y fondo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-12.svg)
 
-##### Sujetos en primer plano y en segundo plano
+##### Motivos en primer plano, plano medio y fondo
 
 Separe el grupo de sujetos en distintas capas de primer plano, medio y fondo.
 
@@ -1980,7 +1980,7 @@ Gira dos o más personajes uno hacia el otro para establecer comunicación.
 
 ##### Espalda con espalda
 
-Coloque los objetos uno detrás del otro para sugerir separación o independencia.
+Coloca los objetos espalda con espalda para sugerir separación o independencia.
 
 <a id="form-exp-9-6-3"></a>
 
@@ -2036,7 +2036,7 @@ Vincula posturas sucesivas para que una acción fluya visiblemente hacia la sigu
 
 ##### Secuencia de persecución
 
-Coloca los personajes uno detrás de otro, siguiendo la misma dirección.
+Dispón los personajes uno detrás de otro, persiguiéndose en la misma dirección.
 
 <a id="form-exp-9-6-10"></a>
 
@@ -2088,9 +2088,9 @@ Diseñe objetos completos como una colección de referencia ilustrada para su re
 
 <a id="form-exp-9-7-3"></a>
 
-![Pantalla plana: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-3.svg)
+![Disposición cenital: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-3.svg)
 
-##### Pantalla plana
+##### Disposición cenital
 
 Organice los objetos en un plano visto directamente desde arriba.
 
@@ -2108,13 +2108,13 @@ Separar los componentes de un todo conservando sus relaciones visibles de ensamb
 
 ##### Centro con satélites
 
-Coloque varios objetos pequeños independientes alrededor de un objeto central central.
+Coloca varios objetos pequeños independientes alrededor de un objeto central.
 
 <a id="form-exp-9-7-6"></a>
 
-![Los grupos reducidos abren brechas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-6.svg)
+![Grupos compactos separados por espacios libres: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-6.svg)
 
-##### Los grupos apretados abren huecos
+##### Grupos compactos separados por espacios libres
 
 Empaque los objetos firmemente en grupos pequeños y deje espacios abiertos entre esos grupos.
 
@@ -2146,7 +2146,7 @@ Reúna varios objetos independientes en una silueta reconocible más grande.
 
 FORMAS VISUALES · 48
 
-### Decoración del tema
+### Decoración del motivo principal
 
 <a id="decoration-panel-word-g0"></a>
 
@@ -2154,7 +2154,7 @@ FORMAS VISUALES · 48
 
 #### Acentos exteriores
 
-Compare los acentos que irradian un sujeto, desde halos suaves hasta ráfagas nítidas, sin convertirse en marcos circundantes completos.
+Compara los detalles que irradian desde el motivo principal, desde halos suaves hasta destellos agudos, sin llegar a formar marcos envolventes completos.
 
 <a id="form-decoration-0-0"></a>
 
@@ -2216,7 +2216,7 @@ Esparce algunas flores, estrellas o puntos pequeños sin apretar alrededor de la
 
 ![Dispersión uniforme: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-1-1.svg)
 
-##### Incluso dispersándose
+##### Dispersión uniforme
 
 Rodee al sujeto con pequeños elementos con una densidad casi uniforme.
 
@@ -2240,7 +2240,7 @@ Reúna la decoración a lo largo de un lado, en una esquina o en varias áreas c
 
 ![Ecos de tamaño: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-1-4.svg)
 
-##### El tamaño hace eco
+##### Ecos de tamaño
 
 Mezcle elementos de apoyo grandes y pequeños para crear un ritmo que haga eco del tema.
 
@@ -2352,7 +2352,7 @@ Encierre el contenido con un marco circular, ovalado, cuadrado, rombo o poligona
 
 ![Marco orgánico: estudio visual.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-3-1.svg)
 
-##### marco organico
+##### Marco orgánico
 
 Utilice un contorno irregular dibujado a mano, parecido a una nube o líquido para encerrar el contenido.
 
@@ -2408,15 +2408,15 @@ Deje que el sujeto cruce el marco mientras la decoración conecta el interior y 
 
 <a id="decoration-group-word-g4"></a>
 
-#### Respaldo y apoyo
+#### Fondo y soporte
 
 Compare formas colocadas detrás, debajo o encima de un sujeto para soportar su silueta y peso visual.
 
 <a id="form-decoration-4-0"></a>
 
-![Bloque de color de respaldo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-4-0.svg)
+![Bloque de color de fondo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-4-0.svg)
 
-##### Bloque de color de respaldo
+##### Bloque de color de fondo
 
 Coloque un disco, una forma de color irregular o un trozo de papel de collage directamente detrás del sujeto.
 
@@ -2458,7 +2458,7 @@ Extienda alas, formas de abanico o ramas hacia afuera desde ambos lados del suje
 
 ##### Hojas de respaldo en capas
 
-Coloque varias hojas de papel, etiquetas, tela o formas geométricas detrás del contenido principal.
+Desplaza varias hojas de papel, etiquetas, tela o láminas geométricas detrás del contenido principal.
 
 <a id="decoration-panel-word-g5"></a>
 
@@ -2466,7 +2466,7 @@ Coloque varias hojas de papel, etiquetas, tela o formas geométricas detrás del
 
 #### Entrelazados y conexiones
 
-Compare cintas, enredaderas, líneas y conectores que cruzan, unen, unen o tejen el tema principal.
+Compara cintas, enredaderas, líneas y conectores que cruzan, atan, enlazan o se entretejen con el motivo principal.
 
 <a id="form-decoration-5-0"></a>
 
@@ -2550,9 +2550,9 @@ Guíe la decoración alrededor del sujeto a lo largo de una curva en forma de C 
 
 <a id="form-decoration-6-1"></a>
 
-![Camino de seguimiento: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-6-1.svg)
+![Rastro de movimiento: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-6-1.svg)
 
-##### Camino final
+##### Rastro de movimiento
 
 Deje un rastro de destellos, humo o líneas detrás del sujeto en movimiento.
 
@@ -2630,13 +2630,13 @@ Organice siluetas de hojas variadas a lo largo de tallos, coronas o campos para 
 
 ![Ramas - estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-7-3.svg)
 
-##### Sucursales
+##### Ramas
 
 Utilice líneas ramificadas para enmarcar el sujeto, dividir el espacio o llevar brotes y hojas más pequeños hacia afuera.
 
 <a id="form-decoration-7-4"></a>
 
-![Vines - estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-7-4.svg)
+![Vides: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-7-4.svg)
 
 ##### vides
 
@@ -2680,7 +2680,7 @@ Utilice formas de frutas reconocibles como objetos focales coloridos, grupos est
 
 ##### Hongos
 
-Combine tapas redondeadas y tallos cortos para crear caprichosos acentos forestales con siluetas fuertes y fácilmente variadas.
+Combina sombreros redondeados y tallos cortos para crear detalles fantásticos de setas del bosque, con siluetas definidas y fáciles de variar.
 
 <a id="form-decoration-7-10"></a>
 
@@ -2752,7 +2752,7 @@ Dibuja una cabeza brillante con una cola amplia para crear un raro evento direcc
 
 ##### Nubes
 
-Coloque capas de masas redondeadas o alargadas sobre su cabeza para sugerir suavidad, clima, profundidad o un marco atmosférico.
+Superpón masas redondeadas o alargadas en la parte superior para sugerir suavidad, clima, profundidad o un marco atmosférico.
 
 <a id="form-decoration-8-7"></a>
 
@@ -2760,7 +2760,7 @@ Coloque capas de masas redondeadas o alargadas sobre su cabeza para sugerir suav
 
 ##### arcoiris
 
-Bend ordenó bandas de colores en un arco que indica un clima despejado, optimismo o simbolismo de espectro inclusivo.
+Curva bandas ordenadas de color formando un arco que evoque un cielo que se despeja, optimismo o el simbolismo inclusivo del espectro.
 
 <a id="form-decoration-8-8"></a>
 
@@ -2776,7 +2776,7 @@ Repita gotas cónicas en caminos que caen, acentos aislados o filas estampadas p
 
 ##### Copos de nieve
 
-Utilice cristales sextuplicados cuya variada geometría proporciona detalles invernales sin perder ligereza visual.
+Usa cristales ramificados con simetría de seis ejes, cuya geometría variada aporte detalles invernales sin perder ligereza visual.
 
 <a id="form-decoration-8-10"></a>
 
@@ -2830,13 +2830,13 @@ Utilice perfiles posados, alas extendidas o bandadas en movimiento para generar 
 
 ![Peces - estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-9-4.svg)
 
-##### pescado
+##### Peces
 
 Disponga cuerpos y aletas aerodinámicos en corrientes o bancos, creando una repetición fluida y un ritmo bajo el agua.
 
 <a id="form-decoration-9-5"></a>
 
-![Feathers — visual study](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-9-5.svg)
+![Plumas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-9-5.svg)
 
 ##### plumas
 
@@ -2870,7 +2870,7 @@ Construya formas de arrecifes ramificados cuya repetición irregular introduzca 
 
 <a id="materials-group-word-g10"></a>
 
-#### Geometria y simbolos
+#### Geometría y símbolos
 
 Compare marcas geométricas simples y símbolos familiares por forma, ritmo, dirección y significado visual convencional.
 
@@ -2894,7 +2894,7 @@ Utilice trazos rectos, quebrados o que se crucen para dividir el espacio, guiar 
 
 ![Círculos - estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-2.svg)
 
-##### circulos
+##### Círculos
 
 Repita anillos o discos completos como objetivos, burbujas, halos y unidades modulares equilibradas.
 
@@ -2902,15 +2902,15 @@ Repita anillos o discos completos como objetivos, burbujas, halos y unidades mod
 
 ![Triángulos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-3.svg)
 
-##### Triangulos
+##### Triángulos
 
 Disponga formas puntiagudas de tres lados para dar a entender estabilidad, advertencia, ascenso o un patrón con facetas marcadas.
 
 <a id="form-decoration-10-4"></a>
 
-![Diamantes: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-4.svg)
+![Rombos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-4.svg)
 
-##### diamantes
+##### Rombos
 
 Utilice cuadrados inclinados como facetas brillantes, referencias a palos de cartas o adornos angulares repetidos.
 
@@ -2968,7 +2968,7 @@ Distribuya notas a lo largo de ritmos implícitos para señalar sonido, canto, c
 
 ##### Destellos
 
-Agregue pequeñas ráfagas de cuatro puntos alrededor de las luces y los bordes para que las superficies se sientan pulidas, mágicas o recién reveladas.
+Añade pequeños destellos de cuatro puntas junto a los reflejos y los bordes para dar a las superficies un aspecto pulido, mágico o recién revelado.
 
 <a id="materials-panel-word-g11"></a>
 
@@ -2976,7 +2976,7 @@ Agregue pequeñas ráfagas de cuatro puntos alrededor de las luces y los bordes 
 
 #### Textiles y adornos
 
-Compare motivos de telas, cordones, joyas y cierres utilizados como bordes, corbatas, detalles colgantes o detalles ornamentales.
+Compara motivos de telas, cordones, joyas y cierres usados como bordes, ataduras, detalles colgantes o adornos.
 
 <a id="form-decoration-11-0"></a>
 
@@ -2988,9 +2988,9 @@ Curva tiras anchas de tela a través de la composición como pancartas, acentos 
 
 <a id="form-decoration-11-1"></a>
 
-![Arcos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-11-1.svg)
+![Lazos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-11-1.svg)
 
-##### Arcos
+##### Lazos
 
 Ate bucles simétricos alrededor de un nudo central para crear un detalle compacto parecido a un regalo con un encanto suave.
 
@@ -3048,7 +3048,7 @@ Termine los cordones y las esquinas con haces de hilos colgantes que agreguen mo
 
 ##### Botones
 
-Repita pequeños discos perforados como referencias de ropa, puntos divertidos o acentos de apariencia ordenada.
+Repite pequeños discos perforados como referencias a la ropa, puntos divertidos o detalles ordenados con aspecto de estar cosidos.
 
 <a id="form-decoration-11-9"></a>
 
@@ -3096,7 +3096,7 @@ Utilice etiquetas con bordes compactos para nombres, categorías, precios o decl
 
 ##### Sellos postales
 
-Agregue marcos en miniatura perforados con marcas similares a cancelaciones para evocar el correo, los viajes, las colecciones y lugares distantes.
+Añade marcos miniatura perforados con marcas de matasellos para evocar el correo, los viajes, el coleccionismo y los lugares lejanos.
 
 <a id="form-decoration-12-4"></a>
 
@@ -3142,9 +3142,9 @@ Compare rastros naturales transitorios y residuos abstractos, desde humo y movim
 
 ![Humo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-13-0.svg)
 
-##### fumar
+##### Humo
 
-Deje que las plumas translúcidas se enrosquen hacia arriba y se dispersen, suavizando los bordes y al mismo tiempo sugiriendo calor, misterio o atmósfera.
+Deja que volutas translúcidas asciendan y se dispersen, suavizando los bordes y sugiriendo calor, misterio o atmósfera.
 
 <a id="form-decoration-13-1"></a>
 
@@ -3176,7 +3176,7 @@ Expanda delgadas curvas concéntricas desde un centro, convirtiendo una tranquil
 
 ##### Marcas de tinta
 
-Utilice negros acumulados, bordes secos, salpicaduras y flores accidentales como evidencia expresiva de tinta líquida.
+Usa acumulaciones de negro, bordes secos, salpicaduras y expansiones accidentales de tinta como huellas expresivas de su fluidez.
 
 <a id="form-decoration-13-5"></a>
 
@@ -3184,7 +3184,7 @@ Utilice negros acumulados, bordes secos, salpicaduras y flores accidentales como
 
 ##### Pinceladas
 
-Deje visibles los caminos amplios y erizados y los gestos cónicos para que el acto y la dirección de la pintura permanezcan claros.
+Deja visibles las huellas anchas de las cerdas y los gestos que se afinan, para que se perciban la acción y la dirección de la pintura.
 
 <a id="form-decoration-13-6"></a>
 
@@ -3210,15 +3210,15 @@ Esparza piezas angulares rotas alrededor de una fuente interrumpida, equilibrand
 
 Disuelva los bordes en muchas unidades diminutas cuya densidad cambiante crea polvo, brillo o transición atmosférica.
 
-**Utilice la dirección general dirigida por el sujeto**
+**Usa la dirección general de composición centrada en el motivo principal**
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -3248,4 +3248,4 @@ Conserva el tema central y los rasgos que permiten reconocer el original. Usa su
 
 No reemplace el tema focal identificable con un entorno, repetición decorativa, superficie material o abstracción no figurativa.
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

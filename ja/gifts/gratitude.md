@@ -22,7 +22,7 @@
 
 家族の写真、共有したフレーズ、または名前のリストを使用すると、ありきたりなメッセージよりも個人的な感謝の気持ちが伝わります。 [3D 家族の肖像画](https://podplo.app/skills/3d-family-portrait) 写真の中の人々や関係を維持しながら、生き生きとしたグループポートレートを作成します。
 
-[![次元家族感謝のポートレート](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![感謝を伝える立体的な家族ポートレート](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 3D 家族の肖像画
 
@@ -50,11 +50,11 @@
 
 ## 感謝のデザインをカスタマイズする
 
-名前、役割、件名、または短いメッセージを入力すると、コンパクトな感謝状のデザインが個人的なものになります。
+名前、役割、モチーフ、短いメッセージを添えると、小さな感謝のデザインもその人だけのものになります。
 
-名前、役割、チーム、件名、または短いメッセージを使用して、教師、コーチ、メンター、同僚、またはケアチーム向けのコンパクトな感謝のデザインをカスタマイズできます。特定のディテールにより、一般的な印象を与えません。
+名前、役割、チーム、モチーフ、短いメッセージを添えて、先生、コーチ、恩師、同僚、ケアチームに贈る小さな感謝のデザインを作れます。具体的な情報が、ありきたりにならない仕上がりにつながります。
 
-[![コンパクトな鑑賞デザイン](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![コンパクトな感謝のデザイン](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
 コンパクトなセンターレイアウト
 
@@ -72,9 +72,9 @@
 
 ポスターメーカー](https://podplo.app/skills/poster-maker)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)
 
@@ -84,7 +84,7 @@
 
 [ポスターメーカー](https://podplo.app/skills/poster-maker) 集合写真、プロジェクト名、日付、署名入りメッセージを 1 枚のお別れポスターに組み合わせます。
 
-[ポスターメーカー](https://podplo.app/skills/poster-maker) 集合写真、日付、プロジェクト名、署名入りメッセージを 1 枚のお別れポスターにまとめます。明確な階層により、すべてのユーザーと共有される詳細に十分なスペースが与えられます。
+[ポスターメーカー](https://podplo.app/skills/poster-maker) 集合写真、日付、プロジェクト名、署名入りメッセージを、1枚の送別ポスターにまとめます。明確な主従関係によって、全員と共有の思い出の細部に十分な場所を確保します。
 
 ![承認されたチームの写真と送別のコピー](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
@@ -108,8 +108,8 @@
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)

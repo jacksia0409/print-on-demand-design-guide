@@ -10,7 +10,7 @@
 
 <a id="guide-main"></a>
 
-# 原材料の種類
+# 元になる素材の種類
 
 1 つの独立した要素から完全なイメージに至るまで、さまざまなソースがさまざまな種類の制作を促します。要素と画像を調べて、適切なレイアウト、テーマ、または Skill を選択します。
 
@@ -44,7 +44,7 @@
 
 名前フレーム、中央揃えのグラフィック、または繰り返しパターンを試してください。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="art-nouveau-botanical-flowers"></a>
 
@@ -60,7 +60,7 @@
 
 名前フレーム、中央揃えのグラフィック、または繰り返しパターンを試してください。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="wild-meadow-flower-bouquets"></a>
 
@@ -76,7 +76,7 @@
 
 名前フレーム、中央揃えのグラフィック、または繰り返しパターンを試してください。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="watercolor-green-botanical-leaves"></a>
 
@@ -92,7 +92,7 @@
 
 名前フレーム、中央揃えのグラフィック、または繰り返しパターンを試してください。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-1"></a>
 
@@ -114,7 +114,7 @@
 
 キャラクター主導のグラフィック、バッジ、または遊び心のあるコレクションを作成します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="cute-watercolor-nursery-animals"></a>
 
@@ -130,13 +130,13 @@
 
 キャラクター主導のグラフィック、バッジ、または遊び心のあるコレクションを作成します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="birds-in-flight-and-perched"></a>
 
 ![枝にとまる鳥](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fdccea1f-6778-5ea7-86cc-cad870c766d1.png)
 
-![ブルージェイズオンブランチ](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/efb8a195-6f1f-57b3-afed-f9e4fdbda01f.png)
+![枝に止まるアオカケス](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/efb8a195-6f1f-57b3-afed-f9e4fdbda01f.png)
 
 ![フライングツバメ](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/dad6d622-53b1-564b-a5ed-f6d18c22a771.png)
 
@@ -146,7 +146,7 @@
 
 キャラクター主導のグラフィック、バッジ、または遊び心のあるコレクションを作成します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="vibrant-ocean-marine-animals"></a>
 
@@ -158,11 +158,11 @@
 
 動物と生き物
 
-### 活気に満ちた海洋海洋動物
+### 鮮やかな海の動物
 
 キャラクター主導のグラフィック、バッジ、または遊び心のあるコレクションを作成します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-2"></a>
 
@@ -184,7 +184,7 @@
 
 挨拶、ギフト、またはテーマのあるグラフィックに季節の焦点を追加します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="watercolor-easter-bunny-and-eggs"></a>
 
@@ -200,7 +200,7 @@
 
 挨拶、ギフト、またはテーマのあるグラフィックに季節の焦点を追加します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="cartoon-christmas-holiday-icons"></a>
 
@@ -216,7 +216,7 @@
 
 挨拶、ギフト、またはテーマのあるグラフィックに季節の焦点を追加します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="saint-patricks-day-green-shamrock"></a>
 
@@ -224,7 +224,7 @@
 
 ![ケルト十字](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fa645282-cd0f-51c2-84e8-d82ac45e6ba1.png)
 
-![金とクローバーのレインボーポット](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e47968b5-0307-5bda-97ff-23cc318328d8.png)
+![虹と金貨の壺とクローバー](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e47968b5-0307-5bda-97ff-23cc318328d8.png)
 
 祝日と季節
 
@@ -232,7 +232,7 @@
 
 挨拶、ギフト、またはテーマのあるグラフィックに季節の焦点を追加します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-3"></a>
 
@@ -254,7 +254,7 @@
 
 小さなモチーフを短いコピー、ラベル、または繰り返しのレイアウトと組み合わせます。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="vintage-coffee-and-cafe"></a>
 
@@ -270,7 +270,7 @@
 
 小さなモチーフを短いコピー、ラベル、または繰り返しのレイアウトと組み合わせます。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="watercolor-fast-food-and-drinks"></a>
 
@@ -286,7 +286,7 @@
 
 小さなモチーフを短いコピー、ラベル、または繰り返しのレイアウトと組み合わせます。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-4"></a>
 
@@ -308,7 +308,7 @@
 
 シーン、フレーム構成、または落ち着いたウォールアートの方向性を開発します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="mountain-sunset-landscape-scenes"></a>
 
@@ -324,7 +324,7 @@
 
 シーン、フレーム構成、または落ち着いたウォールアートの方向性を開発します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="watercolor-coastal-summer-beach"></a>
 
@@ -340,7 +340,7 @@
 
 シーン、フレーム構成、または落ち着いたウォールアートの方向性を開発します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-5"></a>
 
@@ -362,7 +362,7 @@
 
 認識可能なオブジェクトを趣味のグラフィック、バッジ、またはセットに変えます。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="colorful-retro-vintage-vehicles"></a>
 
@@ -378,7 +378,7 @@
 
 認識可能なオブジェクトを趣味のグラフィック、バッジ、またはセットに変えます。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-6"></a>
 
@@ -400,7 +400,7 @@
 
 フレームを使用して被写体を固定したり、繰り返しのモチーフを表面全体に広げたりします。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="vintage-art-nouveau-decorative-panels"></a>
 
@@ -416,7 +416,7 @@
 
 フレームを使用して被写体を固定したり、繰り返しのモチーフを表面全体に広げたりします。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="art-deco-geometric-seamless-patterns"></a>
 
@@ -432,7 +432,7 @@
 
 扇子、鶴、幾何学的なモチーフを包装紙、ノートのカバー、タンブラーのデザインに取り入れてみましょう。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-7"></a>
 
@@ -454,7 +454,7 @@
 
 いくつかの小さなマークを組み合わせて、コンパクトなグラフィックまたはステッカー セットを作成します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="iridescent-holographic-gradient-symbols"></a>
 
@@ -470,7 +470,7 @@
 
 いくつかの小さなマークを組み合わせて、コンパクトなグラフィックまたはステッカー セットを作成します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-8"></a>
 
@@ -492,7 +492,7 @@
 
 ポスターやアパレルのレイアウトの焦点として、明確なキャラクターを使用します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-9"></a>
 
@@ -514,7 +514,7 @@
 
 興味や日常の瞬間を中心に視聴者固有のグラフィックを作成します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-10"></a>
 
@@ -536,13 +536,13 @@
 
 キャラクター、エンブレム、またはストーリー主導のステートメントグラフィックを作成します。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="collection-category-11"></a>
 
 12
 
-### 抽象的かつ幾何学的な
+### 抽象・幾何学
 
 <a id="bold-ink-brush-paint-textures"></a>
 
@@ -552,13 +552,13 @@
 
 ![ペイント ブラシ ストローク](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/26b80cf5-b6fd-53b0-bbc6-0d4432ba880d.png)
 
-抽象的かつ幾何学的な
+抽象・幾何学
 
-### 太字のインク ブラシ ペイント テクスチャ
+### 力強い墨の筆跡のテクスチャ
 
 大胆なレイアウト、背景システム、繰り返しパターンを探索してください。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
 <a id="gradient-wireframe-geometric-shapes"></a>
 
@@ -568,15 +568,15 @@
 
 ![勾配等高線波形](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc533f5d-071b-546b-90eb-bd3526344e5f.png)
 
-抽象的かつ幾何学的な
+抽象・幾何学
 
 ### グラデーション ワイヤーフレームの幾何学的形状
 
 大胆なレイアウト、背景システム、繰り返しパターンを探索してください。
 
-[図書館でさらに詳しく調べる](https://podplo.app/elements)
+[ライブラリでもっと探す](https://podplo.app/elements)
 
-これは単なる選択です。ライブラリでさらに多くのテーマやグラフィックを見つけてください。
+ここで紹介しているのは一部です。ライブラリで、さらに多くのテーマや図案を探してみてください。
 
 [もっと見る](https://podplo.app/elements)
 
@@ -586,7 +586,7 @@
 
 ## 完成したイメージから始める
 
-画像には完全な構成が保存されるため、既存のシーンから構築する場合に便利です。レイアウトを再加工し、正確な文言を追加し、季節テーマを導入したり、__​​Photo to Art Skill を使用して新しい視覚的処理を検討したりできます。
+画像にはまとまった構図があるため、既存の場面から創作を始めるときに役立ちます。レイアウトを組み直す、指定の文字を加える、季節のテーマを取り入れる、Photo to ArtのSkillで新しい表現を探すといった使い方ができます。
 
 明確な主題、アイデアに合ったテーマ、次のバージョンでも保持したい視覚的な詳細を含む画像を選択してください。
 

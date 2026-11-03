@@ -6,17 +6,17 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/gifts/memories-and-memorials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/gifts/memories-and-memorials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Erinnerungen und Gedenkstätten
+# Erinnerungen und Gedenken
 
 Stellen Sie ein altes Foto wieder her oder erstellen Sie ein persönliches Andenken an eine Person, ein Haustier, einen Ort oder einen gemeinsamen Moment.
 
 <a id="shared-memories"></a>
 
-## Stellen Sie ein beschädigtes Speicherfoto wieder her
+## Ein beschädigtes Erinnerungsfoto restaurieren
 
 [Detailreparatur](https://podplo.app/skills/detail-repair) Behebt Schäden an einem alten Foto und bewahrt gleichzeitig bekannte Personen und Gegenstände.
 
@@ -40,7 +40,7 @@ Detailreparatur
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Beispiel für ein hochwertiges HD-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+[![Designbeispiel mit HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 HD-Upscale](https://podplo.app/skills/hd-upscale)[![Beispiel für ein Hintergrundentferner-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
@@ -54,7 +54,7 @@ Smart Outpaint](https://podplo.app/skills/smart-outpaint)
 
 [Weiches Aquarell-Haustierportrait](https://podplo.app/skills/soft-watercolor-pet-portrait) schafft ein unverwechselbares Andenken für einen Geburtstag, einen Adoptionstag oder eine Gedenkfeier.
 
-[Weiches Aquarell-Haustierportrait](https://podplo.app/skills/soft-watercolor-pet-portrait) verwandelt ein klares Haustierfoto in ein Andenken für einen Geburtstag, einen Adoptionstag oder eine Gedenkfeier. Markante Markierungen und Ausdruck sorgen dafür, dass das Porträt erkennbar bleibt.
+[Weiches Aquarell-Haustierportrait](https://podplo.app/skills/soft-watercolor-pet-portrait) verwandelt ein klares Haustierfoto in ein Andenken zum Geburtstag, Adoptionstag oder Gedenken. Charakteristische Fellzeichnung und Ausdruck halten das Haustier im Porträt erkennbar.
 
 ![Foto des erinnerten Haustiers](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
 
@@ -76,19 +76,19 @@ Weiches Aquarell-Haustierportrait
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 <a id="loved-one-memorial"></a>
 
 ## Erstellen Sie eine Gedenkkarte
 
-Bewahren Sie das Foto eines geliebten Menschen und die empfohlenen Worte auf einer stillen Erinnerungskarte auf.
+Verbinden Sie das Foto eines geliebten Menschen und den freigegebenen Text zu einer ruhigen Gedenkkarte.
 
 [Foto-Gedenkkarte](https://podplo.app/skills/photo-memorial-card) kombiniert ein ausgewähltes Foto mit dem Namen, den Daten und der Nachricht der Person in einem zurückhaltenden Gedenkdesign. Es bewahrt die Identität und die biografischen Details der Person.
 
@@ -112,10 +112,10 @@ Foto-Gedenkkarte
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)

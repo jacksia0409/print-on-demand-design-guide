@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/texture/background--texture--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/texture/background--texture--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -14,7 +14,7 @@ Texturas / DIRECCIÓN CREATIVA / Texturas
 
 # fondo transparente
 
-Texturas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.
+Texturas: el fondo permanece transparente; el damero solo es una ayuda de visualización.
 
 <a id="understand"></a>
 
@@ -26,17 +26,17 @@ CÓMO RECONOCERLO
 
 ## ¿Qué define esta dirección?
 
-La verdadera transparencia requiere un canal alfa. No pintes un tablero de ajedrez o un fondo blanco en la imagen y la llames transparente; afirman que el posprocesamiento es necesario si la herramienta no puede producir transparencia.
+La transparencia real exige un canal alfa. No pintes un damero ni un fondo blanco en la imagen y lo llames transparente; indica que hace falta posprocesamiento si la herramienta no puede producir transparencia.
 
 [← Volver a texturas](../texture.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -48,7 +48,7 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Mantenga el carácter material dominante. Utilice un fragmento de textura local cuando deba ser visible un terreno separado; Una textura opaca de superficie completa y su fondo se unen, por lo que otro soporte completo no puede permanecer visible.
+Mantén dominante el carácter del material. Usa un fragmento de textura localizado cuando deba verse un fondo independiente; una textura opaca que cubre toda la imagen se fusiona con su fondo, por lo que no puede verse además otro fondo completo distinto.
 
 **Fondo**
 
@@ -64,17 +64,17 @@ Conserve el material, la superficie, la paleta y la atmósfera relevantes sin re
 
 **Alcance y límites**
 
-La verdadera transparencia requiere un canal alfa. No pintes un tablero de ajedrez o un fondo blanco en la imagen y la llames transparente; afirman que el posprocesamiento es necesario si la herramienta no puede producir transparencia.
+La transparencia real exige un canal alfa. No pintes un damero ni un fondo blanco en la imagen y lo llames transparente; indica que hace falta posprocesamiento si la herramienta no puede producir transparencia.
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Fondo sólido: Texturas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 ### Fondo sólido↗
 
-Texturas: Un color uniforme forma el suelo; El blanco también es un fondo sólido.](background--texture--solid.md)[![Fondo degradado: Texturas: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+Texturas: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--texture--solid.md)[![Fondo degradado: Texturas: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### Fondo degradado↗
 
@@ -88,4 +88,4 @@ Texturas: un parche decorativo se coloca detrás del contenido, dejando un área
 
 Texturas: un fondo estampado cubre la imagen detrás del contenido en primer plano claramente legible.](background--texture--pattern-full.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

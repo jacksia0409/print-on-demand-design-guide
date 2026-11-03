@@ -166,6 +166,10 @@ def polished_catalog(locale):
                 raise ValueError(f"{locale}: missing instruction label for {source[:70]}")
             catalog[source] = terminology[field] + ": " + translated[prefix.end():]
             break
+    # Apply explicit AI-reviewed prose last so automatic term and label
+    # reconstruction above cannot overwrite a contextual correction.
+    reviewed = json.loads((ROOT / "data/ai-review-overrides.json").read_text())
+    catalog.update(reviewed.get(locale, {}))
     return catalog
 
 

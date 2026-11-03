@@ -6,17 +6,17 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Одно изображение. Безграничные возможности.
 
-Remix ваши изображения и текст с различными Skills. Попробуйте новые макеты и превратите одну идею в целый ряд дизайнов.
+Перекомбинируйте изображения и текст с помощью разных Skill. Попробуйте новые композиции и превратите одну идею в серию дизайнов.
 
 <a id="material-is-the-start"></a>
 
-## Создайте сильно центрированную графику
+## Создайте выразительный центрированный рисунок
 
 <a id="skills-solve-structure"></a>
 
@@ -24,17 +24,17 @@ Remix ваши изображения и текст с различными Skil
 
 <a id="opaque-artwork"></a>
 
-[Компактная центральная планировка](https://podplo.app/skills/compact-center-layout) объединяет узнаваемый объект и текст в одном жирном центрированном изображении.
+[Компактная композиция по центру](https://podplo.app/skills/compact-center-layout) объединяет узнаваемый главный объект и текст в одном выразительном принте по центру.
 
-Начните с загруженного изображения или ресурса PodPlo. [Компактная центральная планировка](https://podplo.app/skills/compact-center-layout) объединяет объект и текст в сбалансированную центрированную графику, сохраняя при этом узнаваемость источника.
+Начните с загруженного изображения или ресурса PodPlo. [Компактная композиция по центру](https://podplo.app/skills/compact-center-layout) объединяет объект и текст в сбалансированную центрированную графику, сохраняя при этом узнаваемость источника.
 
-### Создайте сильно центрированную графику
+### Создайте выразительный центрированный рисунок
 
-[Компактная центральная планировка](https://podplo.app/skills/compact-center-layout) объединяет объект и текст в плотную, сбалансированную форму. Свободное исходное изображение становится четко центрированным изображением с четким фокусом.
+[Компактная композиция по центру](https://podplo.app/skills/compact-center-layout) объединяет объект и текст в плотную, сбалансированную форму. Свободное исходное изображение становится четко центрированным изображением с четким фокусом.
 
-### Сложите высокий предмет и скопируйте
+### Расположите вытянутый главный объект и надпись друг над другом
 
-[Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout) располагает высокий предмет и копирует сверху вниз в четком порядке чтения. Открытая композиция оставляет видимым фон вокруг произведения искусства.
+[Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout) располагает вытянутый главный объект и текст сверху вниз в чётком порядке чтения. Открытая композиция оставляет фон видимым вокруг изображения.
 
 ### Сохраняйте всю сцену нетронутой
 
@@ -46,7 +46,7 @@ Remix ваши изображения и текст с различными Skil
 
 [![Компактная центрированная композиция](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
-Компактная центральная планировка
+Компактная композиция по центру
 
 **Еще больше Skills для изучения**
 
@@ -62,9 +62,9 @@ Remix ваши изображения и текст с различными Skil
 
 Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)
 
@@ -80,13 +80,13 @@ Remix ваши изображения и текст с различными Skil
 
 ### Сравните эмблему с открытым макетом
 
-[Круглый макет значка](https://podplo.app/skills/circular-badge-layout) объединяет изображение и копию в единую эмблему, а компактный центральный макет создает более плотную открытую форму. Один и тот же источник может показаться классическим и сдержанным или более энергичным и неформальным.
+[Круглый макет значка](https://podplo.app/skills/circular-badge-layout) заключает изображение и текст в завершённую эмблему, а «Компактная центральная композиция» создаёт более плотную открытую форму. Один исходник может выглядеть классическим и замкнутым либо более энергичным и неформальным.
 
 ![Мотив из одного источника](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Ввод
 
-[![Повторяемая бесшовная плитка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Бесшовный модуль узора для повторения](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Бесшовный узор
 
@@ -102,13 +102,13 @@ Remix ваши изображения и текст с различными Skil
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-changes-the-result"></a>
 
@@ -144,21 +144,21 @@ Remix ваши изображения и текст с различными Skil
 
 [![Пример изображения 4PC Grid Generator](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-4PC Сетевой генератор](https://podplo.app/skills/four-piece-grid)[![Пример изображения генератора сетки 6PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
+Генератор композиций из четырёх панелей (4PC)](https://podplo.app/skills/four-piece-grid)[![Пример изображения генератора сетки 6PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
 
-Сетевой генератор 6ПК](https://podplo.app/skills/six-piece-grid)
+Генератор композиций из шести панелей (6PC)](https://podplo.app/skills/six-piece-grid)
 
 <a id="repeatable-combination-workflow"></a>
 
 ## Сохраните повторяемую настройку креатива.
 
-Сохраните исходный код Skill и самый сильный результат, чтобы настройку можно было легко использовать повторно.
+Сохраните исходный материал, Skill и лучший результат, чтобы было легко повторно использовать те же настройки.
 
-Сохраняйте источник Skill и самый сильный результат вместе. Это позволяет легко повторно использовать одну и ту же настройку для нового макета, шаблона повторения, сезонных вариаций или коллекции.
+Храните исходный материал, Skill и лучший результат вместе. Так будет легко повторно использовать те же настройки для новой композиции, повторяющегося узора, сезонного варианта или коллекции.
 
 Иллюстрация рабочего процесса с примерами входных данных и значений.
 
-![Источник, выбран Skill и любимый результат.](https://podplo.app/pod-guide/generated/records-result.webp)
+![Исходник, выбранный Skill и избранный результат](https://podplo.app/pod-guide/generated/records-result.webp)
 
 Пример
 
@@ -172,11 +172,11 @@ Remix ваши изображения и текст с различными Skil
 
 <a id="_R_5ork_-cards"></a>
 
-[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)[![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 

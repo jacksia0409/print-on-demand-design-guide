@@ -28,7 +28,7 @@
 
 - [Сделайте каждый дизайн индивидуальным](personalization.md)
 
-- [Уточните свой имидж](print-ready-files.md)
+- [Улучшите своё изображение](print-ready-files.md)
 
 - [Идеи дизайна POD](products.md)
 
@@ -54,7 +54,7 @@
 
 - [Смещенная абстракция](artwork-types/abstract/abstract-layout--abstract-layout-offset.md)
 
-- [Бесплатное распространение](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
+- [Свободное распределение](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
 
 - [Перекрывающиеся зоны](artwork-types/abstract/abstract-layout--abstract-layout-zones.md)
 
@@ -62,11 +62,11 @@
 
 - [Узорчатый фон: вся площадь](artwork-types/abstract/background--abstract--pattern-full.md)
 
-- [Узорчатый фон: местный](artwork-types/abstract/background--abstract--pattern-local.md)
+- [Узорчатый фон: локальный](artwork-types/abstract/background--abstract--pattern-local.md)
 
-- [Экологический фон](artwork-types/abstract/background--abstract--scene.md)
+- [Фон окружения](artwork-types/abstract/background--abstract--scene.md)
 
-- [Сплошной фон](artwork-types/abstract/background--abstract--solid.md)
+- [Однотонный фон](artwork-types/abstract/background--abstract--solid.md)
 
 - [Текстурированный фон](artwork-types/abstract/background--abstract--texture.md)
 
@@ -78,17 +78,17 @@
 
 - [Узорчатый фон: вся площадь](artwork-types/pattern/background--pattern--pattern-full.md)
 
-- [Узорчатый фон: местный](artwork-types/pattern/background--pattern--pattern-local.md)
+- [Узорчатый фон: локальный](artwork-types/pattern/background--pattern--pattern-local.md)
 
-- [Экологический фон](artwork-types/pattern/background--pattern--scene.md)
+- [Фон окружения](artwork-types/pattern/background--pattern--scene.md)
 
-- [Сплошной фон](artwork-types/pattern/background--pattern--solid.md)
+- [Однотонный фон](artwork-types/pattern/background--pattern--solid.md)
 
 - [Текстурированный фон](artwork-types/pattern/background--pattern--texture.md)
 
 - [Прозрачный фон](artwork-types/pattern/background--pattern--transparent.md)
 
-- [Ограниченный шаблон](artwork-types/pattern/bounded--pattern-bounded.md)
+- [Узор в ограниченной области](artwork-types/pattern/bounded--pattern-bounded.md)
 
 - [Радиальный орнамент](artwork-types/pattern/bounded--pattern-radial.md)
 
@@ -104,11 +104,11 @@
 
 - [Узорчатый фон: вся площадь](artwork-types/scene/background--scene--pattern-full.md)
 
-- [Узорчатый фон: местный](artwork-types/scene/background--scene--pattern-local.md)
+- [Узорчатый фон: локальный](artwork-types/scene/background--scene--pattern-local.md)
 
-- [Экологический фон](artwork-types/scene/background--scene--scene.md)
+- [Фон окружения](artwork-types/scene/background--scene--scene.md)
 
-- [Сплошной фон](artwork-types/scene/background--scene--solid.md)
+- [Однотонный фон](artwork-types/scene/background--scene--solid.md)
 
 - [Текстурированный фон](artwork-types/scene/background--scene--texture.md)
 
@@ -116,9 +116,9 @@
 
 - [Виньетка на каждый день](artwork-types/scene/scene--scene-desk.md)
 
-- [Экологическая обстановка](artwork-types/scene/scene--scene-environment.md)
+- [Обстановка и окружение](artwork-types/scene/scene--scene-environment.md)
 
-- [Пейзаж и космос](artwork-types/scene/scene--scene-landscape.md)
+- [Пейзаж и пространство](artwork-types/scene/scene--scene-landscape.md)
 
 - [Сюжетный момент](artwork-types/scene/scene--scene-story.md)
 
@@ -138,11 +138,11 @@
 
 - [Узорчатый фон: вся площадь](artwork-types/subject/background--multiple--pattern-full.md)
 
-- [Узорчатый фон: местный](artwork-types/subject/background--multiple--pattern-local.md)
+- [Узорчатый фон: локальный](artwork-types/subject/background--multiple--pattern-local.md)
 
-- [Экологический фон](artwork-types/subject/background--multiple--scene.md)
+- [Фон окружения](artwork-types/subject/background--multiple--scene.md)
 
-- [Сплошной фон](artwork-types/subject/background--multiple--solid.md)
+- [Однотонный фон](artwork-types/subject/background--multiple--solid.md)
 
 - [Текстурированный фон](artwork-types/subject/background--multiple--texture.md)
 
@@ -152,11 +152,11 @@
 
 - [Узорчатый фон: вся площадь](artwork-types/subject/background--relationship--pattern-full.md)
 
-- [Узорчатый фон: местный](artwork-types/subject/background--relationship--pattern-local.md)
+- [Узорчатый фон: локальный](artwork-types/subject/background--relationship--pattern-local.md)
 
-- [Экологический фон](artwork-types/subject/background--relationship--scene.md)
+- [Фон окружения](artwork-types/subject/background--relationship--scene.md)
 
-- [Сплошной фон](artwork-types/subject/background--relationship--solid.md)
+- [Однотонный фон](artwork-types/subject/background--relationship--solid.md)
 
 - [Текстурированный фон](artwork-types/subject/background--relationship--texture.md)
 
@@ -166,17 +166,17 @@
 
 - [Узорчатый фон: вся площадь](artwork-types/subject/background--single--pattern-full.md)
 
-- [Узорчатый фон: местный](artwork-types/subject/background--single--pattern-local.md)
+- [Узорчатый фон: локальный](artwork-types/subject/background--single--pattern-local.md)
 
-- [Экологический фон](artwork-types/subject/background--single--scene.md)
+- [Фон окружения](artwork-types/subject/background--single--scene.md)
 
-- [Сплошной фон](artwork-types/subject/background--single--solid.md)
+- [Однотонный фон](artwork-types/subject/background--single--solid.md)
 
 - [Текстурированный фон](artwork-types/subject/background--single--texture.md)
 
 - [Прозрачный фон](artwork-types/subject/background--single--transparent.md)
 
-- [Бесплатный макет коллекции](artwork-types/subject/collection--collection-free.md)
+- [Свободная композиция коллекции](artwork-types/subject/collection--collection-free.md)
 
 - [Регулярное оформление коллекции](artwork-types/subject/collection--collection-grid.md)
 
@@ -190,23 +190,23 @@
 
 - [Окружающее оформление](artwork-types/subject/decoration--deco-wreath.md)
 
-- [Разделенный и смещенный тип](artwork-types/subject/letter-art--letter-fracture.md)
+- [Разрезанная и смещённая надпись](artwork-types/subject/letter-art--letter-fracture.md)
 
 - [Контурные надписи](artwork-types/subject/letter-art--letter-outline.md)
 
-- [Тип угловой перспективы](artwork-types/subject/letter-art--letter-perspective.md)
+- [Надпись под углом в перспективе](artwork-types/subject/letter-art--letter-perspective.md)
 
-- [Растянутый или сжатый тип](artwork-types/subject/letter-art--letter-stretch.md)
+- [Растянутая или сжатая надпись](artwork-types/subject/letter-art--letter-stretch.md)
 
-- [Тип с изображением или текстурой](artwork-types/subject/letter-art--letter-texture.md)
+- [Надпись с заполнением изображением или текстурой](artwork-types/subject/letter-art--letter-texture.md)
 
-- [Изогнутый или волнистый тип](artwork-types/subject/letter-art--letter-wave.md)
+- [Изогнутая или волнистая надпись](artwork-types/subject/letter-art--letter-wave.md)
 
 - [Основные и вспомогательные предметы](artwork-types/subject/multiple--multi-dominant.md)
 
 - [Сгруппированные и перекрывающиеся](artwork-types/subject/multiple--multi-overlap.md)
 
-- [Параллельные предметы](artwork-types/subject/multiple--multi-parallel.md)
+- [Объекты рядом друг с другом](artwork-types/subject/multiple--multi-parallel.md)
 
 - [Предметы вокруг центра](artwork-types/subject/multiple--multi-radial.md)
 
@@ -214,15 +214,15 @@
 
 - [Симметричная группировка](artwork-types/subject/multiple--multi-symmetric.md)
 
-- [Изображение и текст сложены друг на друга](artwork-types/subject/relationship--relation-above.md)
+- [Изображение и текст друг над другом](artwork-types/subject/relationship--relation-above.md)
 
-- [Текст вокруг темы](artwork-types/subject/relationship--relation-around.md)
+- [Текст вокруг главного объекта](artwork-types/subject/relationship--relation-around.md)
 
-- [С изображением и сопроводительным текстом](artwork-types/subject/relationship--relation-image-led.md)
+- [Изображение в главной роли с вспомогательным текстом](artwork-types/subject/relationship--relation-image-led.md)
 
 - [Переплетение изображения и текста](artwork-types/subject/relationship--relation-interlace.md)
 
-- [Типовое выражение](artwork-types/subject/relationship--relation-plain-type.md)
+- [Только шрифтовая композиция](artwork-types/subject/relationship--relation-plain-type.md)
 
 - [Образы в форме буквы](artwork-types/subject/relationship--relation-replace.md)
 
@@ -230,7 +230,7 @@
 
 - [Изображение и текст рядом](artwork-types/subject/relationship--relation-side.md)
 
-- [Текстовый, с вспомогательными изображениями](artwork-types/subject/relationship--relation-text-led.md)
+- [Текст в главной роли, изображение — вспомогательное](artwork-types/subject/relationship--relation-text-led.md)
 
 - [Объект в центре](artwork-types/subject/single--single-center.md)
 
@@ -240,7 +240,7 @@
 
 - [Смещение с открытым пространством](artwork-types/subject/single--single-offset.md)
 
-- [Реконструкция цветных блоков](artwork-types/subject/transformation--transform-blocks.md)
+- [Воссоздание цветовыми блоками](artwork-types/subject/transformation--transform-blocks.md)
 
 - [Преувеличенные пропорции](artwork-types/subject/transformation--transform-distort.md)
 
@@ -258,11 +258,11 @@
 
 - [Узорчатый фон: вся площадь](artwork-types/texture/background--texture--pattern-full.md)
 
-- [Узорчатый фон: местный](artwork-types/texture/background--texture--pattern-local.md)
+- [Узорчатый фон: локальный](artwork-types/texture/background--texture--pattern-local.md)
 
-- [Экологический фон](artwork-types/texture/background--texture--scene.md)
+- [Фон окружения](artwork-types/texture/background--texture--scene.md)
 
-- [Сплошной фон](artwork-types/texture/background--texture--solid.md)
+- [Однотонный фон](artwork-types/texture/background--texture--solid.md)
 
 - [Текстурированный фон](artwork-types/texture/background--texture--texture.md)
 
@@ -278,7 +278,7 @@
 
 - [Примененная текстура: износ](artwork-types/texture/texture--texture-worn.md)
 
-- [Полноразмерная текстура](artwork-types/texture/texture-layout--texture-layout-full.md)
+- [Текстура по всей площади](artwork-types/texture/texture-layout--texture-layout-full.md)
 
 - [Коллаж из слоистых текстур](artwork-types/texture/texture-layout--texture-layout-layers.md)
 
@@ -314,29 +314,29 @@
 
 - [Кружки](products/mugs.md)
 
-- [Блокноты и планировщики](products/notebooks.md)
+- [Блокноты и ежедневники](products/notebooks.md)
 
-- [Орнаменты и ловцы солнца](products/ornaments.md)
+- [Украшения и ловцы солнца](products/ornaments.md)
 
 - [Коврики для кормления домашних животных](products/pet-products.md)
 
 - [Чехлы для телефонов](products/phone-cases.md)
 
-- [Подушки и подушки](products/pillows.md)
+- [Подушки и декоративные подушки](products/pillows.md)
 
 - [Пазлы](products/puzzles.md)
 
 - [Наклейки и этикетки](products/stickers.md)
 
-- [Толстовки и толстовки](products/sweatshirts.md)
+- [Свитшоты и худи](products/sweatshirts.md)
 
 - [Идеи дизайна футболки](products/t-shirts.md)
 
 - [Сумки-тоут](products/tote-bags.md)
 
-- [стаканы](products/tumblers.md)
+- [Термостаканы](products/tumblers.md)
 
-- [обои](products/wallpaper.md)
+- [Обои](products/wallpaper.md)
 
 - [Упаковочная бумага](products/wrapping-paper.md)
 

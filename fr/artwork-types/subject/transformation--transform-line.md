@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-line?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-line?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,11 +26,11 @@ COMMENT LE RECONNAÎTRE
 
 ## Qu'est-ce qui définit cette direction
 
-Une course unique continue et des contours entièrement fermés sont facultatifs. Les courbes arbitraires ne doivent pas être présentées comme un objet reconnaissable sans indices d'identification.
+Un tracé unique continu et des contours entièrement fermés sont facultatifs. Des courbes arbitraires ne doivent pas être présentées comme un objet reconnaissable sans indices permettant de l’identifier.
 
 Le traitement s'articule autour d'un sujet ou d'un groupe identifiable.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -50,7 +50,7 @@ Si une image est fournie, adaptez-la à cette orientation. Si un prompt est four
 
 **Structure souhaitée**
 
-Extrayez le schéma principal et quelques structures internes importantes, puis exprimez-les avec des lignes claires. Omettez les détails secondaires tout en préservant les relations entre plusieurs sujets.
+Extrayez le contour principal et quelques structures intérieures importantes, puis exprimez-les avec des lignes nettes. Omettez les détails secondaires tout en préservant les relations entre plusieurs sujets.
 
 **Arrière-plan**
 
@@ -66,11 +66,11 @@ Conservez le thème central et les caractéristiques permettant de reconnaître 
 
 **Portée et limites**
 
-Une course unique continue et des contours entièrement fermés sont facultatifs. Les courbes arbitraires ne doivent pas être présentées comme un objet reconnaissable sans indices d'identification.
+Un tracé unique continu et des contours entièrement fermés sont facultatifs. Des courbes arbitraires ne doivent pas être présentées comme un objet reconnaissable sans indices permettant de l’identifier.
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Forme de base reconnaissable : le sujet a une forme familière et lisible qui fournit une référence pour d'autres traitements.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
 

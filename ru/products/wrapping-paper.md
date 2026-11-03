@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/wrapping-paper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/wrapping-paper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@
 
 ### Постройте дизайн из одного раппорта
 
-Персонажи, значки и личные данные можно повторять в разных масштабах, чтобы создать согласованный лист. Свободный повтор с большим количеством открытого пространства; Плотный повтор праздничных икон; Имя, повторяющееся в шаблоне.
+Персонажей, значки и личные детали можно повторять в разных масштабах, создавая согласованный лист. Разреженный узор с большим количеством свободного пространства; Плотный узор из праздничных символов; Имя, повторяющееся в узоре.
 
 [![Упаковочная бумага · Упаковочная бумага](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)](https://podplo.app/products/mockup-temu-606545077228686)
 
@@ -40,7 +40,7 @@
 
 Исходное изображение
 
-[![Бесшовный узор · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Бесшовный узор · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Созданное произведение искусства
 
@@ -48,11 +48,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Изучите больше макета и установите Skills**
+**Изучите другие Skill для композиций и наборов**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Изучите больше макета и установите Skills
+#### Изучите другие Skill для композиций и наборов
 
 4 / 11
 
@@ -60,25 +60,25 @@
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Добавьте рождественские детали к оригинальному мотиву
 
 Добавьте небольшой набор праздничных элементов, а затем повторите этот вариант на упаковочной бумаге.
 
-[Сделай это Рождеством](https://podplo.app/skills/make-it-christmas)
+[Оформить к Рождеству](https://podplo.app/skills/make-it-christmas)
 
-![Сделай это Рождеством · Исходное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
+![Оформление к Рождеству · Исходное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 Исходное изображение
 
-[![Сделай это Рождеством · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
+[![Оформление к Рождеству · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
 Созданное произведение искусства
 
@@ -86,11 +86,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Узнайте больше об имени и случае Skills**
+**Изучите другие Skill для имён и особых поводов**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Узнайте больше об имени и случае Skills
+#### Изучите другие Skill для имён и особых поводов
 
 4 / 8
 
@@ -98,13 +98,13 @@
 
 [![Пример иллюстрации «Сделай это на Хэллоуин»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример рисунка Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример оформления ко Дню святого Валентина](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines)[![Пример пасхальной работы Make It It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines)[![Пример оформления к Пасхе](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Сделай это Пасхой](https://podplo.app/skills/make-it-easter)[![Пример иллюстрации «Сделай это на День Благодарения»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Оформить к Пасхе](https://podplo.app/skills/make-it-easter)[![Пример оформления ко Дню благодарения](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Сделай это на День Благодарения](https://podplo.app/skills/make-it-thanksgiving)
+Оформить ко Дню благодарения](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="product-mockup"></a>
 
@@ -114,7 +114,7 @@
 
 Предварительный просмотр AI показывает, как один и тот же повтор создает разные моменты сверху, по бокам и сгибам упакованной коробки.
 
-- Свободный повтор оставляет больше открытого пространства.
+- Разреженный повторяющийся узор оставляет больше свободного пространства
 
 - Плотный раппорт сохраняет видимость рисунка на складках.
 

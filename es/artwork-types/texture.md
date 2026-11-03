@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-FORMULARIO DE OBRA · 04 / 05
+FORMA DE LA IMAGEN · 04 / 05
 
 # Texturas
 
@@ -36,7 +36,7 @@ FORMAS VISUALES · 152
 
 #### Piedra y minerales
 
-Compare superficies de piedra y minerales por veta, veta, estrato, hendidura, cristal, mota, translucidez y estructura pulida o desgastada.
+Compara superficies de piedra y minerales por sus vetas, granos, estratos, planos de fractura, cristales, motas, translucidez y estructura pulida o erosionada.
 
 <a id="form-exp-13-0-0"></a>
 
@@ -236,13 +236,13 @@ Forme una capa gris a partir de polvo fino, fragmentos y una ligera costra en la
 
 ##### Grietas en suelo congelado
 
-Cree un patrón de suelo en forma de red a partir de marcas de congelación y contracción.
+Crea un patrón de fondo en forma de red con marcas de congelación y contracción.
 
 <a id="texture-panel-word-13-2"></a>
 
 <a id="texture-group-word-13-2"></a>
 
-#### Hielo de agua y rastros de aire.
+#### Huellas de agua, hielo y aire
 
 Compare los rastros de agua, hielo y aire según el patrón de flujo, la forma de las gotas, la condensación, la espuma, la escarcha, la fractura, la niebla y el movimiento suspendido.
 
@@ -328,7 +328,7 @@ Utilice granos de nieve sueltos y sombras diminutas para crear una superficie de
 
 <a id="form-exp-13-2-10"></a>
 
-![Campo de cereales brumoso: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-2-10.svg)
+![Campo de grano brumoso: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-2-10.svg)
 
 ##### Campo de grano brumoso
 
@@ -348,7 +348,7 @@ Forme una textura continua a partir del humo rizado y la transparencia cambiante
 
 #### Estructuras vegetales
 
-Compare texturas derivadas de plantas a través de vetas de madera, anillos, cortezas, venas, cera, poros, pelos, fibras, branquias, semillas y granos.
+Compara las texturas de origen vegetal mediante vetas de madera, anillos, corteza, nervaduras, cera, poros, pelos, fibras, láminas de hongos, semillas y granos.
 
 <a id="form-exp-13-3-0"></a>
 
@@ -376,9 +376,9 @@ Rompe la corteza en placas en forma de bloques separadas por surcos profundos.
 
 <a id="form-exp-13-3-3"></a>
 
-![Pelar la corteza: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-3.svg)
+![Corteza desprendida: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-3.svg)
 
-##### pelar corteza
+##### Corteza desprendida
 
 Retire las finas láminas de corteza para dejar bordes elevados desiguales y en capas.
 
@@ -432,11 +432,11 @@ Interrumpa las fibras longitudinales de bambú con segmentos horizontales claram
 
 <a id="form-exp-13-3-10"></a>
 
-![Branquias de hongos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-10.svg)
+![Láminas de los hongos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-10.svg)
 
-##### branquias de hongos
+##### Láminas de los hongos
 
-Extienda branquias delgadas y densamente empaquetadas hacia afuera desde el centro o el borde de la tapa.
+Extiende láminas finas y muy juntas hacia fuera desde el centro o el borde del sombrero de una seta.
 
 <a id="form-exp-13-3-11"></a>
 
@@ -484,13 +484,13 @@ Construya pelaje rizado a partir de bucles, mechones y hebras entrelazadas.
 
 ##### plumas en capas
 
-Superponga las paletas de plumas en capas direccionales alrededor de cada eje central.
+Superpón los vexilos de las plumas en capas direccionales alrededor de cada raquis central.
 
 <a id="form-exp-13-4-4"></a>
 
-![Escamas de pescado: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-4.svg)
+![Escamas de pez: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-4.svg)
 
-##### Escamas de pescado
+##### Escamas de pez
 
 Superponga las escamas de pescado planas en una secuencia desplazada.
 
@@ -536,15 +536,15 @@ Construya el carácter del material a partir de piel granulada y pliegues natura
 
 <a id="form-exp-13-4-10"></a>
 
-![Detalle del abrigo de leopardo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-10.svg)
+![Detalle del pelaje de leopardo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-10.svg)
 
-##### Detalle de abrigo de leopardo
+##### Detalle del pelaje de leopardo
 
 Cubra el pelaje local con manchas sólidas irregulares y rosetas en forma de anillo.
 
 <a id="form-exp-13-4-11"></a>
 
-![Detalle de piel a rayas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-11.svg)
+![Detalle de pelaje a rayas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-11.svg)
 
 ##### Detalle de pelo a rayas
 
@@ -556,7 +556,7 @@ Curva las franjas con la superficie corporal local conservando su dirección bio
 
 #### Superficies de papel
 
-Compare las superficies del papel por recubrimiento, fibra, contenido reciclado, bordes engalanados, corrugación, arrugado, relieve, rasgado, manchas de agua y envejecimiento.
+Compara superficies de papel según su recubrimiento, fibra, contenido reciclado, bordes desflecados, ondulación, arrugas, relieve, rasgaduras, manchas de agua y envejecimiento.
 
 <a id="form-exp-13-5-0"></a>
 
@@ -600,11 +600,11 @@ Esparce fibras cortas y fragmentos de diferentes colores por la lámina reciclad
 
 <a id="form-exp-13-5-5"></a>
 
-![Papel adornado hecho a mano: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-5-5.svg)
+![Papel artesanal de bordes desflecados: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-5-5.svg)
 
-##### Papel adornado hecho a mano
+##### Papel artesanal de bordes desflecados
 
-Combine un espesor de lámina desigual con un borde con plumas naturales.
+Combina un espesor irregular del papel con un borde naturalmente desflecado.
 
 <a id="form-exp-13-5-6"></a>
 
@@ -642,7 +642,7 @@ Exponga fibras sueltas y una rotura desigual a lo largo del borde del papel rasg
 
 ![Manchas de agua en papel: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-5-10.svg)
 
-##### Manchas de agua de papel
+##### Manchas de agua en papel
 
 Deje márgenes de colores irregulares donde se absorbió, secó y difundió el agua.
 
@@ -724,7 +724,7 @@ Entrelaza bucles continuos para crear una estructura tejida flexible.
 
 ##### tejido de canalé
 
-Bandas verticales elevadas y empotradas alternas a lo largo de una superficie de punto acanalado.
+Alterna bandas verticales elevadas y hundidas en una superficie de punto de canalé.
 
 <a id="form-exp-13-6-8"></a>
 
@@ -736,7 +736,7 @@ Encierre aberturas regulares o decorativas dentro de una red de encaje conectada
 
 <a id="form-exp-13-6-9"></a>
 
-![Felt fibers — visual study](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-9.svg)
+![Fibras de fieltro: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-9.svg)
 
 ##### Fibras de fieltro
 
@@ -744,15 +744,15 @@ Comprima las fibras enredadas en una superficie sin urdimbre o trama visible.
 
 <a id="form-exp-13-6-10"></a>
 
-![Pila de terciopelo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-10.svg)
+![Pelo de terciopelo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-10.svg)
 
-##### Pila de terciopelo
+##### Pelo de terciopelo
 
 Deje que el pelo corto de terciopelo cambie de claro a oscuro cuando cambie de dirección.
 
 <a id="form-exp-13-6-11"></a>
 
-![Bucles de Terry: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-11.svg)
+![Bucles de felpa: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-11.svg)
 
 ##### Bucles de felpa
 
@@ -768,9 +768,9 @@ Coloque capas de segmentos de hilo en distintas direcciones para crear un patró
 
 <a id="form-exp-13-6-13"></a>
 
-![Pelo copetudo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-13.svg)
+![Pelo de alfombra insertado por mechones: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-13.svg)
 
-##### pelo copetudo
+##### Pelo de alfombra insertado por mechones
 
 Utilice mechones densos para crear espesor, contornos definidos y sombras suaves.
 
@@ -794,7 +794,7 @@ Trence o anude cordones más gruesos para formar una cuerda o estructura de red 
 
 <a id="texture-group-word-13-7"></a>
 
-#### Albañilería de madera y arcilla
+#### Madera, mampostería y arcilla
 
 Compare superficies trabajadas de madera, mampostería y arcilla mediante corte, pulido, quemado, juntas, poros, desconchado, vidriado y agrietamiento.
 
@@ -898,9 +898,9 @@ Utilice material en polvo, poros finos y bordes rotos para crear una superficie 
 
 <a id="texture-group-word-13-8"></a>
 
-#### Vidrio metálico y sintéticos.
+#### Metal, vidrio y materiales sintéticos
 
-Compare superficies de metal, vidrio y sintéticas mediante reflexión, cepillado, martilleo, oxidación, glaseado, patrones, grietas, claridad de resina, caucho y película de burbujas.
+Compara superficies de metal, vidrio y materiales sintéticos mediante reflejos, cepillado, martillado, oxidación, acabado esmerilado, patrones, grietas, transparencia de resina, goma y películas de burbujas.
 
 <a id="form-exp-13-8-0"></a>
 
@@ -1002,7 +1002,7 @@ Repita las burbujas transparentes regulares como una superficie de película ele
 
 <a id="texture-group-word-13-9"></a>
 
-#### Pintar e imprimir superficies.
+#### Superficies de pintura e impresión
 
 Compare superficies de pintura e impresión mediante el flujo de pigmentos, la acumulación, las marcas de herramientas, las tramas, las líneas grabadas, el tóner, el registro, la tinta en rollo y el estampado.
 
@@ -1016,9 +1016,9 @@ Deje que el pigmento se asiente en las depresiones del papel, produciendo concen
 
 <a id="form-exp-13-9-1"></a>
 
-![Retrocesos de acuarela — estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-1.svg)
+![Expansiones de agua en la acuarela: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-1.svg)
 
-##### Retrocesos de acuarela
+##### Expansiones de agua en la acuarela
 
 Deje bordes anillados oscuros y marcas acuosas donde cambiaron las áreas húmedas y secas.
 
@@ -1072,9 +1072,9 @@ Utilice densas líneas grabadas y depósitos de tinta para crear un carácter ca
 
 <a id="form-exp-13-9-8"></a>
 
-![Tinta de pantalla rota: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-8.svg)
+![Tinta serigráfica irregular: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-8.svg)
 
-##### Tinta de pantalla rota
+##### Tinta serigráfica irregular
 
 Muestra agujeros, bordes irregulares y cobertura localmente incompleta dentro de la tinta serigrafiada.
 
@@ -1092,7 +1092,7 @@ Cree tono a través del tamaño y la densidad de los puntos de medios tonos impr
 
 ##### Color mal registrado
 
-Compense ligeramente las placas de colores separadas para que aparezcan franjas de colores en sus bordes.
+Desplaza ligeramente las planchas de color separadas para que aparezcan franjas de color en sus bordes.
 
 <a id="form-exp-13-9-11"></a>
 
@@ -1104,9 +1104,9 @@ Combine partículas de tóner negro, neblina gris y áreas faltantes en una supe
 
 <a id="form-exp-13-9-12"></a>
 
-![Tinta enrollada: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-12.svg)
+![Tinta aplicada con rodillo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-12.svg)
 
-##### tinta enrollada
+##### Tinta aplicada con rodillo
 
 Deje bandas y diferencias de cobertura donde la tinta se aplicó de manera desigual.
 
@@ -1128,7 +1128,7 @@ Compare daños y depósitos a través de rayones, hendiduras, bordes desgastados
 
 <a id="form-exp-13-10-0"></a>
 
-![Fine scratches — visual study](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-0.svg)
+![Arañazos finos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-0.svg)
 
 ##### Arañazos finos
 
@@ -1136,9 +1136,9 @@ Concentre las abrasiones lineales finas en la superficie superior.
 
 <a id="form-exp-13-10-1"></a>
 
-![Gubias profundas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-1.svg)
+![Surcos profundos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-1.svg)
 
-##### Gubias profundas
+##### Surcos profundos
 
 Haga hendiduras más profundas en la superficie para revelar una capa diferente debajo.
 
@@ -1176,9 +1176,9 @@ Deje que la superficie se vuelva polvorienta a medida que su color y sus límite
 
 <a id="form-exp-13-10-6"></a>
 
-![Desvanecimiento del sol: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-6.svg)
+![Decoloración por el sol: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-6.svg)
 
-##### el sol se desvanece
+##### Decoloración por el sol
 
 Reduzca el color de manera desigual por región o en una dirección de exposición constante.
 
@@ -1224,9 +1224,9 @@ Muestra pliegues repetidos a través de cambios de valor, pliegues y roturas loc
 
 <a id="form-exp-13-10-12"></a>
 
-![Lágrimas y agujeros: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-12.svg)
+![Desgarros y agujeros: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-12.svg)
 
-##### Lágrimas y agujeros
+##### Desgarros y agujeros
 
 Cree desgarros, bordes torcidos y material faltante en toda la superficie.
 
@@ -1292,7 +1292,7 @@ Trace finas líneas paralelas a lo largo del campo para sugerir un escaneo o una
 
 ##### Matriz de puntos de pantalla
 
-Organice puntos luminosos o celdas de píxeles en una matriz de pantalla normal.
+Organiza puntos luminosos o celdas de píxeles en una matriz regular de pantalla.
 
 <a id="form-exp-13-11-6"></a>
 
@@ -1328,9 +1328,9 @@ Utilice bandas de colores que fluyan continuamente para crear una textura líqui
 
 <a id="form-exp-13-11-10"></a>
 
-![Particiones celulares: estudio visual.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-11-10.svg)
+![Divisiones celulares: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-11-10.svg)
 
-##### Particiones celulares
+##### Divisiones celulares
 
 Divida el campo en regiones irregulares similares a células con límites conectados.
 
@@ -1372,7 +1372,7 @@ Cubre todo el encuadre con textura para que la superficie misma se convierta en 
 
 ##### fragmento local
 
-Limite la textura a un área y deje el resto en blanco o en un terreno diferente.
+Limita la textura a una zona y deja el resto en blanco o sobre un fondo diferente.
 
 <a id="form-exp-13-12-2"></a>
 
@@ -1458,7 +1458,7 @@ Mantenga la textura dentro de un fragmento local y deje todo lo que está más a
 
 <a id="texture-composition-group-word-13-13"></a>
 
-#### Densidad y dirección de escala.
+#### Escala, densidad y dirección
 
 Compare la organización de la textura viendo la escala, el contraste grueso-fino, la densidad, el tamaño, la dirección, el flujo, la aleatoriedad controlada, la repetición regular y la continuidad no periódica.
 
@@ -1548,7 +1548,7 @@ Permita variaciones aleatorias preservando al mismo tiempo la densidad y el equi
 
 ##### repetición regular
 
-Repita los módulos de textura con regularidad, mientras trata la combinación perfecta de bordes como un requisito separado.
+Repite módulos de textura de forma regular y trata el encaje sin juntas de los bordes como un requisito independiente.
 
 <a id="form-exp-13-13-11"></a>
 
@@ -1562,11 +1562,11 @@ Extienda la textura continuamente sin mostrar una unidad periódica obvia.
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -1582,7 +1582,7 @@ Traduzca la paleta, el material y la atmósfera relevantes en obras de arte basa
 
 **Fondo**
 
-Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Toma como referencia el material, la paleta y el ambiente, y crea un tratamiento de superficie adecuado cuando falte. Una zona localizada puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un entorno narrativo.
 
 **Texto**
 
@@ -1594,6 +1594,6 @@ Conserve el material, la superficie, la paleta y la atmósfera relevantes sin re
 
 **Alcance y límites**
 
-En cambio, la silueta de un objeto o un entorno completo puede ser una obra de arte de tema o escena. No todas las imágenes sin un objeto claro son una textura.
+La silueta de un objeto o un entorno completo pueden pertenecer, en cambio, a las categorías de motivo principal o escena. No toda imagen sin un objeto claro es una textura.
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

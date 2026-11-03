@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-Orientado por assunto / DIREÇÃO CRIATIVA / assuntos múltiplos
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA / vários elementos principais
 
 # Fundo transparente
 
-Vários assuntos: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.
+Vários elementos principais: O fundo permanece transparente; o quadriculado é apenas um recurso de visualização.
 
 <a id="understand"></a>
 
-![Fundo transparente: Vários assuntos: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+![Fundo transparente: vários elementos principais: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 Ilustração da composição
 
@@ -26,9 +26,9 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+A transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Orientado por assunto → Vários assuntos → Plano de fundo → Fundo transparente
+Composição guiada pelo elemento principal → Vários elementos principais → Fundo → Fundo transparente
 
 **Entrada e saída**
 
@@ -48,7 +48,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Retenha vários assuntos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema, se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
+Preserve vários elementos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
 
 **Fundo**
 
@@ -64,28 +64,28 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+A transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo sólido: Vários assuntos: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+[![Fundo sólido: vários elementos principais: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
 ### Fundo sólido↗
 
-Vários assuntos: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--multiple--solid.md)[![Fundo gradiente: Vários assuntos: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+Vários elementos principais: Uma cor uniforme forma o fundo; o branco também é um fundo de cor uniforme.](background--multiple--solid.md)[![Fundo em degradê: Vários elementos principais: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Vários assuntos: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--multiple--gradient.md)[![Plano de fundo padronizado: local: Vários assuntos: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+Vários elementos principais: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](background--multiple--gradient.md)[![Fundo estampado: local: Vários elementos principais: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Vários assuntos: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--multiple--pattern-local.md)[![Fundo padronizado: área completa: Vários assuntos: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
+Vários elementos principais: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--multiple--pattern-local.md)[![Fundo estampado: área completa: Vários elementos principais: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
-Vários assuntos: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--multiple--pattern-full.md)
+Vários elementos principais: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](background--multiple--pattern-full.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

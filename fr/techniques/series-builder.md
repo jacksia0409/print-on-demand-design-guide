@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/series-builder?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/series-builder?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -80,11 +80,11 @@ Pack d’autocollants et de cliparts](https://podplo.app/skills/sticker-clipart-
 
 <a id="eight-piece-planning"></a>
 
-## 8PC : planifier la collecte
+## 8PC : planifier la collection
 
 Planifiez huit rôles distincts autour d'une palette ; l'image 8PC est un espace réservé, pas un générateur pris en charge.
 
-Vous pouvez planifier un ensemble de huit pièces en attribuant à chaque panneau un rôle, une palette partagée et une composition distincte. Cette image n'est qu'un espace réservé de planification : PodPlo propose actuellement 4 PC et 6 PC Skills, et non un générateur de 8 PC.
+Vous pouvez planifier un ensemble de huit pièces en attribuant à chaque panneau un rôle, une palette commune et une composition distincte. Cette image sert uniquement d’illustration provisoire de planification : PodPlo propose actuellement des Skills 4PC et 6PC, et aucun générateur 8PC.
 
 Espace réservé de planification de la série 8PC
 

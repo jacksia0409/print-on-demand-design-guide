@@ -18,9 +18,9 @@ Restaure uma foto antiga ou crie uma lembrança pessoal sobre uma pessoa, animal
 
 ## Restaure uma foto de memória danificada
 
-[Reparo Detalhado](https://podplo.app/skills/detail-repair) corrige danos em uma foto antiga, preservando pessoas e objetos familiares.
+[Reparo de detalhes](https://podplo.app/skills/detail-repair) corrige danos em uma foto antiga, preservando pessoas e objetos familiares.
 
-Uma foto desbotada de família, viagem, casamento ou arquivo pode ser o único registro de um momento importante. [Reparo Detalhado](https://podplo.app/skills/detail-repair) pode consertar arranhões, áreas borradas ou objetos danificados, preservando rostos familiares e detalhes importantes.
+Uma foto desbotada de família, viagem, casamento ou arquivo pode ser o único registro de um momento importante. [Reparo de detalhes](https://podplo.app/skills/detail-repair) pode consertar arranhões, áreas borradas ou objetos danificados, preservando rostos familiares e detalhes importantes.
 
 ![Fotografia de memória danificada ou desbotada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1-before.webp)
 
@@ -28,7 +28,7 @@ Entrada
 
 [![Fotografia renovada preservando detalhes familiares](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)](https://podplo.app/skills/detail-repair)
 
-Reparo Detalhado
+Reparo de detalhes
 
 **Mais Skills para explorar**
 
@@ -42,11 +42,11 @@ Reparo Detalhado
 
 [![Exemplo de arte HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-Alto padrão em alta definição](https://podplo.app/skills/hd-upscale)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Ampliação HD](https://podplo.app/skills/hd-upscale)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte do Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Pintura Inteligente](https://podplo.app/skills/smart-outpaint)
+Expansão inteligente da imagem](https://podplo.app/skills/smart-outpaint)
 
 <a id="pet-memories"></a>
 
@@ -86,19 +86,19 @@ Criador de estêncil](https://podplo.app/skills/stencil-maker)
 
 <a id="loved-one-memorial"></a>
 
-## Crie um cartão comemorativo
+## Crie um cartão em memória de alguém
 
 Mantenha a fotografia de um ente querido e as palavras aprovadas juntas em um cartão discreto feito para recordação.
 
-[Cartão comemorativo fotográfico](https://podplo.app/skills/photo-memorial-card) combina uma foto escolhida com o nome, datas e mensagem da pessoa em um design memorial discreto. Preserva a identidade e os detalhes biográficos da pessoa.
+[Cartão fotográfico em memória](https://podplo.app/skills/photo-memorial-card) combina uma foto escolhida com o nome, datas e mensagem da pessoa em um design memorial discreto. Preserva a identidade e os detalhes biográficos da pessoa.
 
 ![Fotografia aprovada e detalhes do memorial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606669413176818-before.webp)
 
 Entrada
 
-[![Cartão comemorativo com texto exato aprovado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606669413176818-after.webp)](https://podplo.app/skills/photo-memorial-card)
+[![Cartão em memória de alguém com texto exato aprovado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606669413176818-after.webp)](https://podplo.app/skills/photo-memorial-card)
 
-Cartão comemorativo fotográfico
+Cartão fotográfico em memória
 
 **Mais Skills para explorar**
 

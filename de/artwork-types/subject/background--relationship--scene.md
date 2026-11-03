@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Themenorientiert / KREATIVE RICHTUNG / Text & Bild
+Motiv im Mittelpunkt / GESTALTUNGSRICHTUNG / Text & Bild
 
-# Umwelthintergrund
+# Umgebungshintergrund
 
-Text- und Themenbeziehungen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.
+Text-Motiv-Beziehungen: Eine zum Thema passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.
 
 <a id="understand"></a>
 
-![Umgebungshintergrund: Text- und Themenbeziehungen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um sie herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
+![Umgebungshintergrund: Text-Motiv-Beziehungen: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
 
 Kompositionsskizze
 
@@ -26,21 +26,21 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Für die Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Einstellung zweitrangig. Bewerten Sie das Bild als Szene neu, wenn die Umgebung oder die Erzählung zum Hauptausdruck wird.
+In den Kategorien Motiv, Muster, Textur und Abstraktion bleibt die Umgebung zweitrangig. Wird die Umgebung oder Erzählung zum Hauptausdruck, ordnen Sie das Bild neu als Szene ein.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Themenorientiert → Text- und Subjektbeziehungen → Hintergrund → Umwelthintergrund
+Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Hintergrund → Umgebungshintergrund
 
 **Eingabe und Ausgabe**
 
@@ -52,7 +52,7 @@ Behalten Sie das Thema und die Kernbeziehung von Text und Bild bei. Koordinieren
 
 **Hintergrund**
 
-Beziehen Sie sich auf den vorhandenen Standort, die Umgebungselemente und die Atmosphäre und passen Sie diese an den Hauptinhalt an. Wenn es nicht vorhanden ist oder nur schlicht oder transparent ist, erstellen Sie eine entsprechende Einstellung und koordinieren Sie Maßstab, Richtung und Tiefe.
+Orientieren Sie sich an vorhandenem Ort, Umgebungselementen und Atmosphäre und passen Sie diese an den Hauptinhalt an. Fehlt eine Umgebung oder ist der Hintergrund nur einfarbig oder transparent, schaffen Sie einen passenden Schauplatz und stimmen Sie Größe, Richtung und Tiefe ab.
 
 **Textinhalt**
 
@@ -64,28 +64,28 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Für die Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Einstellung zweitrangig. Bewerten Sie das Bild als Szene neu, wenn die Umgebung oder die Erzählung zum Hauptausdruck wird.
+In den Kategorien Motiv, Muster, Textur und Abstraktion bleibt die Umgebung zweitrangig. Wird die Umgebung oder Erzählung zum Hauptausdruck, ordnen Sie das Bild neu als Szene ein.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Transparenter Hintergrund: Text- und Sujetbeziehungen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
+[![Transparenter Hintergrund: Text-Motiv-Beziehungen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Text- und Sujetbeziehungen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--relationship--transparent.md)[![Einfarbiger Hintergrund: Text- und Sujet-Beziehungen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+Text-Motiv-Beziehungen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--relationship--transparent.md)[![Einfarbiger Hintergrund: Text-Motiv-Beziehungen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Text- und Sujetbeziehungen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--relationship--solid.md)[![Hintergrund mit Farbverlauf: Text- und Motivbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+Text-Motiv-Beziehungen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--relationship--solid.md)[![Hintergrund mit Farbverlauf: Text- und Motivbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Text- und Sujetbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--relationship--gradient.md)[![Gemusterter Hintergrund: lokal: Text- und Themenbeziehungen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+Text- und Sujetbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--relationship--gradient.md)[![Gemusterter Hintergrund, lokal: Text-Motiv-Beziehungen: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Text- und Themenbeziehungen: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--relationship--pattern-local.md)
+Text-Motiv-Beziehungen: Eine dekorative Fläche liegt hinter dem Inhalt; außerhalb dieser Fläche bleibt ein Bereich frei.](background--relationship--pattern-local.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

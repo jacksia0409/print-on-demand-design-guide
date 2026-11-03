@@ -14,11 +14,11 @@ Arte abstrata / DIREÇÃO CRIATIVA / Arte abstrata
 
 # Fundo transparente
 
-Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.
+Arte abstrata: o fundo permanece transparente; o quadriculado é apenas um recurso de visualização.
 
 <a id="understand"></a>
 
-![Fundo transparente: Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
+![Fundo transparente: arte abstrata: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 Ilustração da composição
 
@@ -26,7 +26,7 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+A transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 
 [← Voltar para arte abstrata](../abstract.md)
 
@@ -64,27 +64,27 @@ Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite q
 
 **Escopo e limites**
 
-A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+A transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
 [![Fundo sólido: Arte abstrata: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
 ### Fundo sólido↗
 
-Arte abstrata: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--abstract--solid.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
+Arte abstrata: uma cor uniforme forma o fundo; o branco também é uma cor de fundo uniforme.](background--abstract--solid.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Plano de fundo padronizado: local: arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
+Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Fundo estampado: local: Arte abstrata: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](background--abstract--pattern-local.md)[![Fundo padronizado: área completa: Arte abstrata: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
+Arte abstrata: uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--abstract--pattern-local.md)[![Fundo estampado: área completa: Arte abstrata: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
 Arte abstrata: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--abstract--pattern-full.md)
 

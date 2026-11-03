@@ -48,13 +48,13 @@
 
 - [Abstração geométrica](artwork-types/abstract/abstract--abstract-geometry.md)
 
-- [Cluster central](artwork-types/abstract/abstract-layout--abstract-layout-center.md)
+- [Agrupamento central](artwork-types/abstract/abstract-layout--abstract-layout-center.md)
 
-- [Formulários abstratos recortados](artwork-types/abstract/abstract-layout--abstract-layout-crop.md)
+- [Formas abstratas recortadas](artwork-types/abstract/abstract-layout--abstract-layout-crop.md)
 
-- [Abstração de deslocamento](artwork-types/abstract/abstract-layout--abstract-layout-offset.md)
+- [Abstração descentralizada](artwork-types/abstract/abstract-layout--abstract-layout-offset.md)
 
-- [Distribuição gratuita](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
+- [Distribuição livre](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
 
 - [Zonas sobrepostas](artwork-types/abstract/abstract-layout--abstract-layout-zones.md)
 
@@ -64,7 +64,7 @@
 
 - [Fundo estampado: local](artwork-types/abstract/background--abstract--pattern-local.md)
 
-- [Contexto ambiental](artwork-types/abstract/background--abstract--scene.md)
+- [Cenário ao fundo](artwork-types/abstract/background--abstract--scene.md)
 
 - [Fundo sólido](artwork-types/abstract/background--abstract--solid.md)
 
@@ -80,7 +80,7 @@
 
 - [Fundo estampado: local](artwork-types/pattern/background--pattern--pattern-local.md)
 
-- [Contexto ambiental](artwork-types/pattern/background--pattern--scene.md)
+- [Cenário ao fundo](artwork-types/pattern/background--pattern--scene.md)
 
 - [Fundo sólido](artwork-types/pattern/background--pattern--solid.md)
 
@@ -88,7 +88,7 @@
 
 - [Fundo transparente](artwork-types/pattern/background--pattern--transparent.md)
 
-- [Padrão limitado](artwork-types/pattern/bounded--pattern-bounded.md)
+- [Padrão delimitado](artwork-types/pattern/bounded--pattern-bounded.md)
 
 - [Ornamento radial](artwork-types/pattern/bounded--pattern-radial.md)
 
@@ -106,7 +106,7 @@
 
 - [Fundo estampado: local](artwork-types/scene/background--scene--pattern-local.md)
 
-- [Contexto ambiental](artwork-types/scene/background--scene--scene.md)
+- [Cenário ao fundo](artwork-types/scene/background--scene--scene.md)
 
 - [Fundo sólido](artwork-types/scene/background--scene--solid.md)
 
@@ -116,7 +116,7 @@
 
 - [Vinheta do dia a dia](artwork-types/scene/scene--scene-desk.md)
 
-- [Ambiente ambiental](artwork-types/scene/scene--scene-environment.md)
+- [Cenário ambiental](artwork-types/scene/scene--scene-environment.md)
 
 - [Paisagem e espaço](artwork-types/scene/scene--scene-landscape.md)
 
@@ -132,7 +132,7 @@
 
 - [Cena horizontal](artwork-types/scene/scene-layout--scene-layout-panorama.md)
 
-- [Composição centrada no tema principal](artwork-types/subject.md)
+- [Composição guiada pelo elemento principal](artwork-types/subject.md)
 
 - [Fundo gradiente](artwork-types/subject/background--multiple--gradient.md)
 
@@ -140,7 +140,7 @@
 
 - [Fundo estampado: local](artwork-types/subject/background--multiple--pattern-local.md)
 
-- [Contexto ambiental](artwork-types/subject/background--multiple--scene.md)
+- [Cenário ao fundo](artwork-types/subject/background--multiple--scene.md)
 
 - [Fundo sólido](artwork-types/subject/background--multiple--solid.md)
 
@@ -154,7 +154,7 @@
 
 - [Fundo estampado: local](artwork-types/subject/background--relationship--pattern-local.md)
 
-- [Contexto ambiental](artwork-types/subject/background--relationship--scene.md)
+- [Cenário ao fundo](artwork-types/subject/background--relationship--scene.md)
 
 - [Fundo sólido](artwork-types/subject/background--relationship--solid.md)
 
@@ -168,7 +168,7 @@
 
 - [Fundo estampado: local](artwork-types/subject/background--single--pattern-local.md)
 
-- [Contexto ambiental](artwork-types/subject/background--single--scene.md)
+- [Cenário ao fundo](artwork-types/subject/background--single--scene.md)
 
 - [Fundo sólido](artwork-types/subject/background--single--solid.md)
 
@@ -176,13 +176,13 @@
 
 - [Fundo transparente](artwork-types/subject/background--single--transparent.md)
 
-- [Layout de coleção grátis](artwork-types/subject/collection--collection-free.md)
+- [Layout livre de coleção](artwork-types/subject/collection--collection-free.md)
 
 - [Layout de coleção regular](artwork-types/subject/collection--collection-grid.md)
 
 - [Pequenos detalhes circundantes](artwork-types/subject/decoration--deco-dots.md)
 
-- [Assunto enquadrado](artwork-types/subject/decoration--deco-frame.md)
+- [Elemento principal emoldurado](artwork-types/subject/decoration--deco-frame.md)
 
 - [Decoração entrelaçada](artwork-types/subject/decoration--deco-interlace.md)
 
@@ -190,25 +190,25 @@
 
 - [Decoração envolvente](artwork-types/subject/decoration--deco-wreath.md)
 
-- [Tipo dividido e deslocado](artwork-types/subject/letter-art--letter-fracture.md)
+- [Tipografia dividida e deslocada](artwork-types/subject/letter-art--letter-fracture.md)
 
 - [Letras de contorno](artwork-types/subject/letter-art--letter-outline.md)
 
-- [Tipo de perspectiva angular](artwork-types/subject/letter-art--letter-perspective.md)
+- [Tipografia em perspectiva inclinada](artwork-types/subject/letter-art--letter-perspective.md)
 
-- [Tipo esticado ou comprimido](artwork-types/subject/letter-art--letter-stretch.md)
+- [Tipografia esticada ou comprimida](artwork-types/subject/letter-art--letter-stretch.md)
 
-- [Tipo preenchido com imagem ou textura](artwork-types/subject/letter-art--letter-texture.md)
+- [Tipografia preenchida com imagem ou textura](artwork-types/subject/letter-art--letter-texture.md)
 
-- [Tipo curvo ou ondulado](artwork-types/subject/letter-art--letter-wave.md)
+- [Tipografia curva ou ondulada](artwork-types/subject/letter-art--letter-wave.md)
 
-- [Disciplinas primárias e de apoio](artwork-types/subject/multiple--multi-dominant.md)
+- [Elementos principais e de apoio](artwork-types/subject/multiple--multi-dominant.md)
 
-- [Clusterizado e sobreposto](artwork-types/subject/multiple--multi-overlap.md)
+- [Agrupados e sobrepostos](artwork-types/subject/multiple--multi-overlap.md)
 
-- [Assuntos lado a lado](artwork-types/subject/multiple--multi-parallel.md)
+- [Elementos principais lado a lado](artwork-types/subject/multiple--multi-parallel.md)
 
-- [Assuntos em torno de um centro](artwork-types/subject/multiple--multi-radial.md)
+- [Elementos principais ao redor de um centro](artwork-types/subject/multiple--multi-radial.md)
 
 - [Agrupamento vertical](artwork-types/subject/multiple--multi-stack.md)
 
@@ -216,15 +216,15 @@
 
 - [Imagem e texto empilhados](artwork-types/subject/relationship--relation-above.md)
 
-- [Texto sobre o assunto](artwork-types/subject/relationship--relation-around.md)
+- [Texto ao redor do elemento principal](artwork-types/subject/relationship--relation-around.md)
 
-- [Led de imagem, com texto de apoio](artwork-types/subject/relationship--relation-image-led.md)
+- [Imagem em destaque, com texto de apoio](artwork-types/subject/relationship--relation-image-led.md)
 
 - [Imagem e texto entrelaçados](artwork-types/subject/relationship--relation-interlace.md)
 
-- [Expressão somente de tipo](artwork-types/subject/relationship--relation-plain-type.md)
+- [Expressão apenas tipográfica](artwork-types/subject/relationship--relation-plain-type.md)
 
-- [Imagens em formato de letra](artwork-types/subject/relationship--relation-replace.md)
+- [Imagem integrada à forma da letra](artwork-types/subject/relationship--relation-replace.md)
 
 - [Palavras formando uma forma](artwork-types/subject/relationship--relation-shape.md)
 
@@ -232,7 +232,7 @@
 
 - [Orientado por texto, com imagens de apoio](artwork-types/subject/relationship--relation-text-led.md)
 
-- [Tema principal centralizado](artwork-types/subject/single--single-center.md)
+- [Elemento principal centralizado](artwork-types/subject/single--single-center.md)
 
 - [Detalhe ampliado](artwork-types/subject/single--single-crop.md)
 
@@ -260,7 +260,7 @@
 
 - [Fundo estampado: local](artwork-types/texture/background--texture--pattern-local.md)
 
-- [Contexto ambiental](artwork-types/texture/background--texture--scene.md)
+- [Cenário ao fundo](artwork-types/texture/background--texture--scene.md)
 
 - [Fundo sólido](artwork-types/texture/background--texture--solid.md)
 
@@ -316,7 +316,7 @@
 
 - [Cadernos e planners](products/notebooks.md)
 
-- [Ornamentos e protetores solares](products/ornaments.md)
+- [Enfeites e captadores de luz](products/ornaments.md)
 
 - [Tapetes de alimentação para animais de estimação](products/pet-products.md)
 
@@ -328,7 +328,7 @@
 
 - [Adesivos e etiquetas](products/stickers.md)
 
-- [Moletons e moletons](products/sweatshirts.md)
+- [Moletons com e sem capuz](products/sweatshirts.md)
 
 - [Ideias de design de camisetas](products/t-shirts.md)
 

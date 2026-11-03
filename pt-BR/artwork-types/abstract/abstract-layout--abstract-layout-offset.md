@@ -12,13 +12,13 @@
 
 Arte abstrata / DIREÇÃO CRIATIVA
 
-# Abstração de deslocamento
+# Abstração descentralizada
 
 Os elementos abstratos concentram-se num dos lados, criando contraste com uma área aberta.
 
 <a id="understand"></a>
 
-![Abstração offset: os elementos abstratos concentram-se em um lado, criando contraste com uma área aberta.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-offset-1.svg)
+![Abstração descentralizada: Os elementos abstratos se concentram de um lado, criando contraste com uma área livre.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-offset-1.svg)
 
 Ilustração da composição
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Arte abstrata → Composição → Abstração de deslocamento
+Arte abstrata → Composição → Abstração descentralizada
 
 **Entrada e saída**
 
@@ -52,7 +52,7 @@ Mova as principais formas ou campos abstratos para um lado. Limite o peso visual
 
 **Fundo**
 
-Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Use as cores de fundo, o ritmo e a atmosfera como referência. Se estiverem ausentes, crie um fundo de apoio ou relações espaciais relacionadas. O entorno figurativo da imagem de origem pode ser simplificado em elementos de apoio sem substituir a composição não figurativa.
 
 **Texto**
 
@@ -70,53 +70,53 @@ O espaço aberto pode incluir cor ou textura sutil; não precisa ser transparent
 
 ## Explorar o plano de fundo
 
-Esses exemplos comparam motivos dentro da mesma família de conteúdo. Manter a composição atual ao aplicar um tratamento; abra um exemplo para obter instruções completas.
+Esses exemplos comparam fundos dentro da mesma família de conteúdo. Preserve a composição atual ao aplicar um tratamento visual; abra um exemplo para ver as instruções completas.
 
-[![Fundo transparente: Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
+[![Fundo transparente: arte abstrata: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--abstract--transparent.md)[![Fundo sólido: Arte abstrata: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
+Arte abstrata: o fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--abstract--transparent.md)[![Fundo sólido: Arte abstrata: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
 ### Fundo sólido↗
 
-Arte abstrata: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--abstract--solid.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
+Arte abstrata: uma cor uniforme forma o fundo; o branco também é uma cor de fundo uniforme.](background--abstract--solid.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Plano de fundo padronizado: local: arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
+Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Fundo estampado: local: Arte abstrata: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](background--abstract--pattern-local.md)[![Fundo padronizado: área completa: Arte abstrata: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
+Arte abstrata: uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--abstract--pattern-local.md)[![Fundo estampado: área completa: Arte abstrata: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
 Arte abstrata: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--abstract--pattern-full.md)[![Plano de fundo texturizado: arte abstrata: grãos de papel, partículas ou outro caráter de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--texture-1.svg)
 
 ### Fundo texturizado↗
 
-Arte abstrata: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--abstract--texture.md)[![Contexto ambiental: Arte abstrata: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
+Arte abstrata: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--abstract--texture.md)[![Cenário ao fundo: Arte abstrata: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
 
-### Contexto ambiental↗
+### Cenário ao fundo↗
 
 Arte abstrata: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](background--abstract--scene.md)
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Cluster central: As formas abstratas reúnem-se perto do centro, com um espaço envolvente mais silencioso.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-center-1.svg)
+[![Agrupamento central: As formas abstratas se reúnem perto do centro, com espaço mais discreto ao redor.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-center-1.svg)
 
-### Cluster central↗
+### Agrupamento central↗
 
-As formas abstratas reúnem-se perto do centro, com um espaço envolvente mais silencioso.](abstract-layout--abstract-layout-center.md)[![Distribuição gratuita: elementos abstratos ocupam posições variadas sem repetição periódica.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-scatter-1.svg)
+As formas abstratas reúnem-se perto do centro, com um espaço envolvente mais silencioso.](abstract-layout--abstract-layout-center.md)[![Distribuição livre: Elementos abstratos ocupam posições variadas sem repetição periódica.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-scatter-1.svg)
 
-### Distribuição gratuita↗
+### Distribuição livre↗
 
 Os elementos abstratos ocupam posições variadas sem repetição periódica.](abstract-layout--abstract-layout-scatter.md)[![Formas abstratas recortadas: as formas se estendem além das bordas da imagem, sugerindo uma composição maior.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-crop-1.svg)
 
-### Formulários abstratos recortados↗
+### Formas abstratas recortadas↗
 
 As formas ultrapassam as bordas da imagem, sugerindo uma composição maior.](abstract-layout--abstract-layout-crop.md)[![Zonas sobrepostas: regiões abstratas dividem a imagem e estabelecem camadas através de interseções.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-zones-1.svg)
 

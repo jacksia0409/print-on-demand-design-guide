@@ -18,7 +18,7 @@
 
 ## صورة واحدة. إمكانات لا حدود لها.
 
-حول زهرة إلى رسم تي شيرت، أو صورة إلى صورة، أو اسم إلى هدية. جرب Skills مختلفًا وانظر إلى أين يمكن أن تأخذك نفس الصورة.
+حوّل زهرة إلى رسم لقميص، أو صورة إلى بورتريه، أو اسمًا إلى هدية. جرّب Skills مختلفة واكتشف ما يمكن أن تصبح عليه الصورة نفسها.
 
 نماذج بالحجم الطبيعي للمنتجات التي تم إنشاؤها بواسطة الذكاء الاصطناعي.
 
@@ -130,7 +130,7 @@
 
 **امنح تصميمك لمسة عطلة**](techniques/holiday-versions.md)[![الطلاء الخارجي الذكي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-**خذ صورتك خارج الإطار**](techniques/change-ratio.md)[![4 قطعة مولد الشبكة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+**خذ صورتك خارج الإطار**](techniques/change-ratio.md)[![مولّد شبكة 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **تحويل فكرة واحدة إلى مجموعة**](techniques/series-builder.md)[![إطار اسم الأزهار](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 

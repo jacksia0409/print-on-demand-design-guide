@@ -32,7 +32,7 @@
 
 <a id="ai-directions"></a>
 
-AIの指示
+AIで広げる創作の方向性
 
 ## この方向性を AI に取り入れましょう
 
@@ -68,24 +68,24 @@ AIの指示
 
 <a id="related"></a>
 
-## 近くのルートを比較する
+## 近い創作の方向性を比べる
 
-[![透明な背景: シーン: 地面は透明のままです。チェッカーボードは単なる表示補助です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![透明な背景: シーン: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### 透明背景↗
 
-シーン: 地面は透明のままです。チェッカーボードは単なる表示補助です。](background--scene--transparent.md)[![単色の背景: シーン: 1 つの均一な色が地面を形成します。白も単色の背景です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+場面：背景は透明のままです。市松模様は透明部分を示す表示補助にすぎません。](background--scene--transparent.md)[![無地の背景：場面：均一な一色を背景にします。白も無地の背景に含まれます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### 無地の背景↗
 
-シーン: 単一の均一な色が地面を形成します。白も単色の背景です。](background--scene--solid.md)[![グラデーションの背景: シーン: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+場面：均一な一色を背景にします。白も無地の背景に含まれます。](background--scene--solid.md)[![グラデーションの背景: シーン: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### グラデーション背景↗
 
-シーン: メインコンテンツはクリアなままですが、裏地の色や明るさが連続的に変化します。](background--scene--gradient.md)[![パターン化された背景: ローカル: シーン: 装飾的なパッチがコンテンツの背後にあり、パッチの外側に領域が残ります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+場面：主要な内容ははっきり見せたまま、背景の色や明るさを連続的に変化させます。](background--scene--gradient.md)[![柄の背景：部分：場面：内容の背後に部分的な装飾の下地を置き、その外側には別の領域を残します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
-### パターン背景: ローカル↗
+### 柄の背景：部分↗
 
 シーン: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--scene--pattern-local.md)
 
-コードによる研究では、構成と視覚的処理を比較します。メディアとスタイルの例は概念的なものです。これらの方向は、画像モデルを使用して個別にテストされていません。生成されたテキスト、透明度、リピートエッジを確認します。
+コードで描いた図で、構図や視覚表現を比較します。画材やスタイルの例は概念を示すもので、これらの方向性を画像モデルで一つずつ検証したものではありません。生成した文字、透過、リピートの継ぎ目を確認してください。

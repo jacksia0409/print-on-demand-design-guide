@@ -48,13 +48,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من التخطيط وقم بتعيين Skills**
+**استكشف المزيد من Skills للتخطيطات والمجموعات**
 
 <a id="_R_bf3k_-title"></a>
 
-#### اكتشف المزيد من التخطيط وقم بتعيين Skills
+#### استكشف المزيد من Skills للتخطيطات والمجموعات
 
 4 / 11
 
@@ -68,7 +68,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### أضف تفاصيل عيد الميلاد إلى الفكرة الأصلية
 
@@ -86,25 +86,25 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من الاسم والمناسبة Skills**
+**استكشف المزيد من Skills للأسماء والمناسبات**
 
 <a id="_R_bn3k_-title"></a>
 
-#### اكتشف المزيد من الاسم والمناسبة Skills
+#### استكشف المزيد من Skills للأسماء والمناسبات
 
 4 / 8
 
 <a id="_R_bn3k_-cards"></a>
 
-[![اجعله مثالاً على العمل الفني لعيد الهالوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+[![مثال عمل فني لـ«اجعله عيد الهالوين»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-اجعلها عيد الهالوين](https://podplo.app/skills/make-it-halloween)[![اجعله مثالاً على العمل الفني لعيد الحب](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+اجعلها عيد الهالوين](https://podplo.app/skills/make-it-halloween)[![مثال عمل فني لـ«اجعله عيد الحب»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-اجعله عيد الحب](https://podplo.app/skills/make-it-valentines)[![اجعله مثالاً على الأعمال الفنية لعيد الفصح](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+اجعله عيد الحب](https://podplo.app/skills/make-it-valentines)[![مثال عمل فني لـ«اجعله عيد الفصح»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-اجعله عيد الفصح](https://podplo.app/skills/make-it-easter)[![اجعله مثالاً على العمل الفني لعيد الشكر](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+اجعله عيد الفصح](https://podplo.app/skills/make-it-easter)[![مثال عمل فني لـ«اجعله عيد الشكر»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
 اجعله عيد الشكر](https://podplo.app/skills/make-it-thanksgiving)
 

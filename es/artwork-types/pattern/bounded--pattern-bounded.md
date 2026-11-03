@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/bounded--pattern-bounded?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/bounded--pattern-bounded?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -32,11 +32,11 @@ Los mosaicos sin costuras son opcionales y no deliberadamente prohibidos. Si el 
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -70,13 +70,13 @@ Los mosaicos sin costuras son opcionales y no deliberadamente prohibidos. Si el 
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
 [![Fondo transparente: Patrones: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Patrones: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--pattern--transparent.md)[![Fondo sólido: Patrones: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+Patrones: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--pattern--transparent.md)[![Fondo sólido: Patrones: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
 ### Fondo sólido↗
 
@@ -96,15 +96,15 @@ Patrones: un fondo estampado cubre la imagen detrás del contenido en primer pla
 
 ### Fondo texturizado↗
 
-Patrones: el grano de papel, las partículas u otros caracteres de la superficie respaldan el contenido del primer plano.](background--pattern--texture.md)[![Fondo ambiental: Patrones: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
+Patrones: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](background--pattern--texture.md)[![Fondo ambiental: Patrones: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
 Patrones: un entorno relacionado con un tema respalda el contenido principal desde detrás o alrededor de él.](background--pattern--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Adorno radial: las unidades decorativas se repiten alrededor de un centro para formar un diseño circular finito.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-bounded--pattern-radial-1.svg)
 
@@ -112,4 +112,4 @@ Patrones: un entorno relacionado con un tema respalda el contenido principal des
 
 Las unidades decorativas se repiten alrededor de un centro para formar un diseño circular finito.](bounded--pattern-radial.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

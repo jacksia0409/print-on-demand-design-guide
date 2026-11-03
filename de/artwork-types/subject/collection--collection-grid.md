@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/collection--collection-grid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/collection--collection-grid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,21 +26,21 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Der Zweck besteht darin, einzelne Elemente anzuzeigen. Ein endliches Gitter ist nicht automatisch eine nahtlose Wiederholung, und die Elemente müssen nicht identisch sein.
+Ziel ist es, einzelne Elemente zu zeigen. Ein begrenztes Raster ist nicht automatisch ein nahtloser Rapport, und die Elemente müssen nicht identisch sein.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Themengesteuert → Mehrere Themen → Sammlungen → Regelmäßiges Sammlungslayout
+Motiv im Mittelpunkt → Mehrere Motive → Sammlungen → Regelmäßiges Sammlungslayout
 
 **Eingabe und Ausgabe**
 
@@ -64,31 +64,31 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Der Zweck besteht darin, einzelne Elemente anzuzeigen. Ein endliches Gitter ist nicht automatisch eine nahtlose Wiederholung, und die Elemente müssen nicht identisch sein.
+Ziel ist es, einzelne Elemente zu zeigen. Ein begrenztes Raster ist nicht automatisch ein nahtloser Rapport, und die Elemente müssen nicht identisch sein.
 
 <a id="backgrounds"></a>
 
 ## Erkunden Sie den Hintergrund
 
-Diese Beispiele vergleichen Gründe innerhalb derselben Inhaltsfamilie. Behalten Sie die aktuelle Zusammensetzung bei, wenn Sie eine Behandlung anwenden. Öffnen Sie ein Beispiel für die vollständige Anleitung.
+Diese Beispiele vergleichen Hintergründe innerhalb derselben Inhaltsgruppe. Bewahren Sie beim Anwenden einer Gestaltung die aktuelle Komposition; öffnen Sie ein Beispiel, um die vollständige Anleitung zu lesen.
 
-[![Transparenter Hintergrund: Mehrere Motive: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Transparenter Hintergrund: Mehrere Motive: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Mehrere Motive: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--multiple--transparent.md)[![Einfarbiger Hintergrund: Mehrere Motive: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Mehrere Motive: Der Hintergrund bleibt transparent; das Schachbrettmuster ist nur eine Anzeigehilfe.](background--multiple--transparent.md)[![Einfarbiger Hintergrund: Mehrere Motive: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Mehrere Motive: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--multiple--solid.md)[![Hintergrund mit Farbverlauf: Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+Mehrere Motive: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--multiple--solid.md)[![Hintergrund mit Farbverlauf: Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--multiple--gradient.md)[![Gemusterter Hintergrund: lokal: Mehrere Motive: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--multiple--gradient.md)[![Gemusterter Hintergrund, lokal: Mehrere Motive: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Mehrere Motive: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--multiple--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Mehrere Motive: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
+Mehrere Motive: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](background--multiple--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Mehrere Motive: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
@@ -96,20 +96,20 @@ Mehrere Motive: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich les
 
 ### Strukturierter Hintergrund↗
 
-Mehrere Motive: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--multiple--texture.md)[![Umgebungshintergrund: Mehrere Themen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
+Mehrere Motive: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--multiple--texture.md)[![Umgebungshintergrund: Mehrere Motive: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
 
-### Umwelthintergrund↗
+### Umgebungshintergrund↗
 
-Mehrere Themen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--multiple--scene.md)
+Mehrere Motive: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](background--multiple--scene.md)
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Freies Sammlungslayout: Unabhängige Elemente sind in einer lockeren, unregelmäßigen Anordnung angeordnet und haben ein gemeinsames Thema.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-collection--collection-free-1.svg)
 
-### Kostenloses Sammlungslayout↗
+### Freies Sammlungslayout↗
 
 Unabhängige Elemente sind locker und unregelmäßig angeordnet und haben ein gemeinsames Thema.](collection--collection-free.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

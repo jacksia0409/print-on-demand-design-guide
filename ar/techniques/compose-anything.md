@@ -26,17 +26,17 @@ Remix صورك ونصوصك باستخدام Skills المختلفة. جرب ت�
 
 <a id="opaque-artwork"></a>
 
-[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع بين عنصر يمكن التعرف عليه ونسخة في رسم واحد عريض في المنتصف.
+[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع عنصرًا مميزًا ونصًا في رسم مركزي جريء واحد.
 
-ابدأ بصورة تم تحميلها أو أصل PodPlo. [تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع العنصر والنسخة في رسم مركزي متوازن مع الحفاظ على إمكانية التعرف على المصدر.
+ابدأ بصورة تم تحميلها أو أصل PodPlo. [تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع العنصر الرئيسي والنص في رسم مركزي متوازن مع الحفاظ على تميّز المصدر.
 
 ### بناء رسم مركزي قوي
 
-[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع بين العنصر والنسخة في شكل كثيف ومتوازن. تصبح الصورة المصدر السائبة رسمًا مركزيًا قويًا بنقطة محورية واضحة.
+[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع العنصر الرئيسي والنص في شكل كثيف ومتوازن. تصبح الصورة الأصلية غير المتماسكة رسمًا مركزيًا قويًا بنقطة تركيز واضحة.
 
-### كومة عنصر طويل ونسخ
+### رتّب عنصرًا طويلًا ونصًا فوق بعضهما
 
-[تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout) يرتب عنصرًا طويلًا وينسخ من الأعلى إلى الأسفل بترتيب قراءة واضح. يترك التكوين المفتوح الخلفية مرئية حول العمل الفني.
+[تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout) يرتب عنصرًا طوليًا ونصًا من أعلى إلى أسفل بترتيب قراءة واضح. يترك التكوين المفتوح الخلفية ظاهرة حول العمل الفني.
 
 ### الحفاظ على المشهد كاملا سليمة
 
@@ -66,13 +66,13 @@ Remix صورك ونصوصك باستخدام Skills المختلفة. جرب ت�
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 
 <a id="skill-defines-the-job"></a>
 
-## تحويل فكرة واحدة إلى تكرار
+## حوّل زخرفة واحدة إلى نمط متكرر
 
 <a id="choose-fewer-skills"></a>
 
@@ -82,9 +82,9 @@ Remix صورك ونصوصك باستخدام Skills المختلفة. جرب ت�
 
 ### قارن الشعار بالتخطيط المفتوح
 
-[تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout) يحيط بالعمل الفني والنسخة بشعار كامل، بينما يقوم Compact Center Layout بإنشاء شكل مفتوح أكثر كثافة. يمكن للمصدر نفسه أن يشعر بالكلاسيكية والاحتواء أو أكثر نشاطًا وغير رسمي.
+[تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout) يحيط بالعمل الفني والنص ضمن شعار مكتمل، بينما ينشئ Compact Center Layout شكلًا مفتوحًا أكثر كثافة. يمكن أن يبدو المصدر نفسه كلاسيكيًا ومحكمًا أو أكثر حيوية وعفوية.
 
-![عزر مصدر واحد](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![زخرفة أصلية واحدة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 الإدخال
 
@@ -110,7 +110,7 @@ Remix صورك ونصوصك باستخدام Skills المختلفة. جرب ت�
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-changes-the-result"></a>
 
@@ -126,7 +126,7 @@ Remix صورك ونصوصك باستخدام Skills المختلفة. جرب ت�
 
 ضع الرسم المحدد في مشهد منتج بسيط لترى مدى تأثير اللون وشكل الكائن والمناطق المحيطة به. يمكن قراءة نفس التصميم على أنه جريء أو بسيط أو مرح أو حنين في إعدادات مختلفة.
 
-![موضوع مصدر واحد قبل الجيل المحدد](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18-before.webp)
+![فكرة مصدر واحدة قبل توليد المجموعة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18-before.webp)
 
 الإدخال
 
@@ -146,9 +146,9 @@ Remix صورك ونصوصك باستخدام Skills المختلفة. جرب ت�
 
 [![مثال على العمل الفني لمولد الشبكة 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-4 قطعة مولد الشبكة](https://podplo.app/skills/four-piece-grid)[![مثال على العمل الفني لمولد الشبكة المكون من 6 قطع](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
+مولّد شبكة 4PC](https://podplo.app/skills/four-piece-grid)[![مثال لعمل فني من 6PC Grid Generator](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
 
-6 قطعة مولد الشبكة](https://podplo.app/skills/six-piece-grid)
+مولّد شبكة 6PC](https://podplo.app/skills/six-piece-grid)
 
 <a id="repeatable-combination-workflow"></a>
 

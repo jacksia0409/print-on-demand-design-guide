@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-FORMULARIO DE OBRA · 05 / 05
+FORMA DE LA IMAGEN · 05 / 05
 
 # Arte abstracto
 
@@ -20,7 +20,7 @@ Las formas, marcas, líneas y relaciones de color conducen sin una referencia de
 
 <a id="abstract-design"></a>
 
-## Composición abstracta y tratamientos.
+## Composición y acabados abstractos
 
 <a id="forms"></a>
 
@@ -82,7 +82,7 @@ Crea ritmo a partir de líneas rectas paralelas variando su espaciado y longitud
 
 ![Red de líneas cruzadas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-5.svg)
 
-##### Línea de cruce web
+##### Red de líneas cruzadas
 
 Cruza varios conjuntos de líneas rectas para formar una estructura no figurativa visible.
 
@@ -260,7 +260,7 @@ Distorsiona ligeramente las formas geométricas conservando tanto la estructura 
 
 ##### Rebanadas geométricas
 
-Corta aviones, separa sus piezas y recombínalas en una nueva disposición.
+Corta los planos, desplaza sus piezas y recombínalas en una nueva disposición.
 
 <a id="abstract-panel-word-12-2"></a>
 
@@ -272,9 +272,9 @@ Compare formas abstractas orgánicas a través del crecimiento, el flujo, las c�
 
 <a id="form-exp-12-2-0"></a>
 
-![Bloques orgánicos gratuitos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-0.svg)
+![Bloques orgánicos libres: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-0.svg)
 
-##### Bloques orgánicos gratis
+##### Bloques orgánicos libres
 
 Construya relaciones planas a partir de formas irregulares con bordes suavemente redondeados.
 
@@ -300,7 +300,7 @@ Utilice formas fluidas para expresar dirección y cambios en la viscosidad apare
 
 ##### flujo arremolinado
 
-La bobina se forma hacia adentro o hacia afuera de un centro de rotación.
+Enrolla las formas hacia el centro de rotación o hacia fuera de él.
 
 <a id="form-exp-12-2-4"></a>
 
@@ -336,9 +336,9 @@ Conecte ramas finas en una red irregular en forma de raíz.
 
 <a id="form-exp-12-2-8"></a>
 
-![Particiones celulares: estudio visual.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-8.svg)
+![Divisiones en celdas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-8.svg)
 
-##### particiones celulares
+##### Divisiones en celdas
 
 Divida el campo en regiones adyacentes con límites orgánicos flexibles.
 
@@ -360,9 +360,9 @@ Estire o gotee formas como si el material se estuviera derritiendo.
 
 <a id="form-exp-12-2-11"></a>
 
-![Pliegues y pliegues: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-11.svg)
+![Pliegues y plisados: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-11.svg)
 
-##### Pliegues y pliegues
+##### Pliegues y plisados
 
 Crea un ritmo de crestas y valles a partir de planos doblados en forma de cinta.
 
@@ -388,7 +388,7 @@ Construya la imagen a través de la dirección y cobertura de barridos de pincel
 
 ##### Espacios de pincel seco
 
-Deje visible la pintura faltante y el suelo expuesto como evidencia de cerdas y velocidad.
+Deja visibles las zonas sin pintura y el fondo expuesto como huellas de las cerdas y de la velocidad.
 
 <a id="form-exp-12-3-2"></a>
 
@@ -432,11 +432,11 @@ Cubra las capas de color repetidamente mientras conserva los rastros visibles de
 
 <a id="form-exp-12-3-7"></a>
 
-![Acumulación de carrera corta: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-7.svg)
+![Acumulación de trazos cortos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-7.svg)
 
-##### Acumulación de carrera corta
+##### Acumulación de trazos cortos
 
-Acumula muchos golpes cortos cuya densidad y dirección cambian a lo largo del campo.
+Acumula muchos trazos cortos cuya densidad y dirección cambian a lo largo de la superficie.
 
 <a id="form-exp-12-3-8"></a>
 
@@ -448,9 +448,9 @@ Utilice gestos rápidos similares a los de la escritura para establecer un ritmo
 
 <a id="form-exp-12-3-9"></a>
 
-![Frotis circulares: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-9.svg)
+![Manchas circulares: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-9.svg)
 
-##### Frotis circulares
+##### Manchas circulares
 
 Deje curvas continuas y superposiciones mediante repetidos movimientos circulares.
 
@@ -476,7 +476,7 @@ Cree formas negativas activas eliminando o simulando el borrado de material.
 
 #### Color y campos ópticos.
 
-Compare campos de colores abstractos mediante el recuento de paletas, la temperatura, el valor, los degradados, las bandas, la superposición transparente, el brillo, la oscuridad y la vibración óptica.
+Compara los campos de color abstractos según el número de colores de la paleta, la temperatura, el valor tonal, los degradados, las bandas, las superposiciones transparentes, el brillo, la oscuridad y la vibración óptica.
 
 <a id="form-exp-12-4-0"></a>
 
@@ -578,7 +578,7 @@ Coloque colores de alto contraste uno al lado del otro para crear vibración óp
 
 FORMAS VISUALES · 24
 
-### Tratamientos de arte abstracto.
+### Acabados de arte abstracto
 
 <a id="abstract-methods-panel-word-12-5"></a>
 
@@ -590,9 +590,9 @@ Compare la construcción abstracta de figura y fondo a través de adyacencia, su
 
 <a id="form-exp-12-5-0"></a>
 
-![Conjunto adyacente: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-0.svg)
+![Ensamblaje contiguo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-0.svg)
 
-##### Asamblea adyacente
+##### Ensamblaje contiguo
 
 Coloque formas contra límites compartidos sin permitir que se superpongan.
 
@@ -602,7 +602,7 @@ Coloque formas contra límites compartidos sin permitir que se superpongan.
 
 ##### Superposición opaca
 
-Construya capas dejando que los planos opacos se oscurezcan visiblemente entre sí.
+Crea capas dejando que los planos opacos se oculten visiblemente unos a otros.
 
 <a id="form-exp-12-5-2"></a>
 
@@ -646,7 +646,7 @@ Dale a las formas sólidas y a las áreas vacías circundantes la misma importan
 
 <a id="form-exp-12-5-7"></a>
 
-![Figure-ground reversal — visual study](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-7.svg)
+![Inversión figura-fondo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-7.svg)
 
 ##### Inversión figura-fondo
 
@@ -678,9 +678,9 @@ Deje que las formas seleccionadas atraviesen la cuadrícula o el límite que las
 
 <a id="form-exp-12-5-11"></a>
 
-![Cortar y cambiar: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-11.svg)
+![Cortar y desplazar: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-11.svg)
 
-##### Cortar y cambiar
+##### Cortar y desplazar
 
 Corta una forma en pedazos y luego mueve o rota los fragmentos separados.
 
@@ -688,7 +688,7 @@ Corta una forma en pedazos y luego mueve o rota los fragmentos separados.
 
 <a id="abstract-methods-group-word-12-6"></a>
 
-#### Orden y generación
+#### Pedido y generación
 
 Compare el orden generado mediante repetición, simetría, deslizamiento, recursividad, crecimiento fractal, aleatoriedad, ruido, cambio de parámetros, topología y reordenamiento de fallas.
 
@@ -722,13 +722,13 @@ Corresponden formas a lo largo de uno o varios ejes de reflexión.
 
 ##### Disposición de deslizamiento
 
-Combine traducción y reflexión dentro de la misma operación repetitiva.
+Combina desplazamiento y reflexión en una misma operación repetitiva.
 
 <a id="form-exp-12-6-4"></a>
 
 ![Recurrencia de escala: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-6-4.svg)
 
-##### Escalar recursividad
+##### Recursión de escala
 
 Repetir estructuras relacionadas en varias escalas diferentes dentro del mismo campo.
 
@@ -818,7 +818,7 @@ Concentre las principales formas abstractas cerca del centro.
 
 ##### Espacio abierto descentrado
 
-Mueva los formularios hacia un lado mientras mantiene el otro lado abierto.
+Mueve las formas hacia un lado y deja abierto el otro.
 
 <a id="form-exp-12-7-2"></a>
 
@@ -850,13 +850,13 @@ Dispersa las formas sin un patrón periódico mientras equilibras su peso visual
 
 ##### Campo denso y lleno
 
-Cubra la mayor parte del marco con moldes y deje muy poco espacio abierto.
+Cubre la mayor parte del encuadre con formas y deja muy poco espacio libre.
 
 <a id="form-exp-12-7-6"></a>
 
 ![Cerramiento de borde: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-7-6.svg)
 
-##### Gabinete de borde
+##### Cierre perimetral
 
 Concentre el contenido a lo largo de los bordes exteriores conservando un centro abierto.
 
@@ -906,13 +906,13 @@ Divida el campo en varias zonas y luego permita que esas zonas se superpongan.
 
 #### Ritmo y movimiento
 
-Compare el movimiento abstracto a través de tiempos pares o alternos, cambio progresivo, reunión, dispersión, convergencia, expansión, espirales, ondas y fuerzas cruzadas.
+Compara el movimiento abstracto mediante ritmos regulares o alternos, cambios progresivos, concentración, dispersión, convergencia, expansión, espirales, ondas y fuerzas cruzadas.
 
 <a id="form-exp-12-8-0"></a>
 
-![Latidos uniformes: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-0.svg)
+![Ritmos uniformes: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-0.svg)
 
-##### Incluso late
+##### Ritmos uniformes
 
 Mantenga los intervalos entre unidades casi iguales para establecer un ritmo constante.
 
@@ -978,7 +978,7 @@ Apunte líneas y formas hacia un centro común.
 
 ##### Expansión hacia afuera
 
-Expanda los formularios hacia afuera desde el centro del campo.
+Expande las formas hacia fuera desde el centro de la superficie.
 
 <a id="form-exp-12-8-9"></a>
 
@@ -1062,9 +1062,9 @@ Conecte formas en un espacio que no podría existir físicamente.
 
 <a id="form-exp-12-9-6"></a>
 
-![Cultivo parcial — estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-9-6.svg)
+![Recorte parcial: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-9-6.svg)
 
-##### Cultivo parcial
+##### Recorte parcial
 
 Recorta las formas en el marco para dar a entender que continúan más allá de él.
 
@@ -1096,11 +1096,11 @@ Mueva formas o líneas continuamente entre el interior y el exterior de un conte
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -1116,7 +1116,7 @@ Traduce la paleta, el ritmo, la dirección o el estado de ánimo en formas geom�
 
 **Fondo**
 
-Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Toma como referencia los colores, el ritmo y el ambiente del fondo. Si no existen, crea un fondo de apoyo o relaciones espaciales afines. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 **Texto**
 
@@ -1128,6 +1128,6 @@ Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras pe
 
 **Alcance y límites**
 
-Un objeto estilizado identificable sigue siendo un tema de tratamiento. El carácter de la superficie del material pertenece a las texturas cuando es la expresión principal.
+Un objeto estilizado reconocible sigue siendo una representación centrada en un motivo principal. El carácter de la superficie de un material corresponde a texturas cuando es la expresión dominante.
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

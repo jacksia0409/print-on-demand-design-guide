@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/single--single-offset?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/single--single-offset?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Composición centrada en el motivo principal / DIRECCIÓN CREATIVA
 
-# Compensado con espacio abierto
+# Desplazado con espacio libre
 
-El sujeto principal se sienta a un lado, dejando un área notablemente más tranquila en el resto.
+El motivo principal se sitúa a un lado y deja una zona notablemente más despejada en el resto.
 
 <a id="understand"></a>
 
-![Compensación con espacio abierto: el sujeto principal se sienta a un lado, dejando un área notablemente más tranquila en el resto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-offset-1.svg)
+![Desplazado con espacio libre: el motivo principal se sitúa a un lado y deja una zona notablemente más despejada en el resto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-offset-1.svg)
 
 Ilustración de la composición
 
@@ -28,19 +28,19 @@ CÓMO RECONOCERLO
 
 Un diseño desplazado debe preservar características reconocibles. No requiere recortar el sujeto ni agregar objetos para llenar el área abierta.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por sujeto → Asunto único → Compensado con espacio abierto
+Motivo principal → Motivo único → Desplazado con espacio libre
 
 **Entrada y salida**
 
@@ -70,41 +70,41 @@ Un diseño desplazado debe preservar características reconocibles. No requiere 
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
 [![Fondo transparente: Sujeto único: El fondo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Asunto único: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--single--transparent.md)[![Fondo sólido: Un solo sujeto: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+Motivo único: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--single--transparent.md)[![Fondo sólido: Un solo sujeto: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
 ### Fondo sólido↗
 
-Tema único: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](background--single--solid.md)[![Fondo degradado: Sujeto único: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+Motivo único: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--single--solid.md)[![Fondo degradado: Sujeto único: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### Fondo degradado↗
 
-Asunto único: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--single--gradient.md)[![Fondo estampado: local: Tema único: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
+Motivo único: el fondo cambia de color o brillo de forma continua y el contenido principal sigue distinguiéndose.](background--single--gradient.md)[![Fondo estampado localizado: motivo único: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
 
 ### Fondo estampado: local↗
 
-Tema único: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--single--pattern-local.md)[![Fondo estampado: área completa: Sujeto único: un fondo estampado cubre la imagen detrás del contenido en primer plano claramente legible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
+Motivo único: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](background--single--pattern-local.md)[![Fondo estampado integral: motivo único: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
 
 ### Fondo estampado: área completa↗
 
-Asunto único: un fondo estampado cubre la imagen detrás de un contenido en primer plano claramente legible.](background--single--pattern-full.md)[![Fondo texturizado: Asunto único: grano de papel, partículas u otro carácter de superficie respaldan el contenido del primer plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--texture-1.svg)
+Motivo único: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.](background--single--pattern-full.md)[![Fondo texturizado: motivo único: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--texture-1.svg)
 
 ### Fondo texturizado↗
 
-Asunto único: Granos de papel, partículas u otro carácter superficial respaldan el contenido en primer plano.](background--single--texture.md)[![Fondo ambiental: Tema único: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--scene-1.svg)
+Motivo único: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](background--single--texture.md)[![Fondo ambiental: motivo principal único: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
-Tema único: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](background--single--scene.md)
+Motivo único: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.](background--single--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Sujeto centrado: un sujeto principal se encuentra cerca del centro, con espacio a su alrededor.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-center-1.svg)
 
@@ -120,4 +120,4 @@ Una vista ampliada y recortada enfoca una parte reconocible del sujeto.](single-
 
 El sujeto se extiende a lo largo de una diagonal, dando a la imagen una dirección clara.](single--single-diagonal.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

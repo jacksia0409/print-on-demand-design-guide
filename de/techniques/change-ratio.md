@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/techniques/change-ratio?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/techniques/change-ratio?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -40,9 +40,9 @@ Smart Outpaint
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Detailreparatur](https://podplo.app/skills/detail-repair)[![Beispiel für ein hochwertiges HD-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Detailreparatur](https://podplo.app/skills/detail-repair)[![Designbeispiel mit HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 HD-Upscale](https://podplo.app/skills/hd-upscale)[![Beispiel für ein Hintergrundentferner-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
@@ -52,9 +52,9 @@ Hintergrundentferner](https://podplo.app/skills/background-remover)
 
 ## Erstellen Sie das Layout für eine neue Form neu
 
-[Plakatmacher](https://podplo.app/skills/poster-maker) Ordnet das gleiche Bildmaterial und die gleiche Kopie für eine neue Leinwandform neu an.
+[Plakatmacher](https://podplo.app/skills/poster-maker) ordnet dasselbe Bild und denselben Text für eine neue Form der Bildfläche neu an.
 
-[Plakatmacher](https://podplo.app/skills/poster-maker) Positioniert Titel, Betreff und Hilfslinie für eine neue Form neu, anstatt einfach das alte Bild zuzuschneiden. Der Text und das Thema bleiben gleich, während sich die Hierarchie ändert.
+[Plakatmacher](https://podplo.app/skills/poster-maker) ordnet Titel, Motiv und ergänzende Textzeile für eine neue Form neu an, statt das alte Bild bloß zuzuschneiden. Text und Motiv bleiben gleich, während sich die Hierarchie verändert.
 
 ![Ausgangsmaterial vor der Neukomposition](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
@@ -78,9 +78,9 @@ Plakatmacher
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout)
 
@@ -88,9 +88,9 @@ Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout
 
 ## Überarbeiten Sie das Design als kompaktes Emblem
 
-[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) Verwandelt lose Grafiken und Kopien in ein sauberes, kompaktes Emblem.
+[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) verwandelt locker angeordnetes Bild und Text in ein klares, kompaktes Emblem.
 
-[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) fasst ein Motiv und eine Kopie in einer kompakten, transparenten Komposition zusammen, anstatt weitere Szenerien hinzuzufügen. Ein breites oder lockeres Design wird zu einer klaren, emblematischen Grafik.
+[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) fasst Motiv und Text zu einer kompakten Komposition mit transparentem Hintergrund zusammen, statt weitere Kulissen hinzuzufügen. Ein breites oder locker angeordnetes Design wird zu einer klaren emblemartigen Grafik.
 
 ![Grafik und Text vor dem Layout der Bekleidung](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
@@ -114,8 +114,8 @@ Kompaktes Center-Layout
 
 Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout)

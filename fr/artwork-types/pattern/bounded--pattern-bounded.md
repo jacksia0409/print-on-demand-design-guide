@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/bounded--pattern-bounded?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/bounded--pattern-bounded?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -28,7 +28,7 @@ COMMENT LE RECONNAÎTRE
 
 Le carrelage sans joint est facultatif plutôt que délibérément interdit. Si l’objectif principal est d’afficher des actifs distincts individuellement, utilisez une présentation de collection.
 
-[← Retour aux modèles](../pattern.md)
+[← Retour aux motifs](../pattern.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Utilisez-le avec une image ou demandez à l'IA de réécrire votre invite d'imag
 
 **Orientation souhaitée**
 
-Modèles → Modèles finis → Modèle délimité
+Motifs → Motifs finis → Motif délimité
 
 **Entrée et sortie**
 
@@ -70,17 +70,17 @@ Le carrelage sans joint est facultatif plutôt que délibérément interdit. Si 
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
-[![Fond transparent : Motifs : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
+[![Fond transparent : motifs : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Fond transparent↗
 
-Motifs : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--pattern--transparent.md)[![Fond uni : Motifs : Une couleur uniforme forme le sol ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+Motifs : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--pattern--transparent.md)[![Fond uni : motifs : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
-Motifs : une couleur uniforme forme le sol ; le blanc est également un fond uni.](background--pattern--solid.md)[![Fond dégradé : Motifs : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+Motifs : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](background--pattern--solid.md)[![Fond dégradé : Motifs : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 ### Fond dégradé↗
 
@@ -96,15 +96,15 @@ Motifs : un fond à motifs recouvre l'image derrière un contenu de premier pla
 
 ### Fond texturé↗
 
-Motifs : le grain du papier, les particules ou tout autre caractère de surface prennent en charge le contenu du premier plan.](background--pattern--texture.md)[![Contexte environnemental : Modèles : Un environnement lié à un thème prend en charge le contenu principal derrière ou autour de lui.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
+Motifs : le grain du papier, les particules ou tout autre caractère de surface prennent en charge le contenu du premier plan.](background--pattern--texture.md)[![Décor d’arrière-plan : motifs : un environnement lié au thème soutient le contenu principal, derrière ou autour de celui-ci.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
 
 ### Contexte environnemental↗
 
-Modèles : un environnement lié à un thème prend en charge le contenu principal derrière ou autour de lui.](background--pattern--scene.md)
+Motifs : un environnement lié au thème soutient le contenu principal, derrière ou autour de lui.](background--pattern--scene.md)
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Ornement radial : les unités décoratives se répètent autour d’un centre pour former un motif circulaire fini.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-bounded--pattern-radial-1.svg)
 

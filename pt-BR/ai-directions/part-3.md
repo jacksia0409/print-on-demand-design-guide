@@ -8,7 +8,7 @@
 
 # Orientações criativas públicas para IA
 
-Estas são instruções públicas do Guia, não regras Skill privadas. Os estudos visuais são conceituais; os resultados devem ser revistos.
+Estas são instruções públicas do Guide, e não regras privadas de Skill. Os estudos visuais são conceituais; os resultados devem ser conferidos.
 
 [← Leia as 123 orientações em quatro partes. Cada uma inclui um bloco de instruções pronto para copiar.](INDEX.md)
 
@@ -23,13 +23,13 @@ Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se rec
 
 Estrutura desejada: Estenda a textura escolhida por toda a imagem. Mantenha a escala, a paleta e a densidade do material coerentes nas bordas, sem deixar uma área de apoio visível separada.
 
-Fundo: Traduza sugestões relevantes de cores ou materiais do suporte original para a própria textura principal. Crie detalhes de superfície de área total relacionados se não existir suporte; o conteúdo e o solo se fundem nessa direção, em vez de deixar visível um fundo completo separado.
+Fundo: Incorpore à própria textura principal as cores ou características de material relevantes do fundo original. Se não houver fundo, crie detalhes de superfície relacionados cobrindo toda a área; nessa direção, conteúdo e fundo se fundem, em vez de deixar um fundo completo separado visível.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha materiais, superfícies, paletas e atmosfera relevantes sem exigir uma silhueta de objeto ou uma cena completa. Crie o efeito solicitado quando as pistas materiais estiverem ausentes, sem alegar ter identificado o material real da fonte. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A cobertura total não implica ladrilhos perfeitos. Não exija simultaneamente um fundo completo diferente para permanecer visivelmente atrás de uma textura opaca em toda a área.
+Escopo e limites: cobertura total não implica repetição sem emendas. Não exija simultaneamente que um fundo completo diferente permaneça visível atrás de uma textura opaca que cobre toda a área.
 ```
 
 
@@ -42,15 +42,15 @@ Direção desejada: Texturas → Composição → Fragmento de textura local
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Concentre detalhes relevantes da superfície dentro de uma área localizada com um limite regular, natural ou esmaecido. Reserve espaço ao redor para obter informações básicas ou de apoio.
+Estrutura desejada: concentre os detalhes pertinentes da superfície em uma área localizada com limites regulares, naturais ou que se dissipam. Reserve espaço ao redor para um fundo ou informações de apoio.
 
-Fundo: Material de referência, paleta e atmosfera, criando um tratamento de superfície relevante quando falta. Um patch local pode ter um suporte separado; uma textura de área inteira se funde com seu solo. Evite adicionar um objeto dominante ou cenário narrativo.
+Fundo: Use o material, a paleta e a atmosfera como referência, criando uma aparência de superfície pertinente quando ela não existir. Uma área localizada pode ter um fundo separado; uma textura de área total se funde com seu fundo. Evite acrescentar um objeto dominante ou um cenário narrativo.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha materiais, superfícies, paletas e atmosfera relevantes sem exigir uma silhueta de objeto ou uma cena completa. Crie o efeito solicitado quando as pistas materiais estiverem ausentes, sem alegar ter identificado o material real da fonte. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A textura continua sendo o conteúdo principal. Se o remendo se tornar um objeto identificável cuja identidade domina, reconsidere-o como objeto de obra de arte.
+Escopo e limites: a textura continua sendo o conteúdo principal. Se a área texturizada se tornar um objeto identificável cuja identidade domine, reconsidere-a como arte de elemento principal.
 ```
 
 
@@ -65,7 +65,7 @@ Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se rec
 
 Estrutura desejada: Selecione alguns fragmentos de superfície relacionados ao tema ou à cor. Organize seu tamanho, posicionamento, rotação e sobreposição, mantendo as diferenças de material e bordas compreensíveis.
 
-Fundo: Material de referência, paleta e atmosfera, criando um tratamento de superfície relevante quando falta. Um patch local pode ter um suporte separado; uma textura de área inteira se funde com seu solo. Evite adicionar um objeto dominante ou cenário narrativo.
+Fundo: Use o material, a paleta e a atmosfera como referência, criando uma aparência de superfície pertinente quando ela não existir. Uma área localizada pode ter um fundo separado; uma textura de área total se funde com seu fundo. Evite acrescentar um objeto dominante ou um cenário narrativo.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
@@ -86,13 +86,13 @@ Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se rec
 
 Estrutura desejada: Extraia paleta, ritmo, direção ou estrutura da entrada e reorganize-os como formas geométricas e linhas. Use escala, posicionamento, interseções e espaço aberto em vez de preservar o reconhecimento de objetos.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite que a identidade do objeto concreto seja reduzida ou removida. Não exija simultaneamente que a silhueta original do objeto permaneça intacta. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A geometria que ainda representa claramente um objeto é um tratamento de assunto geométrico. A geometria não figurativa pode ser regular ou irregular.
+Escopo e limites: a geometria que ainda representa claramente um objeto é um tratamento geométrico do elemento principal. A geometria não figurativa pode ser regular ou irregular.
 ```
 
 
@@ -101,19 +101,19 @@ Escopo e limites: A geometria que ainda representa claramente um objeto é um tr
 Curvas, fitas e formas livres criam movimento sem representar um objeto específico.
 
 ```text
-Direção desejada: Arte abstrata → Formulários → Fluxo orgânico
+Direção desejada: Arte abstrata → Formas → Fluxo orgânico
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
 Estrutura desejada: Traduza a paleta, o movimento ou a atmosfera da entrada em curvas conectadas, faixas fluidas ou formas orgânicas. Coordene curvas, espessuras, conexões e áreas abertas.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite que a identidade do objeto concreto seja reduzida ou removida. Não exija simultaneamente que a silhueta original do objeto permaneça intacta. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: As formas orgânicas não precisam representar coisas vivas. A representação clara do objeto pertence aos assuntos; uma superfície de material pode pertencer a texturas.
+Escopo e limites: formas orgânicas não precisam representar seres vivos. Uma representação clara de objeto pertence aos elementos principais; uma superfície de material pode pertencer às texturas.
 ```
 
 
@@ -128,13 +128,13 @@ Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se rec
 
 Estrutura desejada: Reorganize a paleta e a atmosfera da entrada por meio de marcas direcionais. Coordene densidade, comprimento, espessura e sobreposição para que as próprias marcas transmitam a expressão.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite que a identidade do objeto concreto seja reduzida ou removida. Não exija simultaneamente que a silhueta original do objeto permaneça intacta. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Simular uma ferramenta de pintura real específica é opcional. As marcas que representam principalmente um objeto reconhecível permanecem um tratamento sujeito.
+Escopo e limites: simular uma ferramenta real específica de pintura é opcional. Marcas que representam principalmente um objeto reconhecível continuam sendo um tratamento visual do elemento principal.
 ```
 
 
@@ -143,23 +143,23 @@ Escopo e limites: Simular uma ferramenta de pintura real específica é opcional
 Áreas coloridas, sobreposições e relações de cores formam a composição abstrata.
 
 ```text
-Direção desejada: Arte abstrata → Formulários → Campos de cores
+Direção desejada: Arte abstrata → Formas → Campos de cor
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Reduza a paleta e o humor da entrada em alguns campos de cores. Organize a área, o posicionamento, os limites, a transparência ou as transições para que as relações de cores transmitam a imagem.
+Estrutura desejada: reduza a paleta e a atmosfera da entrada a alguns campos de cor. Organize as áreas, o posicionamento, os limites, a transparência ou as transições para que as relações entre as cores sustentem a imagem.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite que a identidade do objeto concreto seja reduzida ou removida. Não exija simultaneamente que a silhueta original do objeto permaneça intacta. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Um único fundo simples não é automaticamente uma composição de campo colorido. Os blocos coloridos que representam claramente um objeto continuam sendo um tratamento do assunto.
+Escopo e limites: um único fundo liso não é automaticamente uma composição de campos de cor. Blocos de cor que representam claramente um objeto continuam sendo um tratamento visual do elemento principal.
 ```
 
 
-## Cluster central
+## Agrupamento central
 
 As formas abstratas reúnem-se perto do centro, com um espaço envolvente mais silencioso.
 
@@ -170,17 +170,17 @@ Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se rec
 
 Estrutura desejada: Concentre formas, linhas ou áreas coloridas não figurativas próximas ao centro. Crie foco por meio de escala, sobreposição e densidade enquanto coordena o espaço circundante.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite que a identidade do objeto concreto seja reduzida ou removida. Não exija simultaneamente que a silhueta original do objeto permaneça intacta. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A simetria do espelho é opcional. Se o arranjo forma claramente um objeto específico, reavalie-o como tema artístico.
+Escopo e limites: a simetria de espelho é opcional. Se o arranjo formar claramente um objeto específico, reavalie-o como arte de elemento principal.
 ```
 
 
-## Abstração de deslocamento
+## Abstração descentralizada
 
 Os elementos abstratos concentram-se num dos lados, criando contraste com uma área aberta.
 
@@ -189,9 +189,9 @@ Direção desejada: Arte abstrata → Composição → Abstração de deslocamen
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mova as principais formas ou campos abstratos para um lado. Limite o peso visual na região mais silenciosa para que o deslocamento e o espaço aberto permaneçam livres.
+Estrutura desejada: mova as principais formas ou campos abstratos para um lado. Limite o peso visual na região mais discreta para que o deslocamento e o espaço aberto permaneçam claros.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
@@ -201,39 +201,39 @@ Escopo e limites: O espaço aberto pode incluir cor ou textura sutil; não preci
 ```
 
 
-## Distribuição gratuita
+## Distribuição livre
 
 Os elementos abstratos ocupam posições variadas sem repetição periódica.
 
 ```text
-Direção desejada: Arte abstrata → Composição → Distribuição gratuita
+Direção desejada: Arte abstrata → Composição → Distribuição livre
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
 Estrutura desejada: Organize formas, linhas e cores não figurativas com escala e espaçamento variados. Equilibre regiões densas e abertas, mantendo uma organização livre e não periódica.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite que a identidade do objeto concreto seja reduzida ou removida. Não exija simultaneamente que a silhueta original do objeto permaneça intacta. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Distribuição gratuita não é o mesmo que uma pilha não considerada. Um arranjo que se repete como uma unidade periódica pertence aos padrões.
+Escopo e limites: distribuição livre não é o mesmo que um amontoado sem planejamento. Um arranjo que se repete como unidade periódica pertence aos padrões.
 ```
 
 
-## Formulários abstratos recortados
+## Formas abstratas recortadas
 
 As formas ultrapassam as bordas da imagem, sugerindo uma composição maior.
 
 ```text
-Direção desejada: Arte abstrata → Composição → Formulários abstratos recortados
+Direção desejada: Arte abstrata → Composição → Formas abstratas recortadas
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
 Estrutura desejada: Amplie ou mova formas abstratas além das bordas selecionadas. Use o corte para criar escala e extensão enquanto coordena as relações que permanecem visíveis.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
@@ -252,9 +252,9 @@ Direção desejada: Arte abstrata → Composição → Zonas sobrepostas
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Organize a paleta de entrada e os formulários em algumas regiões principais. Construa relacionamentos por meio de partição, sobreposição, cruzamento de formas ou transparência.
+Estrutura desejada: organize a paleta e as formas da entrada em algumas regiões principais. Crie relações por meio de divisões, sobreposição, formas que se cruzam ou transparência.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
@@ -266,14 +266,14 @@ Escopo e limites: Divisões iguais e uma grade regular são opcionais. Fotografi
 
 ## Fundo transparente
 
-Sujeito único: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.
+Elemento principal único: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Plano de fundo → Fundo transparente
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo transparente
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Estrutura desejada: mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
 Fundo: Use qualquer paleta relevante, tratamento ou sugestões temáticas necessárias de um plano de fundo existente e, em seguida, remova a camada de apoio. Mantenha transparente um fundo ausente em vez de pintar um fundo falso; as cores necessárias dentro do conteúdo podem permanecer.
 
@@ -281,22 +281,22 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+Escopo e limites: a transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 ```
 
 
 ## Fundo sólido
 
-Sujeito único: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.
+Elemento principal único: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Fundo → Fundo sólido
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo de cor única
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Estrutura desejada: mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
-Fundo: Escolha uma cor adequada do plano de fundo ou tema existente ou use uma cor específica. Se nenhum aterramento for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
+Fundo: Escolha uma cor adequada do fundo ou tema existente, ou use uma cor especificada. Se nenhum fundo for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
@@ -308,14 +308,14 @@ Escopo e limites: Não adicione padrões, gradientes, texturas ou cenas ao fundo
 
 ## Fundo gradiente
 
-Assunto único: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.
+Elemento principal único: o fundo muda continuamente de cor ou brilho, enquanto o conteúdo principal permanece claro.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Plano de fundo → Fundo gradiente
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo em gradiente
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Estrutura desejada: mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
 Fundo: Use a cor e a atmosfera do fundo ou tema de origem para criar uma transição contínua de tons, cores ou opacidade. Quando ausente, crie um gradiente relacionado e coordene sua direção e força.
 
@@ -329,14 +329,14 @@ Escopo e limites: Duas áreas planas com uma divisão rígida não são um gradi
 
 ## Fundo estampado: local
 
-Assunto único: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.
+Elemento principal único: uma área decorativa fica atrás do conteúdo, deixando uma região fora dela.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Plano de fundo → Fundo padronizado: local
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo com padrão localizado
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Estrutura desejada: mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
 Fundo: Use elementos de fundo, tratamento e paleta como referências e reorganize-os em um suporte decorativo local. Se não existir, ou se a fonte tiver apenas um fundo plano ou transparente, crie motivos relacionados. Mantenha a transparência, a cor base original ou um fundo explicitamente solicitado fora do patch.
 
@@ -350,14 +350,14 @@ Escopo e limites: O patch pode ser regular ou livre, mas não cobre a tela. A de
 
 ## Fundo estampado: área completa
 
-Assunto único: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.
+Elemento principal único: um fundo com padrão cobre a imagem atrás de um conteúdo de primeiro plano claramente legível.
 
 ```text
-Direção desejada: Assunto → Assunto único → Fundo → Fundo padronizado: área completa
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo com padrão em toda a área
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Estrutura desejada: mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
 Fundo: Desenvolva motivos de fundo e sugestões de cores existentes em um suporte que cubra toda a imagem. Se estiver ausente, crie motivos relacionados; controle a escala, a densidade e o contraste para preservar a hierarquia do primeiro plano.
 
@@ -365,20 +365,20 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A cobertura total não é prova de que a imagem completa seja integrada perfeitamente. Mantenha o conteúdo em primeiro plano visível e mantenha a disposição do padrão quando os padrões forem a categoria principal.
+Escopo e limites: cobertura total não comprova que a imagem completa se repete sem emendas. Mantenha o conteúdo de primeiro plano visível e preserve a disposição do padrão quando padrões forem a categoria principal.
 ```
 
 
 ## Fundo texturizado
 
-Assunto único: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.
+Elemento principal único: granulação do papel, partículas ou outra característica de superfície apoiam o conteúdo de primeiro plano.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Plano de fundo → Fundo texturizado
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo texturizado
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Estrutura desejada: mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
 Fundo: Faça referência a detalhes, paleta e densidade de superfície existentes ou crie uma textura de baixa interferência relacionada ao tema quando ausente. Coordene escala e contraste para que o material permaneça em um papel de apoio.
 
@@ -390,37 +390,37 @@ Escopo e limites: Um suporte texturizado não deve se tornar automaticamente um 
 ```
 
 
-## Contexto ambiental
+## Cenário ao fundo
 
-Assunto único: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.
+Elemento principal único: um ambiente relacionado ao tema apoia o conteúdo principal por trás ou ao redor dele.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Plano de fundo → Contexto ambiental
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo ambiental
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Estrutura desejada: mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
-Fundo: Referenciar a localização, os elementos ambientais e a atmosfera existentes, adaptando-os ao conteúdo principal. Se ausente ou apenas simples ou transparente, crie uma configuração relacionada e coordene escala, direção e profundidade.
+Fundo: Use o local, os elementos ambientais e a atmosfera existentes como referência, adaptando-os ao conteúdo principal. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um cenário relacionado e coordene escala, direção e profundidade.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Escopo e limites: nas categorias de elementos principais, padrões, texturas ou abstrações, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornar a expressão principal.
 ```
 
 
 ## Fundo transparente
 
-Vários assuntos: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.
+Vários elementos principais: O fundo permanece transparente; o quadriculado é apenas um recurso de visualização.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Plano de fundo → Fundo transparente
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Fundo → Fundo transparente
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Retenha vários assuntos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema, se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
+Estrutura desejada: preserve vários elementos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
 
 Fundo: Use qualquer paleta relevante, tratamento ou sugestões temáticas necessárias de um plano de fundo existente e, em seguida, remova a camada de apoio. Mantenha transparente um fundo ausente em vez de pintar um fundo falso; as cores necessárias dentro do conteúdo podem permanecer.
 
@@ -428,22 +428,22 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+Escopo e limites: a transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 ```
 
 
 ## Fundo sólido
 
-Vários assuntos: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.
+Vários elementos principais: Uma cor uniforme forma o fundo; o branco também é um fundo de cor uniforme.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Fundo → Fundo sólido
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Fundo → Fundo de cor única
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Retenha vários assuntos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema, se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
+Estrutura desejada: preserve vários elementos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
 
-Fundo: Escolha uma cor adequada do plano de fundo ou tema existente ou use uma cor específica. Se nenhum aterramento for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
+Fundo: Escolha uma cor adequada do fundo ou tema existente, ou use uma cor especificada. Se nenhum fundo for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
@@ -455,14 +455,14 @@ Escopo e limites: Não adicione padrões, gradientes, texturas ou cenas ao fundo
 
 ## Fundo gradiente
 
-Vários assuntos: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.
+Vários elementos principais: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Plano de fundo → Fundo gradiente
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Fundo → Fundo em gradiente
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Retenha vários assuntos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema, se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
+Estrutura desejada: preserve vários elementos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
 
 Fundo: Use a cor e a atmosfera do fundo ou tema de origem para criar uma transição contínua de tons, cores ou opacidade. Quando ausente, crie um gradiente relacionado e coordene sua direção e força.
 
@@ -476,14 +476,14 @@ Escopo e limites: Duas áreas planas com uma divisão rígida não são um gradi
 
 ## Fundo estampado: local
 
-Vários assuntos: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.
+Vários elementos principais: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Plano de fundo → Fundo padronizado: local
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Fundo → Fundo com padrão localizado
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Retenha vários assuntos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema, se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
+Estrutura desejada: preserve vários elementos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
 
 Fundo: Use elementos de fundo, tratamento e paleta como referências e reorganize-os em um suporte decorativo local. Se não existir, ou se a fonte tiver apenas um fundo plano ou transparente, crie motivos relacionados. Mantenha a transparência, a cor base original ou um fundo explicitamente solicitado fora do patch.
 
@@ -497,14 +497,14 @@ Escopo e limites: O patch pode ser regular ou livre, mas não cobre a tela. A de
 
 ## Fundo estampado: área completa
 
-Vários assuntos: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.
+Vários elementos principais: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Fundo → Fundo padronizado: área completa
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Fundo → Fundo com padrão em toda a área
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Retenha vários assuntos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema, se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
+Estrutura desejada: preserve vários elementos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
 
 Fundo: Desenvolva motivos de fundo e sugestões de cores existentes em um suporte que cubra toda a imagem. Se estiver ausente, crie motivos relacionados; controle a escala, a densidade e o contraste para preservar a hierarquia do primeiro plano.
 
@@ -512,20 +512,20 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A cobertura total não é prova de que a imagem completa seja integrada perfeitamente. Mantenha o conteúdo em primeiro plano visível e mantenha a disposição do padrão quando os padrões forem a categoria principal.
+Escopo e limites: cobertura total não comprova que a imagem completa se repete sem emendas. Mantenha o conteúdo de primeiro plano visível e preserve a disposição do padrão quando padrões forem a categoria principal.
 ```
 
 
 ## Fundo texturizado
 
-Vários assuntos: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.
+Vários elementos principais: Granulação de papel, partículas ou outra característica de superfície dão apoio ao conteúdo de primeiro plano.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Plano de fundo → Plano de fundo texturizado
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Fundo → Fundo texturizado
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Retenha vários assuntos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema, se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
+Estrutura desejada: preserve vários elementos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
 
 Fundo: Faça referência a detalhes, paleta e densidade de superfície existentes ou crie uma textura de baixa interferência relacionada ao tema quando ausente. Coordene escala e contraste para que o material permaneça em um papel de apoio.
 
@@ -537,33 +537,33 @@ Escopo e limites: Um suporte texturizado não deve se tornar automaticamente um 
 ```
 
 
-## Contexto ambiental
+## Cenário ao fundo
 
-Vários assuntos: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.
+Vários elementos principais: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Antecedentes → Antecedentes ambientais
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Fundo → Fundo ambiental
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Retenha vários assuntos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema, se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
+Estrutura desejada: preserve vários elementos identificáveis e seu agrupamento principal. Adicione objetos relacionados ao tema se necessário; uma coleção ainda deve mostrar seus elementos de forma independente.
 
-Fundo: Referenciar a localização, os elementos ambientais e a atmosfera existentes, adaptando-os ao conteúdo principal. Se ausente ou apenas simples ou transparente, crie uma configuração relacionada e coordene escala, direção e profundidade.
+Fundo: Use o local, os elementos ambientais e a atmosfera existentes como referência, adaptando-os ao conteúdo principal. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um cenário relacionado e coordene escala, direção e profundidade.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Escopo e limites: nas categorias de elementos principais, padrões, texturas ou abstrações, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornar a expressão principal.
 ```
 
 
 ## Fundo transparente
 
-Relações entre texto e assunto: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.
+Relações entre texto e elemento principal: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Plano de fundo → Fundo transparente
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Fundo → Fundo transparente
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -575,22 +575,22 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+Escopo e limites: a transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 ```
 
 
 ## Fundo sólido
 
-Relações entre texto e assunto: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.
+Relações entre texto e elemento principal: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Plano de fundo → Plano de fundo sólido
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Fundo → Fundo de cor única
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
 Estrutura desejada: Mantenha o tema e a relação central entre texto e imagem. Coordene a hierarquia, o posicionamento e a leitura sem transformar o texto de apoio em um título dominante não relacionado.
 
-Fundo: Escolha uma cor adequada do plano de fundo ou tema existente ou use uma cor específica. Se nenhum aterramento for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
+Fundo: Escolha uma cor adequada do fundo ou tema existente, ou use uma cor especificada. Se nenhum fundo for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
@@ -602,10 +602,10 @@ Escopo e limites: Não adicione padrões, gradientes, texturas ou cenas ao fundo
 
 ## Fundo gradiente
 
-Relações entre texto e assunto: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.
+Relações entre texto e elemento principal: o fundo muda continuamente de cor ou brilho, enquanto o conteúdo principal permanece claro.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Plano de fundo → Plano de fundo gradiente
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Fundo → Fundo em gradiente
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -623,10 +623,10 @@ Escopo e limites: Duas áreas planas com uma divisão rígida não são um gradi
 
 ## Fundo estampado: local
 
-Relações entre texto e assunto: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.
+Relações entre texto e elemento principal: uma área decorativa fica atrás do conteúdo, deixando uma região fora dela.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Plano de fundo → Plano de fundo padronizado: local
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Fundo → Fundo com padrão localizado
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -644,10 +644,10 @@ Escopo e limites: O patch pode ser regular ou livre, mas não cobre a tela. A de
 
 ## Fundo estampado: área completa
 
-Relações entre texto e assunto: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.
+Relações entre texto e elemento principal: um fundo com padrão cobre a imagem atrás de um conteúdo de primeiro plano claramente legível.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Plano de fundo → Fundo padronizado: área completa
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Fundo → Fundo com padrão em toda a área
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -659,5 +659,5 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A cobertura total não é prova de que a imagem completa seja integrada perfeitamente. Mantenha o conteúdo em primeiro plano visível e mantenha a disposição do padrão quando os padrões forem a categoria principal.
+Escopo e limites: cobertura total não comprova que a imagem completa se repete sem emendas. Mantenha o conteúdo de primeiro plano visível e preserve a disposição do padrão quando padrões forem a categoria principal.
 ```

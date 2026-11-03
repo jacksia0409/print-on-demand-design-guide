@@ -32,7 +32,7 @@
 
 استخدم Skills مختلفة لتحويل نفس الصورة إلى تخطيطات جديدة وأعمال فنية قائمة على الصور وتصميمات مخصصة.
 
-### إنشاء نمط لغز سلس
+### أنشئ نمطًا متكررًا بلا فواصل للغز تركيب الصور
 
 اختر الأشكال من صورتك ورتبها بشكل متكرر مع تفاصيل يمكن التعرف عليها عبر الصورة.
 
@@ -48,31 +48,31 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-### تحويل صورة عائلية إلى عمل فني كوميدي
+### حوّل صورة عائلية إلى عمل بأسلوب القصص المصورة
 
-أنشئ صورة عائلية كوميدية مع الحفاظ على إمكانية التعرف على كل شخص.
+أنشئ بورتريه عائليًا بأسلوب القصص المصورة مع إبقاء كل شخص قابلًا للتعرف عليه.
 
-[صورة عائلية كوميدية](https://podplo.app/skills/comic-family-portrait)
+[بورتريه عائلي بأسلوب القصص المصورة](https://podplo.app/skills/comic-family-portrait)
 
-![صورة عائلية هزلية · مصدر الصورة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-before.webp)
+![بورتريه عائلي بأسلوب القصص المصورة · الصورة الأصلية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-before.webp)
 
 الصورة الأصلية
 
-[![صورة عائلية هزلية · عمل فني تم إنشاؤه](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
+[![بورتريه عائلي بأسلوب القصص المصورة · عمل فني مولّد](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
 
 عمل فني تم إنشاؤه
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bn3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 4 / 92
 

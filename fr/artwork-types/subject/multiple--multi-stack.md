@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/multiple--multi-stack?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/multiple--multi-stack?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -28,7 +28,7 @@ COMMENT LE RECONNAÎTRE
 
 Les objets ne doivent pas nécessairement se soutenir physiquement. Un groupement fini est différent d’un motif répétitif qui recouvre une surface.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -70,15 +70,15 @@ Les objets ne doivent pas nécessairement se soutenir physiquement. Un groupemen
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
-[![Fond transparent : Sujets multiples : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Fond transparent : sujets multiples : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Fond transparent↗
 
-Sujets multiples : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--multiple--transparent.md)[![Fond uni : sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Sujets multiples : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--multiple--transparent.md)[![Fond uni : sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--multiple--solid.md)[![Fond dégradé : Sujets multiples : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
@@ -92,7 +92,7 @@ Sujets multiples : un patch décoratif se trouve derrière le contenu, laissant
 
 ### Fond à motifs : zone entière↗
 
-Sujets multiples : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](background--multiple--pattern-full.md)[![Arrière-plan texturé : sujets multiples : le grain du papier, les particules ou tout autre caractère de surface prennent en charge le contenu du premier plan.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
+Sujets multiples : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](background--multiple--pattern-full.md)[![Fond texturé : sujets multiples : le grain du papier, les particules ou une autre qualité de surface mettent en valeur le contenu du premier plan.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
 
 ### Fond texturé↗
 
@@ -104,7 +104,7 @@ Sujets multiples : un environnement lié à un thème prend en charge le conten
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Sujets côte à côte : plusieurs sujets reconnaissables sont disposés horizontalement et présentés ensemble.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-parallel-1.svg)
 
@@ -112,7 +112,7 @@ Sujets multiples : un environnement lié à un thème prend en charge le conten
 
 Plusieurs sujets reconnaissables sont disposés horizontalement et présentés ensemble.](multiple--multi-parallel.md)[![Sujets principaux et secondaires : un sujet dirige la composition tandis que d'autres objets la soutiennent.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-dominant-1.svg)
 
-### Matières principales et secondaires↗
+### Sujets principaux et secondaires↗
 
 Un sujet dirige la composition tandis que d’autres objets la soutiennent.](multiple--multi-dominant.md)[![Regroupement symétrique : les sujets correspondent sur un axe pour créer une composition équilibrée.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-symmetric-1.svg)
 

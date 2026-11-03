@@ -14,11 +14,11 @@
 
 # 無地の背景
 
-テクスチャ: 1 つの均一な色が地面を形成します。白も単色の背景です。
+テクスチャ: 均一な1色で背景を作ります。白も無地の背景に含まれます。
 
 <a id="understand"></a>
 
-![単色の背景: テクスチャ: 1 つの均一な色が地面を形成します。白も単色の背景です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+![無地の背景：肌理：均一な一色を背景にします。白も無地の背景に含まれます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 構図の模式図
 
@@ -32,7 +32,7 @@
 
 <a id="ai-directions"></a>
 
-AIの指示
+AIで広げる創作の方向性
 
 ## この方向性を AI に取り入れましょう
 
@@ -48,7 +48,7 @@ AIの指示
 
 **目指す構成**
 
-物質的な性格を支配的に保ちます。別の地面を表示する必要がある場合は、ローカル テクスチャ フラグメントを使用します。不透明な全面テクスチャとその地面が 1 つになるため、別の完全な裏地を表示したままにすることはできません。
+素材の質感を主役にしてください。別の背景を見せる必要がある場合は、部分的な肌理の断片を使います。不透明な全面の肌理は背景と一体になるため、その背後に別の完全な背景も見える状態では残せません。
 
 **背景**
 
@@ -68,24 +68,24 @@ AIの指示
 
 <a id="related"></a>
 
-## 近くのルートを比較する
+## 近い創作の方向性を比べる
 
-[![透明な背景: テクスチャ: 地面は透明のままです。チェッカーボードは単なる表示補助です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
+[![透明な背景: テクスチャ: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### 透明背景↗
 
-テクスチャ: 地面は透明のままです。チェッカーボードは単なる表示補助です。](background--texture--transparent.md)[![グラデーションの背景: テクスチャ: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+テクスチャ: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](background--texture--transparent.md)[![グラデーションの背景: テクスチャ: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### グラデーション背景↗
 
-テクスチャ: メインコンテンツはクリアなままでありながら、裏地の色や明るさが連続的に変化します。](background--texture--gradient.md)[![パターン化された背景: ローカル: テクスチャ: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
+テクスチャ: 主役をはっきり保ちながら、背景の色や明るさを連続的に変化させます。](background--texture--gradient.md)[![柄の背景：部分：肌理：内容の背後に部分的な装飾の下地を置き、その外側には別の領域を残します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
 
-### パターン背景: ローカル↗
+### 柄の背景：部分↗
 
-テクスチャ: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--texture--pattern-local.md)[![パターン化された背景: 全領域: テクスチャ: パターン化された地面が、はっきりと読み取れる前景コンテンツの後ろの画像を覆います。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
+テクスチャ: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--texture--pattern-local.md)[![柄の背景：全面：肌理：背景全体に柄を敷き、手前の内容ははっきり読み取れるようにします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
 
 ### パターン背景：全面↗
 
-テクスチャ: パターン化された地面が、はっきりと読み取れる前景コンテンツの背後の画像を覆います。](background--texture--pattern-full.md)
+テクスチャ: はっきり見える前景の内容の背後を、模様のある背景で覆います。](background--texture--pattern-full.md)
 
-コードによる研究では、構成と視覚的処理を比較します。メディアとスタイルの例は概念的なものです。これらの方向は、画像モデルを使用して個別にテストされていません。生成されたテキスト、透明度、リピートエッジを確認します。
+コードで描いた図で、構図や視覚表現を比較します。画材やスタイルの例は概念を示すもので、これらの方向性を画像モデルで一つずつ検証したものではありません。生成した文字、透過、リピートの継ぎ目を確認してください。

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-rays?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-rays?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -28,21 +28,21 @@ CÓMO RECONOCERLO
 
 La luz emitida literalmente es opcional, al igual que un anillo completo. Los rayos siguen apoyando la decoración en lugar de convertirse en la composición abstracta principal.
 
-El tratamiento gira en torno a un tema o un grupo identificable.
+El tratamiento se aplica alrededor de un motivo principal o un grupo identificable.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por sujetos → Decoración compartida → Rayos y acentos radiantes
+Motivo principal → Decoración compartida → Rayos y detalles radiales
 
 **Entrada y salida**
 
@@ -70,19 +70,19 @@ La luz emitida literalmente es opcional, al igual que un anillo completo. Los ra
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Pequeños acentos circundantes: algunos pequeños elementos enriquecen el espacio alrededor del tema principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-dots-1.svg)
 
 ### Pequeños acentos circundantes↗
 
-Algunos pequeños elementos enriquecen el espacio alrededor del tema principal.](decoration--deco-dots.md)[![Decoración envolvente: Los elementos decorativos forman un recinto parcial o completo alrededor del sujeto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
+Unos pocos elementos pequeños enriquecen el espacio alrededor del motivo principal.](decoration--deco-dots.md)[![Decoración envolvente: Los elementos decorativos forman un recinto parcial o completo alrededor del sujeto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
 
 ### Decoración circundante↗
 
 Los elementos decorativos forman un recinto parcial o completo alrededor del tema.](decoration--deco-wreath.md)[![Sujeto enmarcado: un marco definido, insignia o estructura envolvente sostiene al sujeto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-frame-1.svg)
 
-### Asunto enmarcado↗
+### Motivo enmarcado↗
 
 Un marco definido, una insignia o una estructura envolvente sujetan al sujeto.](decoration--deco-frame.md)[![Decoración entrelazada: Los elementos decorativos se entrelazan delante y detrás del sujeto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-interlace-1.svg)
 
@@ -90,4 +90,4 @@ Un marco definido, una insignia o una estructura envolvente sujetan al sujeto.](
 
 Los elementos decorativos se tejen delante y detrás del sujeto.](decoration--deco-interlace.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

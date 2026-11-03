@@ -20,15 +20,15 @@
 
 ## إنشاء تصميم مركزي مدمج
 
-[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع بين العمل الفني والنسخ في شكل واحد جريء في المنتصف.
+[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع العمل الفني والنص في شكل مركزي جريء واحد.
 
-[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع عنصرًا وينسخه في شكل كثيف ومتوازن. يصبح العمل الفني الذي كان يبدو متناثرًا في السابق رسمًا مركزيًا قويًا بنقطة محورية واضحة.
+[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع العنصر الرئيسي والنص في شكل كثيف ومتوازن. يصبح العمل الفني الذي كان متناثرًا رسمًا مركزيًا قويًا بنقطة تركيز واضحة.
 
 ![العمل الفني والصياغة الدقيقة قبل التخطيط](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
 الإدخال
 
-[![تركيبة ملابس مركزية مدمجة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![تكوين متماسك في المنتصف لتصاميم الملابس](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
 تخطيط مركز مدمج
 
@@ -48,7 +48,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 
@@ -116,9 +116,9 @@
 
 [![مثال على العمل الفني لمولد الشبكة 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-4 قطعة مولد الشبكة](https://podplo.app/skills/four-piece-grid)[![مثال على العمل الفني لمولد الشبكة المكون من 6 قطع](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
+مولّد شبكة 4PC](https://podplo.app/skills/four-piece-grid)[![مثال لعمل فني من 6PC Grid Generator](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
 
-6 قطعة مولد الشبكة](https://podplo.app/skills/six-piece-grid)
+مولّد شبكة 6PC](https://podplo.app/skills/six-piece-grid)
 
 <a id="proof"></a>
 
@@ -128,7 +128,7 @@
 
 يُظهر النموذج مدى تأثير اللون وشكل المنتج والإعدادات على نفس العمل الفني. قد يبدو الشكل المركزي جريئًا على القميص وبسيطًا على دفتر الملاحظات. المعاينة هي صورة مفهوم، وليست عينة مادية.
 
-![عمل فني دقيق ليتم إثباته](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
+![العمل الفني المحدد المطلوب فحص معاينته](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
 
 الإدخال
 

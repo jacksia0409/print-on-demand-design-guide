@@ -30,7 +30,7 @@
 
 تراكب النص البسيط ليس بالضرورة متشابكًا. احتفظ بتفاصيل العنصر الأساسية وبنية الحروف الكافية لقراءة الكلمات.
 
-[← العودة إلى العنصر الذي يقوده](../subject.md)
+[← العودة إلى التكوينات المرتكزة على العنصر الرئيسي](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -42,7 +42,7 @@
 
 **الاتجاه المطلوب**
 
-يقودها العنصر → العلاقات بين النص والعنصر → الصورة والنص المتشابكين
+تكوين يرتكز على العنصر الرئيسي → علاقات النص والعنصر الرئيسي → صورة ونص متشابكان
 
 **المدخلات والمخرجات**
 
@@ -72,21 +72,21 @@
 
 ## استكشاف الخلفية
 
-تقارن هذه الأمثلة الأسباب ضمن عائلة المحتوى نفسها. احتفظ بالتركيبة الحالية عند تطبيق المعالجة؛ فتح مثال لتوجيهاته الكاملة.
+تقارن هذه الأمثلة الخلفيات ضمن فئة المحتوى نفسها. احتفظ بالتكوين الحالي عند تطبيق المعالجة؛ وافتح مثالًا لقراءة تعليماته الكاملة.
 
 [![خلفية شفافة: العلاقات بين النص والعنصر: تظل الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### خلفية شفافة↗
 
-العلاقات بين النص والعنصر: تظل الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](background--relationship--transparent.md)[![الخلفية الصلبة: العلاقات بين النص والعنصر: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+العلاقات بين النص والعنصر: تظل الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](background--relationship--transparent.md)[![خلفية أحادية اللون: علاقات النص والعنصر الرئيسي: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
-### خلفية صلبة ↗
+### خلفية أحادية اللون↗
 
-علاقات النص والعنصر: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](background--relationship--solid.md)[![خلفية متدرجة: علاقات النص والعنصر: يتغير الدعم بشكل مستمر في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+علاقات النص والعنصر الرئيسي: يتكون الأساس من لون واحد موحد؛ والأبيض أيضًا خلفية أحادية اللون.](background--relationship--solid.md)[![خلفية متدرجة: علاقات النص والعنصر الرئيسي: يتغير لون الخلفية أو سطوعها باستمرار مع بقاء المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### خلفية متدرجة ↗
 
-علاقات النص والعنصر: يتغير الدعم بشكل مستمر في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](background--relationship--gradient.md)[![الخلفية المنقوشة: محلية: علاقات النص والعنصر: توجد رقعة زخرفية خلف المحتوى، مع ترك مساحة خارج الرقعة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+علاقات النص والعنصر الرئيسي: تتغير الخلفية تدريجيًا في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](background--relationship--gradient.md)[![الخلفية المنقوشة: محلية: علاقات النص والعنصر: توجد رقعة زخرفية خلف المحتوى، مع ترك مساحة خارج الرقعة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
 ### الخلفية المنقوشة: محلية↗
 
@@ -94,15 +94,15 @@
 
 ### خلفية منقوشة: منطقة كاملة↗
 
-علاقات النص والعنصر: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--relationship--pattern-full.md)[![الخلفية المزخرفة: العلاقات بين النص والعنصر: تدعم حبيبات الورق أو الجزيئات أو أي حرف سطحي آخر محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--texture-1.svg)
+علاقات النص والعنصر: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--relationship--pattern-full.md)[![خلفية ذات ملمس: علاقات النص والعنصر الرئيسي: تدعم حبيبات الورق أو الجزيئات أو غيرها من سمات السطح محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--texture-1.svg)
 
-### خلفية محكم↗
+### خلفية ذات ملمس↗
 
-علاقات النص والعنصر: تدعم حبيبات الورق أو الجزيئات أو أي حرف سطحي آخر محتوى المقدمة.](background--relationship--texture.md)[![الخلفية البيئية: العلاقات بين النص والموضوع: تدعم البيئة المرتبطة بالموضوع المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
+علاقات النص والعنصر الرئيسي: تدعم حبيبات الورق أو الجزيئات أو غيرها من سمات السطح محتوى المقدمة.](background--relationship--texture.md)[![خلفية بيئية: العلاقات بين النص والعنصر الرئيسي: تدعم بيئة مرتبطة بالفكرة المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
 
 ### الخلفية البيئية↗
 
-علاقات النص والموضوع: تدعم البيئة المرتبطة بالموضوع المحتوى الرئيسي من خلفه أو من حوله.](background--relationship--scene.md)
+علاقات النص والعنصر الرئيسي: تدعم بيئة مرتبطة بالفكرة المحتوى الرئيسي من خلفه أو من حوله.](background--relationship--scene.md)
 
 <a id="related"></a>
 
@@ -116,9 +116,9 @@
 
 ### يقودها النص، مع الصور الداعمة ↗
 
-تحمل الكلمات الرسالة الرئيسية، مع صورة صغيرة تدعم معناها.](relationship--relation-text-led.md)[![تعبير النوع فقط: أشكال الحروف والحجم والترتيب تحمل التصميم.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-plain-type-1.svg)
+تحمل الكلمات الرسالة الرئيسية، مع صورة صغيرة تدعم معناها.](relationship--relation-text-led.md)[![تعبير بالحروف وحدها: تحمل أشكال الحروف وأحجامها وترتيبها التصميم.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-plain-type-1.svg)
 
-### تعبير النوع فقط↗
+### تعبير بالحروف وحدها↗
 
 أشكال الحروف والحجم والترتيب تحمل التصميم.](relationship--relation-plain-type.md)[![الصور والنصوص مكدسة: تشغل الصورة والنص المناطق العلوية والسفلية، مما يؤدي إلى إنشاء ترتيب قراءة واضح.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-above-1.svg)
 

@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/collection--collection-free?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/collection--collection-free?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Composición centrada en el motivo principal / DIRECCIÓN CREATIVA
 
-# Diseño de colección gratuito
+# Composición libre de colección
 
 Los elementos independientes se ubican en una disposición suelta e irregular mientras comparten un tema.
 
@@ -28,19 +28,19 @@ CÓMO RECONOCERLO
 
 Evite una unidad repetitiva obvia. Si un entorno o interacción compartido se vuelve esencial, el resultado se entiende mejor como una escena.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por materias → Materias múltiples → Colecciones → Diseño de colección gratuito
+Motivo principal → Varios motivos → Colecciones → Colección en distribución libre
 
 **Entrada y salida**
 
@@ -70,46 +70,46 @@ Evite una unidad repetitiva obvia. Si un entorno o interacción compartido se vu
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
-[![Fondo transparente: Múltiples sujetos: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Fondo transparente: varios motivos principales: el fondo permanece transparente; el damero solo es una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Múltiples sujetos: el suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--multiple--transparent.md)[![Fondo sólido: Múltiples sujetos: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Varios motivos principales: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--multiple--transparent.md)[![Fondo de un solo color: varios motivos principales: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
 ### Fondo sólido↗
 
-Múltiples temas: un color uniforme forma el fondo; El blanco también es un fondo sólido.](background--multiple--solid.md)[![Fondo degradado: Múltiples sujetos: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+Varios motivos principales: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--multiple--solid.md)[![Fondo degradado: Múltiples sujetos: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### Fondo degradado↗
 
-Múltiples sujetos: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--multiple--gradient.md)[![Fondo estampado: local: Múltiples sujetos: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+Múltiples sujetos: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--multiple--gradient.md)[![Fondo estampado localizado: varios motivos principales: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
 ### Fondo estampado: local↗
 
-Múltiples sujetos: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--multiple--pattern-local.md)[![Fondo estampado: área completa: Múltiples sujetos: un fondo estampado cubre la imagen detrás del contenido en primer plano claramente legible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
+Múltiples sujetos: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--multiple--pattern-local.md)[![Fondo estampado integral: varios motivos principales: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
 
 ### Fondo estampado: área completa↗
 
-Múltiples sujetos: un fondo estampado cubre la imagen detrás de un contenido en primer plano claramente legible.](background--multiple--pattern-full.md)[![Fondo texturizado: Múltiples sujetos: Granos de papel, partículas u otro carácter de superficie respaldan el contenido del primer plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
+Múltiples sujetos: un fondo estampado cubre la imagen detrás de un contenido en primer plano claramente legible.](background--multiple--pattern-full.md)[![Fondo texturizado: varios motivos principales: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
 
 ### Fondo texturizado↗
 
-Múltiples temas: Granos de papel, partículas u otros caracteres de la superficie respaldan el contenido del primer plano.](background--multiple--texture.md)[![Antecedentes ambientales: Temas múltiples: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
+Varios motivos principales: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido del primer plano.](background--multiple--texture.md)[![Fondo ambiental: varios motivos principales: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
-Múltiples temas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](background--multiple--scene.md)
+Varios motivos principales: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.](background--multiple--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
-[![Diseño de colección normal: los elementos independientes se muestran en filas, columnas o en una cuadrícula consistente.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-collection--collection-grid-1.svg)
+[![Colección en distribución regular: los elementos independientes se muestran en filas, columnas o una cuadrícula uniforme.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-collection--collection-grid-1.svg)
 
 ### Diseño de colección regular↗
 
 Los elementos independientes se muestran en filas, columnas o en una cuadrícula consistente.](collection--collection-grid.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

@@ -36,9 +36,9 @@
 
 <a id="_R_2qrk_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -86,7 +86,7 @@
 
 [पोस्टर निर्माता](https://podplo.app/skills/poster-maker) एक विदाई पोस्टर में समूह फोटो, तिथियां, परियोजना का नाम और हस्ताक्षरित संदेश को जोड़ता है। एक स्पष्ट पदानुक्रम प्रत्येक व्यक्ति और साझा विवरण को पर्याप्त स्थान देता है।
 
-![स्वीकृत टीम की तस्वीर और विदाई प्रति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
+![स्वीकृत टीम-फ़ोटो और विदाई का टेक्स्ट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
 इनपुट
 

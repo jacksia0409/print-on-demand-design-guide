@@ -38,11 +38,11 @@ Remix レイアウト、名前の追加、またはホリデー バージョン�
 
 [![柔らかい水彩画のペットのポートレートのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-柔らかい水彩画のペットのポートレート](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Naive Marker ポートレート アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
+柔らかい水彩画のペットのポートレート](https://podplo.app/skills/soft-watercolor-pet-portrait)[![素朴なマーカー画ポートレートの作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
 
-ナイーブマーカーのポートレート](https://podplo.app/skills/naive-marker-portrait)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+素朴なマーカー画ポートレート](https://podplo.app/skills/naive-marker-portrait)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
-円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)[![花名フレームアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
+円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)[![花のネームフレームの作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
 花のネームフレーム](https://podplo.app/skills/floral-name-frame)
 
@@ -54,7 +54,7 @@ Remix レイアウト、名前の追加、またはホリデー バージョン�
 
 **デザインにホリデー風のひねりを加えましょう**](techniques/holiday-versions.md)[![スマートアウトペイント](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-**フレームを超えて画像を撮る**](techniques/change-ratio.md)[![4PC グリッドジェネレーター](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+**画像をフレームの外へ広げる**](techniques/change-ratio.md)[![4PC グリッドジェネレーター](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **1 つのアイデアをコレクションに変える**](techniques/series-builder.md)[![花のネームフレーム](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 

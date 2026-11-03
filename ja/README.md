@@ -16,7 +16,7 @@
 
 ## ひとつの画像から、無限の可能性。
 
-花を T シャツのグラフィックに、写真をポートレートに、名前をギフトに変えます。別の Skills を試して、同じ画像がどこに表示されるかを確認してください。
+花をTシャツの図案に、写真を肖像に、名前を贈り物に変えてみましょう。さまざまなSkillを試して、同じ画像から広がる創作を見つけてください。
 
 AI が生成した製品のモックアップ。
 
@@ -48,7 +48,7 @@ AI が生成した製品のモックアップ。
 
 柔らかい水彩画のペットのポートレート](https://podplo.app/skills/soft-watercolor-pet-portrait)[![シームレスなパターンのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
-シームレスパターン](https://podplo.app/skills/seamless-pattern)[![花名フレームアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
+シームレスパターン](https://podplo.app/skills/seamless-pattern)[![花のネームフレームの作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
 花のネームフレーム](https://podplo.app/skills/floral-name-frame)
 
@@ -56,7 +56,7 @@ AI が生成した製品のモックアップ。
 
 要素と画像
 
-## 原材料の種類
+## 元になる素材の種類
 
 独立した要素で構築されたレイアウト、バッジ、リピートから、完全な画像から開発された新しい構成やテーマに至るまで、さまざまなソースがどのように作業をガイドできるかをご覧ください。
 
@@ -84,7 +84,7 @@ Skill ができることを発見する](skills-and-asset-library.md)[![コン�
 
 **デザインを製品に合わせる**
 
-デザインの場所を探す](design-product-print-fit.md)[![背景除去剤](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+デザインの場所を探す](design-product-print-fit.md)[![背景除去](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 **イメージを洗練する**
 
@@ -128,7 +128,7 @@ Skill ができることを発見する](skills-and-asset-library.md)[![コン�
 
 **デザインにホリデー風のひねりを加えましょう**](techniques/holiday-versions.md)[![スマートアウトペイント](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-**フレームを超えて画像を撮る**](techniques/change-ratio.md)[![4PC グリッドジェネレーター](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+**画像をフレームの外へ広げる**](techniques/change-ratio.md)[![4PC グリッドジェネレーター](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **1 つのアイデアをコレクションに変える**](techniques/series-builder.md)[![花のネームフレーム](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -150,8 +150,8 @@ Skill ができることを発見する](skills-and-asset-library.md)[![コン�
 
 **感謝の贈り物**](gifts/gratitude.md)[![コンパクトなセンターレイアウト](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**サポートと励まし**](gifts/support-and-encouragement.md)[![細部の修理](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+**サポートと励まし**](gifts/support-and-encouragement.md)[![細部修復](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-**思い出と記念**](gifts/memories-and-memorials.md)[![コンパクトなセンターレイアウト](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+**思い出と追悼**](gifts/memories-and-memorials.md)[![コンパクトなセンターレイアウト](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 **個性と楽しさ**](gifts/personality-and-fun.md)

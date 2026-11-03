@@ -6,15 +6,15 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Sujet / DIRECTION CRÉATIVE / texte et image
+Composition centrée sur le sujet / DIRECTION CRÉATIVE / texte et image
 
 # Fond à motifs : local
 
-Relations entre le texte et le sujet : un patch décoratif se trouve derrière le contenu, laissant une zone à l'extérieur du patch.
+Relations entre texte et sujet : une zone décorative se trouve derrière le contenu, laissant de l’espace à l’extérieur de cette zone.
 
 <a id="understand"></a>
 
@@ -26,9 +26,9 @@ COMMENT LE RECONNAÎTRE
 
 ## Qu'est-ce qui définit cette direction
 
-Le patch peut être de forme régulière ou libre mais ne recouvre pas la toile. La décoration entourant principalement le contour extérieur est la décoration environnante ; garder le contenu principal dominant.
+La zone décorative peut être régulière ou de forme libre, mais ne couvre pas toute la toile. Une décoration qui entoure principalement le contour extérieur relève de la décoration périphérique ; conservez la prédominance du contenu principal.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Utilisez-le avec une image ou demandez à l'IA de réécrire votre invite d'imag
 
 **Orientation souhaitée**
 
-Mené par le sujet → Texte et relations entre les sujets → Contexte → Fond à motifs : local
+Composition centrée sur le sujet → Relations entre le texte et le sujet → Arrière-plan → Fond à motifs localisé
 
 **Entrée et sortie**
 
@@ -64,11 +64,11 @@ Conservez le thème central et les caractéristiques permettant de reconnaître 
 
 **Portée et limites**
 
-Le patch peut être de forme régulière ou libre mais ne recouvre pas la toile. La décoration entourant principalement le contour extérieur est la décoration environnante ; garder le contenu principal dominant.
+La zone décorative peut être régulière ou de forme libre, mais ne couvre pas toute la toile. Une décoration qui entoure principalement le contour extérieur relève de la décoration périphérique ; conservez la prédominance du contenu principal.
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Fond transparent : Relations entre le texte et le sujet : Le fond reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
@@ -76,7 +76,7 @@ Le patch peut être de forme régulière ou libre mais ne recouvre pas la toile.
 
 Relations entre texte et sujet : le fond reste transparent ; un damier n'est qu'un support d'affichage.](background--relationship--transparent.md)[![Fond uni : relations entre le texte et le sujet : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Relations entre le texte et le sujet : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--relationship--solid.md)[![Fond dégradé : Relations entre le texte et le sujet : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 

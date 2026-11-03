@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene--scene-story?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene--scene-story?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -52,7 +52,7 @@ Conservez le sujet principal et construisez autour de lui une action, une intera
 
 **Arrière-plan**
 
-Utilisez l’emplacement existant, les indices environnementaux et atmosphériques pour développer un cadre cohérent. S'il n'existe aucun arrière-plan ou si seul un support solide ou transparent est fourni, créez un environnement associé. Un motif décoratif ne doit pas à lui seul remplacer le contexte essentiel.
+Utilisez les indices de lieu, d’environnement et d’atmosphère existants pour développer un décor cohérent. Si aucun arrière-plan n’existe, ou si seul un fond uni ou transparent est fourni, créez un environnement apparenté. Un motif décoratif ne doit pas remplacer à lui seul le contexte essentiel.
 
 **Texte**
 
@@ -70,17 +70,17 @@ Les objets placés côte à côte ou contre une décoration ne constituent pas �
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
-[![Fond transparent : Scènes : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![Fond transparent : scènes : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fond transparent↗
 
-Scènes : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--scene--transparent.md)[![Fond uni : Scènes : Une couleur uniforme forme le sol ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Scènes : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--scene--transparent.md)[![Fond uni : scènes : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
-Scènes : Une couleur uniforme forme le sol ; le blanc est également un fond uni.](background--scene--solid.md)[![Fond dégradé : Scènes : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Scènes : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](background--scene--solid.md)[![Fond dégradé : Scènes : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Fond dégradé↗
 
@@ -104,7 +104,7 @@ Scènes : un environnement lié à un thème prend en charge le contenu princip
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Cadre environnemental : Un sujet et son environnement établissent une situation, avec ou sans action.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-environment-1.svg)
 

@@ -62,7 +62,7 @@
 
 [نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern) يحول اسم العميل إلى تكرار ديناصور مرح. يتم ضبط التباعد للأسماء القصيرة والطويلة، بحيث يبدو كل إصدار مخصصًا مع الحفاظ على نفس التصميم الأساسي.
 
-[![مثال لتخصيص اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
+[![مثال على تخصيص اسم في تصميم ديناصورات](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
 
 نمط اسم الديناصور
 
@@ -78,9 +78,9 @@
 
 [![مثال على العمل الفني لإطار اسم الأزهار](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="proofing"></a>
 

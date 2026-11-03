@@ -48,9 +48,9 @@
 
 कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)[![बैकग्राउंड रिमूवर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-पृष्ठभूमि हटानेवाला](https://podplo.app/skills/background-remover)[![विस्तृत मरम्मत कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+पृष्ठभूमि हटानेवाला](https://podplo.app/skills/background-remover)[![डिटेल रिपेयर की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-विस्तृत मरम्मत](https://podplo.app/skills/detail-repair)
+डिटेल रिपेयर](https://podplo.app/skills/detail-repair)
 
 <a id="templates"></a>
 
@@ -78,7 +78,7 @@
 
 पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)[![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="proofing"></a>
 
@@ -106,9 +106,9 @@
 
 <a id="_R_5mrk_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -150,6 +150,6 @@
 
 कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)[![बैकग्राउंड रिमूवर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-पृष्ठभूमि हटानेवाला](https://podplo.app/skills/background-remover)[![विस्तृत मरम्मत कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+पृष्ठभूमि हटानेवाला](https://podplo.app/skills/background-remover)[![डिटेल रिपेयर की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-विस्तृत मरम्मत](https://podplo.app/skills/detail-repair)
+डिटेल रिपेयर](https://podplo.app/skills/detail-repair)

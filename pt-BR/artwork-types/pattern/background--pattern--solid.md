@@ -14,7 +14,7 @@ Padrões / DIREÇÃO CRIATIVA / Padrões
 
 # Fundo sólido
 
-Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.
+Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo de cor uniforme.
 
 <a id="understand"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Estampas e padrões → Fundo → Fundo sólido
+Estampas e padrões → Fundo → Cor uniforme
 
 **Entrada e saída**
 
@@ -52,11 +52,11 @@ Mantenha a repetição do motivo ou a ordem decorativa. Se o subtipo escolhido e
 
 **Fundo**
 
-Escolha uma cor adequada do plano de fundo ou tema existente ou use uma cor específica. Se nenhum aterramento for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
+Escolha uma cor adequada do fundo ou tema existente, ou use uma cor especificada. Se nenhum fundo for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
 
 **Texto**
 
-Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma palavra ou frase curta relacionada ao tema como motivo de apoio. Quando for necessário ladrilho contínuo, inclua o texto na unidade de repetição e verifique a ortografia, a continuação das bordas e a legibilidade; caso contrário, não prometa perfeição. Respeite um pedido explícito de ausência de texto.
+Preserve as palavras claramente legíveis da fonte e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma palavra ou frase curta relacionada ao tema como motivo de apoio. Quando for necessária repetição sem emendas, inclua o texto no módulo de repetição e verifique a ortografia, a continuidade das bordas e a legibilidade; caso contrário, não prometa ausência de emendas. Respeite um pedido explícito de não incluir texto.
 
 **Preservar e adaptar**
 
@@ -68,23 +68,23 @@ Não adicione padrões, gradientes, texturas ou cenas ao fundo. Isso não restri
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Padrões: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
+[![Fundo transparente: padrões: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Padrões: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--pattern--transparent.md)[![Fundo gradiente: Padrões: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+Padrões: O fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--pattern--transparent.md)[![Fundo gradiente: Padrões: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Padrões: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--pattern--gradient.md)[![Fundo padronizado: local: Padrões: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
+Padrões: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--pattern--gradient.md)[![Fundo estampado: local: Padrões: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Padrões: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--pattern--pattern-local.md)[![Fundo padronizado: área completa: Padrões: Um fundo padronizado cobre a imagem atrás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-full-1.svg)
+Padrões: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--pattern--pattern-local.md)[![Fundo estampado: área completa: Padrões: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
 Padrões: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--pattern--pattern-full.md)
 

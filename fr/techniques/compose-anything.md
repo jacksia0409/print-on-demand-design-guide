@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Une image. Des possibilités infinies.
 
-Remix vos images et textes avec différents Skills. Essayez de nouvelles mises en page et transformez une idée en une gamme de designs.
+Remixez vos images et vos textes avec différents Skills. Essayez de nouvelles mises en page et déclinez une idée en une gamme de visuels.
 
 <a id="material-is-the-start"></a>
 
@@ -24,17 +24,17 @@ Remix vos images et textes avec différents Skills. Essayez de nouvelles mises e
 
 <a id="opaque-artwork"></a>
 
-[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) combine un sujet et une copie reconnaissables dans un graphique centré en gras.
+[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) combine un sujet reconnaissable et du texte dans un visuel centré affirmé.
 
-Commencez avec une image téléchargée ou un actif PodPlo. [Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) combine le sujet et la copie dans un graphique centré équilibré tout en gardant la source reconnaissable.
+Commencez avec une image téléchargée ou un actif PodPlo. [Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) combine le sujet et le texte dans un visuel centré équilibré tout en gardant la source reconnaissable.
 
 ### Construisez un graphique fort et centré
 
-[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) combine un sujet et une copie dans une forme dense et équilibrée. Une image source libre devient un graphique fortement centré avec un point focal clair.
+[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) combine un sujet et du texte en une forme dense et équilibrée. Une image source à la composition peu structurée devient un visuel centré affirmé avec un point focal clair.
 
-### Empilez un grand sujet et copiez
+### Empiler un sujet vertical et du texte
 
-[Disposition de la pile verticale](https://podplo.app/skills/vertical-stack-layout) organise un sujet grand et copie de haut en bas dans un ordre de lecture clair. La composition ouverte laisse l’arrière-plan visible autour de l’œuvre.
+[Disposition de la pile verticale](https://podplo.app/skills/vertical-stack-layout) organise un sujet élancé et du texte de haut en bas, dans un ordre de lecture clair. La composition ouverte laisse l’arrière-plan visible autour de l’illustration.
 
 ### Gardez la scène complète intacte
 
@@ -80,13 +80,13 @@ Disposition des badges circulaires](https://podplo.app/skills/circular-badge-lay
 
 ### Comparez un emblème avec une mise en page ouverte
 
-[Disposition des badges circulaires](https://podplo.app/skills/circular-badge-layout) enferme l'illustration et la copie dans un emblème complet, tandis que la disposition centrale compacte crée une forme ouverte plus dense. La même source peut sembler classique et contenue ou plus énergique et informelle.
+[Disposition des badges circulaires](https://podplo.app/skills/circular-badge-layout) enferme l’illustration et le texte dans un emblème complet, tandis que la mise en page centrale compacte crée une forme ouverte plus dense. La même source peut paraître classique et contenue ou plus énergique et informelle.
 
 ![Motif source unique](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Entrée
 
-[![Tuile de modèle sans couture reproductible](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Tuile de motif à raccords invisibles pouvant être répétée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Motif sans raccord visible
 
@@ -158,7 +158,7 @@ Conservez ensemble la source, Skill, et le résultat le plus fort. Cela facilite
 
 Illustration du flux de travail avec des exemples d'entrées et de valeurs.
 
-![Source, choix Skill et résultat favori](https://podplo.app/pod-guide/generated/records-result.webp)
+![Source, Skill choisi et résultat favori](https://podplo.app/pod-guide/generated/records-result.webp)
 
 Exemple
 

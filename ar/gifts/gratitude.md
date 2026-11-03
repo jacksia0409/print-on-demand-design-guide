@@ -24,7 +24,7 @@
 
 إن الصورة العائلية أو العبارة المشتركة أو قائمة الأسماء تجعل رسالة الشكر شخصية أكثر من كونها رسالة عامة. [صورة عائلية ثلاثية الأبعاد](https://podplo.app/skills/3d-family-portrait) ينشئ صورة جماعية مفعمة بالحيوية مع الحفاظ على الأشخاص والعلاقات في الصورة.
 
-[![صورة شكر عائلية ذات أبعاد](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![بورتريه شكر عائلي مجسم](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 صورة عائلية ثلاثية الأبعاد
 
@@ -52,9 +52,9 @@
 
 ## إضفاء الطابع الشخصي على تصميم الشكر
 
-الاسم أو الدور أو العنصر أو الرسالة القصيرة تجعل تصميم الشكر مدمجًا شخصيًا.
+يمنح الاسم أو الصفة أو المادة الدراسية أو الرسالة القصيرة تصميم شكر مدمجًا طابعًا شخصيًا.
 
-يمكن للاسم أو الدور أو الفريق أو العنصر أو الرسالة القصيرة تخصيص تصميم مدمج لشكر المعلم أو المدرب أو المرشد أو الزميل أو فريق الرعاية. التفاصيل المحددة تمنعها من الشعور بأنها عامة.
+يمكن تخصيص تصميم شكر مدمج لمعلم أو مدرب أو مرشد أو زميل أو فريق رعاية باستخدام اسم أو صفة أو فريق أو مادة دراسية أو رسالة قصيرة. تمنعه هذه التفاصيل المحددة من أن يبدو عامًا.
 
 [![تصميم تقدير مدمج](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
@@ -76,7 +76,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 
@@ -88,7 +88,7 @@
 
 [صانع الملصقات](https://podplo.app/skills/poster-maker) يجمع بين صورة جماعية وتواريخ واسم المشروع ورسالة موقعة في ملصق وداع واحد. يمنح التسلسل الهرمي الواضح مساحة كافية لكل شخص والتفاصيل المشتركة.
 
-![صورة الفريق المعتمدة ونسخة الوداع](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
+![صورة الفريق المعتمدة ونص الوداع](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
 الإدخال
 
@@ -112,7 +112,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 

@@ -20,7 +20,7 @@
 
 ### स्वरूप छोटा, व्यक्तित्व बड़ा
 
-स्पष्ट वर्ण, बोल्ड प्रतीक या संबंधित ग्राफ़िक्स के समूह का उपयोग करें जो अकेले या एक सेट के रूप में काम कर सकते हैं। स्पष्ट अभिव्यक्ति वाला शुभंकर; एक संक्षिप्त प्रतिक्रिया वाक्यांश; संबंधित चिह्नों का एक छोटा सा सेट.
+स्पष्ट पात्र, प्रभावशाली प्रतीक या संबंधित ग्राफ़िक्स का समूह चुनें, जो अकेले या सेट के रूप में काम कर सके। स्पष्ट हावभाव वाला शुभंकर; छोटा प्रतिक्रिया-वाक्यांश; संबंधित आइकन का छोटा सेट।
 
 ![स्टिकर और लेबल · रिक्त उत्पाद दृश्य](https://podplo.app/pod-guide/generated/stickers-blank.webp)
 
@@ -32,7 +32,7 @@
 
 ### एक छवि को स्टिकर सेट में बदलें
 
-चरित्र और सहायक वस्तुओं को निकालें, फिर उन्हें अलग-अलग ग्राफिक्स के समन्वित पैक के रूप में व्यवस्थित करें।
+पात्र और सहायक वस्तुओं को अलग निकालें, फिर उन्हें अलग-अलग ग्राफिक्स के एक सुसंगत पैक में सजाएँ।
 
 [स्टीकर एवं क्लिपआर्ट पैक](https://podplo.app/skills/sticker-clipart-pack)
 
@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-**अधिक लेआउट खोजें और Skills सेट करें**
+**लेआउट और सेट बनाने वाले अधिक Skills खोजें**
 
 <a id="_R_bf3k_-title"></a>
 
-#### अधिक लेआउट खोजें और Skills सेट करें
+#### लेआउट और सेट बनाने वाले अधिक Skills खोजें
 
 4 / 10
 
@@ -74,7 +74,7 @@
 
 [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)
 
-एंड्रिया
+ANDREA
 
 नाम
 
@@ -98,7 +98,7 @@
 
 [![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 उत्तरी ध्रुव का नाम पोस्टर](https://podplo.app/skills/north-pole-name-poster)[![क्रेयॉन हार्ट्स नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 

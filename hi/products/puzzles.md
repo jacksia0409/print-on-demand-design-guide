@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-### पारिवारिक फ़ोटो को हास्य कलाकृति में बदलें
+### पारिवारिक फ़ोटो को कॉमिक कलाकृति में बदलें
 
-प्रत्येक व्यक्ति को पहचानने योग्य रखते हुए एक हास्य पारिवारिक चित्र बनाएं।
+हर व्यक्ति को पहचानने योग्य रखते हुए कॉमिक्स शैली का पारिवारिक पोर्ट्रेट बनाएँ।
 
-[हास्य पारिवारिक चित्र](https://podplo.app/skills/comic-family-portrait)
+[कॉमिक्स शैली का पारिवारिक पोर्ट्रेट](https://podplo.app/skills/comic-family-portrait)
 
 ![कॉमिक फैमिली पोर्ट्रेट · स्रोत फोटो](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-before.webp)
 
@@ -76,9 +76,9 @@
 
 <a id="_R_bn3k_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 

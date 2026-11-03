@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,15 +18,15 @@ Trouvez l'inspiration pour des T-shirts, des gobelets, des décorations murales 
 
 Découvrez à quoi ressemble le même motif floral sur un T-shirt et un gobelet. Un produit différent peut donner un nouveau look à un design familier.
 
-[![Oeuvre florale sans couture](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Visuel floral à raccords invisibles](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Oeuvre
 
-![Aperçu du T-shirt AI de la répétition florale](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
+![Aperçu généré par IA du motif floral répété sur un t-shirt](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
 
 Aperçu du tee-shirt
 
-![Aperçu IA de la même répétition florale](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![Aperçu généré par IA du même motif floral sur un gobelet](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
 Aperçu du gobelet
 
@@ -40,7 +40,7 @@ Aperçu du gobelet
 
 <a id="_R_mrk_-cards"></a>
 
-[![Exemple d'illustration de modèle sans couture](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+[![Exemple de visuel « Motif à raccords invisibles »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 Motif sans raccord visible](https://podplo.app/skills/seamless-pattern)[![Exemple d'illustration de disposition centrale compacte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
@@ -108,7 +108,7 @@ Dites-le avec une carte personnalisée](products/greeting-cards.md)[![Couverture
 
 **Couvertures**
 
-Terminez par un souvenir préféré](products/blankets.md)[![Oreillers et coussins](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
+Blottissez-vous dans un souvenir cher](products/blankets.md)[![Oreillers et coussins](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
 
 **Oreillers et coussins**
 
@@ -116,9 +116,9 @@ Ajoutez une touche personnelle à n'importe quelle pièce](products/pillows.md)[
 
 **Ornements et attrape-soleil**
 
-Des petits souvenirs pour de grands moments](products/ornaments.md)[![Des énigmes](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)
+Des petits souvenirs pour de grands moments](products/ornaments.md)[![Puzzles](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)
 
-**Des énigmes**
+**Puzzles**
 
 Un souvenir, morceau par morceau](products/puzzles.md)[![Tapis d'alimentation pour animaux de compagnie](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606560394791670.webp)
 
@@ -128,8 +128,8 @@ S'approprier l'heure du repas](products/pet-products.md)[![Papier d'emballage](h
 
 **Papier d'emballage**
 
-Intégrez l’emballage au cadeau](products/wrapping-paper.md)[![Fond d'écran](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
+Intégrez l’emballage au cadeau](products/wrapping-paper.md)[![Papier peint](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
 
-**Fond d'écran**
+**Papier peint**
 
 Un seul motif. Une toute nouvelle salle.](products/wallpaper.md)

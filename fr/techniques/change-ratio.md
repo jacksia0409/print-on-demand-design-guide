@@ -6,21 +6,21 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/change-ratio?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/change-ratio?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Faites sortir votre image du cadre
 
-Prolongez une scène en repeignant ou réorganisez la composition. Explorez une vision plus large de la même idée.
+Prolongez une scène par extension d’image ou réorganisez la composition. Explorez une vue plus large de la même idée.
 
 <a id="extend-scene"></a>
 
 ## Étendre la scène à une nouvelle forme
 
-[Peinture intelligente](https://podplo.app/skills/smart-outpaint) étend une scène complète en une image plus large, plus haute ou plus spacieuse.
+[Extension d’image intelligente](https://podplo.app/skills/smart-outpaint) étend une scène complète en une image plus large, plus haute ou plus spacieuse.
 
-[Peinture intelligente](https://podplo.app/skills/smart-outpaint) ajoute plus de ciel, de paysage, d'espace intérieur ou d'atmosphère autour d'une scène complète sans étirer le sujet. L'image peut devenir plus large, plus haute ou simplement plus spacieuse.
+[Extension d’image intelligente](https://podplo.app/skills/smart-outpaint) ajoute plus de ciel, de paysage, d'espace intérieur ou d'atmosphère autour d'une scène complète sans étirer le sujet. L'image peut devenir plus large, plus haute ou simplement plus spacieuse.
 
 ![Scène originale à son ratio source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6-before.webp)
 
@@ -28,7 +28,7 @@ Entrée
 
 [![Scène naturellement étendue à un nouveau ratio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)](https://podplo.app/skills/smart-outpaint)
 
-Peinture intelligente
+Extension d’image intelligente
 
 **Plus de Skills à explorer**
 
@@ -40,11 +40,11 @@ Peinture intelligente
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Exemple d'illustration de réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Exemple de visuel « Réparation des détails »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Réparation détaillée](https://podplo.app/skills/detail-repair)[![Exemple d'illustration HD haut de gamme](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Réparation des détails](https://podplo.app/skills/detail-repair)[![Exemple de visuel « Agrandissement HD »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD haut de gamme](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Agrandissement HD](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)
 
@@ -52,9 +52,9 @@ Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)
 
 ## Reconstruire la mise en page pour une nouvelle forme
 
-[Créateur d'affiches](https://podplo.app/skills/poster-maker) réorganise la même illustration et copie pour une nouvelle forme de toile.
+[Créateur d'affiches](https://podplo.app/skills/poster-maker) réorganise la même illustration et le même texte pour une nouvelle forme de toile.
 
-[Créateur d'affiches](https://podplo.app/skills/poster-maker) repositionne le titre, le sujet et la ligne de support pour une nouvelle forme au lieu de simplement recadrer l'ancienne image. Le texte et le sujet restent les mêmes tandis que la hiérarchie change.
+[Créateur d'affiches](https://podplo.app/skills/poster-maker) repositionne le titre, le sujet et la ligne d’accompagnement pour une nouvelle forme, au lieu de simplement recadrer l’ancienne image. Le texte et le sujet restent identiques tandis que la hiérarchie change.
 
 ![Matériel source avant recomposition](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
@@ -88,15 +88,15 @@ Disposition des badges circulaires](https://podplo.app/skills/circular-badge-lay
 
 ## Retravailler le design en un emblème compact
 
-[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) transforme les illustrations détachées et les copies en un emblème propre et compact.
+[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) transforme une illustration et du texte peu structurés en un emblème net et compact.
 
-[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) rassemble un sujet et une copie dans une composition transparente compacte plutôt que d'ajouter plus de décor. Un design large ou ample devient un graphique clair semblable à un emblème.
+[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) rassemble un sujet et du texte dans une composition compacte à fond transparent plutôt que d’ajouter du décor. Une création large ou peu structurée devient un visuel clair semblable à un emblème.
 
 ![Illustration et formulation avant la mise en page des vêtements](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
 Entrée
 
-[![Composition de vêtements compacte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![Composition compacte pour vêtement](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
 Disposition centrale compacte
 

@@ -10,7 +10,7 @@
 
 <a id="guide-main"></a>
 
-Composição centrada no tema principal / DIREÇÃO CRIATIVA
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA
 
 # Forma fragmentada e deslocada
 
@@ -30,7 +30,7 @@ Conexões realistas são opcionais. Quando os fragmentos não sugerirem mais um 
 
 O tratamento funciona em torno de um sujeito ou grupo identificável.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -42,7 +42,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Liderado por assunto → Tratamentos de assunto compartilhados → Forma fragmentada e deslocada
+Composição guiada pelo elemento principal → Tratamentos compartilhados do elemento principal → Forma fragmentada e deslocada
 
 **Entrada e saída**
 
@@ -50,7 +50,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Divida o assunto em partes estruturalmente significativas e introduza lacunas, mudanças ou rearranjos controlados. Mantenha formas e relações posicionais suficientes para sugerir o objeto original.
+Divida o elemento principal em partes estruturalmente significativas e introduza espaços, deslocamentos ou rearranjos controlados. Preserve relações suficientes de forma e posição para sugerir o objeto original.
 
 **Fundo**
 
@@ -70,24 +70,24 @@ Conexões realistas são opcionais. Quando os fragmentos não sugerirem mais um 
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Forma base reconhecível: O sujeito possui uma forma familiar e legível que fornece uma referência para outros tratamentos.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
+[![Forma-base reconhecível: o elemento principal tem uma forma familiar e legível que serve de referência para outros tratamentos visuais.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
 
-### Formulário base reconhecível↗
+### Forma-base reconhecível↗
 
-O assunto tem uma forma familiar e legível que fornece referência para outros tratamentos.](transformation--transform-original.md)[![Proporções exageradas: Partes do objeto são alongadas, comprimidas ou ampliadas enquanto permanecem identificáveis.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-distort-1.svg)
+O elemento principal tem uma forma familiar e legível que serve de referência para outros tratamentos visuais.](transformation--transform-original.md)[![Proporções exageradas: Partes do elemento principal são alongadas, comprimidas ou ampliadas, mantendo-o identificável.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-distort-1.svg)
 
 ### Proporções exageradas↗
 
-Partes do assunto são alongadas, comprimidas ou ampliadas enquanto permanecem identificáveis.](transformation--transform-distort.md)[![Simplificação geométrica: Formas geométricas simples descrevem as características essenciais de um objeto identificável.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-geometry-1.svg)
+Partes do elemento principal são alongadas, comprimidas ou ampliadas, mantendo-o identificável.](transformation--transform-distort.md)[![Simplificação geométrica: Formas geométricas simples descrevem as características essenciais de um objeto identificável.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-geometry-1.svg)
 
 ### Simplificação geométrica↗
 
-Formas geométricas simples descrevem as características essenciais de um objeto identificável.](transformation--transform-geometry.md)[![Simplificação de linhas: Um pequeno número de linhas retém os contornos essenciais do assunto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-line-1.svg)
+Formas geométricas simples descrevem as características essenciais de um objeto identificável.](transformation--transform-geometry.md)[![Simplificação por linhas: Poucas linhas preservam os contornos essenciais do elemento principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-line-1.svg)
 
 ### Simplificação de linha↗
 
-Um pequeno número de linhas retém os contornos essenciais do assunto.](transformation--transform-line.md)
+Poucas linhas preservam os contornos essenciais do elemento principal.](transformation--transform-line.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

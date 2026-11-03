@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Sujet / DIRECTION CRÉATIVE / texte et image
+Composition centrée sur le sujet / DIRECTION CRÉATIVE / texte et image
 
 # Fond texturé
 
@@ -28,7 +28,7 @@ COMMENT LE RECONNAÎTRE
 
 Un support texturé ne doit pas automatiquement devenir un objet indépendant ou une scène narrative à part entière. Dans la catégorie texture, distinguez le fragment de surface principal de son support.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Utilisez-le avec une image ou demandez à l'IA de réécrire votre invite d'imag
 
 **Orientation souhaitée**
 
-Dirigé par le sujet → Texte et relations entre les sujets → Arrière-plan → Fond texturé
+Composition centrée sur le sujet → Relations entre le texte et le sujet → Arrière-plan → Fond texturé
 
 **Entrée et sortie**
 
@@ -68,7 +68,7 @@ Un support texturé ne doit pas automatiquement devenir un objet indépendant ou
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Fond transparent : Relations entre le texte et le sujet : Le fond reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
@@ -76,7 +76,7 @@ Un support texturé ne doit pas automatiquement devenir un objet indépendant ou
 
 Relations entre texte et sujet : le fond reste transparent ; un damier n'est qu'un support d'affichage.](background--relationship--transparent.md)[![Fond uni : relations entre le texte et le sujet : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Relations entre le texte et le sujet : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--relationship--solid.md)[![Fond dégradé : Relations entre le texte et le sujet : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
@@ -86,6 +86,6 @@ Relations entre le texte et le sujet : le support change continuellement de cou
 
 ### Fond à motifs : local↗
 
-Relations entre le texte et le sujet : un patch décoratif se trouve derrière le contenu, laissant une zone à l'extérieur du patch.](background--relationship--pattern-local.md)
+Relations entre texte et sujet : une zone décorative se trouve derrière le contenu, laissant de l’espace à l’extérieur de cette zone.](background--relationship--pattern-local.md)
 
 Des études codées comparent la composition et les traitements visuels ; les exemples de médias et de styles sont conceptuels. Ces directions n'ont pas été testées individuellement avec des modèles d'images. Vérifiez le texte généré, la transparence et les bords répétés.

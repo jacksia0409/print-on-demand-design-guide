@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-KUNSTFORMULAR · 04 / 05
+GESTALTUNGSFORM · 04 / 05
 
 # Texturen
 
@@ -20,7 +20,7 @@ Der Oberflächencharakter steht im Mittelpunkt: natürliche Materialien, Fasern,
 
 <a id="texture-design"></a>
 
-## Texturzusammensetzung und Behandlungen
+## Texturkomposition und Gestaltung
 
 <a id="forms"></a>
 
@@ -168,9 +168,9 @@ Mischen Sie Erdklumpen unterschiedlicher Größe mit offenen Poren, um eine lock
 
 <a id="form-exp-13-1-3"></a>
 
-![Gebrochener Schlamm – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-1-3.svg)
+![Rissiger Schlamm – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-1-3.svg)
 
-##### Gebrochener Schlamm
+##### Rissiger Schlamm
 
 Teilen Sie die Fläche in unregelmäßige Polygone mit verzweigten Schwindrissen auf.
 
@@ -242,7 +242,7 @@ Erstellen Sie ein netzartiges Grundmuster aus Gefrier- und Kontraktionsspuren.
 
 <a id="texture-group-word-13-2"></a>
 
-#### Wassereis- und Luftspuren
+#### Wasser, Eis und Luftspuren
 
 Vergleichen Sie Wasser-, Eis- und Luftspuren anhand von Strömungsmuster, Tröpfchenform, Kondensation, Schaum, Frost, Bruch, Nebel und schwebender Bewegung.
 
@@ -266,9 +266,9 @@ Erweitern Sie kreisförmige Wellen von einem oder mehreren Punkten nach außen.
 
 ![Sich kreuzende Wellen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-2-2.svg)
 
-##### Überquerende Wellen
+##### Sich kreuzende Wellen
 
-Kreuzige Wellen, die sich in verschiedene Richtungen bewegen, um einen netzartigen Rhythmus zu erzeugen.
+Kreuzen Sie Wellen aus verschiedenen Richtungen, um einen netzartigen Rhythmus zu erzeugen.
 
 <a id="form-exp-13-2-3"></a>
 
@@ -328,11 +328,11 @@ Verwenden Sie lose Schneekörner und kleine Schatten, um eine fein strukturierte
 
 <a id="form-exp-13-2-10"></a>
 
-![Nebliges Getreidefeld – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-2-10.svg)
+![Nebliges Körnungsfeld – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-2-10.svg)
 
-##### Nebliges Getreidefeld
+##### Nebliges Körnungsfeld
 
-Kombinieren Sie sanfte Wertänderungen mit feiner Körnung, um schwebende Luftfeuchtigkeit zu suggerieren.
+Kombinieren Sie sanfte Tonwertänderungen mit feiner Körnung, um schwebende Feuchtigkeit in der Atmosphäre anzudeuten.
 
 <a id="form-exp-13-2-11"></a>
 
@@ -348,7 +348,7 @@ Bilden Sie eine kontinuierliche Textur aus kräuselndem Rauch und wechselnder Tr
 
 #### Pflanzenstrukturen
 
-Vergleichen Sie pflanzliche Texturen anhand von Holzmaserung, Ringen, Rinde, Adern, Wachs, Poren, Haaren, Fasern, Kiemen, Samen und Kernen.
+Vergleichen Sie pflanzliche Texturen anhand von Holzmaserung, Jahresringen, Rinde, Blattadern, Wachs, Poren, Härchen, Fasern, Lamellen, Samen und Kernen.
 
 <a id="form-exp-13-3-0"></a>
 
@@ -432,11 +432,11 @@ Unterbrechen Sie längs verlaufende Bambusfasern durch deutlich sichtbare horizo
 
 <a id="form-exp-13-3-10"></a>
 
-![Pilzkiemen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-10.svg)
+![Pilzlamellen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-10.svg)
 
-##### Pilzkiemen
+##### Pilzlamellen
 
-Spreizen Sie dicht gepackte, dünne Kiemen von der Mitte oder dem Kappenrand nach außen.
+Lassen Sie dicht angeordnete, dünne Lamellen von der Mitte oder vom Hutrand nach außen verlaufen.
 
 <a id="form-exp-13-3-11"></a>
 
@@ -468,7 +468,7 @@ Bauen Sie aus kurzen und dicht gepackten Haaren eine weiche, ebene Oberfläche a
 
 ##### Langer Fellfluss
 
-Gruppieren Sie längere Strähnen nach Richtung und markieren Sie sie, um fließendes Fell zu beschreiben.
+Gruppieren Sie längere Fellsträhnen nach Verlauf und Glanzlichtern, um fließendes Fell darzustellen.
 
 <a id="form-exp-13-4-2"></a>
 
@@ -484,7 +484,7 @@ Konstruieren Sie lockiges Fell aus Schlingen, Büscheln und verflochtenen Strän
 
 ##### Geschichtete Federn
 
-Überlappende Federflügel in Richtungsschichten um jeden zentralen Schaft herum.
+Überlagern Sie Federfahnen in gerichteten Schichten um jeden mittigen Federschaft.
 
 <a id="form-exp-13-4-4"></a>
 
@@ -492,7 +492,7 @@ Konstruieren Sie lockiges Fell aus Schlingen, Büscheln und verflochtenen Strän
 
 ##### Fischschuppen
 
-Überlappen Sie Plattfischschuppen in versetzter Reihenfolge.
+Überlagern Sie flache Fischschuppen in versetzter Folge.
 
 <a id="form-exp-13-4-5"></a>
 
@@ -532,13 +532,13 @@ Kombinieren Sie winzige Rillen und Poren zu einer flexiblen Hautoberfläche.
 
 ##### Ledernarbung
 
-Bauen Sie den Materialcharakter aus körnigem Fell und natürlichen Falten auf.
+Gestalten Sie den Materialcharakter mit genarbtem Leder und natürlichen Falten.
 
 <a id="form-exp-13-4-10"></a>
 
-![Detail des Leopardenmantels – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-10.svg)
+![Detail eines Leopardenfells – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-10.svg)
 
-##### Manteldetail mit Leopardenmuster
+##### Detail eines Leopardenfells
 
 Bedecken Sie das lokale Fell mit unregelmäßigen festen Flecken und ringförmigen Rosetten.
 
@@ -556,7 +556,7 @@ Krümmen Sie Streifen mit der lokalen Körperoberfläche und bewahren Sie dabei 
 
 #### Papieroberflächen
 
-Vergleichen Sie Papieroberflächen nach Beschichtung, Faser, recyceltem Inhalt, geriffelten Kanten, Wellung, Knitterung, Prägung, Rissen, Wasserflecken und Alterung.
+Vergleichen Sie Papieroberflächen anhand von Beschichtung, Fasern, Recyclinganteil, Büttenrändern, Wellung, Knitterung, Prägung, Rissen, Wasserflecken und Alterung.
 
 <a id="form-exp-13-5-0"></a>
 
@@ -572,7 +572,7 @@ Sorgen Sie dafür, dass die Oberfläche des beschichteten Papiers fein und gleic
 
 ##### Baumwoll-Aquarellpapier
 
-Zeigen ausgeprägtes Papierrelief und Körnung, die durch absorbiertes Wasser entstanden sind.
+Zeigen Sie ein ausgeprägtes Papierrelief und durch aufgenommenes Wasser entstandene Körnung.
 
 <a id="form-exp-13-5-2"></a>
 
@@ -596,7 +596,7 @@ Geben Sie der warmen braunen Papierbasis sichtbare Fasern und eine grobe Körnun
 
 ##### Recycelte Fasern
 
-Streuen Sie kurze Fasern und Fragmente unterschiedlicher Farbe durch die recycelte Folie.
+Verteilen Sie kurze Fasern und verschiedenfarbige Fragmente im Recyclingpapierbogen.
 
 <a id="form-exp-13-5-5"></a>
 
@@ -604,7 +604,7 @@ Streuen Sie kurze Fasern und Fragmente unterschiedlicher Farbe durch die recycel
 
 ##### Handgeschöpftes Büttenpapier
 
-Kombinieren Sie ungleichmäßige Blechdicken mit einer natürlich gefiederten Büttenkante.
+Kombinieren Sie ungleichmäßige Papierdicke mit einer natürlich ausgefaserten Büttenkante.
 
 <a id="form-exp-13-5-6"></a>
 
@@ -612,7 +612,7 @@ Kombinieren Sie ungleichmäßige Blechdicken mit einer natürlich gefiederten B�
 
 ##### Wellabschnitt
 
-Legen Sie eine durchgehende Wellwelle zwischen flache Papierhäute.
+Legen Sie eine durchgehende gewellte Papierlage zwischen zwei flache Papierdeckschichten.
 
 <a id="form-exp-13-5-7"></a>
 
@@ -724,7 +724,7 @@ Ineinandergreifende Endlosschlaufen ergeben eine flexible Strickstruktur.
 
 ##### Rippenstricken
 
-Abwechselnd erhabene und vertiefte vertikale Bänder auf einer gerippten Oberfläche.
+Lassen Sie auf einer Rippstrickoberfläche erhabene und vertiefte vertikale Streifen abwechseln.
 
 <a id="form-exp-13-6-8"></a>
 
@@ -794,7 +794,7 @@ Flechten oder verknoten Sie dickere Schnüre zu einer tragfähigen Seil- oder Ne
 
 <a id="texture-group-word-13-7"></a>
 
-#### Holzmauerwerk und Lehm
+#### Holz, Mauerwerk und Ton
 
 Vergleichen Sie bearbeitete Holz-, Mauerwerks- und Tonoberflächen durch Schneiden, Polieren, Brennen, Fugen, Poren, Absplitterungen, Glasur und Risse.
 
@@ -848,9 +848,9 @@ Lassen Sie die Spachtelrichtung und die ungleichmäßige Dicke die Putzstruktur 
 
 <a id="form-exp-13-7-6"></a>
 
-![Ziegelverbindungen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-7-6.svg)
+![Ziegelfugen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-7-6.svg)
 
-##### Ziegelverbindungen
+##### Ziegelfugen
 
 Sorgen Sie dafür, dass Ziegelflächen und versenkte Mörtelfugen als eine modulare Mauerwerksstruktur wirken.
 
@@ -916,7 +916,7 @@ Führen Sie feine parallele Kratzer über das Metall, um eine gerichtete Reflexi
 
 ##### Spiegelmetall
 
-Verwenden Sie helle Glanzlichter und klare Reflexionen, um eine glatte Hartmetalloberfläche zu beschreiben.
+Verwenden Sie helle Glanzlichter und klare Spiegelungen, um eine glatte, harte Metalloberfläche darzustellen.
 
 <a id="form-exp-13-8-2"></a>
 
@@ -1002,9 +1002,9 @@ Wiederholen Sie regelmäßige transparente Blasen als erhabene Filmoberfläche.
 
 <a id="texture-group-word-13-9"></a>
 
-#### Oberflächen bemalen und bedrucken
+#### Mal- und Druckoberflächen
 
-Vergleichen Sie Farb- und Druckoberflächen anhand von Pigmentfluss, Ablagerungen, Werkzeugmarkierungen, Sieben, geätzten Linien, Toner, Registrierung, gerollter Tinte und Stempelung.
+Vergleichen Sie Mal- und Druckoberflächen anhand von Pigmentverläufen, Farbaufbau, Werkzeugspuren, Siebdruckrastern, geätzten Linien, Toner, Passergenauigkeit, gewalzter Farbe und Stempeldruck.
 
 <a id="form-exp-13-9-0"></a>
 
@@ -1024,11 +1024,11 @@ Hinterlassen Sie dunkle Ringränder und wässrige Spuren an den Stellen, an dene
 
 <a id="form-exp-13-9-2"></a>
 
-![Impasto-Kämme – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-2.svg)
+![Pastose Farberhebungen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-2.svg)
 
-##### Impastofarbene Grate
+##### Pastose Farberhebungen
 
-Behalten Sie erhabene Pinsel- oder Messerkanten bei dick aufgetragener Farbe bei.
+Bewahren Sie erhabene Pinsel- oder Malmesserspuren in dick aufgetragener Farbe.
 
 <a id="form-exp-13-9-3"></a>
 
@@ -1060,7 +1060,7 @@ Lassen Sie eine unterbrochene Pastellabdeckung dort, wo sich die Puderkörner un
 
 ##### Holzschnitt-Werkzeugspuren
 
-Kombinieren Sie die Richtung des geschnitzten Werkzeugs mit der verbleibenden Holzmaserung auf der bedruckten Oberfläche.
+Kombinieren Sie die Richtung der Schnitzspuren mit der erhaltenen Holzmaserung auf der Druckfläche.
 
 <a id="form-exp-13-9-7"></a>
 
@@ -1072,9 +1072,9 @@ Verwenden Sie dichte Gravurlinien und Tintenablagerungen, um einen Tiefdruckchar
 
 <a id="form-exp-13-9-8"></a>
 
-![Gebrochene Bildschirmtinte – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-8.svg)
+![Unterbrochener Siebdruckfarbauftrag – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-8.svg)
 
-##### Defekte Siebdruckfarbe
+##### Unterbrochener Siebdruckfarbauftrag
 
 Zeigen Sie Löcher, ausgefranste Kanten und stellenweise unvollständige Abdeckung innerhalb der Siebdruckfarbe.
 
@@ -1084,13 +1084,13 @@ Zeigen Sie Löcher, ausgefranste Kanten und stellenweise unvollständige Abdecku
 
 ##### Halbtonkörner
 
-Erstellen Sie einen Ton durch die Größe und Dichte der gedruckten Rasterpunkte.
+Erzeugen Sie Tonwerte durch Größe und Dichte gedruckter Rasterpunkte.
 
 <a id="form-exp-13-9-10"></a>
 
-![Falsch registrierte Farbe – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-10.svg)
+![Farbe mit Passerversatz – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-10.svg)
 
-##### Falsch registrierte Farbe
+##### Farbe mit Passerversatz
 
 Versetzen Sie einzelne Farbplatten leicht, sodass an ihren Rändern Farbsäume entstehen.
 
@@ -1104,9 +1104,9 @@ Kombinieren Sie schwarze Tonerpartikel, Grauschleier und fehlende Bereiche zu ei
 
 <a id="form-exp-13-9-12"></a>
 
-![Gerollte Tinte – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-12.svg)
+![Farbauftrag mit der Walze — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-12.svg)
 
-##### Gerollte Tinte
+##### Farbauftrag mit der Walze
 
 Hinterlassen Sie Streifen und Deckungsunterschiede, wenn die Tinte ungleichmäßig gerollt wurde.
 
@@ -1116,7 +1116,7 @@ Hinterlassen Sie Streifen und Deckungsunterschiede, wenn die Tinte ungleichmäß
 
 ##### Ungleichmäßiger Stempel
 
-Verwenden Sie ungleichmäßigen Druck, um hellere Bereiche und fehlende Lücken im geprägten Abdruck zu erzeugen.
+Verwenden Sie ungleichmäßigen Druck, um hellere Stellen und Fehlstellen im Stempelabdruck zu erzeugen.
 
 <a id="texture-panel-word-13-10"></a>
 
@@ -1176,9 +1176,9 @@ Lassen Sie die Oberfläche pudrig werden, während sich ihre Farbe und Grenzen a
 
 <a id="form-exp-13-10-6"></a>
 
-![Verblassen der Sonne – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-6.svg)
+![Ausbleichen durch Sonnenlicht — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-6.svg)
 
-##### Die Sonne verblasst
+##### Ausbleichen durch Sonnenlicht
 
 Reduzieren Sie die Farbe ungleichmäßig nach Region oder entlang einer einheitlichen Belichtungsrichtung.
 
@@ -1220,7 +1220,7 @@ Als sichtbare Altersspuren nutzen Sie fleckigen Bewuchs und erodierte Grübchen.
 
 ##### Faltspuren
 
-Zeigen Sie wiederholte Faltungen durch Wertänderungen, Knicke und lokale Brüche an.
+Machen Sie wiederholtes Falten durch Tonwertänderungen, Knicke und örtliche Bruchstellen sichtbar.
 
 <a id="form-exp-13-10-12"></a>
 
@@ -1256,9 +1256,9 @@ Bedecken Sie das Feld mit feinen Körnern nahezu gleicher Intensität.
 
 <a id="form-exp-13-11-1"></a>
 
-![Grober Lärm – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-11-1.svg)
+![Grobes Bildrauschen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-11-1.svg)
 
-##### Grober Lärm
+##### Grobes Bildrauschen
 
 Verwenden Sie größere Körner, um sichtbare Veränderungen in Dichte und Grobheit zu erzielen.
 
@@ -1282,7 +1282,7 @@ Verschachteln Sie einen begrenzten Satz Pixelfarben, um Zwischentöne zu simulie
 
 ![Scanlinien – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-11-4.svg)
 
-##### Zeilen scannen
+##### Scanlinien
 
 Führen Sie feine parallele Linien über das Feld, um ein Scannen oder einen Anzeigebildschirm anzudeuten.
 
@@ -1348,7 +1348,7 @@ Konvertieren Sie abgestufte Zahlenwerte in kontinuierliche Konturlinien.
 
 VISUELLE FORMEN · 24
 
-### Zusammensetzung
+### Komposition
 
 <a id="texture-composition-panel-word-13-12"></a>
 
@@ -1400,9 +1400,9 @@ Lassen Sie die Textur allmählich von den Außenkanten des Rahmens eintreten.
 
 <a id="form-exp-13-12-5"></a>
 
-![Vierseitiges Gehäuse – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-5.svg)
+![Vierseitige Einfassung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-5.svg)
 
-##### Vierseitiges Gehäuse
+##### Vierseitige Einfassung
 
 Wickeln Sie die Textur um die Ränder und lassen Sie die Mitte offen.
 
@@ -1440,17 +1440,17 @@ Zeigen Sie in jeder einzelnen Zone eine andere Materialtextur an.
 
 <a id="form-exp-13-12-10"></a>
 
-![Textur innerhalb eines Subjekts – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-10.svg)
+![Textur innerhalb eines Motivs — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-10.svg)
 
 ##### Textur innerhalb eines Motivs
 
-Beschränken Sie die Textur auf eine erkennbare Silhouette, damit sie zur visuellen Behandlung des Motivs wird.
+Begrenzen Sie die Textur auf eine erkennbare Silhouette, sodass sie die visuelle Gestaltung des Motivs bestimmt.
 
 <a id="form-exp-13-12-11"></a>
 
-![Fragment zur Transparenz – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-11.svg)
+![Fragment auf transparentem Hintergrund – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-11.svg)
 
-##### Fragment zur Transparenz
+##### Fragment auf transparentem Hintergrund
 
 Behalten Sie die Textur innerhalb eines lokalen Fragments und belassen Sie alles darüber hinaus auf einem echten Alpha-Kanal.
 
@@ -1458,7 +1458,7 @@ Behalten Sie die Textur innerhalb eines lokalen Fragments und belassen Sie alles
 
 <a id="texture-composition-group-word-13-13"></a>
 
-#### Skalendichte und -richtung
+#### Maßstab, Dichte und Richtung
 
 Vergleichen Sie die Texturorganisation anhand von Betrachtungsmaßstab, Grob-Fein-Kontrast, Dichte, Größe, Richtung, Fluss, kontrollierter Zufälligkeit, regelmäßiger Wiederholung und nichtperiodischer Kontinuität.
 
@@ -1496,11 +1496,11 @@ Reduzieren Sie Partikel oder Markierungen schrittweise von einem dichten Bereich
 
 <a id="form-exp-13-13-4"></a>
 
-![Skalengradient – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-13-4.svg)
+![Größenverlauf — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-13-4.svg)
 
 ##### Skalierungsverlauf
 
-Erhöhen Sie die Textureinheiten schrittweise von klein nach groß.
+Vergrößern Sie die Texturelemente schrittweise von klein zu groß.
 
 <a id="form-exp-13-13-5"></a>
 
@@ -1516,7 +1516,7 @@ Richten Sie Fasern, Kratzer oder Maserungen entlang einer gemeinsamen Richtung a
 
 ##### Kreuzungsrichtungen
 
-Kreuztexturen, die sich in verschiedene Richtungen übereinander bewegen.
+Lassen Sie Texturen mit unterschiedlichen Verlaufsrichtungen einander kreuzen.
 
 <a id="form-exp-13-13-7"></a>
 
@@ -1544,7 +1544,7 @@ Erlauben Sie zufällige Variationen und bewahren Sie gleichzeitig die Gesamtdich
 
 <a id="form-exp-13-13-10"></a>
 
-![Regelmäßige Wiederholung – visuelles Studium](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-13-10.svg)
+![Regelmäßige Wiederholung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-13-10.svg)
 
 ##### Regelmäßige Wiederholung
 
@@ -1564,9 +1564,9 @@ Erweitern Sie die Textur kontinuierlich, ohne eine offensichtliche periodische E
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -1578,11 +1578,11 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Übersetzen Sie relevante Farbpaletten, Materialien und Atmosphären in oberflächenorientierte Kunstwerke. Verwenden Sie vollständige Abdeckung, lokale Fragmente oder Ebenen und reduzieren Sie nicht zusammenhängende Objekte, die zu unabhängigen Fokusthemen werden würden.
+Übertragen Sie relevante Farbpalette, Material und Atmosphäre in eine oberflächenbetonte Gestaltung. Nutzen Sie vollständige Abdeckung, örtlich begrenzte Fragmente oder Schichten und reduzieren Sie unpassende Objekte, die zu eigenständigen Hauptmotiven würden.
 
 **Hintergrund**
 
-Referenzmaterial, Farbpalette und Atmosphäre, um bei Fehlen eine relevante Oberflächenbehandlung zu schaffen. Ein lokaler Patch kann eine separate Unterstützung haben; eine vollflächige Textur verschmilzt mit dem Untergrund. Vermeiden Sie das Hinzufügen eines dominanten Objekts oder einer narrativen Umgebung.
+Orientieren Sie sich an Material, Farbpalette und Atmosphäre und gestalten Sie bei fehlender Vorlage eine passende Oberfläche. Eine örtlich begrenzte Texturfläche kann einen eigenen Hintergrund haben; eine vollflächige Textur verschmilzt mit ihrem Untergrund. Fügen Sie keinen dominanten Gegenstand und keinen erzählerischen Schauplatz hinzu.
 
 **Textinhalt**
 
@@ -1596,4 +1596,4 @@ Behalten Sie relevantes Material, Oberfläche, Farbpalette und Atmosphäre bei, 
 
 Eine Objektsilhouette oder eine ganze Umgebung kann stattdessen ein Motiv- oder Szenenbild sein. Nicht jedes Bild ohne klares Objekt ist eine Textur.
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

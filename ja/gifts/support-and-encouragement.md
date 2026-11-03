@@ -16,7 +16,7 @@
 
 <a id="courage"></a>
 
-## 励みになるラインを中心にデザインを構築する
+## 励ましの言葉を中心にデザインを作る
 
 [コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 勇気を与える短いフレーズに明瞭で安定した存在感を与えます。
 
@@ -40,9 +40,9 @@
 
 ポスターメーカー](https://podplo.app/skills/poster-maker)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)
 
@@ -52,9 +52,9 @@
 
 見慣れた写真と短いメッセージで、個人的なサポート力のあるデザインを作成できます。
 
-馴染みのある写真、柔らかなカラーパレット、または顧客への短いメッセージは、回復期や困難な時期に向けた支援的なデザインを作成できます。医療を約束することなくケアを提供する必要があります。
+なじみの写真、柔らかな配色、お客様からの短いメッセージは、回復期やつらい時期に寄り添うデザインになります。医療効果を約束せず、思いやりを伝えるものにしましょう。
 
-![承認された文言を備えた静かで快適なデザイン](https://podplo.app/pod-guide/generated/gift-comfort.webp)
+![承認された言葉を使った、静かに寄り添うデザイン](https://podplo.app/pod-guide/generated/gift-comfort.webp)
 
 例
 
@@ -68,7 +68,7 @@
 
 <a id="_R_2srk_-cards"></a>
 
-[![花名フレームアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
+[![花のネームフレームの作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
 花のネームフレーム](https://podplo.app/skills/floral-name-frame)[![3D 家族ポートレート アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)
 
@@ -102,6 +102,6 @@
 
 [![恐竜の名前パターンのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-恐竜の名前のパターン](https://podplo.app/skills/dinosaur-name-pattern)[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+恐竜の名前のパターン](https://podplo.app/skills/dinosaur-name-pattern)[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)

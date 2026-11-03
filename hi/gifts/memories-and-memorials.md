@@ -18,9 +18,9 @@
 
 ## क्षतिग्रस्त स्मृति फ़ोटो को पुनर्स्थापित करें
 
-[विस्तृत मरम्मत](https://podplo.app/skills/detail-repair) परिचित लोगों और वस्तुओं को संरक्षित करते हुए पुरानी तस्वीर में हुई क्षति को ठीक करता है।
+[डिटेल रिपेयर](https://podplo.app/skills/detail-repair) परिचित लोगों और वस्तुओं को संरक्षित करते हुए पुरानी तस्वीर में हुई क्षति को ठीक करता है।
 
-एक फीका परिवार, यात्रा, शादी, या अभिलेखीय फोटो किसी महत्वपूर्ण क्षण का एकमात्र रिकॉर्ड हो सकता है। [विस्तृत मरम्मत](https://podplo.app/skills/detail-repair) परिचित चेहरों और मुख्य विवरणों को संरक्षित करते हुए खरोंच, धुंधले क्षेत्रों या क्षतिग्रस्त वस्तुओं को ठीक कर सकता है।
+एक फीका परिवार, यात्रा, शादी, या अभिलेखीय फोटो किसी महत्वपूर्ण क्षण का एकमात्र रिकॉर्ड हो सकता है। [डिटेल रिपेयर](https://podplo.app/skills/detail-repair) परिचित चेहरों और मुख्य विवरणों को संरक्षित करते हुए खरोंच, धुंधले क्षेत्रों या क्षतिग्रस्त वस्तुओं को ठीक कर सकता है।
 
 ![क्षतिग्रस्त या धूमिल स्मृति फोटोग्राफ](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1-before.webp)
 
@@ -28,7 +28,7 @@
 
 [![परिचित विवरणों को संरक्षित करते हुए नवीनीकृत तस्वीर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)](https://podplo.app/skills/detail-repair)
 
-विस्तृत मरम्मत
+डिटेल रिपेयर
 
 **जानने के लिए और अधिक Skills**
 
@@ -52,17 +52,17 @@
 
 ## एक पालतू जानवर का यादगार चित्र बनाएं
 
-[शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait) जन्मदिन, गोद लेने के दिन, या स्मारक के लिए एक पहचानने योग्य स्मृति चिन्ह बनाता है।
+[हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait) जन्मदिन, गोद लेने के दिन, या स्मारक के लिए एक पहचानने योग्य स्मृति चिन्ह बनाता है।
 
-[शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait) किसी पालतू जानवर की स्पष्ट तस्वीर को जन्मदिन, गोद लेने के दिन, या स्मारक के लिए स्मृति चिन्ह में बदल देता है। विशिष्ट चिह्न और अभिव्यक्ति चित्र को पहचानने योग्य बनाए रखते हैं।
+[हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait) किसी पालतू जानवर की स्पष्ट तस्वीर को जन्मदिन, गोद लेने के दिन, या स्मारक के लिए स्मृति चिन्ह में बदल देता है। विशिष्ट चिह्न और अभिव्यक्ति चित्र को पहचानने योग्य बनाए रखते हैं।
 
 ![याद किये गये पालतू जानवर की तस्वीर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
 
 इनपुट
 
-[![पालतू जानवर को संरक्षित करते हुए शीतल जलरंग चित्र](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[![पालतू जानवर की पहचान बनाए रखने वाला हल्का जलरंग चित्र](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
-शीतल जल रंग पालतू पोर्ट्रेट
+हल्के जलरंग में पालतू जानवर का पोर्ट्रेट
 
 **जानने के लिए और अधिक Skills**
 
@@ -74,9 +74,9 @@
 
 <a id="_R_2srk_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -110,9 +110,9 @@
 
 <a id="_R_2urk_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 

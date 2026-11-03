@@ -30,7 +30,7 @@
 
 لا تقم بإزالة البيئة حتى يبقى كائن معزول فقط. التماثل الدقيق ووضع كل شخصية في المركز ليس ضروريًا.
 
-[← العودة إلى الكواليس](../scene.md)
+[← العودة إلى المشاهد](../scene.md)
 
 <a id="ai-directions"></a>
 
@@ -54,7 +54,7 @@
 
 **الخلفية**
 
-استخدم الموقع الحالي والإشارات البيئية والغلاف الجوي لتطوير بيئة متماسكة. إذا لم تكن هناك خلفية، أو تم توفير دعامة صلبة أو شفافة فقط، فقم بإنشاء بيئة ذات صلة. يجب ألا يحل النمط الزخرفي وحده محل السياق الأساسي.
+استخدم دلائل المكان والبيئة والأجواء الموجودة لتطوير محيط متماسك. إذا لم توجد خلفية أو لم تُقدم سوى خلفية أحادية اللون أو شفافة، فأنشئ بيئة مرتبطة بالفكرة. ويجب ألا يحل نمط زخرفي وحده محل السياق الأساسي.
 
 **النص**
 
@@ -72,17 +72,17 @@
 
 ## استكشاف الخلفية
 
-تقارن هذه الأمثلة الأسباب ضمن عائلة المحتوى نفسها. احتفظ بالتركيبة الحالية عند تطبيق المعالجة؛ فتح مثال لتوجيهاته الكاملة.
+تقارن هذه الأمثلة الخلفيات ضمن فئة المحتوى نفسها. احتفظ بالتكوين الحالي عند تطبيق المعالجة؛ وافتح مثالًا لقراءة تعليماته الكاملة.
 
 [![خلفية شفافة: المشاهد: تبقى الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### خلفية شفافة↗
 
-المشاهد: تبقى الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](background--scene--transparent.md)[![خلفية صلبة: المشاهد: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+مشاهد: تبقى الخلفية شفافة؛ ونمط المربعات مجرد وسيلة مساعدة للعرض.](background--scene--transparent.md)[![خلفية أحادية اللون: مشاهد: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
-### خلفية صلبة ↗
+### خلفية أحادية اللون↗
 
-المشاهد: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](background--scene--solid.md)[![خلفية متدرجة: المشاهد: يتغير الجزء الخلفي بشكل مستمر في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+مشاهد: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](background--scene--solid.md)[![خلفية متدرجة: مشاهد: يتغير لون الخلفية أو سطوعها باستمرار مع بقاء المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### خلفية متدرجة ↗
 
@@ -94,11 +94,11 @@
 
 ### خلفية منقوشة: منطقة كاملة↗
 
-المشاهد: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--scene--pattern-full.md)[![الخلفية المزخرفة: المشاهد: تدعم حبيبات الورق أو الجزيئات أو أي شخصية سطحية أخرى محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--texture-1.svg)
+المشاهد: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--scene--pattern-full.md)[![خلفية ذات ملمس: مشاهد: تدعم حبيبات الورق أو الجزيئات أو غيرها من سمات السطح محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--texture-1.svg)
 
-### خلفية محكم↗
+### خلفية ذات ملمس↗
 
-المشاهد: حبيبات الورق أو الجزيئات أو أي شخصية سطحية أخرى تدعم محتوى المقدمة.](background--scene--texture.md)[![الخلفية البيئية: المشاهد: بيئة ذات صلة بالموضوع تدعم المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
+مشاهد: تدعم حبيبات الورق أو الجزيئات أو سمة سطحية أخرى المحتوى الأمامي.](background--scene--texture.md)[![الخلفية البيئية: المشاهد: بيئة ذات صلة بالموضوع تدعم المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
 
 ### الخلفية البيئية↗
 
@@ -112,11 +112,11 @@
 
 ### المشهد الأفقي ↗
 
-تمتد البيئة عبر الصورة باتجاه قراءة أفقي.](scene-layout--scene-layout-panorama.md)[![طبقات العمق: تخلق المقدمة والأرضية الوسطى والمسافة إحساسًا واضحًا بالمساحة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-depth-1.svg)
+تمتد البيئة عبر الصورة باتجاه قراءة أفقي.](scene-layout--scene-layout-panorama.md)[![طبقات العمق: تمنح المقدمة والمستوى الأوسط والبعد إحساسًا واضحًا بالمكان.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-depth-1.svg)
 
 ### طبقات العمق↗
 
-تخلق المقدمة والأرض الوسطى والمسافة إحساسًا بالمساحة يمكن قراءته.](scene-layout--scene-layout-depth.md)[![لقطة قريبة للسياق: يحتفظ الجزء المقصوص من المشهد بعلاقات كافية لاقتراح سياقه.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-close-1.svg)
+تمنح المقدمة والمستوى الأوسط والبعد إحساسًا واضحًا بالمكان.](scene-layout--scene-layout-depth.md)[![لقطة قريبة للسياق: يحتفظ الجزء المقصوص من المشهد بعلاقات كافية لاقتراح سياقه.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-close-1.svg)
 
 ### لقطة مقربة للسياق ↗
 

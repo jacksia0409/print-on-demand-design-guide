@@ -18,7 +18,7 @@
 
 ## この商品のデザインアイデア
 
-### お気に入りのイメージを自分の壁にしましょう
+### お気に入りの画像を壁に飾ろう
 
 家族のポートレート、広い風景、または 1 つの明確な主役を使用して、部屋に合うキャンバスを作成します。階層化された家族のポートレート。広い風景。シンプルな背景に明確な主役が 1 つあります。
 
@@ -48,11 +48,11 @@
 
 AI 製品のプレビュー
 
-**さらにレイアウトを調べて Skills を設定します**
+**レイアウトやセット作成のSkillをもっと見る**
 
 <a id="_R_bf3k_-title"></a>
 
-#### さらにレイアウトを調べて Skills を設定します
+#### レイアウトやセット作成のSkillをもっと見る
 
 4 / 14
 
@@ -86,11 +86,11 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**写真と画像をもっと見る Skills**
+**写真や画像向けのSkillをもっと見る**
 
 <a id="_R_bn3k_-title"></a>
 
-#### 写真と画像をもっと見る Skills
+#### 写真や画像向けのSkillをもっと見る
 
 4 / 97
 
@@ -106,13 +106,13 @@ AI 製品のプレビュー
 
 ステンシルメーカー](https://podplo.app/skills/stencil-maker)
 
-### 花の名前キャンバスを作成する
+### 花で名前を彩るキャンバスを作る
 
 中央に名前を置き、その周りに花を配置して1つの完全な構成にします。
 
 [花のネームフレーム](https://podplo.app/skills/floral-name-frame)
 
-アンドレア
+ANDREA
 
 名前
 
@@ -124,19 +124,19 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**名前と機会をさらに詳しく見る Skills**
+**名前やイベント向けのSkillをもっと見る**
 
 <a id="_R_bv3k_-title"></a>
 
-#### 名前と機会をさらに詳しく見る Skills
+#### 名前やイベント向けのSkillをもっと見る
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 北極名ポスター](https://podplo.app/skills/north-pole-name-poster)[![クレヨンハートネームパターンアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -152,10 +152,10 @@ AI 製品のプレビュー
 
 AI プレビューはポートレート、風景、またはグラフィックを部屋に配置するので、構図を比較できます。
 
-- 近くのポートレートは人物を際立たせます
+- 人物を大きく見せる、寄りのポートレート
 
 - 広い風景が壁いっぱいに広がります
 
 - シンプルな背景により被写体に注目が集まります
 
-![キャンバスと額装プリント・AI製品プルーフ](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)
+![キャンバスプリントと額装プリント · AIによる商品仕上がり確認画像](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/support-and-encouragement?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/support-and-encouragement?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -16,15 +16,15 @@
 
 <a id="courage"></a>
 
-## Постройте дизайн вокруг обнадеживающей линии.
+## Постройте дизайн вокруг ободряющей фразы
 
-[Компактная центральная планировка](https://podplo.app/skills/compact-center-layout) придает ободряющей короткой фразе четкое и устойчивое присутствие.
+[Компактная композиция по центру](https://podplo.app/skills/compact-center-layout) придает ободряющей короткой фразе четкое и устойчивое присутствие.
 
-Используйте фразу, которую получатель уже ценит для экзамена, испытания или нового начала. [Компактная центральная планировка](https://podplo.app/skills/compact-center-layout) придает линии четкое и устойчивое присутствие, не превращая ее в обещание результата.
+Используйте фразу, которую получатель уже ценит для экзамена, испытания или нового начала. [Компактная композиция по центру](https://podplo.app/skills/compact-center-layout) придаёт фразе чёткое, устойчивое звучание, не превращая её в обещание результата.
 
-[![Компактное поощрительное произведение искусства](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![Компактное изображение со словами поддержки](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
-Компактная центральная планировка
+Компактная композиция по центру
 
 **Еще больше Skills для изучения**
 
@@ -40,9 +40,9 @@
 
 Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)
 
@@ -52,7 +52,7 @@
 
 Знакомая фотография и короткое сообщение могут создать личный, поддерживающий дизайн.
 
-Знакомая фотография, мягкая цветовая палитра или короткое сообщение клиенту могут создать благоприятный дизайн для выздоровления или трудного периода. Оно должно предлагать помощь, не давая медицинских обещаний.
+Знакомая фотография, мягкая палитра или короткое сообщение, предоставленное заказчиком, могут создать поддерживающий дизайн для периода восстановления или трудного времени. Он должен выражать заботу, не давая медицинских обещаний.
 
 ![Тихий комфортный дизайн с одобренной формулировкой](https://podplo.app/pod-guide/generated/gift-comfort.webp)
 
@@ -74,9 +74,9 @@
 
 3D Семейный Портрет](https://podplo.app/skills/3d-family-portrait)[![Пример изображения портрета домашнего животного в мягкой акварели](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)
 
 <a id="reconnection"></a>
 
@@ -84,9 +84,9 @@
 
 [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame) сочетает имя с прямым личным посланием.
 
-Имя и прямая линия, например «думаю о тебе», могут стать личным цветочным узором. [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame) тщательно представляет сообщение, не пытаясь заменить стоящий за ним разговор.
+Имя и простая фраза вроде «думаю о тебе» могут стать основой личного цветочного дизайна. [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame) тщательно представляет сообщение, не пытаясь заменить стоящий за ним разговор.
 
-[![Индивидуальный дизайн имени, думающий о вас](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![Именной дизайн с посланием «Думаю о тебе»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 Цветочная рамка имени
 
@@ -100,8 +100,8 @@
 
 <a id="_R_2urk_-cards"></a>
 
-[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)

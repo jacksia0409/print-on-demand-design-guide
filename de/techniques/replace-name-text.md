@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/techniques/replace-name-text?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/techniques/replace-name-text?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -38,7 +38,7 @@ Floraler Namensrahmen
 
 [![Beispiel für ein Dinosaurier-Namensmuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern)[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern)[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)
 
@@ -46,13 +46,13 @@ Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 ## Bauen Sie das Design auf einer kurzen Phrase auf
 
-[Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout) baut eine klare, textgeführte Komposition rund um STAY WILD und ein Kunstwerk auf.
+[Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout) baut eine klare, textgeführte Komposition rund um STAY WILD und ein Kunstwerk auf.
 
-[Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout) macht eine Zeile wie STAY WILD zur Überschrift und ordnet dann das Bildmaterial und eine optionale unterstützende Zeile darum herum an. Das Bild zeigt das Layout; es handelt sich nicht um eine automatische Textersetzung.
+[Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout) macht eine Zeile wie STAY WILD zur Überschrift und ordnet dann das Bildmaterial und eine optionale unterstützende Zeile darum herum an. Das Bild zeigt das Layout; es handelt sich nicht um eine automatische Textersetzung.
 
-[![Beispiel für ein Titel-, Betreff- und Hilfszeilenlayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Beispiel für ein Layout mit Titel, Motiv und ergänzender Textzeile](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-Titel-Betreff-Untertitel-Layout
+Layout aus Titel, Motiv und Untertitel
 
 **Weitere Skills zum Entdecken**
 
@@ -102,6 +102,6 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)

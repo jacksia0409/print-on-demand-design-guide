@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,7 +18,7 @@ Verwandeln Sie Ihre Fotos und Grafiken in frische POD-Designs. Finden Sie eine I
 
 Verwandeln Sie eine Blume in eine T-Shirt-Grafik, ein Foto in ein Porträt oder einen Namen in ein Geschenk. Probieren Sie verschiedene Skills aus und finden Sie heraus, wohin Sie das gleiche Bild führen kann.
 
-KI-generierte Produktmodelle.
+KI-generierte Produktmockups.
 
 ![Originales Rosenkunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/skill-categories/source/layout/tshirt-one--title-subject-subtitle-layout.jpg)
 
@@ -58,7 +58,7 @@ Elemente & Bilder
 
 ## Quellmaterialtypen
 
-Sehen Sie, wie verschiedene Quellen die Arbeit leiten können, von Layouts, Abzeichen und Wiederholungen, die aus isolierten Elementen erstellt wurden, bis hin zu neuen Kompositionen und Themen, die aus vollständigen Bildern entwickelt wurden.
+Sehen Sie, wie verschiedene Vorlagen die Gestaltung leiten können: von Layouts, Emblemen und Rapporten aus freigestellten Elementen bis hin zu neuen Kompositionen und Themen aus vollständigen Bildern.
 
 [Entdecken Sie Quellenmaterialien](materials.md)
 
@@ -68,7 +68,7 @@ Eine Quelle, eine neue Komposition
 
 ## Welche Arten von Designs eignen sich gut für Print-on-Demand?
 
-Entdecken Sie themenbezogene Grafiken, Szenen, Muster, Texturen und Abstraktionen. Vergleichen Sie illustrierte Formen, verstehen Sie ihre Grenzen und orientieren Sie sich an einem Bild oder einer Aufforderung.
+Entdecken Sie motivbetonte Grafiken, Szenen, Muster, Texturen und Abstraktion. Vergleichen Sie illustrierte Gestaltungsformen, verstehen Sie ihre Abgrenzungen und übertragen Sie eine Richtung auf ein Bild oder einen Prompt.
 
 [Entdecken Sie künstlerische Formen und KI-Richtungen](artwork-types.md)
 
@@ -110,9 +110,9 @@ Gestalten Sie ein tägliches Ritual persönlich](products/mugs.md)[![Poster und 
 
 **Poster und Kunstdrucke**
 
-Schaffen Sie Platz für ein Lieblingsbild](products/art-prints.md)[![Kissen und Kissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
+Schaffen Sie Platz für ein Lieblingsbild](products/art-prints.md)[![Wohn- und Dekokissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
 
-**Kissen und Kissen**
+**Wohn- und Dekokissen**
 
 Verleihen Sie jedem Raum eine persönliche Note](products/pillows.md)
 
@@ -124,7 +124,7 @@ Verleihen Sie jedem Raum eine persönliche Note](products/pillows.md)
 
 [![Kompaktes Center-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Ein Bild. Unendliche Möglichkeiten.**](techniques/compose-anything.md)[![Machen Sie es zu Weihnachten](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Ein Bild. Unendliche Möglichkeiten.**](techniques/compose-anything.md)[![Weihnachtlich gestalten](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
 **Verleihen Sie Ihrem Design eine festliche Note**](techniques/holiday-versions.md)[![Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
@@ -152,6 +152,6 @@ Verleihen Sie jedem Raum eine persönliche Note](products/pillows.md)
 
 **Unterstützung und Ermutigung**](gifts/support-and-encouragement.md)[![Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-**Erinnerungen und Gedenkstätten**](gifts/memories-and-memorials.md)[![Kompaktes Center-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+**Erinnerungen und Gedenken**](gifts/memories-and-memorials.md)[![Kompaktes Center-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 **Persönlichkeit und Spaß**](gifts/personality-and-fun.md)

@@ -10,11 +10,11 @@
 
 <a id="guide-main"></a>
 
-Composição centrada no tema principal / DIREÇÃO CRIATIVA
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA
 
 # Reconstrução de bloco de cores
 
-Um assunto reconhecível é reconstruído a partir de um pequeno número de áreas coloridas.
+Um elemento principal reconhecível é reconstruído com poucas áreas de cor.
 
 <a id="understand"></a>
 
@@ -26,11 +26,11 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-As divisões podem ser irregulares ou expressivas, mas ainda devem fazer referência ao assunto. Alterar apenas os blocos de fundo não é uma reconstrução do assunto.
+As divisões podem ser irregulares ou expressivas, mas ainda devem fazer referência ao elemento principal. Alterar apenas os blocos de fundo não constitui uma reconstrução do elemento principal.
 
 O tratamento funciona em torno de um sujeito ou grupo identificável.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -42,7 +42,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Liderado pelo assunto → Tratamentos de assunto compartilhados → Reconstrução de bloco de cores
+Composição guiada pelo elemento principal → Tratamentos compartilhados do elemento principal → Reconstrução em blocos de cor
 
 **Entrada e saída**
 
@@ -50,7 +50,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Divida o assunto de acordo com silhueta, volume ou estrutura. Simplifique os detalhes e o sombreamento para que as conexões, sobreposições e proporções das áreas coloridas descrevam o objeto original.
+Divida o elemento principal conforme sua silhueta, volume ou estrutura. Simplifique detalhes e sombreamento para que as conexões, sobreposições e proporções das áreas de cor descrevam o objeto original.
 
 **Fundo**
 
@@ -66,28 +66,28 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-As divisões podem ser irregulares ou expressivas, mas ainda devem fazer referência ao assunto. Alterar apenas os blocos de fundo não é uma reconstrução do assunto.
+As divisões podem ser irregulares ou expressivas, mas ainda devem fazer referência ao elemento principal. Alterar apenas os blocos de fundo não constitui uma reconstrução do elemento principal.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Forma base reconhecível: O sujeito possui uma forma familiar e legível que fornece uma referência para outros tratamentos.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
+[![Forma-base reconhecível: o elemento principal tem uma forma familiar e legível que serve de referência para outros tratamentos visuais.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
 
-### Formulário base reconhecível↗
+### Forma-base reconhecível↗
 
-O assunto tem uma forma familiar e legível que fornece referência para outros tratamentos.](transformation--transform-original.md)[![Proporções exageradas: Partes do objeto são alongadas, comprimidas ou ampliadas enquanto permanecem identificáveis.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-distort-1.svg)
+O elemento principal tem uma forma familiar e legível que serve de referência para outros tratamentos visuais.](transformation--transform-original.md)[![Proporções exageradas: Partes do elemento principal são alongadas, comprimidas ou ampliadas, mantendo-o identificável.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-distort-1.svg)
 
 ### Proporções exageradas↗
 
-Partes do assunto são alongadas, comprimidas ou ampliadas enquanto permanecem identificáveis.](transformation--transform-distort.md)[![Simplificação geométrica: Formas geométricas simples descrevem as características essenciais de um objeto identificável.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-geometry-1.svg)
+Partes do elemento principal são alongadas, comprimidas ou ampliadas, mantendo-o identificável.](transformation--transform-distort.md)[![Simplificação geométrica: Formas geométricas simples descrevem as características essenciais de um objeto identificável.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-geometry-1.svg)
 
 ### Simplificação geométrica↗
 
-Formas geométricas simples descrevem as características essenciais de um objeto identificável.](transformation--transform-geometry.md)[![Simplificação de linhas: Um pequeno número de linhas retém os contornos essenciais do assunto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-line-1.svg)
+Formas geométricas simples descrevem as características essenciais de um objeto identificável.](transformation--transform-geometry.md)[![Simplificação por linhas: Poucas linhas preservam os contornos essenciais do elemento principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-line-1.svg)
 
 ### Simplificação de linha↗
 
-Um pequeno número de linhas retém os contornos essenciais do assunto.](transformation--transform-line.md)
+Poucas linhas preservam os contornos essenciais do elemento principal.](transformation--transform-line.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

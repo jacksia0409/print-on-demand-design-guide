@@ -10,7 +10,7 @@
 
 <a id="guide-main"></a>
 
-# अपने डिज़ाइन को अवकाशीय मोड़ दें
+# अपने डिज़ाइन को उत्सवी रूप दें
 
 अपनी पसंद का डिज़ाइन लें और क्रिसमस रोशनी, हैलोवीन विवरण, या वेलेंटाइन डे रोमांस का स्पर्श जोड़ें।
 
@@ -18,9 +18,9 @@
 
 ## एक क्रिसमस विविधता बनाएँ
 
-[इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas) मूल विषय को संरक्षित करते हुए समन्वित अवकाश विवरण जोड़ता है।
+[इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas) मूल मुख्य आकृति को बनाए रखते हुए उससे मेल खाते त्योहार के विवरण जोड़ता है।
 
-[इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas) मूल विषय के आसपास रोशनी, हरियाली, बर्फ और अन्य समन्वित अवकाश विवरण जोड़ता है। व्यक्ति, पालतू जानवर, कलाकृति और पाठ पहचानने योग्य बने रहते हैं।
+[इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas) मूल मुख्य आकृति के आसपास रोशनी, हरियाली, बर्फ़ और त्योहार से मेल खाते अन्य विवरण जोड़ता है। व्यक्ति, पालतू, कलाकृति और पाठ पहचानने योग्य रहते हैं।
 
 ![क्रिसमस थीम जोड़ने से पहले संदर्भ](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
@@ -40,15 +40,15 @@
 
 <a id="_R_2qrk_-cards"></a>
 
-[![इसे हेलोवीन कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+[![मेक इट हैलोवीन — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![इसे वैलेंटाइन की कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![मेक इट वैलेंटाइन्स — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-इसे वैलेंटाइन बनाएं](https://podplo.app/skills/make-it-valentines)[![इसे ईस्टर कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+इसे वैलेंटाइन बनाएं](https://podplo.app/skills/make-it-valentines)[![मेक इट ईस्टर — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-इसे ईस्टर बनाएं](https://podplo.app/skills/make-it-easter)[![इसे थैंक्सगिविंग कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+इसे ईस्टर बनाएं](https://podplo.app/skills/make-it-easter)[![मेक इट थैंक्सगिविंग — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-इसे धन्यवाद ज्ञापन बनाएं](https://podplo.app/skills/make-it-thanksgiving)
+थैंक्सगिविंग का रूप दें](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="valentines-version"></a>
 
@@ -76,15 +76,15 @@
 
 <a id="_R_2srk_-cards"></a>
 
-[![इसे क्रिसमस कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+[![मेक इट क्रिसमस — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas)[![इसे हेलोवीन कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas)[![मेक इट हैलोवीन — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![इसे ईस्टर कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![मेक इट ईस्टर — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-इसे ईस्टर बनाएं](https://podplo.app/skills/make-it-easter)[![इसे थैंक्सगिविंग कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+इसे ईस्टर बनाएं](https://podplo.app/skills/make-it-easter)[![मेक इट थैंक्सगिविंग — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-इसे धन्यवाद ज्ञापन बनाएं](https://podplo.app/skills/make-it-thanksgiving)
+थैंक्सगिविंग का रूप दें](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="mothers-day-version"></a>
 
@@ -112,12 +112,12 @@
 
 <a id="_R_2urk_-cards"></a>
 
-[![इसे क्रिसमस कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+[![मेक इट क्रिसमस — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas)[![इसे हेलोवीन कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas)[![मेक इट हैलोवीन — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![इसे वैलेंटाइन की कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![मेक इट वैलेंटाइन्स — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-इसे वैलेंटाइन बनाएं](https://podplo.app/skills/make-it-valentines)[![इसे ईस्टर कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+इसे वैलेंटाइन बनाएं](https://podplo.app/skills/make-it-valentines)[![मेक इट ईस्टर — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
 इसे ईस्टर बनाएं](https://podplo.app/skills/make-it-easter)

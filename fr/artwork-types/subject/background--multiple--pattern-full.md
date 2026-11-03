@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--multiple--pattern-full?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--multiple--pattern-full?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,9 +26,9 @@ COMMENT LE RECONNAÎTRE
 
 ## Qu'est-ce qui définit cette direction
 
-Une couverture complète ne constitue pas une preuve que l'image complète est mosaïque de manière transparente. Gardez le contenu de premier plan visible et conservez la disposition des motifs lorsque les motifs constituent la catégorie principale.
+Une couverture intégrale ne prouve pas que l’image complète se répète sans raccord visible. Gardez le contenu du premier plan visible et préservez la disposition des motifs lorsque ceux-ci constituent la catégorie principale.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -64,19 +64,19 @@ Conservez le thème central et les caractéristiques permettant de reconnaître 
 
 **Portée et limites**
 
-Une couverture complète ne constitue pas une preuve que l'image complète est mosaïque de manière transparente. Gardez le contenu de premier plan visible et conservez la disposition des motifs lorsque les motifs constituent la catégorie principale.
+Une couverture intégrale ne prouve pas que l’image complète se répète sans raccord visible. Gardez le contenu du premier plan visible et préservez la disposition des motifs lorsque ceux-ci constituent la catégorie principale.
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
-[![Fond transparent : Sujets multiples : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Fond transparent : sujets multiples : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Fond transparent↗
 
-Sujets multiples : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--multiple--transparent.md)[![Fond uni : sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Sujets multiples : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--multiple--transparent.md)[![Fond uni : sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--multiple--solid.md)[![Fond dégradé : Sujets multiples : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 

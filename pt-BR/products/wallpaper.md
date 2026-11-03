@@ -12,7 +12,7 @@
 
 # Papel de parede
 
-Transforme um motivo em uma pequena repetição de fundo, um padrão grande ou um design de papel de parede direcional.
+Transforme um motivo em uma repetição pequena de fundo, um padrão grande e marcante ou um design direcional de papel de parede.
 
 <a id="product-overview"></a>
 
@@ -36,21 +36,21 @@ Transforme os detalhes da sua imagem em um padrão repetitivo que preenche a par
 
 [Padrão sem emendas](https://podplo.app/skills/seamless-pattern)
 
-![Padrão sem costura · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Padrão sem emendas · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Imagem de origem
 
-[![Padrão sem costura · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Padrão sem emendas · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Arte gerada
 
-![Papel de parede · Padrão sem costura · Visualização do produto AI](https://podplo.app/pod-guide/generated/wallpaper-seamless-pattern-proof.webp)
+![Papel de parede · Padrão sem emendas · Prévia de produto com IA](https://podplo.app/pod-guide/generated/wallpaper-seamless-pattern-proof.webp)
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize o padrão em toda a parede
 
@@ -60,6 +60,6 @@ Use a visualização da sala de IA para comparar uma repetição pequena, um mot
 
 - Grandes motivos fazem da parede o ponto focal
 
-- As repetições direcionais podem alterar a altura ou largura da sala
+- Padrões repetitivos direcionais podem alterar a altura ou a largura aparentes do ambiente
 
 ![Papel de parede · Prova de produto de IA](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)

@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Создайте с помощью Skills
 
-Remix макет, добавьте имя или создайте праздничную версию. Узнайте, что можно делать со своими изображениями и Skills.
+Перестройте композицию, добавьте имя или создайте праздничный вариант. Узнайте, что можно сделать со своими изображениями и Skill.
 
 ## Превратите любимую фотографию в произведение искусства
 
@@ -38,7 +38,7 @@ Remix макет, добавьте имя или создайте праздни
 
 [![Пример изображения портрета домашнего животного в мягкой акварели](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Пример изображения портрета с наивным маркером](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
+Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Пример наивного портрета маркером](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
 
 Наивный маркерный портрет](https://podplo.app/skills/naive-marker-portrait)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
@@ -48,13 +48,13 @@ Remix макет, добавьте имя или создайте праздни
 
 ## Что бы вы хотели создать дальше?
 
-[![Компактная центральная планировка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Компактная композиция по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Одно изображение. Безграничные возможности.**](techniques/compose-anything.md)[![Сделай это Рождеством](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Одно изображение. Безграничные возможности.**](techniques/compose-anything.md)[![Оформить к Рождеству](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**Придайте своему дизайну праздничный оттенок**](techniques/holiday-versions.md)[![Умная раскраска](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**Придайте своему дизайну праздничный оттенок**](techniques/holiday-versions.md)[![Умная дорисовка за границами](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-**Выведите свое изображение за рамки**](techniques/change-ratio.md)[![4PC Сетевой генератор](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+**Выведите свое изображение за рамки**](techniques/change-ratio.md)[![Генератор композиций из четырёх панелей (4PC)](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **Превратите одну идею в коллекцию**](techniques/series-builder.md)[![Цветочная рамка имени](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 

@@ -54,19 +54,19 @@
 
 - [ऑफसेट अमूर्तन](artwork-types/abstract/abstract-layout--abstract-layout-offset.md)
 
-- [निःशुल्क वितरण](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
+- [मुक्त वितरण](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
 
 - [ओवरलैपिंग जोन](artwork-types/abstract/abstract-layout--abstract-layout-zones.md)
 
-- [क्रमिक पृष्ठभूमि](artwork-types/abstract/background--abstract--gradient.md)
+- [ग्रेडिएंट पृष्ठभूमि](artwork-types/abstract/background--abstract--gradient.md)
 
 - [पैटर्न वाली पृष्ठभूमि: पूरा क्षेत्र](artwork-types/abstract/background--abstract--pattern-full.md)
 
-- [पैटर्न वाली पृष्ठभूमि: स्थानीय](artwork-types/abstract/background--abstract--pattern-local.md)
+- [सीमित हिस्से में पैटर्न वाली पृष्ठभूमि](artwork-types/abstract/background--abstract--pattern-local.md)
 
 - [पर्यावरणीय पृष्ठभूमि](artwork-types/abstract/background--abstract--scene.md)
 
-- [ठोस पृष्ठभूमि](artwork-types/abstract/background--abstract--solid.md)
+- [सपाट रंग की पृष्ठभूमि](artwork-types/abstract/background--abstract--solid.md)
 
 - [बनावट वाली पृष्ठभूमि](artwork-types/abstract/background--abstract--texture.md)
 
@@ -74,15 +74,15 @@
 
 - [पैटर्न](artwork-types/pattern.md)
 
-- [क्रमिक पृष्ठभूमि](artwork-types/pattern/background--pattern--gradient.md)
+- [ग्रेडिएंट पृष्ठभूमि](artwork-types/pattern/background--pattern--gradient.md)
 
 - [पैटर्न वाली पृष्ठभूमि: पूरा क्षेत्र](artwork-types/pattern/background--pattern--pattern-full.md)
 
-- [पैटर्न वाली पृष्ठभूमि: स्थानीय](artwork-types/pattern/background--pattern--pattern-local.md)
+- [सीमित हिस्से में पैटर्न वाली पृष्ठभूमि](artwork-types/pattern/background--pattern--pattern-local.md)
 
 - [पर्यावरणीय पृष्ठभूमि](artwork-types/pattern/background--pattern--scene.md)
 
-- [ठोस पृष्ठभूमि](artwork-types/pattern/background--pattern--solid.md)
+- [सपाट रंग की पृष्ठभूमि](artwork-types/pattern/background--pattern--solid.md)
 
 - [बनावट वाली पृष्ठभूमि](artwork-types/pattern/background--pattern--texture.md)
 
@@ -90,9 +90,9 @@
 
 - [बंधा हुआ पैटर्न](artwork-types/pattern/bounded--pattern-bounded.md)
 
-- [रेडियल आभूषण](artwork-types/pattern/bounded--pattern-radial.md)
+- [रेडियल अलंकरण](artwork-types/pattern/bounded--pattern-radial.md)
 
-- [सीधे दोहराएँ](artwork-types/pattern/seamless--pattern-grid.md)
+- [सीधा दोहराव](artwork-types/pattern/seamless--pattern-grid.md)
 
 - [बिखरा हुआ दोहराव](artwork-types/pattern/seamless--pattern-scatter.md)
 
@@ -100,15 +100,15 @@
 
 - [दृश्य](artwork-types/scene.md)
 
-- [क्रमिक पृष्ठभूमि](artwork-types/scene/background--scene--gradient.md)
+- [ग्रेडिएंट पृष्ठभूमि](artwork-types/scene/background--scene--gradient.md)
 
 - [पैटर्न वाली पृष्ठभूमि: पूरा क्षेत्र](artwork-types/scene/background--scene--pattern-full.md)
 
-- [पैटर्न वाली पृष्ठभूमि: स्थानीय](artwork-types/scene/background--scene--pattern-local.md)
+- [सीमित हिस्से में पैटर्न वाली पृष्ठभूमि](artwork-types/scene/background--scene--pattern-local.md)
 
 - [पर्यावरणीय पृष्ठभूमि](artwork-types/scene/background--scene--scene.md)
 
-- [ठोस पृष्ठभूमि](artwork-types/scene/background--scene--solid.md)
+- [सपाट रंग की पृष्ठभूमि](artwork-types/scene/background--scene--solid.md)
 
 - [बनावट वाली पृष्ठभूमि](artwork-types/scene/background--scene--texture.md)
 
@@ -134,73 +134,73 @@
 
 - [मुख्य आकृति पर केंद्रित संयोजन](artwork-types/subject.md)
 
-- [क्रमिक पृष्ठभूमि](artwork-types/subject/background--multiple--gradient.md)
+- [ग्रेडिएंट पृष्ठभूमि](artwork-types/subject/background--multiple--gradient.md)
 
 - [पैटर्न वाली पृष्ठभूमि: पूरा क्षेत्र](artwork-types/subject/background--multiple--pattern-full.md)
 
-- [पैटर्न वाली पृष्ठभूमि: स्थानीय](artwork-types/subject/background--multiple--pattern-local.md)
+- [सीमित हिस्से में पैटर्न वाली पृष्ठभूमि](artwork-types/subject/background--multiple--pattern-local.md)
 
 - [पर्यावरणीय पृष्ठभूमि](artwork-types/subject/background--multiple--scene.md)
 
-- [ठोस पृष्ठभूमि](artwork-types/subject/background--multiple--solid.md)
+- [सपाट रंग की पृष्ठभूमि](artwork-types/subject/background--multiple--solid.md)
 
 - [बनावट वाली पृष्ठभूमि](artwork-types/subject/background--multiple--texture.md)
 
 - [पारदर्शी पृष्ठभूमि](artwork-types/subject/background--multiple--transparent.md)
 
-- [क्रमिक पृष्ठभूमि](artwork-types/subject/background--relationship--gradient.md)
+- [ग्रेडिएंट पृष्ठभूमि](artwork-types/subject/background--relationship--gradient.md)
 
 - [पैटर्न वाली पृष्ठभूमि: पूरा क्षेत्र](artwork-types/subject/background--relationship--pattern-full.md)
 
-- [पैटर्न वाली पृष्ठभूमि: स्थानीय](artwork-types/subject/background--relationship--pattern-local.md)
+- [सीमित हिस्से में पैटर्न वाली पृष्ठभूमि](artwork-types/subject/background--relationship--pattern-local.md)
 
 - [पर्यावरणीय पृष्ठभूमि](artwork-types/subject/background--relationship--scene.md)
 
-- [ठोस पृष्ठभूमि](artwork-types/subject/background--relationship--solid.md)
+- [सपाट रंग की पृष्ठभूमि](artwork-types/subject/background--relationship--solid.md)
 
 - [बनावट वाली पृष्ठभूमि](artwork-types/subject/background--relationship--texture.md)
 
 - [पारदर्शी पृष्ठभूमि](artwork-types/subject/background--relationship--transparent.md)
 
-- [क्रमिक पृष्ठभूमि](artwork-types/subject/background--single--gradient.md)
+- [ग्रेडिएंट पृष्ठभूमि](artwork-types/subject/background--single--gradient.md)
 
 - [पैटर्न वाली पृष्ठभूमि: पूरा क्षेत्र](artwork-types/subject/background--single--pattern-full.md)
 
-- [पैटर्न वाली पृष्ठभूमि: स्थानीय](artwork-types/subject/background--single--pattern-local.md)
+- [सीमित हिस्से में पैटर्न वाली पृष्ठभूमि](artwork-types/subject/background--single--pattern-local.md)
 
 - [पर्यावरणीय पृष्ठभूमि](artwork-types/subject/background--single--scene.md)
 
-- [ठोस पृष्ठभूमि](artwork-types/subject/background--single--solid.md)
+- [सपाट रंग की पृष्ठभूमि](artwork-types/subject/background--single--solid.md)
 
 - [बनावट वाली पृष्ठभूमि](artwork-types/subject/background--single--texture.md)
 
 - [पारदर्शी पृष्ठभूमि](artwork-types/subject/background--single--transparent.md)
 
-- [मुफ़्त संग्रह लेआउट](artwork-types/subject/collection--collection-free.md)
+- [मुक्त संग्रह लेआउट](artwork-types/subject/collection--collection-free.md)
 
 - [नियमित संग्रह लेआउट](artwork-types/subject/collection--collection-grid.md)
 
-- [आसपास के छोटे-छोटे उच्चारण](artwork-types/subject/decoration--deco-dots.md)
+- [आसपास छोटे सजावटी चिह्न](artwork-types/subject/decoration--deco-dots.md)
 
-- [फ़्रेमयुक्त विषय](artwork-types/subject/decoration--deco-frame.md)
+- [फ़्रेम में मुख्य आकृति](artwork-types/subject/decoration--deco-frame.md)
 
 - [अंतःस्थापित सजावट](artwork-types/subject/decoration--deco-interlace.md)
 
-- [किरणें और विकीर्णित उच्चारण](artwork-types/subject/decoration--deco-rays.md)
+- [किरणें और बाहर फैलते सजावटी तत्व](artwork-types/subject/decoration--deco-rays.md)
 
 - [आसपास की सजावट](artwork-types/subject/decoration--deco-wreath.md)
 
-- [विभाजित और विस्थापित प्रकार](artwork-types/subject/letter-art--letter-fracture.md)
+- [कटे और खिसकाए गए अक्षर](artwork-types/subject/letter-art--letter-fracture.md)
 
-- [रूपरेखा अभिलेख](artwork-types/subject/letter-art--letter-outline.md)
+- [बाहरी रेखाओं वाले अक्षर](artwork-types/subject/letter-art--letter-outline.md)
 
-- [कोणीय परिप्रेक्ष्य प्रकार](artwork-types/subject/letter-art--letter-perspective.md)
+- [तिरछे परिप्रेक्ष्य वाली टाइपोग्राफी](artwork-types/subject/letter-art--letter-perspective.md)
 
-- [फैला हुआ या संकुचित प्रकार](artwork-types/subject/letter-art--letter-stretch.md)
+- [खींचे या संकुचित किए गए अक्षर](artwork-types/subject/letter-art--letter-stretch.md)
 
-- [छवि या बनावट से भरा प्रकार](artwork-types/subject/letter-art--letter-texture.md)
+- [चित्र या बनावट से भरे अक्षर](artwork-types/subject/letter-art--letter-texture.md)
 
-- [घुमावदार या लहरदार प्रकार](artwork-types/subject/letter-art--letter-wave.md)
+- [वक्र या लहरदार टाइपोग्राफी](artwork-types/subject/letter-art--letter-wave.md)
 
 - [प्राथमिक और सहायक विषय](artwork-types/subject/multiple--multi-dominant.md)
 
@@ -214,27 +214,27 @@
 
 - [सममित समूहन](artwork-types/subject/multiple--multi-symmetric.md)
 
-- [छवि और पाठ ढेर हो गए](artwork-types/subject/relationship--relation-above.md)
+- [चित्र और पाठ ऊपर-नीचे](artwork-types/subject/relationship--relation-above.md)
 
-- [विषय के इर्द-गिर्द पाठ करें](artwork-types/subject/relationship--relation-around.md)
+- [मुख्य आकृति के चारों ओर लिखावट](artwork-types/subject/relationship--relation-around.md)
 
 - [छवि-आधारित, सहायक पाठ के साथ](artwork-types/subject/relationship--relation-image-led.md)
 
 - [छवि और पाठ आपस में जुड़े हुए हैं](artwork-types/subject/relationship--relation-interlace.md)
 
-- [केवल प्रकार की अभिव्यक्ति](artwork-types/subject/relationship--relation-plain-type.md)
+- [केवल अक्षरों से अभिव्यक्ति](artwork-types/subject/relationship--relation-plain-type.md)
 
-- [एक पत्र प्रपत्र के भीतर इमेजरी](artwork-types/subject/relationship--relation-replace.md)
+- [अक्षर के आकार के भीतर चित्र](artwork-types/subject/relationship--relation-replace.md)
 
 - [शब्द आकार बनाते हैं](artwork-types/subject/relationship--relation-shape.md)
 
 - [छवि और पाठ साथ-साथ](artwork-types/subject/relationship--relation-side.md)
 
-- [पाठ आधारित, सहायक कल्पना के साथ](artwork-types/subject/relationship--relation-text-led.md)
+- [प्रमुख लिखावट के साथ सहायक चित्र](artwork-types/subject/relationship--relation-text-led.md)
 
 - [केंद्र में मुख्य आकृति](artwork-types/subject/single--single-center.md)
 
-- [विस्तृत विवरण](artwork-types/subject/single--single-crop.md)
+- [बड़ा किया गया विवरण](artwork-types/subject/single--single-crop.md)
 
 - [विकर्ण रचना](artwork-types/subject/single--single-diagonal.md)
 
@@ -254,15 +254,15 @@
 
 - [सतही बनावट](artwork-types/texture.md)
 
-- [क्रमिक पृष्ठभूमि](artwork-types/texture/background--texture--gradient.md)
+- [ग्रेडिएंट पृष्ठभूमि](artwork-types/texture/background--texture--gradient.md)
 
 - [पैटर्न वाली पृष्ठभूमि: पूरा क्षेत्र](artwork-types/texture/background--texture--pattern-full.md)
 
-- [पैटर्न वाली पृष्ठभूमि: स्थानीय](artwork-types/texture/background--texture--pattern-local.md)
+- [सीमित हिस्से में पैटर्न वाली पृष्ठभूमि](artwork-types/texture/background--texture--pattern-local.md)
 
 - [पर्यावरणीय पृष्ठभूमि](artwork-types/texture/background--texture--scene.md)
 
-- [ठोस पृष्ठभूमि](artwork-types/texture/background--texture--solid.md)
+- [सपाट रंग की पृष्ठभूमि](artwork-types/texture/background--texture--solid.md)
 
 - [बनावट वाली पृष्ठभूमि](artwork-types/texture/background--texture--texture.md)
 
@@ -276,7 +276,7 @@
 
 - [सामग्री बनावट: कपड़ा](artwork-types/texture/texture--texture-weave.md)
 
-- [लागू बनावट: पहनना](artwork-types/texture/texture--texture-worn.md)
+- [लगाई गई बनावट: घिसाव](artwork-types/texture/texture--texture-worn.md)
 
 - [पूर्ण-क्षेत्र बनावट](artwork-types/texture/texture-layout--texture-layout-full.md)
 
@@ -290,7 +290,7 @@
 
 - [एक चित्र। अनगिनत संभावनाएँ।](techniques/compose-anything.md)
 
-- [अपने डिज़ाइन को अवकाशीय मोड़ दें](techniques/holiday-versions.md)
+- [अपने डिज़ाइन को उत्सवी रूप दें](techniques/holiday-versions.md)
 
 - [Photo to Art: आपकी पसंदीदा तस्वीरों पर एक नया रूप](techniques/photo-to-art.md)
 
@@ -310,19 +310,19 @@
 
 - [ग्रीटिंग कार्ड और निमंत्रण](products/greeting-cards.md)
 
-- [टोपी और टोपी](products/hats.md)
+- [हैट और कैप](products/hats.md)
 
 - [मग](products/mugs.md)
 
-- [नोटबुक और योजनाकार](products/notebooks.md)
+- [नोटबुक और प्लानर](products/notebooks.md)
 
-- [आभूषण और सनकैचर](products/ornaments.md)
+- [लटकाने वाली सजावट और सनकैचर](products/ornaments.md)
 
 - [पालतू जानवरों को खिलाने वाली चटाई](products/pet-products.md)
 
-- [फ़ोन के मामले](products/phone-cases.md)
+- [फ़ोन केस](products/phone-cases.md)
 
-- [तकिए और गद्दे](products/pillows.md)
+- [तकिए और कुशन](products/pillows.md)
 
 - [पहेलियाँ](products/puzzles.md)
 
@@ -332,7 +332,7 @@
 
 - [टी-शर्ट डिज़ाइन विचार](products/t-shirts.md)
 
-- [बैग ले जाना](products/tote-bags.md)
+- [टोट बैग](products/tote-bags.md)
 
 - [टंबलर](products/tumblers.md)
 

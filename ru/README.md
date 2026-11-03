@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -42,9 +42,9 @@
 
 <a id="_R_1crk_-cards"></a>
 
-[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример изображения портрета домашнего животного в мягкой акварели](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример изображения портрета домашнего животного в мягкой акварели](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
 Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Пример иллюстрации бесшовного рисунка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
@@ -64,11 +64,11 @@
 
 <a id="artwork-types"></a>
 
-Один источник, новый состав
+Один исходник, новая композиция
 
 ## Какие типы дизайнов хорошо подходят для печати по требованию?
 
-Исследуйте предметную графику, сцены, узоры, текстуры и абстракцию. Сравните иллюстрированные формы, поймите их границы и определите направление изображения или подсказки.
+Изучите композиции с главным объектом, сцены, узоры, текстуры и абстракцию. Сравните иллюстрированные формы, разберитесь в их границах и используйте выбранное направление в изображении или промпте.
 
 [Изучите формы произведений искусства и направления искусственного интеллекта.](artwork-types.md)
 
@@ -80,15 +80,15 @@
 
 **Делайте больше со своими изображениями**
 
-Узнайте, на что способен Skill](skills-and-asset-library.md)[![Компактная центральная планировка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Узнайте, на что способен Skill](skills-and-asset-library.md)[![Компактная композиция по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 **Сопоставьте свой дизайн с продуктом**
 
 Найдите место для дизайна](design-product-print-fit.md)[![Удаление фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-**Уточните свой имидж**
+**Улучшите своё изображение**
 
-Верните детали в фокус](print-ready-files.md)[![Образец имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Верните детали в фокус](print-ready-files.md)[![Узор с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 **Сделайте каждый дизайн индивидуальным**
 
@@ -110,9 +110,9 @@
 
 **Плакаты и репродукции**
 
-Освободите место для любимого изображения](products/art-prints.md)[![Подушки и подушки](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
+Освободите место для любимого изображения](products/art-prints.md)[![Подушки и декоративные подушки](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
 
-**Подушки и подушки**
+**Подушки и декоративные подушки**
 
 Добавьте индивидуальности в любую комнату](products/pillows.md)
 
@@ -122,13 +122,13 @@
 
 ## Создайте с помощью Skills
 
-[![Компактная центральная планировка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Компактная композиция по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Одно изображение. Безграничные возможности.**](techniques/compose-anything.md)[![Сделай это Рождеством](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Одно изображение. Безграничные возможности.**](techniques/compose-anything.md)[![Оформить к Рождеству](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**Придайте своему дизайну праздничный оттенок**](techniques/holiday-versions.md)[![Умная раскраска](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**Придайте своему дизайну праздничный оттенок**](techniques/holiday-versions.md)[![Умная дорисовка за границами](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-**Выведите свое изображение за рамки**](techniques/change-ratio.md)[![4PC Сетевой генератор](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+**Выведите свое изображение за рамки**](techniques/change-ratio.md)[![Генератор композиций из четырёх панелей (4PC)](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **Превратите одну идею в коллекцию**](techniques/series-builder.md)[![Цветочная рамка имени](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -148,10 +148,10 @@
 
 **Жизненные вехи**](gifts/life-milestones.md)[![3D Семейный Портрет](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)
 
-**Подарки в благодарность**](gifts/gratitude.md)[![Компактная центральная планировка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+**Подарки в благодарность**](gifts/gratitude.md)[![Компактная композиция по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Поддержка и поощрение**](gifts/support-and-encouragement.md)[![Детальный ремонт](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+**Поддержка и поощрение**](gifts/support-and-encouragement.md)[![Восстановление деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-**Воспоминания и мемориалы**](gifts/memories-and-memorials.md)[![Компактная центральная планировка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+**Воспоминания и мемориалы**](gifts/memories-and-memorials.md)[![Компактная композиция по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 **Личность и веселье**](gifts/personality-and-fun.md)

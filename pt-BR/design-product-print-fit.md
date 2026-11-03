@@ -18,9 +18,9 @@ Experimente uma estampa ousada de camiseta, um pequeno emblema ou um padrão env
 
 ## Crie um design compacto e centrado
 
-[Layout central compacto](https://podplo.app/skills/compact-center-layout) combina arte e cópia em uma forma centralizada em negrito.
+[Layout central compacto](https://podplo.app/skills/compact-center-layout) combina a arte e o texto em uma forma centralizada marcante.
 
-[Layout central compacto](https://podplo.app/skills/compact-center-layout) reúne um assunto e copia em uma forma densa e equilibrada. Obras de arte que antes pareciam dispersas tornam-se um gráfico forte e centralizado com um ponto focal claro.
+[Layout central compacto](https://podplo.app/skills/compact-center-layout) reúne um elemento principal e o texto em uma forma densa e equilibrada. Uma arte antes dispersa se torna uma composição centralizada forte com um ponto focal claro.
 
 ![Arte e texto exato antes do layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
@@ -44,9 +44,9 @@ Layout central compacto
 
 Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -98,7 +98,7 @@ Criador de estêncil](https://podplo.app/skills/stencil-maker)
 
 Entrada
 
-[![Adesivo separado e folha de clipart](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)](https://podplo.app/skills/sticker-clipart-pack)
+[![Folha de adesivos e cliparts separados](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)](https://podplo.app/skills/sticker-clipart-pack)
 
 Pacote de adesivos e clipart
 
@@ -122,9 +122,9 @@ Gerador de grade 6PC](https://podplo.app/skills/six-piece-grid)
 
 ## Visualize o design no contexto
 
-Uma maquete mostra como a forma, a cor e a configuração do produto mudam a sensação de um design.
+Um mockup mostra como o formato, a cor e o cenário do produto mudam a impressão transmitida pelo design.
 
-Uma maquete mostra como a cor, o formato do produto e a configuração afetam a mesma arte. Um motivo centralizado pode parecer ousado em uma camisa e discreto em um caderno. A visualização é uma imagem conceitual, não uma amostra física.
+Um mockup mostra como a cor, o formato do produto e o cenário afetam a mesma arte. Um motivo centralizado pode parecer marcante em uma camiseta e discreto em um caderno. A prévia é uma imagem conceitual, não uma amostra física.
 
 ![Arte exata a ser revisada](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
 
@@ -150,6 +150,6 @@ Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte 
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte de reparo detalhado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte do Reparo de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparo Detalhado](https://podplo.app/skills/detail-repair)
+Reparo de detalhes](https://podplo.app/skills/detail-repair)

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/texture/background--texture--texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/texture/background--texture--texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -14,7 +14,7 @@ Texturas / DIRECCIÓN CREATIVA / Texturas
 
 # Fondo texturizado
 
-Texturas: el grano de papel, las partículas u otros caracteres de la superficie respaldan el contenido del primer plano.
+Texturas: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.
 
 <a id="understand"></a>
 
@@ -26,17 +26,17 @@ CÓMO RECONOCERLO
 
 ## ¿Qué define esta dirección?
 
-Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Un fondo texturizado no debe convertirse automáticamente en un objeto independiente ni en una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal del fondo que lo sostiene.
 
 [← Volver a texturas](../texture.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -48,7 +48,7 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Mantenga el carácter material dominante. Utilice un fragmento de textura local cuando deba ser visible un terreno separado; Una textura opaca de superficie completa y su fondo se unen, por lo que otro soporte completo no puede permanecer visible.
+Mantén dominante el carácter del material. Usa un fragmento de textura localizado cuando deba verse un fondo independiente; una textura opaca que cubre toda la imagen se fusiona con su fondo, por lo que no puede verse además otro fondo completo distinto.
 
 **Fondo**
 
@@ -64,21 +64,21 @@ Conserve el material, la superficie, la paleta y la atmósfera relevantes sin re
 
 **Alcance y límites**
 
-Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Un fondo texturizado no debe convertirse automáticamente en un objeto independiente ni en una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal del fondo que lo sostiene.
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Fondo transparente: Texturas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Texturas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--texture--transparent.md)[![Fondo sólido: Texturas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+Texturas: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--texture--transparent.md)[![Fondo sólido: Texturas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 ### Fondo sólido↗
 
-Texturas: Un color uniforme forma el suelo; El blanco también es un fondo sólido.](background--texture--solid.md)[![Fondo degradado: Texturas: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+Texturas: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--texture--solid.md)[![Fondo degradado: Texturas: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### Fondo degradado↗
 
@@ -88,4 +88,4 @@ Texturas: el respaldo cambia continuamente de color o brillo mientras el conteni
 
 Texturas: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--texture--pattern-local.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

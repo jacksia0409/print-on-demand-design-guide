@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -16,7 +16,7 @@ FORME D'ŒUVRE D'ART · 02 / 05
 
 # Motifs
 
-Les motifs créent un tout décoratif grâce à la répétition ou à une disposition claire. Une répétition homogène nécessite sa propre vérification des bords.
+Les motifs créent un ensemble décoratif par répétition ou par une disposition claire. Un motif répété à raccords invisibles nécessite sa propre vérification des bords.
 
 ![Exemple de disposition de carreaux à motif de répétition florale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
@@ -94,7 +94,7 @@ Dirigez les unités vers un centre, ou inversez-les vers l’extérieur, pour cr
 
 #### Séquences de motifs et rythmes
 
-Comparez les séquences de motifs par alternance, cycles, battements principaux et de remplissage, paires, clusters, changements de taille, gammes mixtes et même espacement.
+Comparez les séquences de motifs par alternances, cycles, rythmes d’éléments principaux et de remplissage, paires, groupes, changements de taille, mélanges d’échelles et espacements réguliers.
 
 <a id="form-pattern-60-0"></a>
 
@@ -148,7 +148,7 @@ Alternez les grandes et les petites unités pour que la différence d'échelle, 
 
 ![Échelles mixtes — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-60-6.svg)
 
-##### Gammes mixtes
+##### Échelles mélangées
 
 Mélangez plusieurs tailles d’un même élément pour suggérer de la profondeur et augmenter la richesse visuelle.
 
@@ -214,7 +214,7 @@ Modifiez progressivement la rotation de chaque unité pour créer un effet de ro
 
 ##### Dégradé de couleurs
 
-Gardez la mise en page stable tout en notant la couleur, la valeur ou la saturation de l'unité à travers une transition.
+Gardez la mise en page stable tout en faisant varier progressivement la couleur, la valeur ou la saturation des unités.
 
 <a id="form-pattern-61-6"></a>
 
@@ -322,9 +322,9 @@ Préservez la connexion naturelle des tiges, des feuilles et des fleurs locales 
 
 <a id="form-pattern-68-3"></a>
 
-![Culture de la vigne — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-68-3.svg)
+![Tiges grimpantes en croissance — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-68-3.svg)
 
-##### Cultiver des vignes
+##### Tiges grimpantes en croissance
 
 Remplissez le champ avec une charpente de vigne ramifiée et tournante et faites pousser de petites fleurs le long de celle-ci.
 
@@ -350,7 +350,7 @@ Répétez de petites scènes de personnes, d'animaux ou d'activités quotidienne
 
 ##### Mélange texte-image
 
-Mélangez des mots, des lettres, des chiffres et des chiffres, en utilisant la taille, la direction et l'espacement pour établir le rythme.
+Mélangez mots, lettres, nombres et figures en utilisant la taille, la direction et l’espacement pour créer un rythme.
 
 <a id="form-pattern-68-7"></a>
 
@@ -402,9 +402,9 @@ Couvrez le champ de grains fins, de traits courts ou de fibres dont la répétit
 
 <a id="form-pattern-69-4"></a>
 
-![Patchs de type cloud – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-69-4.svg)
+![Zones en forme de nuages — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-69-4.svg)
 
-##### Des correctifs de type cloud
+##### Zones en forme de nuages
 
 Ajustez des taches de couleur irrégulières ou des contours doux dans une surface plein champ nuageuse et marbrée.
 
@@ -446,7 +446,7 @@ Traversez les bandes horizontales et verticales en carreaux, en variant la large
 
 ##### Pied-de-poule
 
-Interlock les unités claires et sombres pointues dans l'effet continu de carreaux cassés du pied-de-poule.
+Imbriquez les unités pointues claires et sombres pour former l’effet continu de carreaux brisés du pied-de-poule.
 
 <a id="form-pattern-72-3"></a>
 
@@ -494,7 +494,7 @@ Construisez un réseau hexagonal continu et placez de petits motifs floraux, gé
 
 ##### Géométrie Asanoha
 
-Combinez des diamants minces et des triangles autour de centres à six directions pour former une répétition géométrique en forme de feuille pointue.
+Combinez des losanges fins et des triangles autour de centres à six directions pour créer un motif géométrique répété évoquant des feuilles pointues.
 
 <a id="pattern-panel-word-g73-pattern"></a>
 
@@ -502,7 +502,7 @@ Combinez des diamants minces et des triangles autour de centres à six direction
 
 #### Motifs floraux et traditionnels
 
-Comparez les ornements traditionnels à travers les écailles de fleurs, les vignes entrelacées, le feuillage défilant, les formes de nuages et de vagues et la structure florale héraldique.
+Comparez les ornements traditionnels selon l’échelle des fleurs, les tiges entrelacées, les rinceaux, les formes de nuages et de vagues et la structure florale héraldique.
 
 <a id="form-pattern-73-0"></a>
 
@@ -514,9 +514,9 @@ Répétez les petites fleurs et les feuilles de manière dense ou clairsemée, e
 
 <a id="form-pattern-73-1"></a>
 
-![Grand floral – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-1.svg)
+![Grandes fleurs — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-1.svg)
 
-##### Grand floral
+##### Grandes fleurs
 
 Utilisez de grandes fleurs comme points focaux et soutenez-les avec des feuilles et des fleurs plus petites.
 
@@ -530,9 +530,9 @@ Reliez les fleurs et les feuilles avec des vignes courbées continuellement qui 
 
 <a id="form-pattern-73-3"></a>
 
-![Feuillage défilant – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-3.svg)
+![Rinceaux de feuillage — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-3.svg)
 
-##### Feuillage défilant
+##### Rinceaux de feuillage
 
 Construisez une structure fluide à partir de feuillages enroulés, de spirales et de lignes en forme de S.
 
@@ -550,7 +550,7 @@ Formez des unités séparées ou connectées à partir de têtes de nuages recou
 
 ##### Motifs de vagues océaniques
 
-Utilisez des crêtes de vagues, de la mousse ou des arcs répétés en bandes horizontales ou une mer en plein champ qui se chevauche.
+Utilisez des crêtes de vagues, de l’écume ou des arcs répétés en bandes horizontales, ou superposés en une mer couvrant toute l’image.
 
 <a id="form-pattern-73-6"></a>
 
@@ -596,9 +596,9 @@ Disposez des rayures nettes avec une forte variation de largeur le long d'une di
 
 ![Taches de vaches — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-74-3.svg)
 
-##### Patchs de vache
+##### Taches de vache
 
-Contrastez les grandes parcelles irrégulières et solides avec un large terrain dégagé, en soulignant le contour de chaque parcelle.
+Faites contraster de grandes taches pleines et irrégulières avec un fond largement dégagé, en soulignant le contour de chaque tache.
 
 <a id="form-pattern-74-4"></a>
 
@@ -606,7 +606,7 @@ Contrastez les grandes parcelles irrégulières et solides avec un large terrain
 
 ##### Écailles de peau de serpent
 
-Décalez les unités d'échelle étroitement emballées, en faisant varier la couleur et la taille locales pour créer la profondeur de la peau de serpent.
+Décalez des écailles serrées en faisant varier localement leur couleur et leur taille pour donner de la profondeur à la peau de serpent.
 
 <a id="form-pattern-74-5"></a>
 
@@ -636,7 +636,7 @@ Utilisez des fibres alignées, des nœuds et des courbes imbriquées pour repré
 
 FORMES VISUELLES · 48
 
-### Structures de modèle sans couture
+### Structures de motifs à raccords invisibles
 
 <a id="seamless-panel-word-g56-seamless"></a>
 
@@ -648,9 +648,9 @@ Comparez quatre organisations de surface reproductibles dont les unités sont ca
 
 <a id="form-pattern-56-0"></a>
 
-![Carrelage régulier — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-0.svg)
+![Pavage régulier — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-0.svg)
 
-##### Carrelage régulier
+##### Pavage régulier
 
 Placez les icônes uniformément dans les lignes et les colonnes alignées, en ajoutant de petits éléments de remplissage lorsqu'une richesse supplémentaire est nécessaire.
 
@@ -666,7 +666,7 @@ Décalez les icônes en diagonale pour créer un rythme imbriqué, avec des chan
 
 ![Diffusion libre – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-2.svg)
 
-##### Dispersion gratuite
+##### Dispersion libre
 
 Dispersez des icônes de tailles et d'angles variés avec des points ou des éléments de remplissage similaires pour une répétition détendue et spontanée.
 
@@ -704,9 +704,9 @@ Utilisez un espacement horizontal et vertical inégal pour créer un rythme rect
 
 <a id="form-pattern-57-2"></a>
 
-![Grille diamant — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-2.svg)
+![Grille de losanges — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-2.svg)
 
-##### Grille diamant
+##### Grille de losanges
 
 Définissez les unités sur les points de la grille en diamant afin que la répétition suive des chemins diagonaux croisés.
 
@@ -728,9 +728,9 @@ Décalez chaque rangée voisine horizontalement d'une demi-unité, en joignant l
 
 <a id="form-pattern-57-5"></a>
 
-![Demi-goutte verticale — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-5.svg)
+![Raccord en demi-sauté vertical — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-5.svg)
 
-##### Demi-goutte verticale
+##### Raccord en demi-sauté vertical
 
 Décalez verticalement les colonnes voisines d’une demi-unité pour affaiblir les lignes horizontales évidentes.
 
@@ -756,7 +756,7 @@ Avancez chaque rangée de la même distance pour créer un canal diagonal échel
 
 #### Réflexion et rotation
 
-Comparez les répétitions homogènes générées par la réflexion et la rotation, en vous concentrant sur l'opération de symétrie qui produit la tuile continue.
+Comparez les motifs répétés à raccords invisibles obtenus par réflexion et rotation, en vous concentrant sur l’opération de symétrie qui produit la tuile continue.
 
 <a id="form-pattern-58-0"></a>
 
@@ -840,11 +840,11 @@ Alternez deux couleurs, textures ou figures dans des cellules voisines pour cré
 
 <a id="form-pattern-63-1"></a>
 
-![Treillis de diamant — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-1.svg)
+![Treillis de losanges — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-1.svg)
 
-##### Treillis de diamant
+##### Treillis de losanges
 
-Entourez les motifs centraux de cellules de diamant continues, séparant le treillis structurel de sa décoration.
+Entourez les motifs centraux de cellules continues en losange, en distinguant le treillis structurel de sa décoration.
 
 <a id="form-pattern-63-2"></a>
 
@@ -860,13 +860,13 @@ Joignez des unités répétées à travers un cadre hexagonal afin que les motif
 
 ##### Treillis triangulaire
 
-Des unités triangulaires inversées en mosaïque, attribuant différentes directions de motif à l'intérieur des cellules adjacentes.
+Pavez la surface avec des unités triangulaires retournées, en attribuant des directions de motif différentes aux cellules adjacentes.
 
 <a id="form-pattern-63-4"></a>
 
-![Carrelage octogonal — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-4.svg)
+![Pavage octogonal — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-4.svg)
 
-##### Carrelage octogonal
+##### Pavage octogonal
 
 Combinez des octogones avec des petits carrés ou d'autres éléments de remplissage pour créer des cellules primaires et interstitielles.
 
@@ -906,7 +906,7 @@ Répétez les carreaux carrés ou polygonaux dont les motifs intérieurs se rejo
 
 <a id="seamless-group-word-g64-seamless"></a>
 
-#### Connexions et verrouillages
+#### Connexions et emboîtements
 
 Comparez les joints et les emboîtements continus dont les lignes ou les motifs traversent les limites des carreaux pour former des surfaces tissées, liées ou semblables à un labyrinthe ininterrompues.
 
@@ -964,7 +964,7 @@ Enfilez des perles, des pendentifs et de petites figures le long de lignes ou de
 
 ##### Traversées tissées
 
-Tissez deux ou plusieurs bandes les unes sur les autres selon une règle de croisement cohérente.
+Entrelacez deux bandes ou plus en les faisant passer alternativement au-dessus et au-dessous les unes des autres, selon une règle de croisement cohérente.
 
 <a id="form-pattern-64-7"></a>
 
@@ -972,7 +972,7 @@ Tissez deux ou plusieurs bandes les unes sur les autres selon une règle de croi
 
 ##### Filet noué
 
-Connectez un réseau de lignes à travers des nœuds ou des nœuds, en intégrant les jonctions et les ouvertures au motif.
+Reliez un réseau de lignes par des entrelacs ou des points de jonction, en faisant des jonctions et des ouvertures des éléments du motif.
 
 <a id="seamless-panel-word-g65-seamless"></a>
 
@@ -1060,21 +1060,21 @@ Ajustez les unités voisines avec des contours convexes et concaves complémenta
 
 ##### Verrouillage positif-négatif
 
-Faites l'espace entre une figure et une autre, en alternant la forme qui se lit comme figure ou comme fond.
+Faites du vide à l’intérieur d’une figure une autre forme, en alternant les lectures de figure et de fond.
 
 <a id="form-pattern-67-2"></a>
 
-![Carrelage modulaire irrégulier — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-2.svg)
+![Pavage modulaire irrégulier — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-2.svg)
 
-##### Carrelage modulaire irrégulier
+##### Pavage modulaire irrégulier
 
 Répétez un module irrégulier conçu dont le contour extérieur détermine la façon dont chaque pièce se joint.
 
 <a id="form-pattern-67-3"></a>
 
-![Carrelage multi-modules — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-3.svg)
+![Pavage multi-modules — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-3.svg)
 
-##### Carrelage multi-modules
+##### Pavage multi-modules
 
 Remplissez le plan avec au moins deux formes de modules qui divisent les rôles principaux et secondaires.
 
@@ -1082,7 +1082,7 @@ Remplissez le plan avec au moins deux formes de modules qui divisent les rôles 
 
 FORMES VISUELLES · 22
 
-### Modèles non transparents
+### Motifs à raccords visibles
 
 <a id="finite-panel-word-g56-finite"></a>
 
@@ -1150,9 +1150,9 @@ Combinez la géométrie, les pétales et les détails fins en plusieurs couches 
 
 <a id="form-pattern-66-4"></a>
 
-![Diffusion par les fans – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-66-4.svg)
+![Déploiement en éventail — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-66-4.svg)
 
-##### Diffusion des fans
+##### Déploiement en éventail
 
 Formes ouvertes à partir d'un point de base via un angle limité pour créer une structure en éventail ou en queue de paon.
 
@@ -1162,7 +1162,7 @@ Formes ouvertes à partir d'un point de base via un angle limité pour créer un
 
 ##### Plusieurs centres radiaux
 
-Utilisez plusieurs centres radiaux, en organisant leurs groupes par des lignes d'espacement ou de connexion.
+Utilisez plusieurs centres radiaux et organisez leurs groupes par l’espacement ou par des lignes de liaison.
 
 <a id="finite-panel-word-g67-finite"></a>
 
@@ -1182,9 +1182,9 @@ Transformez progressivement une unité en une autre à travers l'image tout en p
 
 <a id="form-pattern-67-5"></a>
 
-![Carrelage cassé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-5.svg)
+![Raccords interrompus — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-5.svg)
 
-##### Carrelage cassé
+##### Raccords interrompus
 
 Supprimez, faites pivoter ou remplacez quelques unités dans un carrelage ordonné pour créer des anomalies délibérées.
 
@@ -1192,7 +1192,7 @@ Supprimez, faites pivoter ou remplacez quelques unités dans un carrelage ordonn
 
 <a id="finite-group-word-g70-finite"></a>
 
-#### Frontières et croissance
+#### Bordures et croissance
 
 Comparez les bordures délimitées et la croissance directionnelle qui occupent des bords, des coins, des cadres, des bandes ou des régions locales en expansion sélectionnés.
 
@@ -1238,9 +1238,9 @@ Développez ou dispersez le motif vers le haut à partir du bord inférieur, en 
 
 <a id="form-pattern-70-5"></a>
 
-![Bord d'évanouissement vers l'intérieur — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-70-5.svg)
+![Bord s’estompant vers l’intérieur — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-70-5.svg)
 
-##### Bord d'évanouissement vers l'intérieur
+##### Bord s’estompant vers l’intérieur
 
 Concentrez le motif sur les bords extérieurs et atténuez-le vers l'intérieur pour préserver l'espace d'information central.
 
@@ -1274,7 +1274,7 @@ Placez le motif principal sur un côté ou dans un coin, en l'équilibrant avec 
 
 ##### Patchwork local
 
-Appliquez le motif uniquement sur un décolleté, une poche, une zone de bonnet ou une autre zone locale désignée.
+Appliquez le motif uniquement sur une encolure, une poche, une partie de la surface d’une tasse ou une autre zone locale désignée.
 
 <a id="form-pattern-71-3"></a>
 
@@ -1336,6 +1336,6 @@ Conservez le thème central et les caractéristiques permettant de reconnaître 
 
 **Portée et limites**
 
-Une grille d'actifs standard n'est pas automatiquement un modèle, et un résultat transparent revendiqué nécessite une vérification de sortie en mosaïque distincte.
+Une grille régulière d’éléments ne constitue pas automatiquement un motif répété ; un résultat annoncé comme sans raccord visible nécessite une vérification distincte en répétition.
 
 Des études codées comparent la composition et les traitements visuels ; les exemples de médias et de styles sont conceptuels. Ces directions n'ont pas été testées individuellement avec des modèles d'images. Vérifiez le texte généré, la transparence et les bords répétés.

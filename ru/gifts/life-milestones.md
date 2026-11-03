@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/life-milestones?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/life-milestones?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -16,13 +16,13 @@
 
 <a id="birth-and-age"></a>
 
-## Опубликуйте подробности вехи
+## Выделите детали важного события
 
-Имя, дата, возраст или сведения о рождении создают общий макет, специфичный для одной вехи.
+Имя, дата, возраст или сведения о рождении превращают общий макет в дизайн для конкретного важного события.
 
-Время рождения, возраст или дата совершеннолетия могут закрепить дизайн рядом с именем человека. Эти конкретные детали делают произведение искусства личным для этого события и человека.
+Время рождения, возраст на важную дату или дата совершеннолетия рядом с именем человека могут стать основой дизайна. Эти конкретные детали связывают изображение именно с этим событием и человеком.
 
-[![Персонализированная рамка имени этапа](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![Персонализированная рамка с именем к важному событию](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 Цветочная рамка имени
 
@@ -36,23 +36,23 @@
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="school-and-work"></a>
 
 ## Отпразднуйте школьную или карьерную веху
 
-[Компактная центральная планировка](https://podplo.app/skills/compact-center-layout) придает названию школы, году обучения или должности жирный акцент.
+[Компактная композиция по центру](https://podplo.app/skills/compact-center-layout) придаёт названию школы, году или должности выразительное оформление по центру.
 
-Название школы, год окончания, должность или повышение по службе могут создать чистую и уверенную композицию. [Компактная центральная планировка](https://podplo.app/skills/compact-center-layout) дает этим деталям четкое и центрированное рассмотрение.
+Название школы, год окончания, должность или повышение по службе могут создать чистую и уверенную композицию. [Компактная композиция по центру](https://podplo.app/skills/compact-center-layout) придаёт этим деталям выразительное оформление по центру.
 
-[![Компактная композиция с указанием названия](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![Компактная композиция для важного события с заголовком в главной роли](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
-Компактная центральная планировка
+Компактная композиция по центру
 
 **Еще больше Skills для изучения**
 
@@ -68,9 +68,9 @@
 
 Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)
 
@@ -78,15 +78,15 @@
 
 ## Создайте плакат о выходе на пенсию или новом доме
 
-[Создатель Плакатов](https://podplo.app/skills/poster-maker) объединяет годы, места, фотографии и личную жизнь в четкий памятный плакат.
+[Создатель Плакатов](https://podplo.app/skills/poster-maker) объединяет годы, места, фотографии и личную фразу в чётко выстроенный памятный плакат.
 
-Проекты выхода на пенсию и новоселья могут включать годы, места, роли, адреса, фотографии и личную линию. [Создатель Плакатов](https://podplo.app/skills/poster-maker) объединяет эти элементы в четкий памятный плакат.
+Дизайны к выходу на пенсию и новоселью могут включать годы, места, роли, адреса, фотографии и личную фразу. [Создатель Плакатов](https://podplo.app/skills/poster-maker) объединяет эти элементы в четкий памятный плакат.
 
 ![Утвержденные факты и изображения для важной вехи](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
 Ввод
 
-[![Плакат Milestone с четкой иерархией](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)](https://podplo.app/skills/poster-maker)
+[![Постер к важному событию с чёткой иерархией](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)](https://podplo.app/skills/poster-maker)
 
 Создатель Плакатов
 
@@ -100,12 +100,12 @@
 
 <a id="_R_2urk_-cards"></a>
 
-[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)

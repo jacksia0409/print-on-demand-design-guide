@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/t-shirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/t-shirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -24,7 +24,7 @@
 
 ![Футболка с принтом золотистого ретривера по центру](https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp)
 
-### Размещение отпечатков
+### Принты с заданным расположением
 
 Создайте свой дизайн на основе смелого рисунка, заявления или лица, которое вам нравится.
 
@@ -94,9 +94,9 @@
 
 Оригинальное произведение искусства
 
-[![Заголовок–тема–подзаголовок · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Заголовок — главный объект — подзаголовок · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-[Название–тема–подзаголовок](https://podplo.app/skills/title-subject-subtitle-layout)
+[Заголовок — главный объект — подзаголовок](https://podplo.app/skills/title-subject-subtitle-layout)
 
 Совместите заголовок, розы и подзаголовок, чтобы получить четкую компоновку сверху вниз.
 
@@ -104,7 +104,7 @@
 
 [Центрированное изображение](https://podplo.app/skills/compact-center-layout)
 
-Объедините розы и текст в одно жирное изображение.
+Объедините розы и текст в одно выразительное изображение.
 
 [![Круглый значок · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-circular-badge.webp)](https://podplo.app/skills/circular-badge-layout)
 
@@ -124,11 +124,11 @@
 
 <a id="_R_gv3k_-cards"></a>
 
-[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)[![Пример макета перевернутого треугольника](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-5.webp)
 
@@ -150,7 +150,7 @@
 
 ### Ваш питомец. Твоя любимая футболка.
 
-Превратите фотографию домашнего животного в портрет, а затем добавьте фразу, отражающую его индивидуальность, с помощью макета Skill.
+Превратите фотографию питомца в портрет, затем с помощью Skill для компоновки добавьте фразу, отражающую его характер.
 
 [Мягкий акварельный портрет питомца](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
@@ -168,9 +168,9 @@
 
 <a id="_R_df3k_-cards"></a>
 
-[![Пример забавного мультфильма «Большой живот»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
+[![Пример забавного пузатого мультяшного персонажа](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
 
-Забавный мультфильм про большого живота](https://podplo.app/skills/funny-big-belly-cartoon)[![Пример работы с портретом королевского питомца](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
+Забавный пузатый мультяшный персонаж](https://podplo.app/skills/funny-big-belly-cartoon)[![Пример работы с портретом королевского питомца](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
 
 Портрет королевского питомца](https://podplo.app/skills/royal-pet-portrait)[![Пример 3D-портрета пары](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
 
@@ -190,27 +190,27 @@
 
 ### Сделай футболку, в которой все о вас двоих
 
-Превратите вашу любимую фотографию в трехмерный портрет персонажа с улыбками и деталями, которые вам нравятся.
+Превратите любимую фотографию вас двоих в портрет 3D-персонажей, сохранив любимые улыбки и детали.
 
 [3D Портрет пары](https://podplo.app/skills/3d-couple-portrait)
 
-ЧАРЛИ
+CHARLIE
 
 Имя
 
-[![Рождественский дизайн Северного полюса, персонализированный с ЧАРЛИ](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)](https://podplo.app/skills/north-pole-name-poster)
+[![Рождественский дизайн Северного полюса с именем CHARLIE](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)](https://podplo.app/skills/north-pole-name-poster)
 
 произведение искусства
 
-![AI-превью того же рождественского рисунка ЧАРЛИ на футболке цвета слоновой кости.](https://podplo.app/pod-guide/generated/tshirt-north-pole-proof.webp)
+![ИИ-предпросмотр того же рождественского рисунка CHARLIE на футболке цвета слоновой кости](https://podplo.app/pod-guide/generated/tshirt-north-pole-proof.webp)
 
 На футболке
 
-### Сделайте свое имя частью праздника
+### Сделайте их имя частью праздника
 
 Поместите их имя в центр рождественского дизайна. Попробуйте цветочные рамки или игривые надписи для другого случая.
 
-[Плакат с названием Северного полюса](https://podplo.app/skills/north-pole-name-poster)
+[Именной постер Северного полюса](https://podplo.app/skills/north-pole-name-poster)
 
 **Больше способов сделать это личным**
 
@@ -222,15 +222,15 @@
 
 <a id="_R_ef3k_-cards"></a>
 
-[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример изображения узора в виде сердечек из карандашей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример узора с именем и сердечками, нарисованными мелками](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Образец имени в виде сердечек из карандашей](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Узор с именем и сердечками, нарисованными мелками](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)[![Пример рисунка имени рождественского гнома](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607445124489843-artwork.webp)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)[![Пример рождественского узора с гномами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607445124489843-artwork.webp)
 
-Шаблон имени рождественского гнома](https://podplo.app/skills/christmas-gnome-name-pattern)
+Рождественский узор с гномами и именем](https://podplo.app/skills/christmas-gnome-name-pattern)
 
 <a id="tshirt-embroidery-route"></a>
 
@@ -242,9 +242,9 @@
 
 произведение искусства
 
-### Маленький дизайн. Большая личность.
+### Маленький дизайн. Яркая индивидуальность.
 
-Превратите фотографию кошки в простой рисунок в стиле вышивки с помощью Embroidery Sketch. Несколько линий и цветных блоков могут передать множество символов.
+Превратите фотографию кошки в простой рисунок в стиле вышивки с помощью Embroidery Sketch. Несколько линий и цветовых блоков могут передать яркую индивидуальность.
 
 [Эскиз вышивки](https://podplo.app/skills/embroidery-sketch)
 
@@ -260,7 +260,7 @@
 
 ### Превратите одиночный мотив в узор
 
-Используйте «Бесшовный узор», чтобы превратить цветы, животных или геометрические фигуры в повторяющиеся. Попробуйте изменить расстояние и расположение, чтобы изменить внешний вид.
+Используйте «Бесшовный узор», чтобы превратить цветы, животных или геометрические фигуры в повторяющийся узор. Меняйте интервалы и расположение для получения другого вида.
 
 [Бесшовный узор](https://podplo.app/skills/seamless-pattern)
 
@@ -280,7 +280,7 @@
 
 ## Увидеть это на футболке
 
-Предварительно просмотрите свою работу на пустой футболке или модели. Попробуйте разные цвета и настройки рубашек, чтобы найти тот образ, который вам нравится.
+Посмотрите свой дизайн на футболке без рисунка или на модели. Попробуйте разные цвета футболок и обстановку, чтобы найти подходящий вид.
 
 Макеты, созданные искусственным интеллектом.
 
@@ -290,9 +290,9 @@
 
 1 · Готовая работа
 
-![Пустая футболка цвета слоновой кости, использованная в качестве образца макета](https://podplo.app/pod-guide/generated/tshirt-blank.webp)
+![Футболка цвета слоновой кости без рисунка, используемая как референс для мокапа](https://podplo.app/pod-guide/generated/tshirt-blank.webp)
 
-Пустая футболка цвета слоновой кости
+Футболка цвета слоновой кости без рисунка
 
 ![Дизайн золотистого ретривера размещен на макете футболки](https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp)
 

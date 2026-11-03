@@ -30,7 +30,7 @@
 
 لا يتطلب التمركز تناظر المرآة. تجنب توزيع عدة عناصر مستقلة بنفس التركيز.
 
-[← العودة إلى العنصر الذي يقوده](../subject.md)
+[← العودة إلى التكوينات المرتكزة على العنصر الرئيسي](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -42,7 +42,7 @@
 
 **الاتجاه المطلوب**
 
-عنصر بقيادة → عنصر واحد → عنصر مركزي
+تكوين يرتكز على العنصر الرئيسي → عنصر واحد → عنصر في المنتصف
 
 **المدخلات والمخرجات**
 
@@ -72,17 +72,17 @@
 
 ## استكشاف الخلفية
 
-تقارن هذه الأمثلة الأسباب ضمن عائلة المحتوى نفسها. احتفظ بالتركيبة الحالية عند تطبيق المعالجة؛ فتح مثال لتوجيهاته الكاملة.
+تقارن هذه الأمثلة الخلفيات ضمن فئة المحتوى نفسها. احتفظ بالتكوين الحالي عند تطبيق المعالجة؛ وافتح مثالًا لقراءة تعليماته الكاملة.
 
 [![خلفية شفافة: عنصر واحد: تظل الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 ### خلفية شفافة↗
 
-عنصر واحد: الأرض تبقى شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](background--single--transparent.md)[![الخلفية الصلبة: عنصر واحد: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+عنصر واحد: تبقى الخلفية شفافة؛ ونمط المربعات مجرد وسيلة مساعدة للعرض.](background--single--transparent.md)[![خلفية أحادية اللون: عنصر واحد: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
-### خلفية صلبة ↗
+### خلفية أحادية اللون↗
 
-عنصر واحد: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](background--single--solid.md)[![خلفية متدرجة: عنصر واحد: يتغير الدعم بشكل مستمر في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+عنصر واحد: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](background--single--solid.md)[![خلفية متدرجة: عنصر واحد: يتغير لون الخلفية أو سطوعها باستمرار مع بقاء المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### خلفية متدرجة ↗
 
@@ -94,33 +94,33 @@
 
 ### خلفية منقوشة: منطقة كاملة↗
 
-عنصر واحد: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--single--pattern-full.md)[![خلفية مزخرفة: عنصر واحد: حبيبات الورق أو الجزيئات أو أي حرف سطحي آخر يدعم محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--texture-1.svg)
+عنصر واحد: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--single--pattern-full.md)[![خلفية ذات ملمس: عنصر رئيسي واحد: تدعم حبيبات الورق أو الجزيئات أو غيرها من سمات السطح محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--texture-1.svg)
 
-### خلفية محكم↗
+### خلفية ذات ملمس↗
 
-عنصر واحد: حبيبات الورق أو الجزيئات أو أي حرف سطحي آخر يدعم محتوى المقدمة.](background--single--texture.md)[![الخلفية البيئية: موضوع واحد: تدعم البيئة المرتبطة بالموضوع المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--scene-1.svg)
+عنصر واحد: تدعم حبيبات الورق أو الجزيئات أو سمة سطحية أخرى المحتوى الأمامي.](background--single--texture.md)[![خلفية بيئية: عنصر واحد: تدعم بيئة مرتبطة بالفكرة المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--scene-1.svg)
 
 ### الخلفية البيئية↗
 
-موضوع واحد: تدعم البيئة المرتبطة بالموضوع المحتوى الرئيسي من خلفه أو من حوله.](background--single--scene.md)
+عنصر واحد: تدعم بيئة مرتبطة بالفكرة المحتوى الرئيسي من خلفه أو من حوله.](background--single--scene.md)
 
 <a id="related"></a>
 
 ## قارن الاتجاهات القريبة
 
-[![إزاحة المساحة المفتوحة: يتم وضع الهدف الرئيسي على جانب واحد، مما يترك منطقة أكثر هدوءًا بشكل ملحوظ في مكان آخر.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-offset-1.svg)
+[![إزاحة مع فراغ: يوجد العنصر الرئيسي في أحد الجانبين، مع ترك منطقة أهدأ بوضوح في موضع آخر.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-offset-1.svg)
 
 ### إزاحة بمساحة مفتوحة↗
 
-يقع الهدف الرئيسي على جانب واحد، مما يترك منطقة أكثر هدوءًا بشكل ملحوظ في مكان آخر.](single--single-offset.md)[![تفاصيل مكبرة: يؤدي العرض الموسع والمقتص إلى التركيز على جزء يمكن التعرف عليه من العنصر.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-crop-1.svg)
+يقع العنصر الرئيسي إلى أحد الجانبين، مع ترك منطقة أكثر هدوءًا بوضوح في موضع آخر.](single--single-offset.md)[![تفاصيل مكبرة: يؤدي العرض الموسع والمقتص إلى التركيز على جزء يمكن التعرف عليه من العنصر.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-crop-1.svg)
 
 ### تفاصيل مكبرة ↗
 
-يؤدي العرض الموسع والمقتص إلى التركيز على جزء يمكن التعرف عليه من العنصر.](single--single-crop.md)[![التكوين القطري: يمتد الهدف على طول قطري، مما يعطي الصورة اتجاهًا واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-diagonal-1.svg)
+يؤدي العرض الموسع والمقتص إلى التركيز على جزء يمكن التعرف عليه من العنصر.](single--single-crop.md)[![تكوين قطري: يمتد العنصر الرئيسي على خط قطري، مما يمنح الصورة اتجاهًا واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-diagonal-1.svg)
 
 ### تكوين قطري↗
 
-يمتد الهدف على طول قطري، مما يعطي الصورة اتجاهًا واضحًا.](single--single-diagonal.md)
+يمتد العنصر الرئيسي قطريًا، مما يمنح الصورة اتجاهًا واضحًا.](single--single-diagonal.md)
 
 تقارن الدراسات المرسومة بالرمز التركيب والمعالجات البصرية؛ أمثلة الوسائط والأسلوب مفاهيمية. لم يتم اختبار هذه الاتجاهات بشكل فردي مع نماذج الصور. تحقق من النص الذي تم إنشاؤه والشفافية والحواف المتكررة.
 

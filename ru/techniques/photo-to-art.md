@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques/photo-to-art?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques/photo-to-art?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -48,13 +48,13 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 <a id="pet-character"></a>
 
 ## Создайте королевского питомца
 
-[Портрет королевского питомца](https://podplo.app/skills/royal-pet-portrait) придает узнаваемому питомцу игривый королевский стиль характера.
+[Портрет королевского питомца](https://podplo.app/skills/royal-pet-portrait) придаёт узнаваемому питомцу игривый образ королевского персонажа.
 
 [Портрет королевского питомца](https://podplo.app/skills/royal-pet-portrait) меняет костюм, обстановку и стиль персонажа, сохраняя при этом узнаваемость питомца. Форма лица, отметины и выражение связывают трансформацию с одним и тем же животным.
 
@@ -84,7 +84,7 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 <a id="family-portrait"></a>
 
@@ -98,7 +98,7 @@
 
 Ввод
 
-[![3D семейный портрет с каждым предоставленным человеком](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![Семейный 3D-портрет со всеми людьми с предоставленных фотографий](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 3D Семейный Портрет
 
@@ -120,4 +120,4 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)

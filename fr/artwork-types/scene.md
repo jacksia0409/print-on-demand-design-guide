@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -170,7 +170,7 @@ Gardez la cause ou le résultat crucial en dehors du cadre afin que les indices 
 
 <a id="scene-group-word-10-1"></a>
 
-#### Paramètres et fragments du quotidien
+#### Décors et fragments du quotidien
 
 Comparez les environnements quotidiens en fonction de l'utilisation sociale, des objets, des occupants et du type d'activité ordinaire que chaque espace prend en charge.
 
@@ -516,7 +516,7 @@ Combinez la pluie qui tombe, les traces mouillées, les parapluies et les reflet
 
 ##### Scène enneigée
 
-Utilisez la neige qui tombe, la couverture accumulée et les surfaces obscurcies pour transformer l'espace.
+Utilisez la neige qui tombe, la couche de neige accumulée et les surfaces masquées pour transformer l’espace.
 
 <a id="form-exp-10-3-7"></a>
 
@@ -576,17 +576,17 @@ Regardez vers le haut depuis le bas pour renforcer la masse ou la taille apparen
 
 <a id="form-exp-10-4-2"></a>
 
-![Vue grand angle – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-2.svg)
+![Vue en plongée — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-2.svg)
 
-##### Vue grand angle
+##### Vue en plongée
 
 Regardez vers le bas depuis une position élevée pour révéler les relations à travers le sol.
 
 <a id="form-exp-10-4-3"></a>
 
-![Vue de haut en bas – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-3.svg)
+![Vue de dessus — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-3.svg)
 
-##### Vue descendante
+##### Vue de dessus
 
 Regardez presque vers le bas pour que la disposition spatiale plate devienne l'information principale.
 
@@ -602,7 +602,7 @@ Visualisez la scène en diagonale depuis le dessus, montrant à la fois la répa
 
 ![Vue du sol – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-5.svg)
 
-##### Vue du rez-de-chaussée
+##### Vue au ras du sol
 
 Placez le point de vue contre le sol pour que même les petits objets paraissent hauts.
 
@@ -628,7 +628,7 @@ Dirigez les lignes spatiales vers un point de fuite dominant.
 
 ##### Perspective en deux points
 
-Utilisez un bâtiment ou un coin spatial pour établir deux directions de disparition distinctes.
+Utilisez un bâtiment ou un angle de l’espace pour établir deux directions de fuite distinctes.
 
 <a id="form-exp-10-4-9"></a>
 
@@ -800,17 +800,17 @@ Comparez la profondeur spatiale à travers les plans en couches, les chevaucheme
 
 <a id="form-exp-10-6-0"></a>
 
-![Premier plan, milieu et distance — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-0.svg)
+![Premier plan, plan moyen et lointain — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-0.svg)
 
-##### Premier plan, milieu et distance
+##### Premier plan, plan moyen et lointain
 
 Donnez au premier plan, au second plan et au loin leurs propres couches de contenu reconnaissables.
 
 <a id="form-exp-10-6-1"></a>
 
-![Avion à un étage — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-1.svg)
+![Plan scénique unique — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-1.svg)
 
-##### Avion à un étage
+##### Plan scénique unique
 
 Gardez les personnages principalement sur un seul plan avec un environnement organisé comme un décor de théâtre.
 
@@ -820,7 +820,7 @@ Gardez les personnages principalement sur un seul plan avec un environnement org
 
 ##### Paysages en couches
 
-Superposez plusieurs silhouettes environnementales d’avant en arrière comme des appartements de scène superposés.
+Superposez plusieurs silhouettes de décor d’avant en arrière comme des panneaux de théâtre.
 
 <a id="form-exp-10-6-3"></a>
 
@@ -850,7 +850,7 @@ Réduisez progressivement les objets similaires à mesure que leur distance par 
 
 ![Perspective atmosphérique – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-6.svg)
 
-##### Point de vue atmosphérique
+##### Perspective atmosphérique
 
 Réduisez les détails et le contraste au loin tout en gardant claires les formes proches.
 
@@ -880,9 +880,9 @@ Montrez l’espace intérieur et extérieur en continu grâce à une ouverture p
 
 <a id="form-exp-10-6-10"></a>
 
-![Coupe ci-dessus – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-10.svg)
+![Coupe dessus-dessous — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-10.svg)
 
-##### Section ci-dessus
+##### Coupe dessus-dessous
 
 Présentez simultanément des niveaux de bâtiment aériens, souterrains ou multiples.
 
@@ -896,9 +896,9 @@ Organisez l'espace en niveaux successifs allant de haut en bas.
 
 <a id="form-exp-10-6-12"></a>
 
-![Co-responsables proches et lointains – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-12.svg)
+![Sujets proches et lointains de même importance — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-12.svg)
 
-##### Co-responsables proches et lointains
+##### Sujets proches et lointains de même importance
 
 Laissez un personnage proche et un point de repère éloigné partager une importance thématique égale.
 
@@ -916,7 +916,7 @@ Modifiez délibérément l'échelle relative pour créer un espace onirique ou a
 
 #### Composition et flux visuel
 
-Comparez la composition de la scène par placement focal, équilibre, chemin directionnel, cadrage, centres d'activités multiples, densité panoramique et échelle de réglage en fonction de l'événement.
+Comparez la composition des scènes selon la position du point focal, l’équilibre, les parcours directionnels, le cadrage, les centres d’activité multiples, la densité panoramique et le rapport d’échelle entre le décor et l’événement.
 
 <a id="form-exp-10-7-0"></a>
 
@@ -1024,9 +1024,9 @@ Répartissez de nombreux petits événements dans un espace panoramique continu.
 
 <a id="form-exp-10-7-14"></a>
 
-![Petit événement à grande échelle — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-7-14.svg)
+![Grand décor, petit événement — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-7-14.svg)
 
-##### Petit événement à grande échelle
+##### Grand décor, petit événement
 
 Laissez le décor occuper la majeure partie de l’image tandis que l’événement apparaît comme un petit détail.
 
@@ -1080,9 +1080,9 @@ Répétez le même endroit à différents moments pour révéler les changements
 
 <a id="form-exp-10-8-4"></a>
 
-![Un personnage dans tous les paramètres – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-4.svg)
+![Un personnage dans différents décors — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-4.svg)
 
-##### Un personnage dans tous les paramètres
+##### Un personnage dans différents décors
 
 Suivez un personnage à travers différents environnements pour connecter une expérience plus longue.
 
@@ -1096,11 +1096,11 @@ Laissez les événements se développer continuellement sur une image de défile
 
 <a id="form-exp-10-8-6"></a>
 
-![Plusieurs fois dans une scène – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-6.svg)
+![Plusieurs moments dans une scène — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-6.svg)
 
-##### Plusieurs fois dans une scène
+##### Plusieurs moments dans une scène
 
-Répétez le personnage dans un paramètre pour représenter plusieurs moments différents.
+Répétez le personnage dans un même décor pour représenter plusieurs moments.
 
 <a id="form-exp-10-8-7"></a>
 
@@ -1128,7 +1128,7 @@ Déployez plusieurs événements simultanément pour qu’ils se comparent ou se
 
 <a id="form-exp-10-8-10"></a>
 
-![Mémoire et présent – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-10.svg)
+![Souvenir et présent — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-10.svg)
 
 ##### Mémoire et présent
 
@@ -1270,7 +1270,7 @@ Organisez les sujets, le décor et l'espace autour du thème original. Le résul
 
 **Arrière-plan**
 
-Utilisez l’emplacement existant, les indices environnementaux et atmosphériques pour développer un cadre cohérent. S'il n'existe aucun arrière-plan ou si seul un support solide ou transparent est fourni, créez un environnement associé. Un motif décoratif ne doit pas à lui seul remplacer le contexte essentiel.
+Utilisez les indices de lieu, d’environnement et d’atmosphère existants pour développer un décor cohérent. Si aucun arrière-plan n’existe, ou si seul un fond uni ou transparent est fourni, créez un environnement apparenté. Un motif décoratif ne doit pas remplacer à lui seul le contexte essentiel.
 
 **Texte**
 

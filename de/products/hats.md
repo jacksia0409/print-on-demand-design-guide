@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/hats?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/hats?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Hüte und Mützen
 
-Verwandeln Sie ein Zeichen, ein Symbol oder ein kurzes Wort in eine kompakte Hutgrafik.
+Verwandeln Sie eine Figur, ein Symbol oder ein kurzes Wort in eine kompakte Grafik für eine Kopfbedeckung.
 
 <a id="product-overview"></a>
 
@@ -32,19 +32,19 @@ Verwenden Sie verschiedene Skills, um dasselbe Bild in neue Layouts, fotobasiert
 
 ### Erstellen Sie ein kompaktes Hutabzeichen
 
-Kombinieren Sie einen kurzen Titel, ein klares Thema und einen kurzen Untertitel in einem kleinen, zentrierten Layout.
+Kombinieren Sie einen kurzen Titel, ein klar erkennbares Motiv und einen kurzen Untertitel in einem kleinen, zentrierten Layout.
 
-[Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+[Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
-![Titel-Betreff-Untertitel-Layout · Quellbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
+![Layout aus Titel, Motiv und Untertitel · Ausgangsbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
 
 Quellbild
 
-[![Titel-Betreff-Untertitel-Layout · Generiertes Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Layout aus Titel, Motiv und Untertitel · Generiertes Bild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 Generiertes Kunstwerk
 
-![Hüte und Mützen · Titel-Betreff-Untertitel-Layout · KI-Produktvorschau](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
+![Hüte und Mützen · Titel-Motiv-Untertitel-Layout · KI-Produktvorschau](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
 
 KI-Produktvorschau
 
@@ -66,11 +66,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 4
 
@@ -78,25 +78,25 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Haustier-Sticker-Doodle-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-05.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Haustier-Sticker-Doodle-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-05.webp)
 
 Haustier-Aufkleber-Doodle](https://podplo.app/skills/pet-sticker-doodle)[![Beispiel für ein neugieriges Haustier-Frageaufkleber-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-18.webp)
 
-Neugieriger Haustier-Frageaufkleber](https://podplo.app/skills/curious-pet-question-sticker)[![Beispiel für ein Monochrom-Schablonenfamilien-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
+Neugieriger Haustier-Frageaufkleber](https://podplo.app/skills/curious-pet-question-sticker)[![Designbeispiel einer einfarbigen Familienschablone](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
 
-Monochrome Schablonenfamilie](https://podplo.app/skills/monochrome-stencil-family)
+Einfarbige Familienschablone](https://podplo.app/skills/monochrome-stencil-family)
 
 ### Fügen Sie einen Namen unter einer juwelenbesetzten Krone hinzu
 
 Platzieren Sie einen Namen unter der Krone, um eine kompakte, personalisierte Hutgrafik zu erstellen.
 
-[Prinzessin Kronenname](https://podplo.app/skills/princess-crown-name)
+[Name mit Prinzessinnenkrone](https://podplo.app/skills/princess-crown-name)
 
 NAME
 
 Name
 
-[![Prinzessin Crown Name · Generiertes Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
+[![Name mit Prinzessinnenkrone · Generiertes Design](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
 
 Generiertes Kunstwerk
 
@@ -104,11 +104,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 1 / 1
 
@@ -124,7 +124,7 @@ Auffälliges gelbes Zitat-Poster](https://podplo.app/skills/bold-yellow-quote-po
 
 ### Sehen Sie es sich auf dem Hut an
 
-Die KI-Vorschau zeigt, wie die Grafik im Hutmaßstab und auf einer gebogenen Frontplatte aussieht.
+Die KI-Vorschau zeigt, wie die Grafik in der Größe für eine Kopfbedeckung und auf einem gewölbten Vorderteil wirkt.
 
 - Eine starke Form ist leichter zu lesen als viele kleine Details
 

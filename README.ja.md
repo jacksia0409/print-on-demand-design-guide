@@ -36,7 +36,7 @@
 
 制作： [PodPlo](https://podplo.app/?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_publisher) · [日本語ガイドの全目次](ja/INDEX.md)
 
-[ここから始めましょう](#start) | [1 つのアートワーク、3 つのレイアウト](#layouts) | [Photo to Art](#photo-to-art) | [その他の作成方法](#creative-variations) | [デザインは5種類](#artwork-types) | [デザインボキャブラリー](#design-vocabulary) | [AI の方向をコピーする](#ai-directions) | [製品アイデア](#products) | [完全ガイド](#guide-library) | [PodPlo で作成](#create)
+[ここから始めましょう](#start) | [1 つのアートワーク、3 つのレイアウト](#layouts) | [Photo to Art](#photo-to-art) | [その他の作成方法](#creative-variations) | [デザインは5種類](#artwork-types) | [デザインボキャブラリー](#design-vocabulary) | [AI制作指示をコピー](#ai-directions) | [製品アイデア](#products) | [完全ガイド](#guide-library) | [PodPlo で作成](#create)
 
 <a id="start"></a>
 
@@ -58,14 +58,14 @@
 ## 1 つのアートワーク、3 つの異なる構成
 
 
-バラと「ETERNAL BLOOM」という文字を残してください。二人の関係を変えてみましょう。明確な見出し、コンパクトなシルエット、円形のフレームにより、同じテーマに 3 つの異なる個性が与えられます。
+バラと「ETERNAL BLOOM」の文字を残し、両者の関係を変えてみましょう。明確な見出し、コンパクトなシルエット、円形フレームによって、同じテーマに三つの異なる個性を与えられます。
 
 
 
 <table>
 <tr>
 <td align="center" valign="top"><a href="https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_layout_source"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/skill-categories/source/layout/tshirt-one--title-subject-subtitle-layout.jpg" alt="3 つのレイアウト例に使用されたオリジナルのバラのアートワーク" width="100" /></a><br />元のデザイン</td>
-<td align="center" valign="top"><a href="https://podplo.app/skills/title-subject-subtitle-layout?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_layout_title-subject-subtitle-layout"><img src="https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp" alt="タイトル – 件名 – サブタイトル" width="210" /></a><br /><strong>タイトル – 件名 – サブタイトル</strong><br />単語と画像に明確な読み上げ順序を付けます。<br /><a href="https://podplo.app/skills/title-subject-subtitle-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_layout_title-subject-subtitle-layout">このレイアウトを試してください</a></td>
+<td align="center" valign="top"><a href="https://podplo.app/skills/title-subject-subtitle-layout?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_layout_title-subject-subtitle-layout"><img src="https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp" alt="タイトル・モチーフ・サブタイトル" width="210" /></a><br /><strong>タイトル・モチーフ・サブタイトル</strong><br />文字と画像を読む順序を、はっきりさせます。<br /><a href="https://podplo.app/skills/title-subject-subtitle-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_layout_title-subject-subtitle-layout">このレイアウトを試してください</a></td>
 <td align="center" valign="top"><a href="https://podplo.app/skills/compact-center-layout?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_layout_compact-center-layout"><img src="https://podplo.app/pod-guide/generated/rose-compact-center.webp" alt="コンパクトセンター" width="210" /></a><br /><strong>コンパクトセンター</strong><br />画像と文字を 1 つの接続された形状にまとめます。<br /><a href="https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_layout_compact-center-layout">このレイアウトを試してください</a></td>
 <td align="center" valign="top"><a href="https://podplo.app/skills/circular-badge-layout?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_layout_circular-badge-layout"><img src="https://podplo.app/pod-guide/generated/rose-circular-badge.webp" alt="円形バッジ" width="210" /></a><br /><strong>円形バッジ</strong><br />曲線を描いたテキストと枠で被写体を囲みます。<br /><a href="https://podplo.app/skills/circular-badge-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_layout_circular-badge-layout">このレイアウトを試してください</a></td>
 </tr>
@@ -78,7 +78,7 @@
 ## おなじみの顔、異なる芸術的表現
 
 
-良い出発点となる写真は、個人的な作業のきっかけとなるものです。治療による変化と、顔の形、模様、ポーズ、二人の関係など、被験者の認識を維持するものを比較してください。
+よい元写真には、その人ならではの手がかりがあります。表現によって変わる部分と、顔の形、模様、ポーズ、二人の関係性など、本人やペットだと分かる特徴がどう残るかを比べましょう。
 
 <table>
 <tr><th>方向</th><th>元の写真</th><th>アートワークの例 · クリックして試してみる</th></tr>
@@ -98,27 +98,27 @@
 <tr>
 <td align="center" valign="top"><a href="https://podplo.app/skills/floral-name-frame?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_variation_floral-name-frame"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp" alt="花のフレームの中に名前を入れます" width="240" /></a><br /><strong>花のフレームの中に名前を入れます</strong><br />名前を中心として使用し、花で周囲の形を構築します。<br /><a href="https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_variation_floral-name-frame">このSkillを開く</a></td>
 <td align="center" valign="top"><a href="https://podplo.app/skills/seamless-pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_variation_seamless-pattern"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp" alt="コーディネートされた繰り返し" width="240" /></a><br /><strong>コーディネートされた繰り返し</strong><br />モチーフの方向、間隔、繰り返しのリズムを探ります。タイル状のプレビューでエッジを検査します。<br /><a href="https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_variation_seamless-pattern">このSkillを開く</a></td>
-<td align="center" valign="top"><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_variation_make-it-christmas"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp" alt="休日バージョン" width="240" /></a><br /><strong>休日バージョン</strong><br />メインテーマを中心に季節のディテールをコーディネートしてみてください。<br /><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_variation_make-it-christmas">このSkillを開く</a></td>
+<td align="center" valign="top"><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_variation_make-it-christmas"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp" alt="ホリデー仕様" width="240" /></a><br /><strong>ホリデー仕様</strong><br />メインテーマを中心に季節のディテールをコーディネートしてみてください。<br /><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_variation_make-it-christmas">このSkillを開く</a></td>
 </tr>
 </table>
 
-これらはさまざまな創造的なタスクです。レイアウト Skill は組織を変更します。 Photo to Art Skill は芸術的な表現を変えます。名前または祝日 Skill は、特定の種類のコンテンツを追加します。ガイドに従って、実際に必要な変換を選択します。
+これらは異なる創作作業です。レイアウトのSkillは配置を変え、Photo to ArtのSkillは写真の芸術的な表現を変えます。名前や季節行事のSkillは、それぞれ特定の内容を加えます。ガイドを参考に、実現したい変化を選んでください。
 
-[個人名とメッセージ](ja/techniques/replace-name-text.md) · [休日のバリエーション](ja/techniques/holiday-versions.md) · [コーディネートされたシリーズを構築する](ja/techniques/series-builder.md)
+[個人名とメッセージ](ja/techniques/replace-name-text.md) · [ホリデーのバリエーション](ja/techniques/holiday-versions.md) · [コーディネートされたシリーズを構築する](ja/techniques/series-builder.md)
 
 <a id="artwork-types"></a>
 
 ## デザインを構築する 5 つの方法
 
 
-デザインは、認識可能な主役、繰り返されるモチーフ、設定、表面、または非具象的な形状によって導かれることがあります。これらは構造的な出発点です。水彩などのスタイルを複数のスタイルに適用できます。
+デザインの構造は、見分けられるモチーフ、繰り返す柄、場面、表面の質感、非具象的な形などを出発点にできます。水彩のようなスタイルは、これら複数の構造に適用できます。
 
 <table>
-<tr><th>アートワークの種類</th><th>2 つの視覚的形式を比較する</th><th>探検する</th></tr>
-<tr><td><strong>主役を中心にした構成</strong><br />オブジェクト、文字、または単語が構成を主導します。</td><td><a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_subject_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-0.svg" alt="中心の構図" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_subject_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-0.svg" alt="上のタイトル" width="170" /></a></td><td><a href="ja/artwork-types/subject.md">このリポジトリを読み取る</a><br /><a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_type_subject_cta">PodPlo で視覚的に閲覧する</a></td></tr>
-<tr><td><strong>パターン</strong><br />モチーフは繰り返しと配置によって全体を形成します。</td><td><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_pattern_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-0.svg" alt="通常のタイリング" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_pattern_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-1.svg" alt="千鳥配置" width="170" /></a></td><td><a href="ja/artwork-types/pattern.md">このリポジトリを読み取る</a><br /><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_type_pattern_cta">PodPlo で視覚的に閲覧する</a></td></tr>
-<tr><td><strong>シーン</strong><br />設定により、被験者に共有コンテキストが与えられます。</td><td><a href="https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_scene_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-0-0.svg" alt="単一イベント" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_scene_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-0.svg" alt="国内インテリア" width="170" /></a></td><td><a href="ja/artwork-types/scene.md">このリポジトリを読み取る</a><br /><a href="https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_type_scene_cta">PodPlo で視覚的に閲覧する</a></td></tr>
-<tr><td><strong>テクスチャ</strong><br />表面の特徴が視覚的な焦点になります。</td><td><a href="https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_texture_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-0-0.svg" alt="大理石の葉脈" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_texture_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-1-1.svg" alt="砂の波紋" width="170" /></a></td><td><a href="ja/artwork-types/texture.md">このリポジトリを読み取る</a><br /><a href="https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_type_texture_cta">PodPlo で視覚的に閲覧する</a></td></tr>
+<tr><th>アートワークの種類</th><th>2 つの視覚的形式を比較する</th><th>探す</th></tr>
+<tr><td><strong>主役を中心にした構成</strong><br />物体、キャラクター、言葉が構図の主役になります。</td><td><a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_subject_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-0.svg" alt="中心の構図" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_subject_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-0.svg" alt="上のタイトル" width="170" /></a></td><td><a href="ja/artwork-types/subject.md">このリポジトリを読み取る</a><br /><a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_type_subject_cta">PodPlo で視覚的に閲覧する</a></td></tr>
+<tr><td><strong>パターン</strong><br />モチーフは繰り返しと配置によって全体を形成します。</td><td><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_pattern_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-0.svg" alt="規則的なタイル配置" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_pattern_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-1.svg" alt="千鳥配置" width="170" /></a></td><td><a href="ja/artwork-types/pattern.md">このリポジトリを読み取る</a><br /><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_type_pattern_cta">PodPlo で視覚的に閲覧する</a></td></tr>
+<tr><td><strong>シーン</strong><br />場面設定によって、モチーフ同士に共通の文脈が生まれます。</td><td><a href="https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_scene_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-0-0.svg" alt="単一イベント" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_scene_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-0.svg" alt="家庭の室内" width="170" /></a></td><td><a href="ja/artwork-types/scene.md">このリポジトリを読み取る</a><br /><a href="https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_type_scene_cta">PodPlo で視覚的に閲覧する</a></td></tr>
+<tr><td><strong>テクスチャ</strong><br />表面の特徴が視覚的な焦点になります。</td><td><a href="https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_texture_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-0-0.svg" alt="大理石の石目" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_texture_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-1-1.svg" alt="砂の波紋" width="170" /></a></td><td><a href="ja/artwork-types/texture.md">このリポジトリを読み取る</a><br /><a href="https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_type_texture_cta">PodPlo で視覚的に閲覧する</a></td></tr>
 <tr><td><strong>抽象表現</strong><br />形、マーク、色がイメージを伝えます。</td><td><a href="https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_abstract_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-1.svg" alt="クラスター化されたドット" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_type_abstract_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-1-0.svg" alt="円と円弧" width="170" /></a></td><td><a href="ja/artwork-types/abstract.md">このリポジトリを読み取る</a><br /><a href="https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_type_abstract_cta">PodPlo で視覚的に閲覧する</a></td></tr>
 </table>
 
@@ -138,18 +138,18 @@
 <td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_vocabulary_lettering-15-0"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-15-0.svg" alt="上部アーチ" width="220" /></a><br /><strong>上部アーチ</strong></td>
 </tr>
 <tr>
-<td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_vocabulary_lettering-15-2"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-15-2.svg" alt="完全な循環テキスト" width="220" /></a><br /><strong>完全な循環テキスト</strong></td>
+<td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_vocabulary_lettering-15-2"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-15-2.svg" alt="完全な円形に並べた文字" width="220" /></a><br /><strong>完全な円形に並べた文字</strong></td>
 <td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_vocabulary_exp-11-0-0"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-0-0.svg" alt="透明な背景" width="220" /></a><br /><strong>透明な背景</strong></td>
 <td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_vocabulary_exp-11-2-0"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-2-0.svg" alt="円形の裏地" width="220" /></a><br /><strong>円形の裏地</strong></td>
 </tr>
 <tr>
 <td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_vocabulary_art-35-0"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-35-0.svg" alt="ペンスケッチ" width="220" /></a><br /><strong>ペンスケッチ</strong></td>
-<td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_vocabulary_art-46-1"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-46-1.svg" alt="フラット編集イラスト" width="220" /></a><br /><strong>フラット編集イラスト</strong></td>
+<td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_vocabulary_art-46-1"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-46-1.svg" alt="平面的な誌面風イラスト" width="220" /></a><br /><strong>平面的な誌面風イラスト</strong></td>
 <td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=ja_vocabulary_pattern-56-1"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-1.svg" alt="千鳥配置" width="220" /></a><br /><strong>千鳥配置</strong></td>
 </tr>
 </table>
 
-[構成と主役の処理](ja/artwork-types/subject.md) · [文字とレタリング](ja/artwork-types.md#text-application) · [背景デザイン](ja/artwork-types.md#background) · [画材と素材](ja/artwork-types.md#media) · [アートスタイル](ja/artwork-types.md#styles)
+[構図とモチーフの表現](ja/artwork-types/subject.md) · [文字とレタリング](ja/artwork-types.md#text-application) · [背景デザイン](ja/artwork-types.md#background) · [画材と素材](ja/artwork-types.md#media) · [アートスタイル](ja/artwork-types.md#styles)
 
 <a id="ai-directions"></a>
 
@@ -164,7 +164,7 @@
 1 つの主要な被写体が中央近くに位置し、その周りにスペースがあります。
 
 ```text
-目指す表現: 教科主導 → 単一教科 → 教科中心
+目指す表現: モチーフ主体 → 1つのモチーフ → 中央に置くモチーフ
 
 入力と出力: 画像が与えられた場合は、その画像をこの表現に合わせて調整してください。プロンプトが与えられた場合は、画像生成にそのまま使える完全なプロンプトに書き直してください。
 
@@ -182,12 +182,12 @@
 </details>
 
 <details>
-<summary><strong>主役の周囲のテキスト</strong> — 文言を別のブロックに入れるのではなく、件名を囲みます。</summary>
+<summary><strong>主役の周囲のテキスト</strong> — 文言を別のブロックにせず、モチーフの周囲に配置します。</summary>
 
 単語は、画像の周囲の円弧または外側のパスをたどります。
 
 ```text
-目指す表現: 主役主導 → テキストと主役の関係 → 主役の周囲のテキスト
+目指す表現: モチーフ主体 → 文字とモチーフの関係 → モチーフを囲む文字
 
 入力と出力: 画像が与えられた場合は、その画像をこの表現に合わせて調整してください。プロンプトが与えられた場合は、画像生成にそのまま使える完全なプロンプトに書き直してください。
 
@@ -216,9 +216,9 @@
 
 目指す構成: 隣接する行または列間の安定したオフセット関係を含むタイルを構築します。反対側のエッジの継続を含む、モチーフの方向、間隔、密度を調整します。
 
-背景: 背景パレットとモチーフを参照し、同じ繰り返し単位内で背景と前景をデザインします。存在しない場合は、関連するベースカラーまたは定期的に継続できるバッキングを作成します。完全な画像タイルを自動的に取得するのではなく、一致しないソース背景を再構築します。
+背景：元の背景の配色やモチーフを参考に、前景と背景を同じリピート単位の中で設計します。背景がない場合は、関連する地色や繰り返しつながる下地を作ります。合わない背景は組み直し、元画像全体が自動的に継ぎ目なくつながると決めつけないでください。
 
-文字の扱い: ソースの文言とその言語を明確に読みやすい状態に保ち、その表現を調整します。読めないテキストを回復したと主張しないでください。言葉が指定されていない場合は、サポートモチーフとしてテーマに関連した短い言葉やフレーズを作成します。シームレスなタイリングが必要な場合は、繰り返し単位に文言を含めて、スペル、エッジの継続性、読みやすさをチェックします。そうしないとシームレス性が保証されません。テキストなしの明示的なリクエストを尊重します。
+文字の扱い: 元画像ではっきり読める文言とその言語を維持し、見せ方を調整します。読めない文字を復元できたと主張しないでください。文言が与えられていない場合は、テーマに関連する短い単語やフレーズを補助的なモチーフとして作ります。継ぎ目のない繰り返しが必要な場合は、文字も繰り返し単位に含め、綴り、端でのつながり、読みやすさを確認します。それ以外の場合は、継ぎ目なくつながると約束しないでください。「文字なし」という明示的な指定を尊重します。
 
 維持と調整: 中心となるテーマと、元の対象を識別できる特徴を維持してください。元の表現方法と配色を出発点とし、選んだ表現に必要な範囲だけ変更してください。新たに作成した内容を、元画像に存在していたものとして説明しないでください。明示的な入力条件と、目指す結果に必要な条件が矛盾する場合は、両方を満たしたと主張せず、その矛盾を説明してください。
 
@@ -229,7 +229,7 @@
 
 </details>
 
-[123 の公共ルートをすべて参照する](ja/ai-directions/INDEX.md) · [PodPlo の画像 Skills を探索する](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_after_prompts)
+[公開されている123の創作の方向性をすべて見る](ja/ai-directions/INDEX.md) · [PodPlo の画像 Skills を探索する](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=ja_after_prompts)
 
 <a id="products"></a>
 
@@ -261,14 +261,14 @@
 | 章 | 何が見つかるか | 読む |
 | --- | --- | --- |
 | アートワークの種類 | 主役、パターン、シーン、テクスチャ、抽象的な形式、レタリング、背景 | [章を開く](ja/artwork-types.md) |
-| 原材料 | 開始する要素、完全なイメージ、および選択されたコレクション | [出発点を見つける](ja/materials.md) |
+| 元になる素材 | 開始する要素、完全なイメージ、および選択されたコレクション | [出発点を見つける](ja/materials.md) |
 | 構成 | 同じソースアートワークの異なるレイアウト | [レイアウトを探索する](ja/techniques/compose-anything.md) |
-| Photo to Art | ペット、人物、家族の写真を新しい芸術的な方法で撮影 | [ポートレートを探索する](ja/techniques/photo-to-art.md) |
+| Photo to Art | ペット、人物、家族の写真を、新しいアート表現に | [ポートレートを探索する](ja/techniques/photo-to-art.md) |
 | テキストと名前 | ネームフレーム・一言・記念デザイン | [個人的なものにする](ja/techniques/replace-name-text.md) |
-| ホリデーバージョン | おなじみの主役に関する新しい季節の詳細 | [休日を選択してください](ja/techniques/holiday-versions.md) |
+| ホリデーバージョン | おなじみの主役に関する新しい季節の詳細 | [ホリデーを選択](ja/techniques/holiday-versions.md) |
 | 枠を超えて | 既存の画像の新しいプロポーションと構成 | [バリエーションを探る](ja/techniques/change-ratio.md) |
 | コーディネートシリーズ | テーマや視覚的アプローチを共有する関連デザイン | [シリーズを構築する](ja/techniques/series-builder.md) |
-| POD 製品 | 20 の製品カテゴリにわたるクリエイティブなアプリケーション | [製品を閲覧する](ja/products.md) |
+| POD 製品 | 20の商品カテゴリに広がる創作の活用例 | [製品を閲覧する](ja/products.md) |
 | ギフトのアイデア | 人間関係、感謝、節目、思い出、励まし、楽しみ | [ギフトの方向性を見つける](ja/gifts/relationships.md) |
 
 **[日本語ガイドの全目次](ja/INDEX.md)**
@@ -283,7 +283,7 @@
 1. ソース画像またはデザインアイデアを選択します。
 2. 必要な変更に一致する Skill を開きます。
 3. 必要な画像と独自の言葉を入力してください。
-4. 生成設定とクレジット見積を確認し、確認します。
+4. 生成設定とクレジットの見積もりを確認してから、承認してください。
 
 | やりたいこと | そこにまっすぐ行ってください |
 | --- | --- |
@@ -299,7 +299,7 @@
 ## いくつかの便利な区別
 
 
-**PodPlo 外の公共ルートを使用できますか?**
+**公開されている創作の指示は、PodPlo以外でも使えますか？**
 
 視覚的な目標を平易な言葉で説明します。これらをイメージ対応ツールに適応させたり、それらを使用してプロンプトを書き換えたりすることができます。結果はモデル、入力、設定によって異なります。
 

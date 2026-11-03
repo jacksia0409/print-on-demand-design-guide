@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-rays?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-rays?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,23 +26,23 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Wörtlich emittiertes Licht ist optional, ebenso wie ein Vollring. Die Strahlen unterstützen weiterhin die Dekoration und werden nicht zur abstrakten Hauptkomposition.
+Tatsächlich ausgestrahltes Licht und ein vollständiger Ring sind optional. Die Strahlen bleiben ergänzende Dekoration und werden nicht selbst zur abstrakten Hauptkomposition.
 
-Die Behandlung konzentriert sich auf ein Thema oder eine identifizierbare Gruppe.
+Die Gestaltung funktioniert um ein Einzelmotiv oder eine erkennbare Gruppe herum.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Themenorientiert → Gemeinsame Dekoration → Strahlen und strahlende Akzente
+Motiv im Mittelpunkt → Gemeinsame Dekoration → Strahlen und ausstrahlende Akzente
 
 **Eingabe und Ausgabe**
 
@@ -66,17 +66,17 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Wörtlich emittiertes Licht ist optional, ebenso wie ein Vollring. Die Strahlen unterstützen weiterhin die Dekoration und werden nicht zur abstrakten Hauptkomposition.
+Tatsächlich ausgestrahltes Licht und ein vollständiger Ring sind optional. Die Strahlen bleiben ergänzende Dekoration und werden nicht selbst zur abstrakten Hauptkomposition.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Kleine umgebende Akzente: Ein paar kleine Elemente bereichern den Raum um das Hauptmotiv.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-dots-1.svg)
 
 ### Kleine umlaufende Akzente↗
 
-Ein paar kleine Elemente bereichern den Raum um das Hauptthema.](decoration--deco-dots.md)[![Umgebende Dekoration: Dekorative Elemente bilden eine teilweise oder vollständige Umhüllung des Motivs.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
+Einige kleine Elemente bereichern den Raum um das Hauptmotiv.](decoration--deco-dots.md)[![Umgebende Dekoration: Dekorative Elemente bilden eine teilweise oder vollständige Umhüllung des Motivs.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
 
 ### Umlaufende Dekoration↗
 
@@ -84,10 +84,10 @@ Dekorative Elemente bilden eine teilweise oder vollständige Umhüllung des Moti
 
 ### Gerahmtes Motiv↗
 
-Ein definierter Rahmen, eine Plakette oder eine umschließende Struktur hält das Motiv.](decoration--deco-frame.md)[![Interlaced-Dekoration: Dekorative Elemente weben vor und hinter dem Motiv.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-interlace-1.svg)
+Ein definierter Rahmen, eine Plakette oder eine umschließende Struktur hält das Motiv.](decoration--deco-frame.md)[![Verflochtene Dekoration: Dekorative Elemente verlaufen abwechselnd vor und hinter dem Motiv.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-interlace-1.svg)
 
-### Interlaced-Dekoration↗
+### Verflochtene Dekoration↗
 
 Dekorative Elemente weben vor und hinter dem Motiv.](decoration--deco-interlace.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -28,7 +28,7 @@ Entrée
 
 Conception
 
-![La même illustration de roses sur un T-shirt](https://podplo.app/pod-guide/generated/tshirt-layout-rose-proof.webp)
+![La même illustration de rose sur un T-shirt](https://podplo.app/pod-guide/generated/tshirt-layout-rose-proof.webp)
 
 Aperçu du produit
 
@@ -46,7 +46,7 @@ Aperçu du produit
 
 Disposition centrale compacte](https://podplo.app/skills/compact-center-layout)[![Exemple d'illustration de portrait d'animal à l'aquarelle douce](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-Portrait d’animal de compagnie à l’aquarelle douce](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Exemple d'illustration de modèle sans couture](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+Portrait d’animal de compagnie à l’aquarelle douce](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Exemple de visuel « Motif à raccords invisibles »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 Motif sans raccord visible](https://podplo.app/skills/seamless-pattern)[![Exemple d'illustration de cadre de nom floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -120,13 +120,13 @@ Ajoutez une touche personnelle à n'importe quelle pièce](products/pillows.md)
 
 <a id="techniques"></a>
 
-## Créer avec Skills
+## Créer avec les Skills
 
 [![Disposition centrale compacte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Une image. Des possibilités infinies.**](techniques/compose-anything.md)[![Faites-en Noël](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Une image. Des possibilités infinies.**](techniques/compose-anything.md)[![Une touche de Noël](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**Donnez à votre design une touche de vacances**](techniques/holiday-versions.md)[![Peinture intelligente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**Donnez à votre visuel une touche de fête**](techniques/holiday-versions.md)[![Extension d’image intelligente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
 **Faites sortir votre image du cadre**](techniques/change-ratio.md)[![Générateur de grille 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
@@ -150,7 +150,7 @@ Ajoutez une touche personnelle à n'importe quelle pièce](products/pillows.md)
 
 **Cadeaux de remerciement**](gifts/gratitude.md)[![Disposition centrale compacte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Soutien et encouragement**](gifts/support-and-encouragement.md)[![Réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+**Soutien et encouragement**](gifts/support-and-encouragement.md)[![Réparation des détails](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 **Souvenirs et mémoriaux**](gifts/memories-and-memorials.md)[![Disposition centrale compacte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 

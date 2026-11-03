@@ -20,7 +20,7 @@ Repita um motivo em uma folha inteira de papel de embrulho e, em seguida, adicio
 
 ### Construa o design a partir de uma repetição
 
-Personagens, ícones e detalhes pessoais podem ser repetidos em diferentes escalas para criar uma planilha coordenada. Uma repetição solta com mais espaço aberto; Uma repetição densa de ícones de feriados; Um nome repetido dentro do padrão.
+Personagens, ícones e detalhes pessoais podem se repetir em diferentes escalas para criar uma folha coordenada. Uma repetição espaçada com mais áreas livres; uma repetição densa de ícones festivos; um nome repetido no padrão.
 
 [![Papel de embrulho · Papel de embrulho](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)](https://podplo.app/products/mockup-temu-606545077228686)
 
@@ -32,27 +32,27 @@ Use Skills diferentes para transformar a mesma imagem em novos layouts, arte bas
 
 ### Faça o embrulho como parte do presente
 
-Repita, gire e reorganize seu trabalho artístico para criar um padrão uniforme em toda a folha.
+Repita, gire e reorganize sua arte para criar um padrão sem emendas em toda a folha.
 
 [Padrão sem emendas](https://podplo.app/skills/seamless-pattern)
 
-![Padrão sem costura · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Padrão sem emendas · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Imagem de origem
 
-[![Padrão sem costura · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Padrão sem emendas · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais layout e defina Skills**
+**Explore mais Skills de layout e de conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore mais layout e defina Skills
+#### Explore mais Skills de layout e de conjuntos
 
 4 / 11
 
@@ -64,51 +64,51 @@ Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte 
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Adicione detalhes de Natal ao motivo original
 
 Adicione um pequeno conjunto de elementos festivos e repita essa versão no papel de embrulho.
 
-[Faça do Natal](https://podplo.app/skills/make-it-christmas)
+[Deixe em clima de Natal](https://podplo.app/skills/make-it-christmas)
 
-![Faça do Natal · Imagem fonte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
+![Deixe em clima de Natal · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 Imagem de origem
 
-[![Make It Christmas · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
+[![Deixe em clima de Natal · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
 Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais nome e ocasião Skills**
+**Explore mais Skills de nomes e ocasiões**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais nome e ocasião Skills
+#### Explore mais Skills de nomes e ocasiões
 
 4 / 8
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Exemplo de arte do Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+[![Exemplo de arte de Deixe em clima de Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Faça o Halloween](https://podplo.app/skills/make-it-halloween)[![Exemplo de arte do Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Deixe em clima de Halloween](https://podplo.app/skills/make-it-halloween)[![Exemplo de arte de Deixe em clima de Dia dos Namorados](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Faça isso no Dia dos Namorados](https://podplo.app/skills/make-it-valentines)[![Exemplo de arte Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Deixe em clima de Dia dos Namorados](https://podplo.app/skills/make-it-valentines)[![Exemplo de arte de Deixe em clima de Páscoa](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Faça isso na Páscoa](https://podplo.app/skills/make-it-easter)[![Exemplo de arte de Ação de Graças Make It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Deixe em clima de Páscoa](https://podplo.app/skills/make-it-easter)[![Exemplo de arte de Deixe em clima de Ação de Graças](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Faça isso no Dia de Ação de Graças](https://podplo.app/skills/make-it-thanksgiving)
+Deixe em clima de Ação de Graças](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize-o em uma caixa embrulhada
 

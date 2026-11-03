@@ -6,17 +6,17 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/personality-and-fun?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/personality-and-fun?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Personnalité et plaisir
 
-Créez des designs personnels à partir de surnoms, de blagues, de passe-temps, de rôles et de traditions de groupe.
+Créez des visuels personnels à partir de surnoms, de plaisanteries privées, de loisirs, de rôles et de traditions de groupe.
 
 <a id="language-and-identity"></a>
 
-## Concevoir autour d'une blague intérieure
+## Concevoir autour d’une plaisanterie privée
 
 Un surnom ou une blague partagée peut ancrer un design compact et très personnel.
 
@@ -82,9 +82,9 @@ Disposition titre-sujet-sous-titre](https://podplo.app/skills/title-subject-subt
 
 ## Construire un ensemble de groupe coordonné
 
-4 pièces et [Générateur de grille 6PC](https://podplo.app/skills/six-piece-grid) transformez un motif partagé en un ensemble coordonné avec des variations distinctes.
+4PC et [Générateur de grille 6PC](https://podplo.app/skills/six-piece-grid) transformez un motif partagé en un ensemble coordonné avec des variations distinctes.
 
-Utilisez un motif partagé pour une équipe, un club ou une communauté, puis variez le nom, le rôle, la couleur ou le numéro de chaque membre. 4 pièces et [Générateur de grille 6PC](https://podplo.app/skills/six-piece-grid) Gardez l'ensemble coordonné sans rendre chaque design identique.
+Utilisez un motif commun pour une équipe, un club ou une communauté, puis variez le nom, le rôle, la couleur ou le numéro de chaque membre. 4PC et [Générateur de grille 6PC](https://podplo.app/skills/six-piece-grid) Gardez l'ensemble coordonné sans rendre chaque design identique.
 
 [![Quatre designs coordonnés pour un petit ensemble](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)](https://podplo.app/skills/four-piece-grid)
 

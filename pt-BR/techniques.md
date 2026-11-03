@@ -12,7 +12,7 @@
 
 # Crie com Skills
 
-Remix um layout, adicione um nome ou crie uma versão de feriado. Descubra o que você pode fazer com suas imagens e Skills.
+Remixe um layout, adicione um nome ou crie uma versão festiva. Descubra o que você pode fazer com suas imagens e Skills.
 
 ## Transforme uma foto favorita em arte
 
@@ -26,7 +26,7 @@ Foto
 
 Retrato em aquarela
 
-**Explorar Skills relacionado**
+**Explore Skills relacionados**
 
 <a id="_R_mrk_-title"></a>
 
@@ -38,9 +38,9 @@ Retrato em aquarela
 
 [![Exemplo de arte de retrato de animal de estimação em aquarela suave](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-Retrato de animal de estimação em aquarela suave](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Exemplo de arte de retrato com marcador Naive](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
+Retrato de animal de estimação em aquarela suave](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Exemplo de arte de retrato ingênuo feito com marcador](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
 
-Retrato de marcador ingênuo](https://podplo.app/skills/naive-marker-portrait)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Retrato ingênuo feito com marcador](https://podplo.app/skills/naive-marker-portrait)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)[![Exemplo de arte com moldura de nome floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -50,9 +50,9 @@ Moldura floral com nome](https://podplo.app/skills/floral-name-frame)
 
 [![Layout central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Uma imagem. Infinitas possibilidades.**](techniques/compose-anything.md)[![Faça do Natal](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Uma imagem. Infinitas possibilidades.**](techniques/compose-anything.md)[![Deixe em clima de Natal](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**Dê ao seu design um toque festivo**](techniques/holiday-versions.md)[![Pintura Inteligente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**Dê ao seu design um toque festivo**](techniques/holiday-versions.md)[![Expansão inteligente da imagem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
 **Leve sua imagem além do quadro**](techniques/change-ratio.md)[![Gerador de grade 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 

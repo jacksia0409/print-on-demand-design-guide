@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-frame?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-frame?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -30,7 +30,7 @@ La frontière doit être clairement organisée. Quelques accents épars ne const
 
 Le traitement s'articule autour d'un sujet ou d'un groupe identifiable.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -42,7 +42,7 @@ Utilisez-le avec une image ou demandez à l'IA de réécrire votre invite d'imag
 
 **Orientation souhaitée**
 
-Sujet dirigé → Décoration partagée → Sujet encadré
+Composition centrée sur le sujet → Décoration commune → Sujet encadré
 
 **Entrée et sortie**
 
@@ -50,7 +50,7 @@ Si une image est fournie, adaptez-la à cette orientation. Si un prompt est four
 
 **Structure souhaitée**
 
-Créez un cadre circulaire, rectangulaire, en forme de badge ou irrégulier adapté au sujet et au thème. Échelle de coordonnées, espacement interne et toute partie délibérée dépassant le cadre.
+Créez un cadre circulaire, rectangulaire, en écusson ou irrégulier adapté au sujet et au thème. Coordonnez l’échelle, les espacements intérieurs et les parties dépassant délibérément du cadre.
 
 **Arrière-plan**
 
@@ -70,7 +70,7 @@ La frontière doit être clairement organisée. Quelques accents épars ne const
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Rayons et accents rayonnants : des lignes ou des formes rayonnantes s'étendent vers l'extérieur du sujet.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-rays-1.svg)
 

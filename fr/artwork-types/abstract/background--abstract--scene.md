@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/background--abstract--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/background--abstract--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -40,7 +40,7 @@ Utilisez-le avec une image ou demandez à l'IA de réécrire votre invite d'imag
 
 **Orientation souhaitée**
 
-Art abstrait → Arrière-plan → Contexte environnemental
+Art abstrait → Arrière-plan → Décor environnemental
 
 **Entrée et sortie**
 
@@ -48,11 +48,11 @@ Si une image est fournie, adaptez-la à cette orientation. Si un prompt est four
 
 **Structure souhaitée**
 
-Conserver les relations non figuratives entre les formes, les lignes et les couleurs. Le sol doit soutenir l'abstraction plutôt que d'introduire un objet dominant identifiable.
+Conservez les relations non figuratives entre formes, lignes et couleurs. Le fond doit soutenir l’abstraction sans introduire un objet identifiable dominant.
 
 **Arrière-plan**
 
-Faites référence à l'emplacement existant, aux éléments environnementaux et à l'atmosphère, en les adaptant au contenu principal. S'il est absent ou uniquement clair ou transparent, créez un paramètre associé et coordonnez l'échelle, la direction et la profondeur.
+Prenez pour référence le lieu, les éléments du décor et l’atmosphère existants, en les adaptant au contenu principal. En l’absence de fond, ou s’il est seulement uni ou transparent, créez un décor apparenté et coordonnez son échelle, son orientation et sa profondeur.
 
 **Texte**
 
@@ -68,15 +68,15 @@ Pour les catégories sujet, motif, texture ou abstrait, le décor reste secondai
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
-[![Fond transparent : Oeuvre abstraite : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
+[![Fond transparent : création abstraite : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Fond transparent↗
 
-Oeuvre abstraite : le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--abstract--transparent.md)[![Fond uni : illustration abstraite : une couleur uniforme forme le sol ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
+Art abstrait : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--abstract--transparent.md)[![Fond uni : art abstrait : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Oeuvre abstraite : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--abstract--solid.md)[![Fond dégradé : Oeuvre abstraite : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 

@@ -12,7 +12,7 @@
 
 # Pôsteres e gravuras artísticas
 
-Transforme uma imagem em um pôster de declaração, um layout de tipo e imagem ou um conjunto de impressão coordenado.
+Transforme uma imagem em um pôster marcante, um layout de tipografia e imagem ou um conjunto coordenado de estampas.
 
 <a id="product-overview"></a>
 
@@ -20,7 +20,7 @@ Transforme uma imagem em um pôster de declaração, um layout de tipo e imagem 
 
 ### Crie arte para a parede
 
-As impressões artísticas podem apresentar um tema forte, combinar imagens com tipografia ou estender um conceito a várias peças. Uma única imagem de declaração; Um layout editorial de imagem e tipo; Um conjunto coordenado de duas ou três peças.
+As impressões artísticas podem destacar um elemento principal marcante, combinar imagens e tipografia ou estender um conceito por várias peças. Uma imagem marcante; um layout editorial de imagem e tipografia; um conjunto coordenado de duas ou três peças.
 
 [![Pôsteres e gravuras · Arte de parede 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100781713611.webp)](https://podplo.app/products/mockup-temu-601100781713611)
 
@@ -32,7 +32,7 @@ Use Skills diferentes para transformar a mesma imagem em novos layouts, arte bas
 
 ### Dê ao seu trabalho artístico o tratamento de pôster
 
-Use o Skill selecionado para combinar a imagem principal e o tipo de suporte em um layout de pôster completo.
+Use o Skill selecionado para combinar a imagem principal e a tipografia de apoio em um layout completo de pôster.
 
 [Criador de pôsteres](https://podplo.app/skills/poster-maker)
 
@@ -46,27 +46,27 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais layout e defina Skills**
+**Explore mais Skills de layout e de conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore mais layout e defina Skills
+#### Explore mais Skills de layout e de conjuntos
 
 4 / 14
 
 <a id="_R_bf3k_-cards"></a>
 
-[![Exemplo de arte de padrão sem costura](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+[![Exemplo de arte de padrão sem emendas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 Padrão sem emendas](https://podplo.app/skills/seamless-pattern)[![Exemplo de arte de Layout Central Compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Transforme uma foto de casal em arte de parede em aquarela
 
@@ -84,13 +84,13 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 4 / 97
 
@@ -112,7 +112,7 @@ Coloque um nome dentro de uma moldura floral espaçosa para uma impressão de pa
 
 [Moldura floral com nome](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉIA
+ANDREA
 
 Nome
 
@@ -122,23 +122,23 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais nome e ocasião Skills**
+**Explore mais Skills de nomes e ocasiões**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explore mais nome e ocasião Skills
+#### Explore mais Skills de nomes e ocasiões
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Póster Nome do Pólo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte do padrão de nome Crayon Hearts](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Pôster de nome do Polo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte de padrão de nome com corações em giz de cera](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Padrão de nome de corações de giz de cera](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -146,7 +146,7 @@ Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize-o na parede
 

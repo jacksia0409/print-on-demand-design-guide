@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -42,7 +42,7 @@ Vista previa del producto
 
 <a id="_R_1crk_-cards"></a>
 
-[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de arte de retrato de mascota en acuarela suave](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
@@ -68,27 +68,27 @@ Una fuente, una nueva composición
 
 ## ¿Qué tipos de diseños funcionan bien para la impresión bajo demanda?
 
-Explore gráficos, escenas, patrones, texturas y abstracciones basados en temas. Compare formas ilustradas, comprenda sus límites y tome una dirección en una imagen o mensaje.
+Explora gráficos centrados en un motivo principal, escenas, patrones, texturas y abstracciones. Compara formas ilustradas, comprende sus límites y lleva una propuesta a una imagen o instrucción para IA.
 
-[Explora formas de arte y direcciones de IA](artwork-types.md)
+[Explora formas de imagen e instrucciones para IA](artwork-types.md)
 
 <a id="guide-paths"></a>
 
 ## Da vida a tus ideas
 
-[**Da vida a tus ideas**](make-pod-artwork.md)[![Retrato de mascota real](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
+[**Da vida a tus ideas**](make-pod-artwork.md)[![Retrato regio de mascota](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
 
 **Haz más con tus imágenes**
 
-Descubra lo que puede hacer una Skill](skills-and-asset-library.md)[![Diseño central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Descubre lo que puede hacer un Skill](skills-and-asset-library.md)[![Diseño central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 **Combina tu diseño con un producto**
 
-Find a place for the design](design-product-print-fit.md)[![Eliminador de fondo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Encuentra un lugar para el diseño](design-product-print-fit.md)[![Eliminador de fondo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 **Refina tu imagen**
 
-Vuelva a centrar los detalles](print-ready-files.md)[![Patrón de nombre de dinosaurio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Recupera la nitidez de los detalles](print-ready-files.md)[![Patrón de nombre de dinosaurio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 **Haz que cada diseño sea personal**
 
@@ -124,11 +124,11 @@ Añade un toque personal a cualquier habitación.](products/pillows.md)
 
 [![Diseño central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Una imagen. Posibilidades infinitas.**](techniques/compose-anything.md)[![Hazlo Navidad](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Una imagen. Posibilidades infinitas.**](techniques/compose-anything.md)[![Versión navideña](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**Dale a tu diseño un toque navideño**](techniques/holiday-versions.md)[![Pintura inteligente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**Dale a tu diseño un toque festivo**](techniques/holiday-versions.md)[![Ampliación inteligente de imagen](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-**Lleva tu imagen más allá del marco**](techniques/change-ratio.md)[![Generador de rejilla de 4 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+**Lleva tu imagen más allá del marco**](techniques/change-ratio.md)[![Generador de cuadrícula de 4 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **Convierte una idea en una colección**](techniques/series-builder.md)[![Marco de nombre floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -146,11 +146,11 @@ Añade un toque personal a cualquier habitación.](products/pillows.md)
 
 **Recuerdos de relaciones**](gifts/relationships.md)[![Marco de nombre floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-**Hitos de la vida**](gifts/life-milestones.md)[![Retrato de familia 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)
+**Hitos de la vida**](gifts/life-milestones.md)[![Retrato de familia en 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)
 
 **regalos de agradecimiento**](gifts/gratitude.md)[![Diseño central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Apoyo y aliento**](gifts/support-and-encouragement.md)[![Reparación detallada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+**Apoyo y aliento**](gifts/support-and-encouragement.md)[![Reparación de detalles](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 **Recuerdos y memoriales**](gifts/memories-and-memorials.md)[![Diseño central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 

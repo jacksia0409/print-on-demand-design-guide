@@ -10,7 +10,7 @@
 
 <a id="guide-main"></a>
 
-# Moletons e moletons
+# Moletons com e sem capuz
 
 Comece com uma imagem e, em seguida, crie um gráfico frontal ousado, uma pequena marca no peito, um design nas costas ou um conjunto coordenado.
 
@@ -22,7 +22,7 @@ Comece com uma imagem e, em seguida, crie um gráfico frontal ousado, uma pequen
 
 Os moletons funcionam bem com gráficos grandes centralizados, emblemas compactos e designs que conectam a frente e as costas. Um gráfico arrojado na frente; Uma marca compacta no lado esquerdo do peito; Um pequeno detalhe frontal combinado com um gráfico maior nas costas.
 
-![Moletons e moletons · visual do produto em branco](https://podplo.app/pod-guide/generated/sweatshirts-blank.webp)
+![Moletons com e sem capuz · Visual do produto sem estampa](https://podplo.app/pod-guide/generated/sweatshirts-blank.webp)
 
 <a id="product-create"></a>
 
@@ -44,15 +44,15 @@ Imagem de origem
 
 Arte gerada
 
-![Moletons e moletons · Layout central compacto · Visualização do produto AI](https://podplo.app/pod-guide/generated/sweatshirts-compact-center-layout-proof.webp)
+![Moletons com e sem capuz · Layout central compacto · Prévia de produto com IA](https://podplo.app/pod-guide/generated/sweatshirts-compact-center-layout-proof.webp)
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais layout e defina Skills**
+**Explore mais Skills de layout e de conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore mais layout e defina Skills
+#### Explore mais Skills de layout e de conjuntos
 
 4 / 9
 
@@ -60,9 +60,9 @@ Visualização do produto de IA
 
 [![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)[![Exemplo de arte de layout de triângulo invertido](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-5.webp)
 
@@ -84,23 +84,23 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 4 / 14
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Exemplo engraçado de arte de desenho animado Big-Belly](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
+[![Exemplo de arte de desenho divertido de barriga grande](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
 
-Desenho engraçado de barriga grande](https://podplo.app/skills/funny-big-belly-cartoon)[![Exemplo de arte de retrato de animal de estimação real](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
+Desenho engraçado de barriga grande](https://podplo.app/skills/funny-big-belly-cartoon)[![Exemplo de arte de retrato de pet da realeza](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
 
-Retrato de animal de estimação real](https://podplo.app/skills/royal-pet-portrait)[![Exemplo de arte de retrato de casal 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
+Retrato de pet da realeza](https://podplo.app/skills/royal-pet-portrait)[![Exemplo de arte de retrato de casal 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
 
 Retrato de casal 3D](https://podplo.app/skills/3d-couple-portrait)[![Exemplo de arte de enfeite de casal de Natal](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607648296616502-after.webp)
 
@@ -112,7 +112,7 @@ Coloque um nome dentro de uma moldura floral para criar um gráfico de moletom p
 
 [Moldura floral com nome](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉIA
+ANDREA
 
 Nome
 
@@ -122,23 +122,23 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais nome e ocasião Skills**
+**Explore mais Skills de nomes e ocasiões**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explore mais nome e ocasião Skills
+#### Explore mais Skills de nomes e ocasiões
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Póster Nome do Pólo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte do padrão de nome Crayon Hearts](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Pôster de nome do Polo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte de padrão de nome com corações em giz de cera](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Padrão de nome de corações de giz de cera](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -146,7 +146,7 @@ Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize o design do moletom
 
@@ -158,4 +158,4 @@ Use a visualização da IA para comparar o mesmo design em estilos e cores de mo
 
 - As cores claras e escuras do moletom podem alterar o impacto da paleta
 
-![Moletons e moletons · Prova de produto de IA](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)
+![Moletons com e sem capuz · Prova de produto com IA](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)

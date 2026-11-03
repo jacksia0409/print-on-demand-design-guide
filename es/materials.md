@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/materials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/materials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -32,7 +32,7 @@ Los elementos son gráficos aislados que pueden formar parte de un diseño tipog
 
 <a id="tropical-botanical-leaves-and-flowers"></a>
 
-![Flor Ave Del Paraiso](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/feace20b-5969-5bf2-8776-5bc1eb1d5dc1.png)
+![Flor de ave del paraíso](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/feace20b-5969-5bf2-8776-5bc1eb1d5dc1.png)
 
 ![Acuarela De Hojas De Monstera](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/b7e588a1-fd2b-5a56-bc9c-28a168b739cc.png)
 
@@ -168,7 +168,7 @@ Crea un gráfico, una insignia o una colección divertida basada en personajes.
 
 03
 
-### Vacaciones y temporadas
+### Festividades y estaciones
 
 <a id="classic-spooky-halloween-horror"></a>
 
@@ -178,11 +178,11 @@ Crea un gráfico, una insignia o una colección divertida basada en personajes.
 
 ![Goteando globo ocular morado](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ec78560a-4ff6-59d6-975f-65e0b8d071bf.png)
 
-Vacaciones y temporadas
+Festividades y estaciones
 
 ### Terror espeluznante clásico de Halloween
 
-Agregue un punto focal de temporada a saludos, regalos o gráficos temáticos.
+Añade un punto focal festivo a tarjetas de felicitación, regalos o gráficos temáticos.
 
 [Explora más en la biblioteca](https://podplo.app/elements)
 
@@ -194,11 +194,11 @@ Agregue un punto focal de temporada a saludos, regalos o gráficos temáticos.
 
 ![Conejo Con Corona De Flores](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d1dd0c27-0d7c-52a5-8418-1747b1d25419.png)
 
-Vacaciones y temporadas
+Festividades y estaciones
 
 ### Conejito De Pascua Y Huevos De Acuarela
 
-Agregue un punto focal de temporada a saludos, regalos o gráficos temáticos.
+Añade un punto focal festivo a tarjetas de felicitación, regalos o gráficos temáticos.
 
 [Explora más en la biblioteca](https://podplo.app/elements)
 
@@ -210,11 +210,11 @@ Agregue un punto focal de temporada a saludos, regalos o gráficos temáticos.
 
 ![Muñeco de nieve con sombrero de copa y bufanda](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/7b495f63-c56d-561d-821e-a8aa15c19b3f.png)
 
-Vacaciones y temporadas
+Festividades y estaciones
 
-### Iconos de vacaciones de Navidad de dibujos animados
+### Iconos navideños de dibujos animados
 
-Agregue un punto focal de temporada a saludos, regalos o gráficos temáticos.
+Añade un punto focal festivo a tarjetas de felicitación, regalos o gráficos temáticos.
 
 [Explora más en la biblioteca](https://podplo.app/elements)
 
@@ -226,11 +226,11 @@ Agregue un punto focal de temporada a saludos, regalos o gráficos temáticos.
 
 ![Olla arcoíris de oro y trébol](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e47968b5-0307-5bda-97ff-23cc318328d8.png)
 
-Vacaciones y temporadas
+Festividades y estaciones
 
 ### Trébol verde del día de San Patricio
 
-Agregue un punto focal de temporada a saludos, regalos o gráficos temáticos.
+Añade un punto focal festivo a tarjetas de felicitación, regalos o gráficos temáticos.
 
 [Explora más en la biblioteca](https://podplo.app/elements)
 
@@ -246,7 +246,7 @@ Agregue un punto focal de temporada a saludos, regalos o gráficos temáticos.
 
 ![Personaje de dibujos animados de sandía](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fec2c673-f03d-5688-8eba-229682690724.png)
 
-![Personaje de dibujos animados de plátano fresco](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f6989939-a902-5400-8b64-0190754815a3.png)
+![Personaje de plátano de estilo desenfadado](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f6989939-a902-5400-8b64-0190754815a3.png)
 
 Comida y bebida
 
@@ -358,7 +358,7 @@ Desarrolla una escena, una composición enmarcada o una tranquila dirección art
 
 Objetos y herramientas
 
-### Computadora Retro Gameboy Radio Cámara
+### Ordenador, Game Boy, radio y cámara retro
 
 Convierta objetos reconocibles en gráficos, insignias o conjuntos de pasatiempos.
 
@@ -482,7 +482,7 @@ Combine varias marcas pequeñas en un conjunto compacto de gráficos o pegatinas
 
 ![Silueta de boxeador](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd5c1e40-ae1e-5353-95fa-fe735e95d8b2.png)
 
-![Silueta de jugador de baloncesto Slam Dunk](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f8be5cc0-1bd7-5bcb-9d67-956c01ce6461.png)
+![Silueta de jugador de baloncesto haciendo un mate](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f8be5cc0-1bd7-5bcb-9d67-956c01ce6461.png)
 
 ![Silueta de escalador de roca](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f84e41fe-23b1-5281-a6ca-643ef7b1a90e.png)
 
@@ -510,7 +510,7 @@ Utilice un personaje claro como foco de un cartel o diseño de vestimenta.
 
 Estilo de vida
 
-### Aventura vintage en el desierto al aire libre
+### Aventura vintage en la naturaleza
 
 Cree gráficos específicos para la audiencia en torno a intereses y momentos cotidianos.
 
@@ -554,7 +554,7 @@ Crea un personaje, emblema o gráfico de declaración basado en una historia.
 
 Abstracto y Geométrico
 
-### Texturas de pintura de pincel de tinta negrita
+### Texturas de pintura con pinceladas de tinta marcadas
 
 Explore diseños llamativos, sistemas de fondo y patrones repetidos.
 
@@ -588,6 +588,6 @@ Imágenes
 
 Las imágenes conservan una composición completa, lo que las hace útiles cuando deseas construir a partir de una escena existente. Vuelva a trabajar el diseño, agregue texto exacto, introduzca un tema estacional o explore un nuevo tratamiento visual con un Photo to Art Skill.
 
-Elija imágenes con un tema claro, un tema que coincida con su idea y detalles visuales que desee conservar en la próxima versión.
+Elige imágenes con un motivo principal claro, una temática acorde con tu idea y detalles visuales que quieras conservar en la siguiente versión.
 
 [Ver más](https://podplo.app/design-ideas)

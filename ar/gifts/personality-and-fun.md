@@ -24,7 +24,7 @@
 
 يمكن أن يؤدي الاسم المستعار أو العبارة الشهيرة أو النكتة المشتركة إلى تصميم مضغوط يكون منطقيًا للمجموعة المستهدفة. استخدم العبارة المألوفة دون تضمين تفاصيل خاصة يجب أن تظل خاصة.
 
-[![تصميم هدية مدمج عبارة عن عبارة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![تصميم هدية متماسك تتصدره عبارة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
 تخطيط مركز مدمج
 
@@ -44,7 +44,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 
@@ -78,23 +78,23 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="groups-and-sets"></a>
 
 ## بناء مجموعة منسقة
 
-4 قطعة و [6 قطعة مولد الشبكة](https://podplo.app/skills/six-piece-grid) تحويل فكرة مشتركة إلى مجموعة منسقة ذات أشكال مختلفة.
+4PC و [مولّد شبكة 6PC](https://podplo.app/skills/six-piece-grid) تحويل فكرة مشتركة إلى مجموعة منسقة ذات أشكال مختلفة.
 
-استخدم فكرة مشتركة واحدة لفريق أو نادي أو مجتمع، ثم قم بتغيير الاسم أو الدور أو اللون أو الرقم لكل عضو. 4 قطعة و [6 قطعة مولد الشبكة](https://podplo.app/skills/six-piece-grid) حافظ على تناسق المجموعة دون جعل كل تصميم متطابقًا.
+استخدم زخرفة مشتركة واحدة لفريق أو نادٍ أو مجتمع، ثم غيّر الاسم أو الدور أو اللون أو الرقم لكل عضو. 4PC و [مولّد شبكة 6PC](https://podplo.app/skills/six-piece-grid) حافظ على تناسق المجموعة دون جعل كل تصميم متطابقًا.
 
 [![أربعة تصاميم منسقة لمجموعة صغيرة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)](https://podplo.app/skills/four-piece-grid)
 
-4 قطعة مولد الشبكة
+مولّد شبكة 4PC
 
 [![ستة تصميمات منسقة لمجموعة أكبر](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)](https://podplo.app/skills/six-piece-grid)
 
-6 قطعة مولد الشبكة
+مولّد شبكة 6PC
 
 **المزيد من Skills للاستكشاف**
 

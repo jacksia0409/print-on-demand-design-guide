@@ -12,7 +12,7 @@
 
 <a id="guide-main"></a>
 
-# مطبوعات قماشية ومؤطرة
+# لوحات كانفاس ومطبوعات مؤطرة
 
 قم بتحويل الرسم التوضيحي أو الصورة المفضلة إلى لوحة فنية قماشية للمنزل.
 
@@ -48,13 +48,13 @@
 
 ![مطبوعات قماشية ومؤطرة · صانع الملصقات · معاينة المنتج بتقنية الذكاء الاصطناعي](https://podplo.app/pod-guide/generated/canvas-prints-poster-maker-proof.webp)
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من التخطيط وقم بتعيين Skills**
+**استكشف المزيد من Skills للتخطيطات والمجموعات**
 
 <a id="_R_bf3k_-title"></a>
 
-#### اكتشف المزيد من التخطيط وقم بتعيين Skills
+#### استكشف المزيد من Skills للتخطيطات والمجموعات
 
 4 / 14
 
@@ -62,9 +62,9 @@
 
 [![مثال على العمل الفني لمولد الشبكة 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-4 قطعة مولد الشبكة](https://podplo.app/skills/four-piece-grid)[![مثال على العمل الفني لمولد الشبكة المكون من 6 قطع](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
+مولّد شبكة 4PC](https://podplo.app/skills/four-piece-grid)[![مثال لعمل فني من 6PC Grid Generator](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
 
-6 قطعة مولد الشبكة](https://podplo.app/skills/six-piece-grid)[![مثال على العمل الفني لحزمة الملصقات والقصاصات الفنية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)
+مولّد شبكة 6PC](https://podplo.app/skills/six-piece-grid)[![مثال على العمل الفني لحزمة الملصقات والقصاصات الفنية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)
 
 حزمة الملصقات والقصاصات الفنية](https://podplo.app/skills/sticker-clipart-pack)[![مثال على عمل فني بنمط سلس](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
@@ -86,13 +86,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bn3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 4 / 97
 
@@ -114,7 +114,7 @@
 
 [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)
 
-أندريا
+ANDREA
 
 الاسم
 
@@ -124,25 +124,25 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من الاسم والمناسبة Skills**
+**استكشف المزيد من Skills للأسماء والمناسبات**
 
 <a id="_R_bv3k_-title"></a>
 
-#### اكتشف المزيد من الاسم والمناسبة Skills
+#### استكشف المزيد من Skills للأسماء والمناسبات
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال على العمل الفني لنمط اسم قلوب تلوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال عمل فني لنمط اسم وقلوب بأقلام شمعية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-تلوين قلوب اسم النمط](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+نمط اسم وقلوب بأقلام شمعية](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -160,6 +160,6 @@
 
 - خلفية بسيطة تحافظ على الاهتمام بالعنصر
 
-![مطبوعات قماشية ومؤطرة · إثبات منتج بتقنية الذكاء الاصطناعي](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)
+![لوحات كانفاس ومطبوعات مؤطرة · معاينة نهائية للمنتج بالذكاء الاصطناعي](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)
 
 </div>

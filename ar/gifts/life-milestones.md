@@ -40,9 +40,9 @@
 
 [![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="school-and-work"></a>
 
@@ -50,7 +50,7 @@
 
 [تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يعطي اسم المدرسة، أو السنة، أو المسمى الوظيفي معالجة جريئة تتمحور حولها.
 
-يمكن أن يؤدي اسم المدرسة أو سنة التخرج أو المسمى الوظيفي أو الترقية إلى تكوين نظيف وواثق. [تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يعطي تلك التفاصيل معالجةًا مركزيًا قويًا.
+يمكن أن يؤدي اسم المدرسة أو سنة التخرج أو المسمى الوظيفي أو الترقية إلى تكوين نظيف وواثق. [تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يمنح هذه التفاصيل معالجة قوية تتمركز في المنتصف.
 
 [![تركيبة بارزة مدمجة يقودها العنوان](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
@@ -72,7 +72,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 
@@ -80,11 +80,11 @@
 
 ## قم بإنشاء ملصق للتقاعد أو المنزل الجديد
 
-[صانع الملصقات](https://podplo.app/skills/poster-maker) ينظم السنوات والأماكن والصور والخط الشخصي في ملصق تذكاري واضح.
+[صانع الملصقات](https://podplo.app/skills/poster-maker) ينظم السنوات والأماكن والصور وعبارة شخصية في ملصق تذكاري واضح.
 
-يمكن أن تتضمن تصميمات التقاعد والانتقال لمنزل جديد السنوات والأماكن والأدوار والعناوين والصور والخط الشخصي. [صانع الملصقات](https://podplo.app/skills/poster-maker) وينظم تلك العناصر في ملصق تذكاري واضح.
+يمكن أن تتضمن تصاميم التقاعد والانتقال إلى منزل جديد سنوات وأماكن وأدوارًا وعناوين وصورًا وعبارة شخصية. [صانع الملصقات](https://podplo.app/skills/poster-maker) وينظم تلك العناصر في ملصق تذكاري واضح.
 
-![الحقائق والصور المعتمدة لمعلم](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
+![حقائق وصور معتمدة لمناسبة مهمة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
 الإدخال
 
@@ -108,7 +108,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 

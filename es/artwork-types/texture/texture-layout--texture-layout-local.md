@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/texture/texture-layout--texture-layout-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/texture/texture-layout--texture-layout-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,7 +18,7 @@ Una zona texturizada ocupa parte de la imagen, dejando visible otro fondo.
 
 <a id="understand"></a>
 
-![Fragmento de textura local: un área texturizada ocupa parte de la imagen, dejando visible otro terreno.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-local-1.svg)
+![Fragmento local de textura: una zona texturizada ocupa parte de la imagen y deja visible otro fondo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-local-1.svg)
 
 Ilustración de la composición
 
@@ -26,17 +26,17 @@ CÓMO RECONOCERLO
 
 ## ¿Qué define esta dirección?
 
-La textura sigue siendo el contenido principal. Si el parche se convierte en un objeto identificable cuya identidad domina, reconsiderelo como obra de arte.
+La textura sigue siendo el contenido principal. Si la zona se convierte en un objeto identificable cuya identidad domina, reevalúala como diseño de motivo principal.
 
 [← Volver a texturas](../texture.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -48,11 +48,11 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Concentre los detalles relevantes de la superficie dentro de un parche localizado con un límite regular, natural o que se desvanece. Deje espacio a su alrededor para tener antecedentes o información de apoyo.
+Concentra los detalles de superficie pertinentes en un parche localizado de borde regular, natural o difuminado. Deja espacio alrededor para un fondo o información de apoyo.
 
 **Fondo**
 
-Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Toma como referencia el material, la paleta y el ambiente, y crea un tratamiento de superficie adecuado cuando falte. Una zona localizada puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un entorno narrativo.
 
 **Texto**
 
@@ -64,23 +64,23 @@ Conserve el material, la superficie, la paleta y la atmósfera relevantes sin re
 
 **Alcance y límites**
 
-La textura sigue siendo el contenido principal. Si el parche se convierte en un objeto identificable cuya identidad domina, reconsiderelo como obra de arte.
+La textura sigue siendo el contenido principal. Si la zona se convierte en un objeto identificable cuya identidad domina, reevalúala como diseño de motivo principal.
 
 <a id="backgrounds"></a>
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
 [![Fondo transparente: Texturas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Texturas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--texture--transparent.md)[![Fondo sólido: Texturas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+Texturas: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--texture--transparent.md)[![Fondo sólido: Texturas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 ### Fondo sólido↗
 
-Texturas: Un color uniforme forma el suelo; El blanco también es un fondo sólido.](background--texture--solid.md)[![Fondo degradado: Texturas: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+Texturas: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--texture--solid.md)[![Fondo degradado: Texturas: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### Fondo degradado↗
 
@@ -96,17 +96,17 @@ Texturas: un fondo estampado cubre la imagen detrás del contenido en primer pla
 
 ### Fondo texturizado↗
 
-Texturas: el grano de papel, las partículas u otros caracteres de la superficie respaldan el contenido del primer plano.](background--texture--texture.md)[![Fondo ambiental: Texturas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
+Texturas: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](background--texture--texture.md)[![Fondo ambiental: Texturas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
 Texturas: un entorno relacionado con el tema soporta el contenido principal desde detrás o alrededor de él.](background--texture--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
-[![Textura de área completa: los detalles de la superficie llenan la imagen, por lo que el contenido principal y el terreno se convierten en uno.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-full-1.svg)
+[![Textura integral: los detalles de la superficie llenan la imagen, de modo que el contenido principal y el fondo se fusionan.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-full-1.svg)
 
 ### Textura de área completa↗
 
@@ -116,4 +116,4 @@ Los detalles de la superficie llenan la imagen, por lo que el contenido principa
 
 Varios fragmentos texturizados se superponen para crear relaciones entre materiales y bordes.](texture-layout--texture-layout-layers.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

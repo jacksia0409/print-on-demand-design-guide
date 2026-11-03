@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/techniques?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/techniques?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -50,7 +50,7 @@ Floraler Namensrahmen](https://podplo.app/skills/floral-name-frame)
 
 [![Kompaktes Center-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Ein Bild. Unendliche Möglichkeiten.**](techniques/compose-anything.md)[![Machen Sie es zu Weihnachten](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Ein Bild. Unendliche Möglichkeiten.**](techniques/compose-anything.md)[![Weihnachtlich gestalten](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
 **Verleihen Sie Ihrem Design eine festliche Note**](techniques/holiday-versions.md)[![Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 

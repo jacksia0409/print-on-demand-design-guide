@@ -18,7 +18,7 @@
 
 <a id="understand"></a>
 
-![वर्णनात्मक क्षण: कोई घटना, क्रिया या बातचीत यह समझना संभव बनाती है कि क्या हो रहा है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-story-1.svg)
+![कथात्मक क्षण: घटना, क्रिया या आपसी गतिविधि से समझ आता है कि क्या हो रहा है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-story-1.svg)
 
 चित्र-संयोजन का आरेख
 
@@ -72,27 +72,27 @@
 
 ये उदाहरण समान सामग्री परिवार के आधारों की तुलना करते हैं। दृश्य शैली लागू करते समय वर्तमान संरचना को बनाए रखें; इसके पूर्ण निर्देशों के लिए एक उदाहरण खोलें।
 
-[![पारदर्शी पृष्ठभूमि: दृश्य: ज़मीन पारदर्शी रहती है; चेकरबोर्ड केवल एक प्रदर्शन सहायता है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![पारदर्शी पृष्ठभूमि: दृश्य: पृष्ठभूमि पारदर्शी रहती है; चौखाने केवल उसे स्क्रीन पर दिखाने का साधन हैं।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### पारदर्शी पृष्ठभूमि↗
 
-दृश्य: ज़मीन पारदर्शी रहती है; चेकरबोर्ड केवल एक प्रदर्शन सहायता है।](background--scene--transparent.md)[![ठोस पृष्ठभूमि: दृश्य: एक समान रंग जमीन बनाता है; सफेद भी एक ठोस पृष्ठभूमि है.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+दृश्य: पृष्ठभूमि पारदर्शी रहती है; चेकरबोर्ड केवल पारदर्शिता दिखाने का सहायक संकेत है।](background--scene--transparent.md)[![सपाट रंग की पृष्ठभूमि: दृश्य: एक समान रंग पृष्ठभूमि बनाता है; सफ़ेद भी सपाट रंग की पृष्ठभूमि है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
-### ठोस पृष्ठभूमि↗
+### सपाट रंग की पृष्ठभूमि↗
 
-दृश्य: एक समान रंग जमीन बनाता है; सफेद भी एक ठोस पृष्ठभूमि है.](background--scene--solid.md)[![ग्रेडिएंट पृष्ठभूमि: दृश्य: बैकिंग लगातार रंग या चमक में बदलती रहती है जबकि मुख्य सामग्री स्पष्ट रहती है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+दृश्य: एकसमान रंग पृष्ठभूमि बनाता है; सफ़ेद भी एकरंगी पृष्ठभूमि है।](background--scene--solid.md)[![ग्रेडिएंट पृष्ठभूमि: दृश्य: बैकिंग लगातार रंग या चमक में बदलती रहती है जबकि मुख्य सामग्री स्पष्ट रहती है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
-### ढाल पृष्ठभूमि↗
+### ग्रेडिएंट पृष्ठभूमि↗
 
-दृश्य: बैकिंग लगातार रंग या चमक में बदलती रहती है जबकि मुख्य सामग्री स्पष्ट रहती है।](background--scene--gradient.md)[![पैटर्न वाली पृष्ठभूमि: स्थानीय: दृश्य: एक सजावटी पैच सामग्री के पीछे बैठता है, पैच के बाहर एक क्षेत्र छोड़ता है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+दृश्य: बैकिंग लगातार रंग या चमक में बदलती रहती है जबकि मुख्य सामग्री स्पष्ट रहती है।](background--scene--gradient.md)[![सीमित हिस्से में पैटर्न वाली पृष्ठभूमि: दृश्य: मुख्य सामग्री के पीछे सजावटी क्षेत्र होता है और उसके बाहर भी जगह बचती है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
-### पैटर्नयुक्त पृष्ठभूमि: स्थानीय↗
+### सीमित हिस्से में पैटर्न वाली पृष्ठभूमि↗
 
-दृश्य: एक सजावटी पैच सामग्री के पीछे बैठता है, पैच के बाहर एक क्षेत्र छोड़ता है।](background--scene--pattern-local.md)[![पैटर्न वाली पृष्ठभूमि: पूरा क्षेत्र: दृश्य: एक पैटर्न वाला मैदान स्पष्ट रूप से पढ़ने योग्य अग्रभूमि सामग्री के पीछे छवि को कवर करता है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-full-1.svg)
+दृश्य: एक सजावटी पैच सामग्री के पीछे बैठता है, पैच के बाहर एक क्षेत्र छोड़ता है।](background--scene--pattern-local.md)[![पूरे क्षेत्र में पैटर्न वाली पृष्ठभूमि: दृश्य: स्पष्ट दिखाई देने वाली अग्रभूमि के पीछे पैटर्न वाली पृष्ठभूमि पूरी छवि में फैली होती है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-full-1.svg)
 
 ### पैटर्न वाली पृष्ठभूमि: पूरा क्षेत्र↗
 
-दृश्य: स्पष्ट रूप से पढ़ने योग्य अग्रभूमि सामग्री के पीछे एक पैटर्न वाली ज़मीन छवि को कवर करती है।](background--scene--pattern-full.md)[![बनावट वाली पृष्ठभूमि: दृश्य: कागज के दाने, कण या अन्य सतह के पात्र अग्रभूमि सामग्री का समर्थन करते हैं।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--texture-1.svg)
+दृश्य: स्पष्ट अग्रभूमि सामग्री के पीछे पैटर्न वाली पृष्ठभूमि पूरी छवि में फैली होती है।](background--scene--pattern-full.md)[![बनावट वाली पृष्ठभूमि: दृश्य: कागज़ की बनावट, कण या सतह का कोई अन्य गुण अग्रभूमि को सहारा देता है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--texture-1.svg)
 
 ### बनावट वाली पृष्ठभूमि↗
 
@@ -106,13 +106,13 @@
 
 ## आस-पास के दिशा-निर्देशों की तुलना करें
 
-[![पर्यावरणीय सेटिंग: एक विषय और उसका परिवेश कार्रवाई के साथ या उसके बिना, एक स्थिति स्थापित करता है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-environment-1.svg)
+[![परिवेश की रचना: मुख्य दृश्य तत्व और उसका परिवेश मिलकर स्थिति स्थापित करते हैं, चाहे गतिविधि हो या न हो।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-environment-1.svg)
 
 ### पर्यावरण सेटिंग↗
 
-एक विषय और उसका परिवेश कार्रवाई के साथ या उसके बिना, एक स्थिति स्थापित करता है।](scene--scene-environment.md)[![परिदृश्य और स्थान: समग्र रूप से पर्यावरण छवि का मुख्य फोकस है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-landscape-1.svg)
+मुख्य दृश्य तत्व और उसका परिवेश मिलकर एक स्थिति स्थापित करते हैं, चाहे उसमें गतिविधि हो या न हो।](scene--scene-environment.md)[![परिदृश्य और स्थान: समग्र रूप से पर्यावरण छवि का मुख्य फोकस है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-landscape-1.svg)
 
-### लैंडस्केप और अंतरिक्ष↗
+### प्राकृतिक दृश्य और स्थान↗
 
 समग्र रूप से पर्यावरण छवि का मुख्य फोकस है।](scene--scene-landscape.md)[![प्रतिदिन का संक्षिप्त विवरण: रोजमर्रा की जिंदगी का एक छोटा सा क्षेत्र एक साझा स्थिति या गतिविधि का सुझाव देता है।](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-desk-1.svg)
 
@@ -120,4 +120,4 @@
 
 रोजमर्रा की जिंदगी का एक छोटा सा क्षेत्र एक साझा स्थिति या गतिविधि का सुझाव देता है।](scene--scene-desk.md)
 
-कोड-तैयार अध्ययन संरचना और दृश्य दृश्य शैली की तुलना करते हैं; मीडिया और शैली के उदाहरण वैचारिक हैं। इन निर्देशों का छवि मॉडलों के साथ व्यक्तिगत रूप से परीक्षण नहीं किया गया है। उत्पन्न पाठ, पारदर्शिता और दोहराव किनारों की जाँच करें।
+कोड से बनाए अध्ययन रचना और दृश्य अभिव्यक्तियों की तुलना करते हैं; माध्यम और शैली के उदाहरण अवधारणात्मक हैं। इन निर्देशों को छवि-मॉडलों के साथ अलग-अलग परखा नहीं गया है। बने हुए टेक्स्ट, पारदर्शिता और दोहराव के किनारों की जाँच करें।

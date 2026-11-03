@@ -20,7 +20,7 @@
 
 ### एक दोहराव से डिज़ाइन बनाएं
 
-एक समन्वित शीट बनाने के लिए पात्रों, चिह्नों और व्यक्तिगत विवरणों को विभिन्न पैमानों पर दोहराया जा सकता है। अधिक खुली जगह के साथ एक ढीला दोहराव; छुट्टियों के चिह्नों का सघन दोहराव; पैटर्न के भीतर दोहराया गया नाम.
+पात्रों, आइकनों और व्यक्तिगत विवरणों को अलग-अलग आकारों में दोहराकर समन्वित शीट बनाई जा सकती है। अधिक खाली जगह वाला खुला दोहराव; त्योहार के चिह्नों का सघन दोहराव; पैटर्न में दोहराया नाम।
 
 [![रैपिंग पेपर · रैपिंग पेपर](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)](https://podplo.app/products/mockup-temu-606545077228686)
 
@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-**अधिक लेआउट खोजें और Skills सेट करें**
+**लेआउट और सेट बनाने वाले अधिक Skills खोजें**
 
 <a id="_R_bf3k_-title"></a>
 
-#### अधिक लेआउट खोजें और Skills सेट करें
+#### लेआउट और सेट बनाने वाले अधिक Skills खोजें
 
 4 / 11
 
@@ -70,15 +70,15 @@
 
 ### मूल रूपांकन में क्रिसमस विवरण जोड़ें
 
-अवकाश तत्वों का एक छोटा सा सेट जोड़ें, फिर उस संस्करण को रैपिंग पेपर पर दोहराएं।
+त्योहार के कुछ सजावटी तत्व जोड़ें, फिर उस संस्करण को रैपिंग पेपर पर दोहराएँ।
 
 [इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas)
 
-![इसे क्रिसमस बनाएं · स्रोत छवि](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
+![मेक इट क्रिसमस · मूल छवि](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 स्रोत छवि
 
-[![इसे क्रिसमस बनाएं · निर्मित कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
+[![मेक इट क्रिसमस · बनाई गई कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
 उत्पन्न कलाकृति
 
@@ -96,15 +96,15 @@
 
 <a id="_R_bn3k_-cards"></a>
 
-[![इसे हेलोवीन कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+[![मेक इट हैलोवीन — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![इसे वैलेंटाइन की कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![मेक इट वैलेंटाइन्स — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-इसे वैलेंटाइन बनाएं](https://podplo.app/skills/make-it-valentines)[![इसे ईस्टर कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+इसे वैलेंटाइन बनाएं](https://podplo.app/skills/make-it-valentines)[![मेक इट ईस्टर — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-इसे ईस्टर बनाएं](https://podplo.app/skills/make-it-easter)[![इसे थैंक्सगिविंग कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+इसे ईस्टर बनाएं](https://podplo.app/skills/make-it-easter)[![मेक इट थैंक्सगिविंग — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-इसे धन्यवाद ज्ञापन बनाएं](https://podplo.app/skills/make-it-thanksgiving)
+थैंक्सगिविंग का रूप दें](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="product-mockup"></a>
 

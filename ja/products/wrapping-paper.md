@@ -12,15 +12,15 @@
 
 # 包装紙
 
-包装紙全体に 1 つのモチーフを繰り返し、休日の詳細やパーソナライズされた要素を追加します。
+一つのモチーフを包装紙全体に繰り返し、ホリデーの装飾や名入れの要素を加えます。
 
 <a id="product-overview"></a>
 
 ## この商品のデザインアイデア
 
-### 1 回の繰り返しからデザインを構築する
+### 一つのリピート柄からデザインを作る
 
-キャラクター、アイコン、個人の詳細をさまざまなスケールで繰り返して、調整されたシートを作成できます。よりオープンなスペースのある緩やかな繰り返し。休日のアイコンが密に繰り返されます。パターン内で繰り返される名前。
+キャラクター、アイコン、その人らしい情報を大きさを変えて繰り返し、統一感のあるシートを作れます。余白の多いゆったりした柄、ホリデーアイコンを密に並べた柄、名前を繰り返し入れた柄などがあります。
 
 [![包装紙・包装紙](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)](https://podplo.app/products/mockup-temu-606545077228686)
 
@@ -48,11 +48,11 @@
 
 AI 製品のプレビュー
 
-**さらにレイアウトを調べて Skills を設定します**
+**レイアウトやセット作成のSkillをもっと見る**
 
 <a id="_R_bf3k_-title"></a>
 
-#### さらにレイアウトを調べて Skills を設定します
+#### レイアウトやセット作成のSkillをもっと見る
 
 4 / 11
 
@@ -64,9 +64,9 @@ AI 製品のプレビュー
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### オリジナルモチーフにクリスマスディテールを追加
 
@@ -86,11 +86,11 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**名前と機会をさらに詳しく見る Skills**
+**名前やイベント向けのSkillをもっと見る**
 
 <a id="_R_bn3k_-title"></a>
 
-#### 名前と機会をさらに詳しく見る Skills
+#### 名前やイベント向けのSkillをもっと見る
 
 4 / 8
 
@@ -104,7 +104,7 @@ AI 製品のプレビュー
 
 イースターにしよう](https://podplo.app/skills/make-it-easter)[![Make It 感謝祭のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-感謝祭を実現しましょう](https://podplo.app/skills/make-it-thanksgiving)
+感謝祭にアレンジ](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="product-mockup"></a>
 

@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/hats?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/hats?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Шляпы и кепки
 
-Превратите символ, символ или короткое слово в компактное изображение шляпы.
+Превратите персонажа, символ или короткое слово в компактный принт для головного убора.
 
 <a id="product-overview"></a>
 
@@ -32,19 +32,19 @@
 
 ### Создайте компактный значок на шляпе
 
-Объедините короткий заголовок, одну четкую тему и краткий подзаголовок в небольшом макете по центру.
+Объедините короткий заголовок, один чёткий главный объект и краткий подзаголовок в небольшой центрированной композиции.
 
-[Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)
+[Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)
 
-![Заголовок–Тема–Макет субтитров · Исходное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
+![Композиция «Заголовок — главный объект — подзаголовок» · Исходное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
 
 Исходное изображение
 
-[![Заголовок–Тема–Макет субтитров · Созданная обложка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Композиция «Заголовок — главный объект — подзаголовок» · Сгенерированная работа](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 Созданное произведение искусства
 
-![Шапки и кепки · Название–Тема–Макет субтитров · Предварительный просмотр продукта с использованием ИИ](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
+![Шляпы и кепки · Композиция «заголовок — главный объект — подзаголовок» · ИИ-предпросмотр товара](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
 
 Предварительный просмотр продукта с ИИ
 
@@ -66,11 +66,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Исследуйте больше фотографий и изображений Skills**
+**Изучите другие Skill для фотографий и изображений**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Исследуйте больше фотографий и изображений Skills
+#### Изучите другие Skill для фотографий и изображений
 
 4 / 4
 
@@ -78,25 +78,25 @@
 
 [![Пример изображения раскраски](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Раскраска](https://podplo.app/skills/coloring-page)[![Пример рисунка каракули с наклейкой на домашнее животное](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-05.webp)
+Раскраска](https://podplo.app/skills/coloring-page)[![Пример наклейки с питомцем и дудлами](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-05.webp)
 
-Каракули с наклейками для домашних животных](https://podplo.app/skills/pet-sticker-doodle)[![Пример изображения стикера «Любопытный вопрос о домашнем животном»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-18.webp)
+Наклейка с питомцем и дудлами](https://podplo.app/skills/pet-sticker-doodle)[![Пример наклейки с любознательным питомцем и вопросом](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-18.webp)
 
-стикер с любопытным вопросом о домашнем животном](https://podplo.app/skills/curious-pet-question-sticker)[![Пример иллюстрации Monochrome Stencil Family](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
+Наклейка с любознательным питомцем и вопросом](https://podplo.app/skills/curious-pet-question-sticker)[![Пример монохромного семейного трафарета](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
 
-Семейство монохромных трафаретов](https://podplo.app/skills/monochrome-stencil-family)
+Монохромный семейный трафарет](https://podplo.app/skills/monochrome-stencil-family)
 
 ### Добавьте имя под украшенную драгоценностями корону
 
-Поместите имя под корону, чтобы создать компактное индивидуальное изображение шляпы.
+Поместите имя под короной, создав один компактный персонализированный рисунок для головного убора.
 
-[Имя Короны Принцессы](https://podplo.app/skills/princess-crown-name)
+[Корона принцессы с именем](https://podplo.app/skills/princess-crown-name)
 
 ИМЯ
 
 Имя
 
-[![Имя принцессы Короны · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
+[![Корона принцессы с именем · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
 
 Созданное произведение искусства
 
@@ -104,25 +104,25 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Узнайте больше об имени и случае Skills**
+**Изучите другие Skill для имён и особых поводов**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Узнайте больше об имени и случае Skills
+#### Изучите другие Skill для имён и особых поводов
 
 1 / 1
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Пример изображения плаката с жирной желтой цитатой](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606868223170088-artwork.webp)
+[![Пример выразительного жёлтого постера с цитатой](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606868223170088-artwork.webp)
 
-Жирный желтый плакат с цитатами](https://podplo.app/skills/bold-yellow-quote-poster)
+Выразительный жёлтый постер с цитатой](https://podplo.app/skills/bold-yellow-quote-poster)
 
 <a id="product-mockup"></a>
 
 ## Предварительный просмотр дизайна продукта
 
-### Превью в шапке
+### Посмотрите дизайн на головном уборе
 
 Предварительный просмотр AI показывает, как графика выглядит в масштабе шляпы и на изогнутой передней панели.
 

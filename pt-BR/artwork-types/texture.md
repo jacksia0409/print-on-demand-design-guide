@@ -12,7 +12,7 @@
 
 <a id="overview"></a>
 
-FORMULÁRIO DE ARTE · 04/05
+FORMA DA ARTE · 04 / 05
 
 # Texturas
 
@@ -242,7 +242,7 @@ Crie um padrão de fundo semelhante a uma rede a partir de marcas de congelament
 
 <a id="texture-group-word-13-2"></a>
 
-#### Água gelada e vestígios de ar
+#### Vestígios de água, gelo e ar
 
 Compare traços de água, gelo e ar por padrão de fluxo, forma de gota, condensação, espuma, geada, fratura, névoa e movimento suspenso.
 
@@ -268,7 +268,7 @@ Expanda ondulações circulares para fora de um ou vários pontos.
 
 ##### Cruzando ondulações
 
-Ondulações cruzadas viajando em diferentes direções para criar um ritmo semelhante a uma rede.
+Cruze ondulações que viajam em direções diferentes para criar um ritmo semelhante a uma rede.
 
 <a id="form-exp-13-2-3"></a>
 
@@ -332,7 +332,7 @@ Use grãos de neve soltos e pequenas sombras para criar uma superfície de textu
 
 ##### Campo de grãos enevoado
 
-Combine mudanças suaves de valor com granulação fina para sugerir umidade atmosférica suspensa.
+Combine variações suaves de valor tonal com granulação fina para sugerir umidade suspensa na atmosfera.
 
 <a id="form-exp-13-2-11"></a>
 
@@ -348,13 +348,13 @@ Forme uma textura contínua ao enrolar a fumaça e alterar a transparência.
 
 #### Estruturas vegetais
 
-Compare texturas derivadas de plantas através de grãos de madeira, anéis, cascas, veios, cera, poros, cabelos, fibras, guelras, sementes e grãos.
+Compare texturas vegetais por veios da madeira, anéis, cascas, nervuras, cera, poros, pelos, fibras, lamelas, sementes e grãos.
 
 <a id="form-exp-13-3-0"></a>
 
-![Grão longitudinal da madeira — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-0.svg)
+![Veios longitudinais da madeira — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-0.svg)
 
-##### Grão longitudinal da madeira
+##### Veios longitudinais da madeira
 
 Estenda fibras e faixas coloridas continuamente ao longo da direção do crescimento da planta.
 
@@ -416,11 +416,11 @@ Cubra a casca curva da fruta com pequenos poros, grãos e relevo raso.
 
 <a id="form-exp-13-3-8"></a>
 
-![Cabelos de plantas – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-8.svg)
+![Pelos vegetais — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-8.svg)
 
-##### Cabelos de plantas
+##### Pelos vegetais
 
-Use pêlos curtos para criar bordas suaves e alterar a densidade da superfície.
+Use pelos vegetais curtos para criar bordas suaves e variações na densidade da superfície.
 
 <a id="form-exp-13-3-9"></a>
 
@@ -432,11 +432,11 @@ Interrompa as fibras longitudinais de bambu com segmentos horizontais claramente
 
 <a id="form-exp-13-3-10"></a>
 
-![Brânquias de cogumelos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-10.svg)
+![Lamelas de cogumelo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-10.svg)
 
-##### Brânquias de cogumelo
+##### Lamelas de cogumelo
 
-Espalhe guelras finas e densamente compactadas para fora do centro ou da borda do gorro.
+Distribua lamelas finas e densamente agrupadas para fora de um centro ou da borda do chapéu do cogumelo.
 
 <a id="form-exp-13-3-11"></a>
 
@@ -472,9 +472,9 @@ Agrupe mechas mais longas por direção e destaque para descrever o pelo esvoaç
 
 <a id="form-exp-13-4-2"></a>
 
-![Pele enrolada — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-2.svg)
+![Pelo encaracolado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-2.svg)
 
-##### Pele enrolada
+##### Pelo encaracolado
 
 Construa pêlos encaracolados com laços, tufos e fios entrelaçados.
 
@@ -504,11 +504,11 @@ Use escamas de répteis de tamanhos variados com espaços visíveis entre elas.
 
 <a id="form-exp-13-4-6"></a>
 
-![Linhas de crescimento da casca — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-6.svg)
+![Linhas de crescimento da concha — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-6.svg)
 
-##### Linhas de crescimento da casca
+##### Linhas de crescimento da concha
 
-Cumes radiais cruzados com linhas de crescimento em forma de anel na superfície da concha.
+Cruze relevos radiais com linhas de crescimento em anel na superfície da concha.
 
 <a id="form-exp-13-4-7"></a>
 
@@ -532,21 +532,21 @@ Combine pequenas ranhuras e poros em uma superfície de pele flexível.
 
 ##### Grão de couro
 
-Construa o caráter do material a partir de pele granulada e vincos naturais.
+Crie o caráter do material com couro granulado e vincos naturais.
 
 <a id="form-exp-13-4-10"></a>
 
-![Detalhe do casaco leopardo – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-10.svg)
+![Detalhe da pelagem de leopardo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-10.svg)
 
-##### Detalhe do casaco leopardo
+##### Detalhe da pelagem de leopardo
 
 Cubra o pêlo local com manchas sólidas irregulares e rosetas em forma de anel.
 
 <a id="form-exp-13-4-11"></a>
 
-![Detalhe de pele listrada – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-11.svg)
+![Detalhe de pelagem listrada — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-11.svg)
 
-##### Detalhe de pele listrada
+##### Detalhe de pelagem listrada
 
 Curve as listras com a superfície local do corpo, preservando sua direção biológica.
 
@@ -600,11 +600,11 @@ Espalhe fibras curtas e fragmentos de cores diferentes pela folha reciclada.
 
 <a id="form-exp-13-5-5"></a>
 
-![Papel decorado artesanalmente — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-5-5.svg)
+![Papel artesanal de bordas irregulares — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-5-5.svg)
 
-##### Papel decorado artesanalmente
+##### Papel artesanal de bordas irregulares
 
-Combine a espessura irregular da folha com uma borda com bordas naturalmente suavizadas.
+Combine espessura irregular da folha com uma borda naturalmente irregular e fibrosa.
 
 <a id="form-exp-13-5-6"></a>
 
@@ -612,7 +612,7 @@ Combine a espessura irregular da folha com uma borda com bordas naturalmente sua
 
 ##### Seção ondulada
 
-Sanduíche uma onda ondulada contínua entre películas de papel planas.
+Coloque uma camada ondulada contínua entre duas folhas planas de papel.
 
 <a id="form-exp-13-5-7"></a>
 
@@ -660,13 +660,13 @@ Mostra o envelhecimento através de amarelecimento, manchas e desgaste concentra
 
 #### Estruturas têxteis
 
-Compare as estruturas têxteis por tecido, malha, malha, pelo, feltro, renda, bordado, cordão e organização de linha direcional visível.
+Compare estruturas têxteis por tecelagem, tricô, malha aberta, pelo, feltro, renda, bordado, cordão e organização direcional visível dos fios.
 
 <a id="form-exp-13-6-0"></a>
 
-![Tecido liso – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-0.svg)
+![Ligamento tela — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-0.svg)
 
-##### Tecido liso
+##### Ligamento tela
 
 Entrelace cada urdidura e trama alternadamente por cima e por baixo para formar uma trama plana e uniforme.
 
@@ -688,9 +688,9 @@ Use fios flutuantes mais longos para produzir uma superfície lisa com brilho di
 
 <a id="form-exp-13-6-3"></a>
 
-![Serapilheira grossa — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-3.svg)
+![Juta grossa — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-3.svg)
 
-##### Serapilheira grossa
+##### Juta grossa
 
 Combine fibras grossas com grandes aberturas em uma estrutura de estopa solta.
 
@@ -722,7 +722,7 @@ Entrelace laços contínuos para criar uma estrutura de malha flexível.
 
 ![Tricô canelado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-7.svg)
 
-##### Costela em tricô
+##### Tricô canelado
 
 Alterne faixas verticais elevadas e recuadas em uma superfície tricotada com nervuras.
 
@@ -744,17 +744,17 @@ Comprima fibras emaranhadas em uma superfície sem urdidura ou trama visível.
 
 <a id="form-exp-13-6-10"></a>
 
-![Pilha de veludo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-10.svg)
+![Pelo de veludo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-10.svg)
 
-##### Pilha de veludo
+##### Pelo de veludo
 
-Deixe a pilha curta de veludo mudar do claro para o escuro quando sua direção mudar.
+Deixe o pelo curto do veludo passar de claro a escuro quando sua direção mudar.
 
 <a id="form-exp-13-6-11"></a>
 
-![Loops Terry – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-11.svg)
+![Laçadas de tecido atoalhado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-11.svg)
 
-##### Laços Terry
+##### Laçadas de tecido atoalhado
 
 Cubra a superfície com pequenos laços contínuos para obter uma textura felpuda espessa e macia.
 
@@ -768,9 +768,9 @@ Coloque segmentos de linha em camadas em direções distintas para criar um padr
 
 <a id="form-exp-13-6-13"></a>
 
-![Pilha tufada – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-13.svg)
+![Pelo tufado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-13.svg)
 
-##### Pilha tufada
+##### Pelo tufado
 
 Use tufos densos para criar espessura, contornos definidos e sombras suaves.
 
@@ -794,7 +794,7 @@ Faça uma trança ou dê um nó em cabos mais grossos em uma corda de suporte ou
 
 <a id="texture-group-word-13-7"></a>
 
-#### Alvenaria de madeira e argila
+#### Madeira, alvenaria e argila
 
 Compare superfícies trabalhadas de madeira, alvenaria e argila por meio de corte, polimento, queima, juntas, poros, lascas, esmalte e rachaduras.
 
@@ -858,9 +858,9 @@ Faça com que as faces dos tijolos e as juntas de argamassa rebaixadas sejam int
 
 ![Terrazzo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-7-7.svg)
 
-##### Terraço
+##### Granilite
 
-Revele lascas de pedra polida embutidas na base do terraço.
+Revele fragmentos de pedra polida incrustados na base do granilite.
 
 <a id="form-exp-13-7-8"></a>
 
@@ -880,9 +880,9 @@ Cubra o corpo cerâmico com uma camada vítrea lisa mostrando o fluxo do esmalte
 
 <a id="form-exp-13-7-10"></a>
 
-![Esmalte Crackle – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-7-10.svg)
+![Esmalte craquelado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-7-10.svg)
 
-##### Esmalte crepitante
+##### Esmalte craquelado
 
 Espalhe rachaduras finas no esmalte como uma rede irregular conectada.
 
@@ -898,9 +898,9 @@ Use material em pó, poros finos e bordas quebradas para criar uma superfície d
 
 <a id="texture-group-word-13-8"></a>
 
-#### Vidro metálico e sintético
+#### Metal, vidro e materiais sintéticos
 
-Compare superfícies metálicas, de vidro e sintéticas por meio de reflexão, escovação, martelamento, oxidação, glacê, padronização, rachaduras, transparência de resina, borracha e filme bolha.
+Compare superfícies de metal, vidro e materiais sintéticos por reflexo, escovação, martelamento, oxidação, efeito fosco, padrões, rachaduras, transparência da resina, borracha e película de bolhas.
 
 <a id="form-exp-13-8-0"></a>
 
@@ -1002,7 +1002,7 @@ Repita bolhas transparentes regulares como uma superfície de filme elevada.
 
 <a id="texture-group-word-13-9"></a>
 
-#### Pintar e imprimir superfícies
+#### Superfícies de pintura e impressão
 
 Compare superfícies pintadas e impressas por meio de fluxo de pigmento, acúmulo, marcas de ferramentas, telas, linhas gravadas, toner, registro, tinta em rolo e estampagem.
 
@@ -1016,9 +1016,9 @@ Deixe o pigmento assentar nas depressões do papel, produzindo concentrações g
 
 <a id="form-exp-13-9-1"></a>
 
-![Backruns em aquarela — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-1.svg)
+![Retornos de água na aquarela — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-1.svg)
 
-##### Retrocessos em aquarela
+##### Retornos de água na aquarela
 
 Deixe bordas com anéis escuros e marcas aquosas onde as áreas úmidas e secas mudaram.
 
@@ -1028,13 +1028,13 @@ Deixe bordas com anéis escuros e marcas aquosas onde as áreas úmidas e secas 
 
 ##### Cumes de impasto
 
-Mantenha as pontas salientes do pincel ou da faca em tinta aplicada com espessura.
+Preserve os relevos de pinceladas ou de espátula na tinta aplicada em camadas espessas.
 
 <a id="form-exp-13-9-3"></a>
 
-![Camadas de faca de paleta – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-3.svg)
+![Camadas de espátula — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-3.svg)
 
-##### Camadas de faca de paleta
+##### Camadas de espátula
 
 Sobreponha camadas de tinta em forma de placa com bordas afiadas arrastadas de uma espátula.
 
@@ -1060,7 +1060,7 @@ Deixe uma cobertura pastel quebrada onde os grãos de pó ficam presos de maneir
 
 ##### Marcas de ferramentas de xilogravura
 
-Combine a direção da ferramenta esculpida com a fibra restante da madeira na superfície impressa.
+Combine a direção das marcas de entalhe com os veios de madeira restantes na superfície impressa.
 
 <a id="form-exp-13-9-7"></a>
 
@@ -1068,13 +1068,13 @@ Combine a direção da ferramenta esculpida com a fibra restante da madeira na s
 
 ##### Linhas gravadas
 
-Use linhas gravadas densas e depósitos de tinta para criar um personagem de talhe-doce.
+Use linhas gravadas densas e depósitos de tinta para criar uma aparência de gravura em talhe-doce.
 
 <a id="form-exp-13-9-8"></a>
 
-![Tinta de tela quebrada – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-8.svg)
+![Tinta de serigrafia com falhas — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-8.svg)
 
-##### Tinta de tela quebrada
+##### Tinta de serigrafia com falhas
 
 Mostre buracos, bordas irregulares e cobertura localmente incompleta na tinta serigrafada.
 
@@ -1104,9 +1104,9 @@ Combine partículas de toner preto, névoa cinza e áreas faltantes em uma super
 
 <a id="form-exp-13-9-12"></a>
 
-![Tinta rolada – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-12.svg)
+![Tinta aplicada com rolo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-12.svg)
 
-##### Tinta enrolada
+##### Tinta aplicada com rolo
 
 Deixe faixas e diferenças de cobertura onde a tinta rolou de maneira desigual.
 
@@ -1116,7 +1116,7 @@ Deixe faixas e diferenças de cobertura onde a tinta rolou de maneira desigual.
 
 ##### Carimbo irregular
 
-Use pressão desigual para criar áreas mais claras e lacunas ausentes na impressão estampada.
+Use pressão irregular para criar áreas mais claras e falhas sem tinta na impressão carimbada.
 
 <a id="texture-panel-word-13-10"></a>
 
@@ -1124,7 +1124,7 @@ Use pressão desigual para criar áreas mais claras e lacunas ausentes na impres
 
 #### Desgaste e depósitos
 
-Compare danos e depósitos por meio de arranhões, arranhões, bordas desgastadas, descascamento, rachaduras, desbotamento, anéis, manchas, poeira, mofo, dobras, rasgos e reparos.
+Compare danos e depósitos por meio de arranhões, sulcos profundos, bordas gastas, descascamento, rachaduras, desbotamento, anéis, manchas, poeira, mofo, dobras, rasgos e reparos.
 
 <a id="form-exp-13-10-0"></a>
 
@@ -1136,9 +1136,9 @@ Concentre abrasões lineares finas na superfície superior.
 
 <a id="form-exp-13-10-1"></a>
 
-![Goivas profundas – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-1.svg)
+![Sulcos profundos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-1.svg)
 
-##### Golpes profundos
+##### Sulcos profundos
 
 Faça sulcos mais profundos na superfície para revelar uma camada diferente abaixo.
 
@@ -1176,9 +1176,9 @@ Deixe a superfície ficar pulverulenta à medida que sua cor e limites se deteri
 
 <a id="form-exp-13-10-6"></a>
 
-![Desvanecimento do sol – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-6.svg)
+![Desbotamento pelo sol — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-6.svg)
 
-##### Sol desaparecendo
+##### Desbotamento pelo sol
 
 Reduza a cor de forma irregular por região ou ao longo de uma direção de exposição consistente.
 
@@ -1208,9 +1208,9 @@ Acumular poeira fina em reentrâncias e ao longo de bordas protegidas.
 
 <a id="form-exp-13-10-10"></a>
 
-![Molde e corrosão — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-10.svg)
+![Mofo e cavidades — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-10.svg)
 
-##### Molde e corrosão
+##### Mofo e cavidades
 
 Use crescimento manchado e poços erodidos como vestígios visíveis de idade.
 
@@ -1226,7 +1226,7 @@ Mostre dobras repetidas por meio de alterações de valor, vincos e quebras loca
 
 ![Rasgos e buracos – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-12.svg)
 
-##### Lágrimas e buracos
+##### Rasgos e buracos
 
 Crie rasgos, bordas viradas e material faltando na superfície.
 
@@ -1356,7 +1356,7 @@ FORMAS VISUAIS · 24
 
 #### Cobertura e zonas
 
-Compare onde a textura aparece por meio de cobertura total, fragmentos, faixas, blocos, bordas, delimitações, patches, zonas, camadas, janelas, máscaras de assunto e transparência.
+Compare onde a textura aparece por cobertura total, fragmentos, faixas, blocos, bordas, delimitações, áreas localizadas, zonas, camadas, janelas, máscaras do elemento principal e transparência.
 
 <a id="form-exp-13-12-0"></a>
 
@@ -1364,7 +1364,7 @@ Compare onde a textura aparece por meio de cobertura total, fragmentos, faixas, 
 
 ##### Cobertura total
 
-Cubra todo o quadro com textura para que a própria superfície se torne o tema.
+Cubra todo o quadro com textura para que a própria superfície se torne o elemento principal.
 
 <a id="form-exp-13-12-1"></a>
 
@@ -1372,7 +1372,7 @@ Cubra todo o quadro com textura para que a própria superfície se torne o tema.
 
 ##### Fragmento local
 
-Limite a textura a uma área, deixando o restante em branco ou em um terreno diferente.
+Restrinja a textura a uma área, deixando o restante vazio ou com um fundo diferente.
 
 <a id="form-exp-13-12-2"></a>
 
@@ -1400,9 +1400,9 @@ Deixe a textura entrar gradualmente a partir das bordas externas do quadro.
 
 <a id="form-exp-13-12-5"></a>
 
-![Invólucro de quatro lados — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-5.svg)
+![Fechamento de quatro lados — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-5.svg)
 
-##### Gabinete de quatro lados
+##### Fechamento de quatro lados
 
 Envolva a textura nas bordas enquanto mantém o centro aberto.
 
@@ -1440,11 +1440,11 @@ Abra uma janela em uma camada de textura para revelar outra textura abaixo.
 
 <a id="form-exp-13-12-10"></a>
 
-![Textura dentro de um assunto — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-10.svg)
+![Textura dentro de um elemento principal — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-12-10.svg)
 
-##### Textura dentro de um assunto
+##### Textura dentro de um elemento principal
 
-Confine a textura a uma silhueta reconhecível para que ela se torne o tratamento visual do modelo.
+Restrinja a textura a uma silhueta reconhecível para que ela se torne a aparência visual do elemento principal.
 
 <a id="form-exp-13-12-11"></a>
 
@@ -1458,7 +1458,7 @@ Mantenha a textura dentro de um fragmento local e deixe tudo além dele em um ve
 
 <a id="texture-composition-group-word-13-13"></a>
 
-#### Densidade e direção da escala
+#### Escala, densidade e direção
 
 Compare a organização da textura visualizando escala, contraste grosso-fino, densidade, tamanho, direção, fluxo, aleatoriedade controlada, repetição regular e continuidade não periódica.
 
@@ -1468,7 +1468,7 @@ Compare a organização da textura visualizando escala, contraste grosso-fino, d
 
 ##### Ampliação microscópica
 
-Amplie uma estrutura minúscula até que uma organização normalmente invisível se torne o assunto principal.
+Amplie uma estrutura minúscula até que uma organização normalmente invisível se torne o elemento principal.
 
 <a id="form-exp-13-13-1"></a>
 
@@ -1516,7 +1516,7 @@ Alinhe fibras, arranhões ou grãos ao longo de uma direção compartilhada.
 
 ##### Direções de cruzamento
 
-Texturas cruzadas viajando em direções diferentes umas sobre as outras.
+Cruze texturas que percorrem direções diferentes umas sobre as outras.
 
 <a id="form-exp-13-13-7"></a>
 
@@ -1532,7 +1532,7 @@ Organize a direção da textura em torno de anéis circulares ou de um caminho e
 
 ##### Fluxo de ramificação
 
-Textura dispersa ao longo de caminhos ramificados e semelhantes a árvores no campo material.
+Disperse a textura por trajetórias ramificadas semelhantes a árvores ao longo da área do material.
 
 <a id="form-exp-13-13-9"></a>
 
@@ -1548,7 +1548,7 @@ Permita variações aleatórias enquanto preserva a densidade e o equilíbrio ge
 
 ##### Repetição regular
 
-Repita os módulos de textura regularmente, enquanto trata a correspondência perfeita de bordas como um requisito separado.
+Repita os módulos de textura regularmente, tratando o encaixe sem emendas das bordas como um requisito separado.
 
 <a id="form-exp-13-13-11"></a>
 
@@ -1578,11 +1578,11 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Traduza paleta, material e atmosfera relevantes em obras de arte de superfície. Use cobertura total, fragmentos locais ou camadas, reduzindo objetos não relacionados que se tornariam assuntos focais independentes.
+Converta a paleta, o material e a atmosfera relevantes em arte guiada pela superfície. Use cobertura total, fragmentos localizados ou camadas, reduzindo objetos sem relação que se tornariam elementos focais independentes.
 
 **Fundo**
 
-Material de referência, paleta e atmosfera, criando um tratamento de superfície relevante quando falta. Um patch local pode ter um suporte separado; uma textura de área inteira se funde com seu solo. Evite adicionar um objeto dominante ou cenário narrativo.
+Use o material, a paleta e a atmosfera como referência, criando um tratamento de superfície pertinente quando estiver ausente. Uma área localizada pode ter uma base separada; uma textura que cobre toda a área se funde com o fundo. Evite adicionar um objeto dominante ou um cenário narrativo.
 
 **Texto**
 
@@ -1594,6 +1594,6 @@ Retenha materiais, superfícies, paletas e atmosfera relevantes sem exigir uma s
 
 **Escopo e limites**
 
-A silhueta de um objeto ou de todo um ambiente pode ser uma obra de arte de tema ou cena. Nem toda imagem sem um objeto claro é uma textura.
+A silhueta de um objeto ou um ambiente completo podem ser, em vez disso, uma composição centrada no elemento principal ou uma cena. Nem toda imagem sem um objeto claro é uma textura.
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

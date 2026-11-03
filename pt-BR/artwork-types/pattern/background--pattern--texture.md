@@ -56,7 +56,7 @@ Faça referência a detalhes, paleta e densidade de superfície existentes ou cr
 
 **Texto**
 
-Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma palavra ou frase curta relacionada ao tema como motivo de apoio. Quando for necessário ladrilho contínuo, inclua o texto na unidade de repetição e verifique a ortografia, a continuação das bordas e a legibilidade; caso contrário, não prometa perfeição. Respeite um pedido explícito de ausência de texto.
+Preserve as palavras claramente legíveis da fonte e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma palavra ou frase curta relacionada ao tema como motivo de apoio. Quando for necessária repetição sem emendas, inclua o texto no módulo de repetição e verifique a ortografia, a continuidade das bordas e a legibilidade; caso contrário, não prometa ausência de emendas. Respeite um pedido explícito de não incluir texto.
 
 **Preservar e adaptar**
 
@@ -68,24 +68,24 @@ Um suporte texturizado não deve se tornar automaticamente um objeto independent
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Padrões: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
+[![Fundo transparente: padrões: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Padrões: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--pattern--transparent.md)[![Fundo sólido: Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+Padrões: O fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--pattern--transparent.md)[![Fundo sólido: Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
 ### Fundo sólido↗
 
-Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--pattern--solid.md)[![Fundo gradiente: Padrões: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo de cor uniforme.](background--pattern--solid.md)[![Fundo gradiente: Padrões: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Padrões: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--pattern--gradient.md)[![Fundo padronizado: local: Padrões: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
+Padrões: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--pattern--gradient.md)[![Fundo estampado: local: Padrões: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Padrões: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--pattern--pattern-local.md)
+Padrões: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--pattern--pattern-local.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

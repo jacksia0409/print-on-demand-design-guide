@@ -24,11 +24,11 @@ Maquetes de produtos gerados por IA.
 
 Entrada
 
-[![Layout rosa ETERNAL BLOOM](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/skill-categories/artwork/03--tshirt-one--title-subject-subtitle-layout.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Layout de rosa ETERNAL BLOOM](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/skill-categories/artwork/03--tshirt-one--title-subject-subtitle-layout.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 Projeto
 
-![A mesma arte rosa em uma camiseta](https://podplo.app/pod-guide/generated/tshirt-layout-rose-proof.webp)
+![A mesma arte de rosa em uma camiseta](https://podplo.app/pod-guide/generated/tshirt-layout-rose-proof.webp)
 
 Visualização do produto
 
@@ -46,7 +46,7 @@ Visualização do produto
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de retrato de animal de estimação em aquarela suave](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-Retrato de animal de estimação em aquarela suave](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Exemplo de arte de padrão sem costura](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+Retrato de animal de estimação em aquarela suave](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Exemplo de arte de padrão sem emendas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 Padrão sem emendas](https://podplo.app/skills/seamless-pattern)[![Exemplo de arte com moldura de nome floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -68,7 +68,7 @@ Uma fonte, uma nova composição
 
 ## Que tipos de designs funcionam bem para impressão sob demanda?
 
-Explore gráficos, cenas, padrões, texturas e abstrações baseadas em assuntos. Compare formulários ilustrados, entenda seus limites e oriente-se em uma imagem ou prompt.
+Explore artes centradas no elemento principal, cenas, padrões, texturas e abstração. Compare formas ilustradas, entenda seus limites e leve uma orientação para uma imagem ou prompt.
 
 [Explore formas de arte e instruções de IA](artwork-types.md)
 
@@ -76,7 +76,7 @@ Explore gráficos, cenas, padrões, texturas e abstrações baseadas em assuntos
 
 ## Dê vida às suas ideias
 
-[**Dê vida às suas ideias**](make-pod-artwork.md)[![Retrato de animal de estimação real](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
+[**Dê vida às suas ideias**](make-pod-artwork.md)[![Retrato de pet da realeza](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
 
 **Faça mais com suas imagens**
 
@@ -124,9 +124,9 @@ Adicione um toque pessoal a qualquer ambiente](products/pillows.md)
 
 [![Layout central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Uma imagem. Infinitas possibilidades.**](techniques/compose-anything.md)[![Faça do Natal](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Uma imagem. Infinitas possibilidades.**](techniques/compose-anything.md)[![Deixe em clima de Natal](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**Dê ao seu design um toque festivo**](techniques/holiday-versions.md)[![Pintura Inteligente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**Dê ao seu design um toque festivo**](techniques/holiday-versions.md)[![Expansão inteligente da imagem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
 **Leve sua imagem além do quadro**](techniques/change-ratio.md)[![Gerador de grade 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
@@ -150,7 +150,7 @@ Adicione um toque pessoal a qualquer ambiente](products/pillows.md)
 
 **Presentes de agradecimento**](gifts/gratitude.md)[![Layout central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Apoio e incentivo**](gifts/support-and-encouragement.md)[![Reparo Detalhado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+**Apoio e incentivo**](gifts/support-and-encouragement.md)[![Reparo de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 **Memórias e memoriais**](gifts/memories-and-memorials.md)[![Layout central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 

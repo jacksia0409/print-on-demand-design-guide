@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--multiple--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--multiple--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Dirigido por materias / DIRECCIÓN CREATIVA / múltiples materias
+Motivo principal / DIRECCIÓN CREATIVA / varios motivos
 
-# Antecedentes ambientales
+# Fondo ambiental
 
-Múltiples temas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.
+Varios motivos principales: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.
 
 <a id="understand"></a>
 
-![Antecedentes ambientales: Temas múltiples: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
+![Fondo ambiental: varios motivos principales: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
 
 Ilustración de la composición
 
@@ -28,19 +28,19 @@ CÓMO RECONOCERLO
 
 Para las categorías de tema, patrón, textura o abstracto, el entorno sigue siendo secundario. Reevaluar la imagen como escena si el entorno o la narrativa se convierten en la expresión principal.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por sujetos → Múltiples temas → Antecedentes → Antecedentes ambientales
+Motivo principal → Varios motivos → Fondo → Fondo ambiental
 
 **Entrada y salida**
 
@@ -48,11 +48,11 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Conserve varios temas identificables y su agrupación principal. Agregue objetos relacionados con el tema si es necesario; una colección aún debería mostrar sus elementos de forma independiente.
+Conserva varios motivos identificables y su agrupación principal. Añade objetos relacionados con el tema si hace falta; una colección debe seguir mostrando sus elementos de forma independiente.
 
 **Fondo**
 
-Referenciar la ubicación existente, los elementos ambientales y la atmósfera, adaptándolos al contenido principal. Si está ausente o es solo simple o transparente, cree una configuración relacionada y coordine la escala, dirección y profundidad.
+Toma como referencia el lugar, los elementos del entorno y la atmósfera existentes y adáptalos al contenido principal. Si no hay entorno, o solo hay un fondo liso o transparente, crea un escenario relacionado y coordina la escala, la dirección y la profundidad.
 
 **Texto**
 
@@ -68,24 +68,24 @@ Para las categorías de tema, patrón, textura o abstracto, el entorno sigue sie
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
-[![Fondo transparente: Múltiples sujetos: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Fondo transparente: varios motivos principales: el fondo permanece transparente; el damero solo es una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Múltiples sujetos: el suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--multiple--transparent.md)[![Fondo sólido: Múltiples sujetos: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Varios motivos principales: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--multiple--transparent.md)[![Fondo de un solo color: varios motivos principales: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
 ### Fondo sólido↗
 
-Múltiples temas: un color uniforme forma el fondo; El blanco también es un fondo sólido.](background--multiple--solid.md)[![Fondo degradado: Múltiples sujetos: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+Varios motivos principales: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--multiple--solid.md)[![Fondo degradado: Múltiples sujetos: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### Fondo degradado↗
 
-Múltiples sujetos: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--multiple--gradient.md)[![Fondo estampado: local: Múltiples sujetos: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+Múltiples sujetos: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--multiple--gradient.md)[![Fondo estampado localizado: varios motivos principales: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
 ### Fondo estampado: local↗
 
 Múltiples sujetos: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--multiple--pattern-local.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

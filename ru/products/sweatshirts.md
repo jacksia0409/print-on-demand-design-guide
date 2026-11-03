@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/sweatshirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/sweatshirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Толстовки и толстовки
+# Свитшоты и худи
 
-Начните с одного изображения, затем создайте жирный рисунок спереди, небольшой знак на груди, дизайн спины или скоординированный набор.
+Начните с одного изображения, затем создайте выразительный принт спереди, небольшую эмблему на груди, рисунок на спине или согласованный набор.
 
 <a id="product-overview"></a>
 
@@ -20,9 +20,9 @@
 
 ### Больше места для больших идей
 
-Толстовки хорошо сочетаются с крупной графикой по центру, компактными эмблемами и рисунками, соединяющими переднюю и заднюю часть. Яркий рисунок спереди; Компактный след на левой груди; Небольшая деталь спереди в сочетании с более крупной графикой сзади.
+Свитшоты подходят для крупных центрированных принтов, компактных эмблем и дизайнов, связывающих переднюю часть и спину. Выразительный рисунок спереди; Компактная эмблема слева на груди; Небольшая деталь спереди в паре с более крупным рисунком на спине.
 
-![Толстовки и толстовки · пустой визуальный продукт](https://podplo.app/pod-guide/generated/sweatshirts-blank.webp)
+![Свитшоты и худи · Изображение товара без рисунка](https://podplo.app/pod-guide/generated/sweatshirts-blank.webp)
 
 <a id="product-create"></a>
 
@@ -32,27 +32,27 @@
 
 ### Создайте смелый рисунок на толстовке
 
-Возьмите свое произведение искусства в новом направлении: смелый рисунок спереди, маленькая эмблема на груди или одинаковый дизайн спереди и сзади.
+Развивайте свою работу в новом направлении: выразительный принт спереди, небольшая эмблема на груди или согласованный дизайн спереди и сзади.
 
-[Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)
+[Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)
 
 ![Компактный центральный макет · Исходное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
 Исходное изображение
 
-[![Компактный макет центра · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![Компактная композиция по центру · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
 Созданное произведение искусства
 
-![Толстовки и толстовки · Компактная центральная компоновка · Предварительный просмотр продукта с искусственным интеллектом](https://podplo.app/pod-guide/generated/sweatshirts-compact-center-layout-proof.webp)
+![Свитшоты и худи · Компактная композиция по центру · ИИ-предпросмотр товара](https://podplo.app/pod-guide/generated/sweatshirts-compact-center-layout-proof.webp)
 
 Предварительный просмотр продукта с ИИ
 
-**Изучите больше макета и установите Skills**
+**Изучите другие Skill для композиций и наборов**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Изучите больше макета и установите Skills
+#### Изучите другие Skill для композиций и наборов
 
 4 / 9
 
@@ -60,15 +60,15 @@
 
 [![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)[![Пример макета перевернутого треугольника](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-5.webp)
 
 Макет перевернутого треугольника](https://podplo.app/skills/inverted-triangle-layout)
 
-### Превратите фотографию домашнего животного в произведение искусства на толстовке
+### Превратите фотографию питомца в принт для свитшота
 
 Четкая фотография домашнего животного превращается в сфокусированный акварельный портрет на толстовке.
 
@@ -78,7 +78,7 @@
 
 Исходное фото
 
-[![Мягкий акварельный портрет питомца · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[![Нежный акварельный портрет питомца · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
 Созданное произведение искусства
 
@@ -86,19 +86,19 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Исследуйте больше фотографий и изображений Skills**
+**Изучите другие Skill для фотографий и изображений**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Исследуйте больше фотографий и изображений Skills
+#### Изучите другие Skill для фотографий и изображений
 
 4 / 14
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Пример забавного мультфильма «Большой живот»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
+[![Пример забавного пузатого мультяшного персонажа](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
 
-Забавный мультфильм про большого живота](https://podplo.app/skills/funny-big-belly-cartoon)[![Пример работы с портретом королевского питомца](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
+Забавный пузатый мультяшный персонаж](https://podplo.app/skills/funny-big-belly-cartoon)[![Пример работы с портретом королевского питомца](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
 
 Портрет королевского питомца](https://podplo.app/skills/royal-pet-portrait)[![Пример 3D-портрета пары](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
 
@@ -112,11 +112,11 @@
 
 [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)
 
-АНДРЕА
+ANDREA
 
 Имя
 
-[![Цветочная рамка для имени · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![Цветочная рамка для имени · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 Созданное произведение искусства
 
@@ -124,25 +124,25 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Узнайте больше об имени и случае Skills**
+**Изучите другие Skill для имён и особых поводов**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Узнайте больше об имени и случае Skills
+#### Изучите другие Skill для имён и особых поводов
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример изображения плаката с названием Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример именного постера Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Плакат с названием Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример изображения узора в виде сердечек из карандашей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Именной постер Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример узора с именем и сердечками, нарисованными мелками](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Образец имени в виде сердечек из карандашей](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Узор с именем и сердечками, нарисованными мелками](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
@@ -158,4 +158,4 @@
 
 - Светлые и темные цвета толстовок могут изменить эффект палитры.
 
-![Толстовки и толстовки · Доказательство продукции AI](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)
+![Свитшоты и худи · Визуальная проба товара с помощью ИИ](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)

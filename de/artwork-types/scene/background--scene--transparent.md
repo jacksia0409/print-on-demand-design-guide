@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/scene/background--scene--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/scene/background--scene--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -14,11 +14,11 @@ Szenen / KREATIVE RICHTUNG / Szenen
 
 # Transparenter Hintergrund
 
-Szenen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.
+Szenen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.
 
 <a id="understand"></a>
 
-![Transparenter Hintergrund: Szenen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+![Transparenter Hintergrund: Szenen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 Kompositionsskizze
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster oder keinen weißen Grund in das Bild und bezeichnen Sie es als transparent; Geben Sie an, dass eine Nachbearbeitung erforderlich ist, wenn das Tool keine Transparenz erzeugen kann.
+Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster und keinen weißen Hintergrund in das Bild, um es dann als transparent zu bezeichnen. Geben Sie an, dass Nachbearbeitung nötig ist, wenn das Werkzeug keine Transparenz erzeugen kann.
 
 [← Zurück zu den Szenen](../scene.md)
 
@@ -34,9 +34,9 @@ Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster o
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -52,7 +52,7 @@ Bewahren Sie den wesentlichen Raum, die Umgebung und jedes vorhandene Ereignis d
 
 **Hintergrund**
 
-Verwenden Sie alle relevanten Paletten, Behandlungen oder erforderlichen Themenhinweise von einem vorhandenen Hintergrund und entfernen Sie dann die Trägerschicht. Halten Sie einen fehlenden Hintergrund transparent, anstatt einen falschen Grund zu malen. Die notwendigen Farben im Inhalt können erhalten bleiben.
+Übernehmen Sie relevante Farbpaletten, Gestaltungsmerkmale oder notwendige thematische Hinweise aus einem vorhandenen Hintergrund und entfernen Sie anschließend die Hintergrundebene. Lassen Sie einen fehlenden Hintergrund transparent, statt einen künstlichen Untergrund hineinzumalen; notwendige Farben innerhalb des Inhalts dürfen erhalten bleiben.
 
 **Textinhalt**
 
@@ -64,21 +64,21 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster oder keinen weißen Grund in das Bild und bezeichnen Sie es als transparent; Geben Sie an, dass eine Nachbearbeitung erforderlich ist, wenn das Tool keine Transparenz erzeugen kann.
+Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster und keinen weißen Hintergrund in das Bild, um es dann als transparent zu bezeichnen. Geben Sie an, dass Nachbearbeitung nötig ist, wenn das Werkzeug keine Transparenz erzeugen kann.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Einfarbiger Hintergrund: Szenen: Eine einheitliche Farbe bildet den Boden; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+[![Einfarbiger Hintergrund: Szenen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Szenen: Eine einheitliche Farbe bildet den Boden; Weiß ist auch ein solider Hintergrund.](background--scene--solid.md)[![Hintergrund mit Farbverlauf: Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Szenen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--scene--solid.md)[![Hintergrund mit Farbverlauf: Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--scene--gradient.md)[![Gemusterter Hintergrund: lokal: Szenen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--scene--gradient.md)[![Gemusterter Hintergrund, lokal: Szenen: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
@@ -88,4 +88,4 @@ Szenen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen B
 
 Szenen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--scene--pattern-full.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

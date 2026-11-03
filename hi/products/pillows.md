@@ -10,7 +10,7 @@
 
 <a id="guide-main"></a>
 
-# तकिए और गद्दे
+# तकिए और कुशन
 
 केन्द्रित छवि, लघु वाक्यांश या दोहराव पैटर्न के लिए वर्गाकार तकिया प्रारूप का उपयोग करें।
 
@@ -18,11 +18,11 @@
 
 ## इस उत्पाद के लिए डिज़ाइन विचार
 
-### चौक के चारों ओर निर्माण करें
+### चौकोर रूप के अनुसार डिज़ाइन बनाएँ
 
-केंद्रित विषय, सममित लेआउट और संतुलित दोहराव सभी तकिये पर अच्छे से काम करते हैं। एक केन्द्रित चित्र; मुख्य ग्राफ़िक के रूप में उपयोग किया जाने वाला एक छोटा वाक्यांश; अन्य तकियों के साथ समन्वय करने के लिए डिज़ाइन किया गया एक दोहराव।
+केंद्रित मुख्य आकृतियाँ, सममित लेआउट और संतुलित दोहराव वाले पैटर्न तकिए पर अच्छे लगते हैं। केंद्रित पोर्ट्रेट; मुख्य ग्राफ़िक के रूप में छोटा वाक्यांश; दूसरे तकियों से मेल खाने वाला दोहराव पैटर्न।
 
-[![तकिए और कुशन · काठ का तकिया](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
+[![तकिए और कुशन · कमर को सहारा देने वाला कुशन](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 
 <a id="product-create"></a>
 
@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-**अधिक लेआउट खोजें और Skills सेट करें**
+**लेआउट और सेट बनाने वाले अधिक Skills खोजें**
 
 <a id="_R_bf3k_-title"></a>
 
-#### अधिक लेआउट खोजें और Skills सेट करें
+#### लेआउट और सेट बनाने वाले अधिक Skills खोजें
 
 4 / 12
 
@@ -96,9 +96,9 @@
 
 <a id="_R_bn3k_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -106,13 +106,13 @@
 
 स्टेंसिल निर्माता](https://podplo.app/skills/stencil-maker)
 
-### फूलों के नाम का तकिया बनाएं
+### फूलों और नाम वाला तकिया बनाएँ
 
 चौकोर डिज़ाइन के आकार के एक विशाल पुष्प फ्रेम के अंदर एक नाम रखें।
 
 [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)
 
-एंड्रिया
+ANDREA
 
 नाम
 
@@ -136,7 +136,7 @@
 
 [![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 उत्तरी ध्रुव का नाम पोस्टर](https://podplo.app/skills/north-pole-name-poster)[![क्रेयॉन हार्ट्स नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -158,6 +158,6 @@
 
 - तकिए को कमरे से जोड़ने के लिए पृष्ठभूमि रंग का उपयोग करें
 
-[![तकिए और कुशन · काठ का तकिया](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
+[![तकिए और कुशन · कमर को सहारा देने वाला कुशन](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 
-[![तकिए और कुशन · तकिया फेंकें](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189432104509863353.webp)](https://podplo.app/products/mockup-zazzle-189432104509863353)
+[![तकिए और कुशन · सजावटी कुशन](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189432104509863353.webp)](https://podplo.app/products/mockup-zazzle-189432104509863353)

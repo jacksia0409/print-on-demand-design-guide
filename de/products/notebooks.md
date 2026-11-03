@@ -6,21 +6,21 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/notebooks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/notebooks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Notizbücher und Planer
 
-Verwandeln Sie eine Notizbuchhülle in ein Poster, ein Muster oder ein personalisiertes Design.
+Verwandeln Sie einen Notizbucheinband in ein Poster, ein Muster oder ein personalisiertes Design.
 
 <a id="product-overview"></a>
 
 ## Designideen für dieses Produkt
 
-### Beginnen Sie mit der Abdeckung
+### Beginnen Sie mit dem Einband.
 
-Verwenden Sie ein starkes Bild, kombinieren Sie einen Titel mit der Illustration oder erweitern Sie eine Wiederholung über das gesamte Cover. Ein zentriertes Titelbild; Ein in die Abbildung integrierter Titel; Eine umfassende Wiederholung.
+Verwenden Sie ein starkes Bild, kombinieren Sie einen Titel mit der Illustration oder führen Sie einen Rapport über den gesamten Einband fort. Ein zentriertes Einbandbild; ein in die Illustration integrierter Titel; ein vollflächiger Rapport.
 
 ![Notizbücher und Planer · leere Produktansicht](https://podplo.app/pod-guide/generated/notebooks-blank.webp)
 
@@ -48,11 +48,11 @@ Generiertes Kunstwerk
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 12
 
@@ -64,9 +64,9 @@ Nahtloses Muster](https://podplo.app/skills/seamless-pattern)[![Beispiel für ei
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Verwandeln Sie ein Porträt in ein Fantasy-Cover
 
@@ -86,11 +86,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 97
 
@@ -98,13 +98,13 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 ### Gestalten Sie ein Namenscover mit Blumenmuster
 
@@ -124,17 +124,17 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Nordpol-Namensplakat](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
@@ -156,6 +156,6 @@ Die KI-Vorschau zeigt, wie das Kunstwerk zum Notizbuchcover passt, und vergleich
 
 - Ein Name macht das Cover persönlich
 
-- Eine Wiederholung kann sich über eine aufeinander abgestimmte Notizbuchserie erstrecken
+- Ein Rapport kann sich über eine abgestimmte Notizbuchserie erstrecken
 
-![Notizbücher und Planer · KI-Produktnachweis](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
+![Notizbücher und Planer · KI-Produktvorschau](https://podplo.app/pod-guide/generated/notebooks-proof.webp)

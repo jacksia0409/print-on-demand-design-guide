@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/backpacks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/backpacks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Rucksäcke und Lunchpakete
+# Rucksäcke und Lunchtaschen
 
-Erstellen Sie ein Rucksackdesign rund um ein auffälliges Zeichen, ein Allover-Muster oder eine personalisierte Namensgrafik.
+Gestalten Sie einen Rucksack mit einer markanten Figur, einem Allover-Muster oder einer personalisierten Namensgrafik.
 
 <a id="product-overview"></a>
 
@@ -20,7 +20,7 @@ Erstellen Sie ein Rucksackdesign rund um ein auffälliges Zeichen, ein Allover-M
 
 ### Design für den gesamten Rucksack
 
-Verwenden Sie das Hauptfeld für das Hauptbild und wiederholen Sie dann Farben oder Symbole im restlichen Design. Ein Charakter auf dem Hauptpanel; Eine umfassende Wiederholung; Ein in die Abbildung integrierter Name.
+Nutzen Sie das Hauptfeld für das Hauptbild und wiederholen Sie Farben oder Symbole im übrigen Design. Eine Figur auf dem Hauptfeld; ein vollflächiger Rapport; ein in die Illustration integrierter Name.
 
 ![Rucksäcke und Lunchtaschen · leere Produktansicht](https://podplo.app/pod-guide/generated/backpacks-blank.webp)
 
@@ -48,11 +48,11 @@ Generiertes Kunstwerk
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 14
 
@@ -64,9 +64,9 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Entfernen Sie den Hintergrund vom Motiv
 
@@ -86,19 +86,19 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 5
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Detailreparatur](https://podplo.app/skills/detail-repair)[![Beispiel für ein hochwertiges HD-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Detailreparatur](https://podplo.app/skills/detail-repair)[![Designbeispiel mit HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 HD-Upscale](https://podplo.app/skills/hd-upscale)[![Beispiel für eine Grafik im Vektorstil](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-4.webp)
 
@@ -124,11 +124,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 19
 
@@ -136,7 +136,7 @@ KI-Produktvorschau
 
 [![Beispiel für ein rosa Schleifennamenmuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607234000023917-artwork.webp)
 
-Namensmuster mit rosa Schleife](https://podplo.app/skills/pink-bow-name-pattern)[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Namensmuster mit rosa Schleife](https://podplo.app/skills/pink-bow-name-pattern)[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Nordpol-Namensplakat](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
@@ -156,6 +156,6 @@ Die KI-Vorschau zeigt, wo das Fokusbild im Verhältnis zu den Taschen, Riemen un
 
 - Ein Rapport deckt die Oberfläche gleichmäßig ab
 
-- Ein Name kann in das Theme integriert werden
+- Ein Name kann in das Thema integriert werden
 
-![Rucksäcke und Lunchtaschen · AI-produktsicher](https://podplo.app/pod-guide/generated/backpacks-proof.webp)
+![Rucksäcke und Lunchtaschen · KI-Produktvorschau](https://podplo.app/pod-guide/generated/backpacks-proof.webp)

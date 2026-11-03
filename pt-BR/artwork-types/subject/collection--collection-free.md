@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-Composição centrada no tema principal / DIREÇÃO CRIATIVA
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA
 
-# Layout de coleção grátis
+# Layout livre de coleção
 
 Elementos independentes ficam em um arranjo solto e irregular enquanto compartilham um tema.
 
 <a id="understand"></a>
 
-![Layout de coleção gratuito: elementos independentes ficam em um arranjo solto e irregular enquanto compartilham um tema.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-collection--collection-free-1.svg)
+![Layout livre de coleção: Elementos independentes ocupam um arranjo solto e irregular, mantendo um tema comum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-collection--collection-free-1.svg)
 
 Ilustração da composição
 
@@ -28,7 +28,7 @@ COMO RECONHECER
 
 Evite uma unidade repetida óbvia. Se um ambiente ou interação compartilhada se tornar essencial, o resultado será melhor compreendido como uma cena.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Orientado por assunto → Vários assuntos → Coleções → Layout de coleção gratuito
+Composição guiada pelo elemento principal → Vários elementos principais → Coleções → Layout livre de coleção
 
 **Entrada e saída**
 
@@ -70,41 +70,41 @@ Evite uma unidade repetida óbvia. Se um ambiente ou interação compartilhada s
 
 ## Explorar o plano de fundo
 
-Esses exemplos comparam motivos dentro da mesma família de conteúdo. Manter a composição atual ao aplicar um tratamento; abra um exemplo para obter instruções completas.
+Esses exemplos comparam fundos dentro da mesma família de conteúdo. Preserve a composição atual ao aplicar um tratamento visual; abra um exemplo para ver as instruções completas.
 
-[![Fundo transparente: Vários assuntos: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Fundo transparente: vários elementos principais: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Vários assuntos: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--multiple--transparent.md)[![Fundo sólido: Vários assuntos: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Vários elementos principais: O fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--multiple--transparent.md)[![Fundo sólido: vários elementos principais: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
 ### Fundo sólido↗
 
-Vários assuntos: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--multiple--solid.md)[![Fundo gradiente: Vários assuntos: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+Vários elementos principais: Uma cor uniforme forma o fundo; o branco também é um fundo de cor uniforme.](background--multiple--solid.md)[![Fundo em degradê: Vários elementos principais: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Vários assuntos: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--multiple--gradient.md)[![Plano de fundo padronizado: local: Vários assuntos: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+Vários elementos principais: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](background--multiple--gradient.md)[![Fundo estampado: local: Vários elementos principais: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Vários assuntos: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--multiple--pattern-local.md)[![Fundo padronizado: área completa: Vários assuntos: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
+Vários elementos principais: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--multiple--pattern-local.md)[![Fundo estampado: área completa: Vários elementos principais: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
-Vários assuntos: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--multiple--pattern-full.md)[![Plano de fundo texturizado: Vários assuntos: granulação do papel, partículas ou outro caráter de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
+Vários elementos principais: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](background--multiple--pattern-full.md)[![Fundo texturizado: vários elementos principais: granulação do papel, partículas ou outra característica de superfície apoiam o conteúdo de primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
 
 ### Fundo texturizado↗
 
-Vários assuntos: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--multiple--texture.md)[![Contexto ambiental: Vários assuntos: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
+Vários elementos principais: Granulação de papel, partículas ou outra característica de superfície dão apoio ao conteúdo de primeiro plano.](background--multiple--texture.md)[![Cenário ao fundo: Vários elementos principais: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
 
-### Contexto ambiental↗
+### Cenário ao fundo↗
 
-Vários assuntos: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](background--multiple--scene.md)
+Vários elementos principais: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](background--multiple--scene.md)
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
 [![Layout de coleção regular: elementos independentes são mostrados em linhas, colunas ou em uma grade consistente.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-collection--collection-grid-1.svg)
 

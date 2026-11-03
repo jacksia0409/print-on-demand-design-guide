@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/materials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/materials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -32,7 +32,7 @@
 
 <a id="tropical-botanical-leaves-and-flowers"></a>
 
-![Райская Птица Цветок](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/feace20b-5969-5bf2-8776-5bc1eb1d5dc1.png)
+![Цветок стрелиции](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/feace20b-5969-5bf2-8776-5bc1eb1d5dc1.png)
 
 ![Монстера Листья Акварель](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/b7e588a1-fd2b-5a56-bc9c-28a168b739cc.png)
 
@@ -64,7 +64,7 @@
 
 <a id="wild-meadow-flower-bouquets"></a>
 
-![Букет полевых цветов с принтом](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc10d1a7-edfb-5a00-9d0c-eb231be65453.png)
+![Принт с букетом полевых цветов](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc10d1a7-edfb-5a00-9d0c-eb231be65453.png)
 
 ![Эскиз букета ромашек](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/beeab9d3-6c69-5226-b837-2ffe51727cb3.png)
 
@@ -126,7 +126,7 @@
 
 Животные и существа
 
-### Милые акварельные животные из питомника
+### Милые акварельные животные для детской комнаты
 
 Создайте графическое изображение, значок или игровую коллекцию с изображением персонажей.
 
@@ -204,7 +204,7 @@
 
 <a id="cartoon-christmas-holiday-icons"></a>
 
-![Круто танцует Дед Мороз](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd985c38-56f1-58a8-931b-af77b960e0a2.png)
+![Круто танцующий Санта-Клаус](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd985c38-56f1-58a8-931b-af77b960e0a2.png)
 
 ![Украшенная рождественская елка](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/9bf21f65-3778-5077-af2a-96597615d53d.png)
 
@@ -212,7 +212,7 @@
 
 Праздники и времена года
 
-### Мультфильм рождественские иконы
+### Мультяшные рождественские символы
 
 Добавьте сезонный акцент в поздравления, подарки или тематическую графику.
 
@@ -250,15 +250,15 @@
 
 Еда и напитки
 
-### Ретро-мультфильм "Фрукты и овощи"
+### Ретромультяшные фрукты и овощи
 
-Комбинируйте небольшие мотивы с короткими копиями, надписями или повторяющимися макетами.
+Сочетайте небольшие мотивы с коротким текстом, подписями или повторяющимися композициями.
 
 [Узнайте больше в библиотеке](https://podplo.app/elements)
 
 <a id="vintage-coffee-and-cafe"></a>
 
-![Ручная разливка кофе](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe5248e4-8b81-5a95-a75c-41200e9cfef1.png)
+![Рука наливает кофе методом пуровер](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe5248e4-8b81-5a95-a75c-41200e9cfef1.png)
 
 ![Чашка кофе с латте-артом](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd35a8d4-4a86-56aa-a174-0eb968ea4dd2.png)
 
@@ -268,7 +268,7 @@
 
 ### Винтажный кофе и кафе
 
-Комбинируйте небольшие мотивы с короткими копиями, надписями или повторяющимися макетами.
+Сочетайте небольшие мотивы с коротким текстом, подписями или повторяющимися композициями.
 
 [Узнайте больше в библиотеке](https://podplo.app/elements)
 
@@ -278,13 +278,13 @@
 
 ![Синий Круассан](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e6fdbcc3-fa96-5d7e-8a5c-3d45614f6142.png)
 
-![Чашка кофе на вынос](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/a8580920-f209-5cc0-ae4d-5b0891994c31.png)
+![Стакан для кофе на вынос](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/a8580920-f209-5cc0-ae4d-5b0891994c31.png)
 
 Еда и напитки
 
 ### Акварельный фаст-фуд и напитки
 
-Комбинируйте небольшие мотивы с короткими копиями, надписями или повторяющимися макетами.
+Сочетайте небольшие мотивы с коротким текстом, подписями или повторяющимися композициями.
 
 [Узнайте больше в библиотеке](https://podplo.app/elements)
 
@@ -298,7 +298,7 @@
 
 ![Океанская волна и солнце](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fecd1251-775c-5859-a038-1692e8b181f4.png)
 
-![Икона "Солнце и океанская волна"](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e12bdb88-52a6-5d6d-80c8-35d8c34ef08d.png)
+![Значок солнца и океанской волны](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e12bdb88-52a6-5d6d-80c8-35d8c34ef08d.png)
 
 ![Серфер на закате](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/c214f5f3-76a3-51fb-aff0-30f21fb04878.png)
 
@@ -354,11 +354,11 @@
 
 ![Ретро персональный компьютер](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ea9ed5dd-7253-5197-b32a-32ba3b0eef47.png)
 
-![Красный вращающийся телефон](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d91f82d8-7396-55b3-8b6c-2c7a0bd7dc5b.png)
+![Красный дисковый телефон](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d91f82d8-7396-55b3-8b6c-2c7a0bd7dc5b.png)
 
 Объекты и инструменты
 
-### Ретро-компьютерная радиокамера Gameboy
+### Ретрокомпьютер, Gameboy, радио и камера
 
 Превратите узнаваемые объекты в графику для хобби, значки или наборы.
 
@@ -450,7 +450,7 @@
 
 Символы и значки
 
-### Симпатичные рисованные карандашом рисунки
+### Милые дудлы, нарисованные мелками от руки
 
 Объедините несколько небольших знаков в компактный графический набор или набор наклеек.
 
@@ -482,7 +482,7 @@
 
 ![Силуэт боксера](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd5c1e40-ae1e-5353-95fa-fe735e95d8b2.png)
 
-![Силуэт баскетболиста Slam Dunk](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f8be5cc0-1bd7-5bcb-9d67-956c01ce6461.png)
+![Силуэт баскетболиста, выполняющего слэм-данк](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f8be5cc0-1bd7-5bcb-9d67-956c01ce6461.png)
 
 ![Силуэт скалолаза](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f84e41fe-23b1-5281-a6ca-643ef7b1a90e.png)
 
@@ -542,21 +542,21 @@
 
 12
 
-### Абстракция и Геометрика
+### Абстракция и геометрия
 
 <a id="bold-ink-brush-paint-textures"></a>
 
-![Краска Инсульт Капельный](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ffd036e3-bb6c-5515-b360-7b4aa8f71287.png)
+![Мазок краски с потёком](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ffd036e3-bb6c-5515-b360-7b4aa8f71287.png)
 
 ![Абстрактные чернильные мазки и круги](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d7e80abc-b3c1-51a5-a97d-29383ae0e791.png)
 
 ![Мазок кисти](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/26b80cf5-b6fd-53b0-bbc6-0d4432ba880d.png)
 
-Абстракция и Геометрика
+Абстракция и геометрия
 
-### Текстуры краски жирной чернильной кистью
+### Выразительные текстуры туши с широкими мазками кисти
 
-Изучите смелые макеты, фоновые системы и повторяющиеся шаблоны.
+Изучите выразительные композиции, системы фона и повторяющиеся узоры.
 
 [Узнайте больше в библиотеке](https://podplo.app/elements)
 
@@ -566,17 +566,17 @@
 
 ![Абстрактный геометрический тор](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc7b9139-7d9c-5006-bdc4-bf4af595f901.png)
 
-![Градиентные контурные линии](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc533f5d-071b-546b-90eb-bd3526344e5f.png)
+![Волнообразные градиентные контурные линии](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc533f5d-071b-546b-90eb-bd3526344e5f.png)
 
-Абстракция и Геометрика
+Абстракция и геометрия
 
 ### Градиент Каркасные Геометрические Фигуры
 
-Изучите смелые макеты, фоновые системы и повторяющиеся шаблоны.
+Изучите выразительные композиции, системы фона и повторяющиеся узоры.
 
 [Узнайте больше в библиотеке](https://podplo.app/elements)
 
-Это только выбор. Откройте для себя больше тем и графики в библиотеке.
+Это лишь часть коллекции. Найдите больше тем и графики в библиотеке.
 
 [Посмотреть больше](https://podplo.app/elements)
 
@@ -588,6 +588,6 @@
 
 Изображения сохраняют полную композицию, что делает их полезными, когда вы хотите построить их на основе существующей сцены. Переработайте макет, добавьте точные формулировки, добавьте сезонную тему или изучите новую визуальную обработку с помощью Photo to Art Skill.
 
-Выбирайте изображения с четкой темой, темой, соответствующей вашей идее, и визуальными деталями, которые вы хотите сохранить в следующей версии.
+Выбирайте изображения с чётким главным объектом, темой, соответствующей вашей идее, и визуальными деталями, которые нужно сохранить в следующей версии.
 
 [Посмотреть больше](https://podplo.app/design-ideas)

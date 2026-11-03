@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-Orientado por assunto / DIREÇÃO CRIATIVA / assunto único
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA / elemento principal único
 
 # Fundo estampado: local
 
-Assunto único: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.
+Elemento principal único: uma área decorativa fica atrás do conteúdo, deixando uma região fora dela.
 
 <a id="understand"></a>
 
-![Plano de fundo padronizado: local: assunto único: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
+![Fundo estampado: local: Elemento principal único: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
 
 Ilustração da composição
 
@@ -28,7 +28,7 @@ COMO RECONHECER
 
 O patch pode ser regular ou livre, mas não cobre a tela. A decoração que envolve principalmente o contorno externo é a decoração circundante; mantenha o conteúdo principal dominante.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Orientado por assunto → Assunto único → Plano de fundo → Fundo padronizado: local
+Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo com padrão localizado
 
 **Entrada e saída**
 
@@ -48,7 +48,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
 **Fundo**
 
@@ -68,24 +68,24 @@ O patch pode ser regular ou livre, mas não cobre a tela. A decoração que envo
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Assunto único: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
+[![Fundo transparente: elemento principal único: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Sujeito único: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--single--transparent.md)[![Fundo sólido: Sujeito único: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+Elemento principal único: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--single--transparent.md)[![Fundo sólido: elemento principal único: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
 ### Fundo sólido↗
 
-Sujeito único: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--single--solid.md)[![Fundo gradiente: Assunto único: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+Elemento principal único: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--single--solid.md)[![Fundo em degradê: Elemento principal único: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Assunto único: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--single--gradient.md)[![Fundo padronizado: área completa: Tema único: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
+Elemento principal único: o fundo muda continuamente de cor ou brilho, enquanto o conteúdo principal permanece claro.](background--single--gradient.md)[![Fundo estampado: área completa: Elemento principal único: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
-Assunto único: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--single--pattern-full.md)
+Elemento principal único: um fundo com padrão cobre a imagem atrás de um conteúdo de primeiro plano claramente legível.](background--single--pattern-full.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

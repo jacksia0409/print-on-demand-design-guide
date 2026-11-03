@@ -38,21 +38,21 @@ Moldura floral com nome
 
 [![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="name-pattern"></a>
 
 ## Construa o design em torno de uma frase curta
 
-[Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout) constrói uma composição clara e baseada em texto em torno de STAY WILD e uma obra de arte.
+[Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout) constrói uma composição clara e baseada em texto em torno de STAY WILD e uma obra de arte.
 
-[Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout) cria uma linha como STAY WILD no título e, em seguida, organiza a arte e a linha de suporte opcional em torno dele. A imagem demonstra o layout; não é uma substituição automática de texto.
+[Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout) transforma uma frase como STAY WILD no título e organiza a arte e a frase de apoio opcional ao redor dela. A imagem demonstra o layout; não se trata de substituição automática de texto.
 
-[![Exemplo de título, assunto e layout de linha de apoio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Exemplo de layout com título, elemento principal e linha de apoio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-Layout Título-Assunto-Subtítulo
+Layout Título–Elemento principal–Subtítulo
 
 **Mais Skills para explorar**
 
@@ -80,7 +80,7 @@ Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
 [Layout de crachá circular](https://podplo.app/skills/circular-badge-layout) combina uma obra de arte e uma data em um emblema comemorativo compacto.
 
-[Layout de crachá circular](https://podplo.app/skills/circular-badge-layout) quebra texto como EST. 2024 ou 12/10/2024 em torno de uma obra de arte central para que a data passe a fazer parte da composição. A imagem demonstra a estrutura do emblema; não é uma substituição automática de data.
+[Layout de crachá circular](https://podplo.app/skills/circular-badge-layout) dispõe textos como EST. 2024 ou 10.12.2024 ao redor de uma arte central para que a data se torne parte da composição. A imagem demonstra a estrutura do emblema; não se trata de substituição automática de data.
 
 [![Exemplo de texto exato organizado em um emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)](https://podplo.app/skills/circular-badge-layout)
 
@@ -102,6 +102,6 @@ Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte 
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)

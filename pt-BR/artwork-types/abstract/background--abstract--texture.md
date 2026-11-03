@@ -68,24 +68,24 @@ Um suporte texturizado não deve se tornar automaticamente um objeto independent
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
+[![Fundo transparente: arte abstrata: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--abstract--transparent.md)[![Fundo sólido: Arte abstrata: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
+Arte abstrata: o fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--abstract--transparent.md)[![Fundo sólido: Arte abstrata: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
 ### Fundo sólido↗
 
-Arte abstrata: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--abstract--solid.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
+Arte abstrata: uma cor uniforme forma o fundo; o branco também é uma cor de fundo uniforme.](background--abstract--solid.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Plano de fundo padronizado: local: arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
+Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Fundo estampado: local: Arte abstrata: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](background--abstract--pattern-local.md)
+Arte abstrata: uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--abstract--pattern-local.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

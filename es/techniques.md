@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/techniques?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/techniques?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Crear con Skills
 
-Remix un diseño, agregue un nombre o cree una versión navideña. Descubre lo que puedes hacer con tus imágenes y Skills.
+Recompón un diseño, añade un nombre o crea una versión festiva. Descubre lo que puedes hacer con tus imágenes y Skills.
 
 ## Convierte una foto favorita en arte
 
@@ -26,7 +26,7 @@ Foto
 
 Retrato en acuarela
 
-**Explorar Skills relacionado**
+**Explora Skills relacionados**
 
 <a id="_R_mrk_-title"></a>
 
@@ -50,11 +50,11 @@ Marco de nombre floral](https://podplo.app/skills/floral-name-frame)
 
 [![Diseño central compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Una imagen. Posibilidades infinitas.**](techniques/compose-anything.md)[![Hazlo Navidad](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Una imagen. Posibilidades infinitas.**](techniques/compose-anything.md)[![Versión navideña](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**Dale a tu diseño un toque navideño**](techniques/holiday-versions.md)[![Pintura inteligente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**Dale a tu diseño un toque festivo**](techniques/holiday-versions.md)[![Ampliación inteligente de imagen](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-**Lleva tu imagen más allá del marco**](techniques/change-ratio.md)[![Generador de rejilla de 4 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+**Lleva tu imagen más allá del marco**](techniques/change-ratio.md)[![Generador de cuadrícula de 4 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **Convierte una idea en una colección**](techniques/series-builder.md)[![Marco de nombre floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 

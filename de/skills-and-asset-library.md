@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/skills-and-asset-library?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/skills-and-asset-library?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Beginnen Sie mit Ihrem eigenen Bild oder durchsuchen Sie die Asset-Bibliothek. V
 
 [Königliches Haustierporträt](https://podplo.app/skills/royal-pet-portrait) Fügt historische Kostüme und Dekorationen hinzu und sorgt gleichzeitig dafür, dass das Haustier erkennbar bleibt.
 
-[Königliches Haustierporträt](https://podplo.app/skills/royal-pet-portrait) verwandelt ein bekanntes Haustierfoto in ein königliches Charakterporträt. Das Kostüm und die Umgebung können sich dramatisch ändern, während die Gesichtsform, die Fellzeichnung und der Ausdruck das Tier unverkennbar unverkennbar bleiben lassen.
+[Königliches Haustierporträt](https://podplo.app/skills/royal-pet-portrait) verwandelt ein vertrautes Haustierfoto in ein königliches Charakterporträt. Kleidung und Umgebung dürfen sich stark verändern, während Gesichtsform, Fellzeichnung und Ausdruck das Tier unverkennbar machen.
 
 ![Vom Kunden bereitgestelltes Haustierfoto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
 
@@ -42,13 +42,13 @@ Königliches Haustierporträt
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 <a id="library"></a>
 
@@ -74,7 +74,7 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein Hintergrundentferner-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Hintergrundentferner](https://podplo.app/skills/background-remover)[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Hintergrundentferner](https://podplo.app/skills/background-remover)[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 Detailreparatur](https://podplo.app/skills/detail-repair)
 
@@ -82,9 +82,9 @@ Detailreparatur](https://podplo.app/skills/detail-repair)
 
 ## Kennzeichnen Sie Assets zur einfachen Wiederverwendung
 
-Klare Tags erleichtern das Auffinden eines Assets und das Erstellen einer saisonalen Variation [Machen Sie es zu Weihnachten](https://podplo.app/skills/make-it-christmas).
+Klare Tags erleichtern es, ein Asset zu finden und eine saisonale Variante zu gestalten mit [Weihnachtlich gestalten](https://podplo.app/skills/make-it-christmas).
 
-Mithilfe von Tags für Betreff, Jahreszeit, Layout, Farbe und Quelle lassen sich nützliche Assets leicht wiederfinden. Zum Beispiel ist ein Haustierporträt mit dem Tag „Weihnachten“ fertig [Machen Sie es zu Weihnachten](https://podplo.app/skills/make-it-christmas) Variante, die immer noch dasselbe Haustier enthält.
+Tags für Motiv, Saison, Layout, Farbe und Ausgangsmaterial erleichtern das Wiederfinden nützlicher Assets. Ein mit „Weihnachten“ gekennzeichnetes Haustierporträt ist zum Beispiel bereit für eine [Weihnachtlich gestalten](https://podplo.app/skills/make-it-christmas) Variante, die immer noch dasselbe Haustier enthält.
 
 ![Referenzbild vor einer saisonalen Bearbeitung](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
@@ -92,7 +92,7 @@ Eingabe
 
 [![Weihnachtsversion mit erhaltener Quellenidentität](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
-Machen Sie es zu Weihnachten
+Weihnachtlich gestalten
 
 **Weitere Skills zum Entdecken**
 
@@ -106,13 +106,13 @@ Machen Sie es zu Weihnachten
 
 [![Beispiel für ein „Make It Halloween“-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Machen Sie es zu Halloween](https://podplo.app/skills/make-it-halloween)[![Beispiel für ein Kunstwerk von Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Für Halloween gestalten](https://podplo.app/skills/make-it-halloween)[![Beispiel für ein Kunstwerk von Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Machen Sie es zum Valentinstag](https://podplo.app/skills/make-it-valentines)[![Beispiel für ein „Make It“-Osterkunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Zum Valentinstag gestalten](https://podplo.app/skills/make-it-valentines)[![Designbeispiel mit Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Machen Sie es zu Ostern](https://podplo.app/skills/make-it-easter)[![Beispiel für ein „Make It Thanksgiving“-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Österlich gestalten](https://podplo.app/skills/make-it-easter)[![Beispiel für ein „Make It Thanksgiving“-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Machen Sie es zum Erntedankfest](https://podplo.app/skills/make-it-thanksgiving)
+Für Thanksgiving gestalten](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="reuse"></a>
 
@@ -120,7 +120,7 @@ Machen Sie es zum Erntedankfest](https://podplo.app/skills/make-it-thanksgiving)
 
 [Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern) passt ein bewährtes Wiederholungslayout an jeden neuen Namen an.
 
-Eine starke Komposition kann einen neuen Namen, ein neues Thema oder eine neue Farbe unterstützen, ohne dass es kopiert wirkt. [Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern) Behält die verspielte Wiederholungsstruktur bei und passt gleichzeitig den Abstand für jeden Namen an.
+Eine starke Komposition verträgt einen neuen Namen, ein neues Motiv oder eine neue Farbe, ohne kopiert zu wirken. [Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern) Behält die verspielte Wiederholungsstruktur bei und passt gleichzeitig den Abstand für jeden Namen an.
 
 [![Personalisiertes Dinosaurier-Namensmuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -138,6 +138,6 @@ Dinosaurier-Namensmuster
 
 [![Beispiel für ein florales Namensrahmen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-Floraler Namensrahmen](https://podplo.app/skills/floral-name-frame)[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Floraler Namensrahmen](https://podplo.app/skills/floral-name-frame)[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)

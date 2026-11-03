@@ -12,7 +12,7 @@
 
 Estampas e padrões / DIREÇÃO CRIATIVA
 
-# Padrão limitado
+# Padrão delimitado
 
 Os motivos seguem um arranjo decorativo dentro de uma área finita.
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Padrões → Padrões finitos → Padrão limitado
+Padrões → Padrões finitos → Padrão delimitado
 
 **Entrada e saída**
 
@@ -70,41 +70,41 @@ O ladrilho contínuo é opcional e não deliberadamente proibido. Se o objetivo 
 
 ## Explorar o plano de fundo
 
-Esses exemplos comparam motivos dentro da mesma família de conteúdo. Manter a composição atual ao aplicar um tratamento; abra um exemplo para obter instruções completas.
+Esses exemplos comparam fundos dentro da mesma família de conteúdo. Preserve a composição atual ao aplicar um tratamento visual; abra um exemplo para ver as instruções completas.
 
-[![Fundo transparente: Padrões: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
+[![Fundo transparente: padrões: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Padrões: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--pattern--transparent.md)[![Fundo sólido: Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+Padrões: O fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--pattern--transparent.md)[![Fundo sólido: Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
 ### Fundo sólido↗
 
-Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--pattern--solid.md)[![Fundo gradiente: Padrões: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo de cor uniforme.](background--pattern--solid.md)[![Fundo gradiente: Padrões: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Padrões: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--pattern--gradient.md)[![Fundo padronizado: local: Padrões: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
+Padrões: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--pattern--gradient.md)[![Fundo estampado: local: Padrões: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Padrões: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--pattern--pattern-local.md)[![Fundo padronizado: área completa: Padrões: Um fundo padronizado cobre a imagem atrás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-full-1.svg)
+Padrões: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--pattern--pattern-local.md)[![Fundo estampado: área completa: Padrões: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
 Padrões: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--pattern--pattern-full.md)[![Plano de fundo texturizado: Padrões: granulação do papel, partículas ou outro caráter de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--texture-1.svg)
 
 ### Fundo texturizado↗
 
-Padrões: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--pattern--texture.md)[![Contexto ambiental: Padrões: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
+Padrões: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--pattern--texture.md)[![Cenário ao fundo: Padrões: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
 
-### Contexto ambiental↗
+### Cenário ao fundo↗
 
 Padrões: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](background--pattern--scene.md)
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
 [![Ornamento radial: unidades decorativas se repetem em torno de um centro para formar um desenho circular finito.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-bounded--pattern-radial-1.svg)
 

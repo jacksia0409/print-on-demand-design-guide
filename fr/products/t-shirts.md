@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/t-shirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/t-shirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -60,9 +60,9 @@ Des détails simples. Beaucoup de personnalité.
 
 Transformez des fleurs, des animaux ou des formes géométriques en un motif répétitif qui recouvre toute la chemise.
 
-![Un motif floral sans couture pour un imprimé intégral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+![Un motif floral à raccords invisibles pour une impression intégrale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
-#### [Modèles sans couture](#tshirt-pattern-route)
+#### [Motifs à raccords invisibles](#tshirt-pattern-route)
 
 Commencez par un seul motif. Répétez-le sur toute la chemise.
 
@@ -210,7 +210,7 @@ Sur un tee-shirt
 
 Mettez leur nom au centre d'un motif de Noël. Essayez des cadres floraux ou des lettrages ludiques pour une occasion différente.
 
-[Nom du pôle Nord Poster](https://podplo.app/skills/north-pole-name-poster)
+[Affiche du pôle Nord avec prénom](https://podplo.app/skills/north-pole-name-poster)
 
 **Plus de façons de le rendre personnel**
 
@@ -222,15 +222,15 @@ Mettez leur nom au centre d'un motif de Noël. Essayez des cadres floraux ou des
 
 <a id="_R_ef3k_-cards"></a>
 
-[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple d'illustration de motif de nom de crayon coeurs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple de visuel « Motif de cœurs au crayon avec prénom »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Modèle de nom de coeurs de crayon](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Motif de cœurs au crayon avec prénom](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple d'illustration de motif de nom de gnome de Noël](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607445124489843-artwork.webp)
 
-Modèle de nom de gnome de Noël](https://podplo.app/skills/christmas-gnome-name-pattern)
+Motif de lutins de Noël avec prénom](https://podplo.app/skills/christmas-gnome-name-pattern)
 
 <a id="tshirt-embroidery-route"></a>
 
@@ -250,15 +250,15 @@ Transformez une photo de chat en un simple graphique de style broderie avec Embr
 
 <a id="tshirt-pattern-route"></a>
 
-![Source de modèle sans couture](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Source du motif à raccords invisibles](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Entrée
 
-[![Résultat d'illustration de modèle sans couture](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Résultat du visuel « Motif à raccords invisibles »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Oeuvre
 
-### Transformez un seul motif en motif
+### Transformez un motif unique en un motif répétitif
 
 Utilisez Seamless Pattern pour transformer des fleurs, des animaux ou des formes géométriques en une répétition. Essayez différents espacements et arrangements pour changer le look.
 
@@ -280,7 +280,7 @@ Les images de t-shirts sont des maquettes générées par l'IA.
 
 ## Voyez-le sur un T-shirt
 
-Prévisualisez votre œuvre sur un t-shirt vierge ou un modèle. Essayez différentes couleurs et réglages de chemise pour trouver le look que vous aimez.
+Prévisualisez votre visuel sur un t-shirt vierge ou sur un mannequin. Essayez différentes couleurs de t-shirt et mises en scène pour trouver le rendu qui vous plaît.
 
 Maquettes générées par l'IA.
 
@@ -292,7 +292,7 @@ Maquettes générées par l'IA.
 
 ![T-shirt ivoire vierge utilisé comme référence de maquette](https://podplo.app/pod-guide/generated/tshirt-blank.webp)
 
-T-shirt blanc ivoire
+T-shirt ivoire vierge
 
 ![Conception de Golden retriever placée sur une maquette de T-shirt](https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp)
 

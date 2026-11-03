@@ -22,7 +22,7 @@
 
 [صورة الحيوانات الأليفة بالألوان المائية الناعمة](https://podplo.app/skills/soft-watercolor-pet-portrait) يضيف نمطًا خفيفًا من الألوان المائية مع الحفاظ على التعرف على الحيوان الأليف.
 
-[صورة الحيوانات الأليفة بالألوان المائية الناعمة](https://podplo.app/skills/soft-watercolor-pet-portrait) يعطي صورة واضحة للحيوانات الأليفة بأسلوب ألوان مائية فاتحة. لون العين، وشكل الأذن، وعلامات الوجه، ونمط المعطف يجعل النتيجة معروفة على أنها نفس الحيوان الأليف.
+[صورة الحيوانات الأليفة بالألوان المائية الناعمة](https://podplo.app/skills/soft-watercolor-pet-portrait) يمنح صورة واضحة لحيوان أليف أسلوب ألوان مائية خفيفًا. يحافظ لون العينين وشكل الأذنين وعلامات الوجه ونمط الفراء على تميّز الحيوان نفسه في النتيجة.
 
 ![صورة الحيوانات الأليفة للعملاء](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
 
@@ -90,7 +90,7 @@
 
 <a id="family-portrait"></a>
 
-## إنشاء صورة عائلية الأبعاد
+## أنشئ بورتريه عائليًا مجسمًا
 
 [صورة عائلية ثلاثية الأبعاد](https://podplo.app/skills/3d-family-portrait) يضيف نمط صورة ثلاثي الأبعاد مع الحفاظ على إمكانية التعرف على كل فرد من أفراد الأسرة.
 
@@ -100,7 +100,7 @@
 
 الإدخال
 
-[![صورة عائلية ثلاثية الأبعاد مع كل شخص مزود](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![صورة عائلية ثلاثية الأبعاد تضم جميع الأشخاص في الصورة المقدمة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 صورة عائلية ثلاثية الأبعاد
 

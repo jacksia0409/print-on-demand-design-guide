@@ -20,7 +20,7 @@
 
 ### ऊंचाई और पूर्ण आवरण का प्रयोग करें
 
-लम्बे पात्र, स्टैक्ड प्रकार, बिखरे हुए रूपांकन और मनोरम दृश्य सभी एक टम्बलर पर अच्छे से काम करते हैं। एक लंबा केंद्रीय पात्र; ऊपर से नीचे तक बिखरे हुए छोटे-छोटे रूपांकन; गिलास के चारों ओर एक मनोरम दृश्य.
+लंबे पात्र, ऊपर-नीचे रखे अक्षर, बिखरे रूपांकन और चौड़े पैनोरमिक दृश्य टम्बलर पर अच्छे लगते हैं। बीच में लंबा पात्र; ऊपर से नीचे तक बिखरे छोटे रूपांकन; टम्बलर के चारों ओर पैनोरमिक दृश्य।
 
 ![टंबलर · रिक्त उत्पाद दृश्य](https://podplo.app/pod-guide/generated/tumblers-blank.webp)
 
@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-**अधिक लेआउट खोजें और Skills सेट करें**
+**लेआउट और सेट बनाने वाले अधिक Skills खोजें**
 
 <a id="_R_bf3k_-title"></a>
 
-#### अधिक लेआउट खोजें और Skills सेट करें
+#### लेआउट और सेट बनाने वाले अधिक Skills खोजें
 
 4 / 11
 
@@ -72,13 +72,13 @@
 
 एक जलरंग पालतू जानवर का चित्र बनाएं, फिर इसे टम्बलर के लम्बे प्रारूप में व्यवस्थित करें।
 
-[शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
-![शीतल जलरंग पालतू चित्र · स्रोत फोटो](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
+![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट · मूल फ़ोटो](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
 
 मूल फ़ोटो
 
-[![शीतल जलरंग पालतू चित्र · उत्पन्न कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट · बनाई गई कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
 उत्पन्न कलाकृति
 
@@ -96,9 +96,9 @@
 
 <a id="_R_bn3k_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -112,7 +112,7 @@
 
 [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)
 
-एंड्रिया
+ANDREA
 
 नाम
 
@@ -136,7 +136,7 @@
 
 [![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 उत्तरी ध्रुव का नाम पोस्टर](https://podplo.app/skills/north-pole-name-poster)[![क्रेयॉन हार्ट्स नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -150,7 +150,7 @@
 
 ### संपूर्ण टम्बलर डिज़ाइन का पूर्वावलोकन करें
 
-एआई पूर्वावलोकन मुख्य केंद्र बिंदु और विवरण दिखाता है जो टम्बलर के मुड़ने पर दिखाई देता है।
+AI पूर्वावलोकन मुख्य केंद्रबिंदु और टम्बलर को घुमाने पर दिखाई देने वाले विवरण दिखाता है।
 
 - लंबवत कलाकृति टंबलर की ऊंचाई पर जोर देती है
 
@@ -158,4 +158,4 @@
 
 - एक मनोरम दृश्य में संपूर्ण आवरण का उपयोग किया जाता है
 
-![टंबलर · एआई उत्पाद प्रमाण](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![टम्बलर · AI से बनाया गया उत्पाद नमूना](https://podplo.app/pod-guide/generated/tumblers-proof.webp)

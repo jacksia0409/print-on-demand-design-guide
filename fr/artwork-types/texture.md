@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -264,9 +264,9 @@ Développez les ondulations circulaires vers l’extérieur à partir d’un ou 
 
 <a id="form-exp-13-2-2"></a>
 
-![Traversée des ondulations – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-2-2.svg)
+![Ondulations croisées — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-2-2.svg)
 
-##### Traverser les ondulations
+##### Ondulations croisées
 
 Des ondulations croisées voyageant dans différentes directions pour créer un rythme en forme de filet.
 
@@ -328,9 +328,9 @@ Utilisez des grains de neige lâches et de minuscules ombres pour créer une sur
 
 <a id="form-exp-13-2-10"></a>
 
-![Champ de céréales brumeux — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-2-10.svg)
+![Champ de grain brumeux — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-2-10.svg)
 
-##### Champ de céréales brumeux
+##### Champ de grain brumeux
 
 Combinez des changements de valeur doux avec un grain fin pour suggérer une humidité atmosphérique en suspension.
 
@@ -348,7 +348,7 @@ Formez une texture continue à partir de fumée enroulée et de transparence cha
 
 #### Structures végétales
 
-Comparez les textures d'origine végétale à travers le grain du bois, les anneaux, l'écorce, les veines, la cire, les pores, les poils, les fibres, les branchies, les graines et les noyaux.
+Comparez les textures végétales : grain et cernes du bois, écorce, nervures, cire, pores, poils, fibres, lamelles, graines et grains.
 
 <a id="form-exp-13-3-0"></a>
 
@@ -432,11 +432,11 @@ Interrompre les fibres longitudinales de bambou avec des segments horizontaux cl
 
 <a id="form-exp-13-3-10"></a>
 
-![Branchies de champignons - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-10.svg)
+![Lamelles de champignons — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-3-10.svg)
 
-##### Branchies de champignons
+##### Lamelles de champignons
 
-Étalez de fines branchies densément tassées vers l’extérieur à partir du centre ou du bord du capuchon.
+Déployez de fines lamelles très serrées depuis le centre ou le bord du chapeau.
 
 <a id="form-exp-13-3-11"></a>
 
@@ -460,7 +460,7 @@ Comparez les surfaces des animaux en fonction de l'orientation de la fourrure, d
 
 ##### Fourrure courte
 
-Créez une surface douce et uniforme à partir de poils courts et densément emballés.
+Créez une surface douce et uniforme à partir de poils courts et très serrés.
 
 <a id="form-exp-13-4-1"></a>
 
@@ -484,7 +484,7 @@ Construisez une fourrure bouclée à partir de boucles, de touffes et de brins e
 
 ##### Plumes superposées
 
-Superposez les aubes en plumes en couches directionnelles autour de chaque arbre central.
+Superposez les vexilles des plumes en couches orientées autour de chaque rachis central.
 
 <a id="form-exp-13-4-4"></a>
 
@@ -536,9 +536,9 @@ Construisez le caractère matériel à partir d’une peau granuleuse et de plis
 
 <a id="form-exp-13-4-10"></a>
 
-![Détail du manteau léopard — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-10.svg)
+![Détail du pelage de léopard — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-4-10.svg)
 
-##### Détail du manteau léopard
+##### Détail du pelage de léopard
 
 Couvrir la fourrure locale de taches solides irrégulières et de rosettes en forme d'anneau.
 
@@ -612,7 +612,7 @@ Combinez une épaisseur de feuille inégale avec un bord naturellement plumeux.
 
 ##### Section ondulée
 
-Sandwich une vague ondulée continue entre des peaux de papier plates.
+Placez une ondulation continue de papier entre deux feuilles plates, en sandwich.
 
 <a id="form-exp-13-5-7"></a>
 
@@ -744,15 +744,15 @@ Compressez les fibres emmêlées sur une surface sans chaîne ni trame visible.
 
 <a id="form-exp-13-6-10"></a>
 
-![Pile de velours — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-10.svg)
+![Poils de velours — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-10.svg)
 
-##### Pile de velours
+##### Poils de velours
 
 Laissez les poils courts en velours passer du clair au foncé lorsque leur direction change.
 
 <a id="form-exp-13-6-11"></a>
 
-![Boucles Terry — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-11.svg)
+![Boucles de tissu éponge — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-11.svg)
 
 ##### Boucles en éponge
 
@@ -768,9 +768,9 @@ Superposez des segments de fil dans des directions distinctes pour créer un mot
 
 <a id="form-exp-13-6-13"></a>
 
-![Pieu touffeté — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-13.svg)
+![Velours tufté — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-6-13.svg)
 
-##### Pile touffetée
+##### Velours tufté
 
 Utilisez des touffes denses pour créer de l'épaisseur, des contours définis et des ombres douces.
 
@@ -794,9 +794,9 @@ Tressez ou nouez des cordes plus épaisses dans une corde porteuse ou une struct
 
 <a id="texture-group-word-13-7"></a>
 
-#### Maçonnerie en bois et terre cuite
+#### Bois, maçonnerie et argile
 
-Comparez les surfaces travaillées en bois, en maçonnerie et en argile par la coupe, le polissage, la combustion, les joints, les pores, l'écaillage, le glaçage et la fissuration.
+Comparez les surfaces travaillées de bois, de maçonnerie et d’argile selon la coupe, le polissage, le brûlage, les joints, les pores, les éclats, la glaçure et les fissures.
 
 <a id="form-exp-13-7-0"></a>
 
@@ -876,13 +876,13 @@ Mélangez des grains d'argile grossiers et fins avec de petits pores dans une su
 
 ##### Glaçure en céramique
 
-Couvrez le corps en céramique d'une couche vitreuse lisse montrant le flux de glaçage et les changements de couleur.
+Couvrez la pièce en céramique d’une couche vitreuse lisse présentant des coulures de glaçure et des variations de couleur.
 
 <a id="form-exp-13-7-10"></a>
 
-![Glaçage craquelé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-7-10.svg)
+![Glaçure craquelée — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-7-10.svg)
 
-##### Glaçage craquelé
+##### Glaçure craquelée
 
 Répartissez de fines fissures à travers la glaçure comme un réseau connecté irrégulier.
 
@@ -898,9 +898,9 @@ Utilisez un matériau pulvérulent, des pores fins et des bords cassés pour cr�
 
 <a id="texture-group-word-13-8"></a>
 
-#### Verre métallique et synthétiques
+#### Métaux, verre et matières synthétiques
 
-Comparez les surfaces métalliques, en verre et synthétiques par réflexion, brossage, martelage, oxydation, glaçage, motif, fissures, clarté de la résine, caoutchouc et film à bulles.
+Comparez les surfaces métalliques, vitrées et synthétiques selon les reflets, le brossage, le martelage, l’oxydation, le dépolissage, les motifs, les fissures, la transparence de la résine, le caoutchouc et le film à bulles.
 
 <a id="form-exp-13-8-0"></a>
 
@@ -916,7 +916,7 @@ Exécutez de fines rayures parallèles sur le métal pour produire une réflexio
 
 ##### Miroir en métal
 
-Utilisez des reflets brillants et des reflets clairs pour décrire une surface de métal dur et lisse.
+Utilisez des rehauts brillants et des reflets nets pour décrire une surface métallique dure et lisse.
 
 <a id="form-exp-13-8-2"></a>
 
@@ -1016,9 +1016,9 @@ Laissez le pigment se déposer dans les dépressions du papier, produisant des c
 
 <a id="form-exp-13-9-1"></a>
 
-![Backruns à l’aquarelle – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-1.svg)
+![Auréoles d’aquarelle — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-1.svg)
 
-##### Backruns à l'aquarelle
+##### Auréoles d’aquarelle
 
 Laisser des bords annelés sombres et des marques aqueuses là où les zones humides et sèches ont changé.
 
@@ -1040,9 +1040,9 @@ Superposez les couches de peinture en forme de plaque avec des bords tranchants 
 
 <a id="form-exp-13-9-4"></a>
 
-![Plumes d'encre - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-4.svg)
+![Diffusion de l’encre dans les fibres — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-4.svg)
 
-##### Plumage d'encre
+##### Diffusion de l’encre dans les fibres
 
 Laissez l’encre liquide s’étaler le long des fibres du papier jusqu’aux limites inégales.
 
@@ -1072,9 +1072,9 @@ Utilisez des lignes gravées denses et des dépôts d’encre pour créer un car
 
 <a id="form-exp-13-9-8"></a>
 
-![Encre d'écran cassée - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-8.svg)
+![Encre de sérigraphie fragmentée — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-8.svg)
 
-##### Encre d'écran cassée
+##### Encre de sérigraphie fragmentée
 
 Afficher les trous, les bords irréguliers et la couverture localement incomplète dans l'encre sérigraphiée.
 
@@ -1088,9 +1088,9 @@ Créez du ton grâce à la taille et à la densité des points de demi-teintes i
 
 <a id="form-exp-13-9-10"></a>
 
-![Couleur mal enregistrée — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-10.svg)
+![Couleurs décalées par défaut de repérage — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-10.svg)
 
-##### Couleur mal enregistrée
+##### Couleurs décalées par défaut de repérage
 
 Décalez légèrement les plaques de couleur séparées pour que des franges colorées apparaissent sur leurs bords.
 
@@ -1112,9 +1112,9 @@ Laissez des bandes et des différences de couverture là où l'encre a été rou
 
 <a id="form-exp-13-9-13"></a>
 
-![Timbre inégal — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-13.svg)
+![Empreinte de tampon irrégulière — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-9-13.svg)
 
-##### Timbre inégal
+##### Empreinte de tampon irrégulière
 
 Utilisez une pression inégale pour créer des zones plus claires et des espaces manquants dans l'impression estampée.
 
@@ -1124,7 +1124,7 @@ Utilisez une pression inégale pour créer des zones plus claires et des espaces
 
 #### Usure et dépôts
 
-Comparez les dommages et les dépôts tels que les rayures, les rainures, les bords usés, le pelage, les fissures, la décoloration, les anneaux, les taches, la poussière, la moisissure, les plis, les déchirures et les réparations.
+Comparez les altérations et les dépôts : rayures, entailles, bords usés, écaillage, fissures, décoloration, auréoles, taches, poussière, moisissure, plis, déchirures et réparations.
 
 <a id="form-exp-13-10-0"></a>
 
@@ -1136,7 +1136,7 @@ Concentrez de fines abrasions linéaires sur la surface supérieure.
 
 <a id="form-exp-13-10-1"></a>
 
-![Gouges profondes — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-1.svg)
+![Entailles profondes — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-1.svg)
 
 ##### Des rainures profondes
 
@@ -1176,9 +1176,9 @@ Laissez la surface devenir poudreuse à mesure que sa couleur et ses limites se 
 
 <a id="form-exp-13-10-6"></a>
 
-![Décoloration du soleil – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-6.svg)
+![Décoloration due au soleil — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-6.svg)
 
-##### Le soleil s'estompe
+##### Décoloration due au soleil
 
 Réduisez la couleur de manière inégale par région ou dans une direction d’exposition cohérente.
 
@@ -1212,7 +1212,7 @@ Accumulez la poussière fine dans les recoins et le long des bords abrités.
 
 ##### Moisissure et piqûres
 
-Utilisez des pousses tachetées et des fosses érodées comme traces visibles de l’âge.
+Utilisez des croissances tachetées et des cavités érodées comme traces visibles de vieillissement.
 
 <a id="form-exp-13-10-11"></a>
 
@@ -1226,15 +1226,15 @@ Affichez les pliages répétés à travers les changements de valeur, les plis e
 
 ![Déchirures et trous – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-12.svg)
 
-##### Des larmes et des trous
+##### Déchirures et trous
 
 Créez des déchirures, des bords retournés et du matériau manquant sur la surface.
 
 <a id="form-exp-13-10-13"></a>
 
-![Réparations et correctifs — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-13.svg)
+![Réparations et pièces rapportées — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-10-13.svg)
 
-##### Réparations et correctifs
+##### Réparations et pièces rapportées
 
 Placez les patchs, les points de suture ou les réparations remplies visiblement à côté de l'ancienne surface.
 
@@ -1244,7 +1244,7 @@ Placez les patchs, les points de suture ou les réparations remplies visiblement
 
 #### Champs de surface numériques
 
-Comparez les champs de surface numériques via l'échelle de bruit, la corrélation, les pixels, les lignes de balayage, les matrices de points, les interférences, les déplacements, les problèmes, les fluides, les cellules et les contours.
+Comparez les textures de surface numériques selon l’échelle du bruit, la corrélation, les pixels, les lignes de balayage, les matrices de points, les interférences, les déplacements, les glitchs, les fluides, les cellules et les contours.
 
 <a id="form-exp-13-11-0"></a>
 
@@ -1260,7 +1260,7 @@ Couvrez le champ de grains fins d'intensité presque égale.
 
 ##### Bruit grossier
 
-Utilisez des grains plus gros pour créer des changements visibles de densité et de grossièreté.
+Utilisez de plus gros grains pour créer des variations visibles de densité et de granulosité.
 
 <a id="form-exp-13-11-2"></a>
 
@@ -1292,7 +1292,7 @@ Tracez de fines lignes parallèles à travers le champ pour suggérer une numér
 
 ##### Matrice de points d'écran
 
-Disposez des points lumineux ou des cellules de pixels dans une matrice d'écran ordinaire.
+Disposez des points lumineux ou des cellules de pixels dans une matrice d’écran régulière.
 
 <a id="form-exp-13-11-6"></a>
 
@@ -1314,7 +1314,7 @@ Superposez deux grilles de lignes denses pour que des ondes plus grandes émerge
 
 ![Blocs Glitch – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-11-8.svg)
 
-##### Blocs de problèmes
+##### Blocs de glitch
 
 Créez une distorsion numérique à partir de coupures par blocs, de lignes décalées et de répétitions locales.
 
@@ -1458,7 +1458,7 @@ Conservez la texture dans un fragment local et laissez tout ce qui se trouve au-
 
 <a id="texture-composition-group-word-13-13"></a>
 
-#### Densité et direction de l'échelle
+#### Échelle, densité et direction
 
 Comparez l'organisation des textures en fonction de l'échelle de visualisation, du contraste grossier-fin, de la densité, de la taille, de la direction, du flux, du caractère aléatoire contrôlé, de la répétition régulière et de la continuité non périodique.
 
@@ -1484,7 +1484,7 @@ Visualisez la surface de plus loin afin que seule sa texture directionnelle larg
 
 ##### Contraste grossier-fin
 
-Comparez le même type de texture aux écailles grossières et fines.
+Faites contraster un même type de texture à des échelles grossières et fines.
 
 <a id="form-exp-13-13-3"></a>
 
@@ -1514,7 +1514,7 @@ Alignez les fibres, les rayures ou les grains dans une direction partagée.
 
 ![Directions de croisement — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-13-6.svg)
 
-##### Itinéraires de croisement
+##### Directions croisées
 
 Des textures croisées se déplaçant dans des directions différentes les unes sur les autres.
 
@@ -1548,7 +1548,7 @@ Autoriser une variation aléatoire tout en préservant la densité et l’équil
 
 ##### Répétition régulière
 
-Répétez régulièrement les modules de texture, tout en traitant la correspondance transparente des bords comme une exigence distincte.
+Répétez régulièrement les modules de texture, en traitant séparément l’exigence de raccords invisibles aux bords.
 
 <a id="form-exp-13-13-11"></a>
 
@@ -1582,7 +1582,7 @@ Traduisez la palette, le matériau et l’atmosphère pertinents en œuvres d’
 
 **Arrière-plan**
 
-Matériau de référence, palette et atmosphère, créant un traitement de surface pertinent en cas d'absence. Un correctif local peut avoir un support séparé ; une texture sur toute la surface se confond avec son fond. Évitez d'ajouter un objet ou un cadre narratif dominant.
+Prenez pour référence la matière, la palette et l’atmosphère, et créez un traitement de surface pertinent s’il manque. Une zone localisée peut avoir un fond distinct ; une texture intégrale fusionne avec son fond. Évitez d’ajouter un objet dominant ou un décor narratif.
 
 **Texte**
 

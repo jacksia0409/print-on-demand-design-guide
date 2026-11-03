@@ -12,13 +12,13 @@
 
 <a id="overview"></a>
 
-FORMULÁRIO DE ARTE · 02/05
+FORMA DA ARTE · 02 / 05
 
 # Estampas e padrões
 
-Os motivos criam um todo decorativo através da repetição ou de um arranjo claro. Uma repetição perfeita precisa de sua própria verificação de borda.
+Os motivos criam um conjunto decorativo por repetição ou por um arranjo claro. Uma repetição sem emendas exige sua própria verificação de bordas.
 
-![Exemplo de layout de ladrilho com padrão de repetição floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+![Exemplo de layout de módulo de padrão floral repetitivo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 Exemplo de design · Padrão floral repetido
 
@@ -94,7 +94,7 @@ Aponte as unidades para um centro ou inverta-as para fora, para criar convergên
 
 #### Sequências de motivos e batidas
 
-Compare sequências de motivos por meio de alternância, ciclos, batidas principais e de preenchimento, pares, clusters, mudanças de tamanho, escalas mistas e até mesmo espaçamento.
+Compare sequências de motivos por alternância, ciclos, ritmos de elementos principais e de preenchimento, pares, agrupamentos, mudanças de tamanho, escalas mistas e espaçamento uniforme.
 
 <a id="form-pattern-60-0"></a>
 
@@ -214,7 +214,7 @@ Altere a rotação de cada unidade progressivamente para criar um efeito de giro
 
 ##### Gradiente de cor
 
-Mantenha o layout estável enquanto classifica a cor, o valor ou a saturação da unidade por meio de uma transição.
+Mantenha o layout estável enquanto varia gradualmente a cor, o valor tonal ou a saturação das unidades ao longo de uma transição.
 
 <a id="form-pattern-61-6"></a>
 
@@ -286,7 +286,7 @@ Permita que elementos dispersos se sobreponham, usando a oclusão para criar pro
 
 ##### Espaço livre reservado
 
-Mantenha os elementos longe de palavras, assuntos ou silhuetas selecionadas para que o espaço reservado molde o padrão.
+Mantenha os elementos longe do texto, dos elementos principais ou das silhuetas selecionadas para que o espaço reservado dê forma ao padrão.
 
 <a id="pattern-panel-word-g68-pattern"></a>
 
@@ -322,9 +322,9 @@ Preserve a conexão natural de caules, folhas e flores locais em ramos espalhado
 
 <a id="form-pattern-68-3"></a>
 
-![Cultivo de vinhas — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-68-3.svg)
+![Trepadeiras em crescimento — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-68-3.svg)
 
-##### Cultivo de vinhas
+##### Trepadeiras em crescimento
 
 Preencha o campo com uma estrutura de videira ramificada e giratória e faça crescer pequenas flores ao longo dela.
 
@@ -358,7 +358,7 @@ Misture palavras, letras, números e figuras, usando tamanho, direção e espaç
 
 ##### Grupos de emblemas
 
-Trate crachás, etiquetas, selos ou sinais como unidades completas em um padrão de adesivos colecionáveis.
+Trate emblemas, etiquetas, selos ou placas como unidades completas em um padrão de adesivos colecionáveis.
 
 <a id="pattern-panel-word-g69-pattern"></a>
 
@@ -402,9 +402,9 @@ Cubra o campo com grãos finos, pinceladas curtas ou fibras cuja repetição per
 
 <a id="form-pattern-69-4"></a>
 
-![Patches semelhantes a nuvens – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-69-4.svg)
+![Manchas semelhantes a nuvens — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-69-4.svg)
 
-##### Patches semelhantes a nuvem
+##### Manchas semelhantes a nuvens
 
 Encaixe manchas de cores irregulares ou contornos suaves em uma superfície de campo total turva e manchada.
 
@@ -436,17 +436,17 @@ Varie o diâmetro dos pontos, o alinhamento das linhas, os deslocamentos e o esp
 
 ![Xadrez tecido – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-72-1.svg)
 
-##### Cheques tecidos
+##### Xadrez tecido
 
-Cruze as faixas horizontais e verticais em cheques, variando a largura, o agrupamento e a cor da faixa.
+Cruze faixas horizontais e verticais para formar xadrezes, variando a largura, o agrupamento e a cor das faixas.
 
 <a id="form-pattern-72-2"></a>
 
-![Houndstooth - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-72-2.svg)
+![Xadrez pied-de-poule — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-72-2.svg)
 
-##### Dente-de-poule
+##### Xadrez pied-de-poule
 
-Interlock apontou unidades claras e escuras para o efeito contínuo de cheque quebrado do houndstooth.
+Encaixe unidades pontiagudas claras e escuras para criar o efeito contínuo de xadrez quebrado do pied-de-poule.
 
 <a id="form-pattern-72-3"></a>
 
@@ -494,7 +494,7 @@ Construa uma treliça hexagonal contínua e coloque pequenos motivos florais, ge
 
 ##### Geometria Asanoha
 
-Combine diamantes e triângulos finos em torno de centros de seis direções em uma repetição geométrica de folhas pontiagudas.
+Combine losangos e triângulos estreitos ao redor de centros de seis direções para criar um padrão geométrico repetitivo de folhas pontiagudas.
 
 <a id="pattern-panel-word-g73-pattern"></a>
 
@@ -530,9 +530,9 @@ Vincule flores e folhas a vinhas curvas continuamente que percorrem todo o campo
 
 <a id="form-pattern-73-3"></a>
 
-![Folhagem rolante – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-3.svg)
+![Folhagem em arabescos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-3.svg)
 
-##### Folhagem rolante
+##### Folhagem em arabescos
 
 Construa uma estrutura fluida com folhagens enroladas, espirais e linhas em forma de S.
 
@@ -598,7 +598,7 @@ Organize listras nítidas com forte variação de largura ao longo de uma direç
 
 ##### Manchas de vaca
 
-Contraste grandes manchas sólidas e irregulares com amplo terreno aberto, enfatizando cada contorno da mancha.
+Contraste grandes manchas sólidas irregulares com um fundo amplo e livre, destacando o contorno de cada mancha.
 
 <a id="form-pattern-74-4"></a>
 
@@ -606,7 +606,7 @@ Contraste grandes manchas sólidas e irregulares com amplo terreno aberto, enfat
 
 ##### Escamas de pele de cobra
 
-Desloque unidades de escala compactadas, variando a cor e o tamanho local para aumentar a profundidade da pele de cobra.
+Desloque unidades de escamas bem compactadas, variando a cor e o tamanho locais para criar profundidade de pele de cobra.
 
 <a id="form-pattern-74-5"></a>
 
@@ -626,9 +626,9 @@ Combine faixas de cores fluidas, veias finas ramificadas e transições amplas e
 
 <a id="form-pattern-74-7"></a>
 
-![Grão de madeira e anéis de crescimento — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-74-7.svg)
+![Veios de madeira e anéis de crescimento — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-74-7.svg)
 
-##### Grão de madeira e anéis de crescimento
+##### Veios de madeira e anéis de crescimento
 
 Use fibras alinhadas, nós e curvas aninhadas para representar fibras longitudinais da madeira ou anéis de crescimento de corte transversal.
 
@@ -636,7 +636,7 @@ Use fibras alinhadas, nós e curvas aninhadas para representar fibras longitudin
 
 FORMAS VISUAIS · 48
 
-### Estruturas de padrão sem costura
+### Estruturas de padrões sem emendas
 
 <a id="seamless-panel-word-g56-seamless"></a>
 
@@ -644,7 +644,7 @@ FORMAS VISUAIS · 48
 
 #### Arranjos básicos
 
-Compare quatro organizações de superfície repetíveis cujas unidades se posicionam continuamente além de cada borda sem revelar um ponto final finito.
+Compare quatro organizações de superfície repetíveis cujas unidades se repetem continuamente além de todas as bordas, sem revelar um limite final.
 
 <a id="form-pattern-56-0"></a>
 
@@ -664,9 +664,9 @@ Desloque os ícones diagonalmente para criar um ritmo interligado, com alteraç�
 
 <a id="form-pattern-56-2"></a>
 
-![Dispersão grátis — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-2.svg)
+![Dispersão livre — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-2.svg)
 
-##### Dispersão grátis
+##### Dispersão livre
 
 Espalhe ícones em tamanhos e ângulos variados com pontos ou preenchimentos semelhantes para uma repetição descontraída e espontânea.
 
@@ -676,7 +676,7 @@ Espalhe ícones em tamanhos e ângulos variados com pontos ou preenchimentos sem
 
 ##### Estrutura geométrica
 
-Centralize os ícones dentro de diamantes, quadrados arredondados, flores ou outras células geométricas para criar um conjunto decorativo ordenado.
+Centralize ícones dentro de losangos, quadrados arredondados, flores ou outras células geométricas para criar um conjunto decorativo ordenado.
 
 <a id="seamless-panel-word-g57-seamless"></a>
 
@@ -684,7 +684,7 @@ Centralize os ícones dentro de diamantes, quadrados arredondados, flores ou out
 
 #### Grades e deslocamentos repetidos
 
-Compare redes repetidas por formato de grade e deslocamento de linha, mantendo cada unidade compatível com ladrilhos ininterruptos de ponta a ponta.
+Compare malhas de repetição pelo formato da grade e pelo deslocamento das linhas, mantendo cada unidade compatível com uma repetição ininterrupta de borda a borda.
 
 <a id="form-pattern-57-0"></a>
 
@@ -704,9 +704,9 @@ Use espaçamentos horizontais e verticais desiguais para criar um ritmo retangul
 
 <a id="form-pattern-57-2"></a>
 
-![Grade de diamante – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-2.svg)
+![Grade de losangos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-2.svg)
 
-##### Grade de diamante
+##### Grade de losangos
 
 Defina as unidades nos pontos da grade em losango para que a repetição siga cruzando caminhos diagonais.
 
@@ -728,9 +728,9 @@ Desloque cada linha vizinha horizontalmente em meia unidade, unindo a repetiçã
 
 <a id="form-pattern-57-5"></a>
 
-![Meia queda vertical — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-5.svg)
+![Repetição vertical em meio-salto — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-5.svg)
 
-##### Meia queda vertical
+##### Repetição vertical em meio-salto
 
 Desloque as colunas vizinhas verticalmente em meia unidade para enfraquecer as linhas horizontais óbvias.
 
@@ -780,7 +780,7 @@ Vire as unidades acima e abaixo de um eixo horizontal para formar reflexos, pare
 
 ##### Simetria de ponto
 
-Gire uma unidade até a metade de um centro para criar um par posicional com orientação oposta.
+Gire uma unidade meia volta em torno de um centro para criar um par em posições opostas e com orientações contrárias.
 
 <a id="form-pattern-58-3"></a>
 
@@ -804,7 +804,7 @@ Organize seis direções em torno de um centro para produzir um ritmo de pétala
 
 ##### Reflexão deslizante
 
-Espelhe uma unidade e, em seguida, transfira-a ao longo do eixo de reflexão para alternar continuamente dentro de uma banda.
+Espelhe uma unidade e depois faça sua translação ao longo do eixo de reflexão para alterná-la continuamente dentro de uma faixa.
 
 <a id="form-pattern-58-6"></a>
 
@@ -828,23 +828,23 @@ Reflita um setor em vários eixos para gerar um caleidoscópio radial composto.
 
 #### Grades e molduras
 
-Compare redes e contêineres contínuos que atribuem motivos a células repetidas, desde cheques e favos de mel até estruturas geométricas aninhadas.
+Compare malhas e estruturas delimitadoras sem emendas que distribuem motivos em células repetitivas, desde quadriculados e favos até estruturas geométricas encaixadas.
 
 <a id="form-pattern-63-0"></a>
 
-![Tabuleiro de damas – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-0.svg)
+![Quadriculado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-0.svg)
 
-##### Tabuleiro de damas
+##### Quadriculado
 
 Alterne duas cores, texturas ou figuras em células vizinhas para criar um ritmo xadrez nítido.
 
 <a id="form-pattern-63-1"></a>
 
-![Rede de diamante – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-1.svg)
+![Malha de losangos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-1.svg)
 
-##### Treliça de diamante
+##### Malha de losangos
 
-Envolve motivos centrais com células contínuas de diamante, separando a treliça estrutural da sua decoração.
+Cerque os motivos centrais com células contínuas em losango, distinguindo a malha estrutural da decoração.
 
 <a id="form-pattern-63-2"></a>
 
@@ -860,7 +860,7 @@ Junte unidades repetidas através de uma estrutura hexagonal para que os motivos
 
 ##### Malha triangular
 
-Bloco de unidades triangulares invertidas, atribuindo diferentes direções de motivos dentro de células adjacentes.
+Pavimente a área com unidades triangulares invertidas, atribuindo direções diferentes aos motivos em células adjacentes.
 
 <a id="form-pattern-63-4"></a>
 
@@ -868,11 +868,11 @@ Bloco de unidades triangulares invertidas, atribuindo diferentes direções de m
 
 ##### Ladrilhos octogonais
 
-Combine octógonos com pequenos quadrados ou outros preenchimentos para criar células primárias e lacunas.
+Combine octógonos com quadrados pequenos ou outros preenchimentos para criar células principais e células nos espaços intermediários.
 
 <a id="form-pattern-63-5"></a>
 
-![Malha Quatrefoil - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-5.svg)
+![Treliça de quadrifólios — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-5.svg)
 
 ##### Treliça quadrifólio
 
@@ -888,11 +888,11 @@ Sobreponha grupos de arcos para criar uma sequência contínua de portais ou esp
 
 <a id="form-pattern-63-7"></a>
 
-![Ventiladores de vieiras – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-7.svg)
+![Leques em forma de concha — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-7.svg)
 
-##### Ventiladores de vieiras
+##### Leques em forma de concha
 
-Coloque e desloque leques ou arcos em uma estrutura recortada contínua semelhante a escalas.
+Sobreponha e desloque leques ou arcos em uma estrutura festonada contínua semelhante a escamas.
 
 <a id="form-pattern-63-8"></a>
 
@@ -908,7 +908,7 @@ Repita ladrilhos quadrados ou poligonais cujos designs interiores se unem nas bo
 
 #### Conexões e intertravamentos
 
-Compare junções e intertravamentos contínuos cujas linhas ou motivos cruzam os limites dos ladrilhos para formar superfícies ininterruptas tecidas, interligadas ou semelhantes a labirintos.
+Compare conexões e encaixes contínuos cujas linhas ou motivos atravessam os limites dos módulos para formar superfícies ininterruptas entrelaçadas, interligadas ou semelhantes a labirintos.
 
 <a id="form-pattern-64-0"></a>
 
@@ -932,7 +932,7 @@ Anexe unidades ao longo de uma onda periódica para criar um ritmo contínuo de 
 
 ##### Ziguezagues contínuos
 
-Unidades de ligação com uma linha angular ininterrupta que cria movimento em zigue-zague, retorno ou montanha.
+Ligue as unidades com uma linha angular ininterrupta que crie um movimento de zigue-zague, retorno ou montanha.
 
 <a id="form-pattern-64-3"></a>
 
@@ -964,7 +964,7 @@ Amarre contas, pingentes e pequenas figuras ao longo de linhas ou segmentos de c
 
 ##### Travessias tecidas
 
-Tecer duas ou mais faixas uma sobre a outra de acordo com uma regra de cruzamento consistente.
+Entrelace duas ou mais faixas, passando alternadamente por cima e por baixo umas das outras, segundo uma regra consistente de cruzamento.
 
 <a id="form-pattern-64-7"></a>
 
@@ -972,7 +972,7 @@ Tecer duas ou mais faixas uma sobre a outra de acordo com uma regra de cruzament
 
 ##### Rede atada
 
-Conecte uma rede de linhas por meio de nós ou nós, tornando as junções e aberturas parte do padrão.
+Conecte uma rede de linhas por nós ou pontos de conexão, fazendo das junções e aberturas parte do padrão.
 
 <a id="seamless-panel-word-g65-seamless"></a>
 
@@ -1060,7 +1060,7 @@ Encaixe as unidades vizinhas com contornos convexos e côncavos complementares, 
 
 ##### Intertravamento positivo-negativo
 
-Faça a lacuna em uma figura para outra, alternando a forma que se lê como figura ou fundo.
+Faça o vazio de uma figura formar outra, alternando qual forma é lida como figura ou fundo.
 
 <a id="form-pattern-67-2"></a>
 
@@ -1082,7 +1082,7 @@ Preencha o plano com duas ou mais formas de módulos que dividem as funções pr
 
 FORMAS VISUAIS · 22
 
-### Padrões não perfeitos
+### Padrões com emendas
 
 <a id="finite-panel-word-g56-finite"></a>
 
@@ -1150,9 +1150,9 @@ Combine geometria, pétalas e detalhes finos em várias camadas radialmente sim�
 
 <a id="form-pattern-66-4"></a>
 
-![Propagação de fãs - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-66-4.svg)
+![Abertura em leque — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-66-4.svg)
 
-##### Propagação de fãs
+##### Abertura em leque
 
 Abra formas a partir de um ponto base através de um ângulo limitado para criar uma estrutura em leque ou cauda de pavão.
 
@@ -1174,9 +1174,9 @@ Compare estudos de tesselação finitos que deliberadamente transformam ou quebr
 
 <a id="form-pattern-67-4"></a>
 
-![Tesselação de Morphing – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-4.svg)
+![Tesselação em metamorfose — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-4.svg)
 
-##### Morphing mosaico
+##### Tesselação em metamorfose
 
 Transforme gradualmente uma unidade em outra ao longo da imagem, preservando o contato entre vizinhos.
 
@@ -1186,21 +1186,21 @@ Transforme gradualmente uma unidade em outra ao longo da imagem, preservando o c
 
 ##### Ladrilhos quebrados
 
-Remova, gire ou substitua algumas unidades em um bloco ordenado para criar anomalias deliberadas.
+Remova, gire ou substitua algumas unidades de uma pavimentação ordenada para criar anomalias deliberadas.
 
 <a id="finite-panel-word-g70-finite"></a>
 
 <a id="finite-group-word-g70-finite"></a>
 
-#### Fronteiras e crescimento
+#### Bordas e crescimento
 
 Compare bordas delimitadas e crescimento direcional que ocupam arestas, cantos, molduras, faixas ou regiões locais em expansão selecionadas.
 
 <a id="form-pattern-70-0"></a>
 
-![Borda de borda única — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-70-0.svg)
+![Borda em um único lado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-70-0.svg)
 
-##### Borda de borda única
+##### Borda em um único lado
 
 Repita as unidades continuamente ao longo de uma borda para um punho, cós, borda da embalagem ou borda inferior.
 
@@ -1208,9 +1208,9 @@ Repita as unidades continuamente ao longo de uma borda para um punho, cós, bord
 
 ![Bordas emparelhadas — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-70-1.svg)
 
-##### Fronteiras emparelhadas
+##### Bordas emparelhadas
 
-Coloque bordas em dois lados opostos para manter um assunto, texto ou área aberta entre eles.
+Coloque bordas em dois lados opostos para conter um elemento principal, texto ou espaço livre entre elas.
 
 <a id="form-pattern-70-2"></a>
 
@@ -1248,7 +1248,7 @@ Concentre o padrão nas bordas externas e esmaeça-o para dentro para preservar 
 
 <a id="finite-group-word-g71-finite"></a>
 
-#### Posicionamento e layouts limitados
+#### Posicionamento e layouts delimitados
 
 Compare o posicionamento dentro de uma área fixa de produto por meio de motivos centralizados ou deslocados, patches locais, zoneamento, painéis direcionais e layouts projetados.
 
@@ -1274,7 +1274,7 @@ Coloque o padrão principal em um lado ou canto, equilibrando-o com elementos me
 
 ##### Colcha de retalhos local
 
-Aplique o padrão apenas no decote, bolso, área da copa ou outra zona local designada.
+Aplique o padrão apenas no decote, no bolso, em uma parte da superfície da caneca ou em outra área local indicada.
 
 <a id="form-pattern-71-3"></a>
 
@@ -1290,7 +1290,7 @@ Divida a superfície em regiões com diferentes padrões unificados por cor, esc
 
 ##### Layout do painel direcional
 
-Oriente as unidades de acordo com a direção de exibição de um produto ou granulação do tecido para que os motivos permaneçam na posição vertical durante o uso.
+Oriente as unidades conforme a direção de exposição do produto ou o sentido do fio do tecido, para que os motivos permaneçam em pé durante o uso.
 
 <a id="form-pattern-71-5"></a>
 
@@ -1336,6 +1336,6 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-Uma grade de ativos regular não é automaticamente um padrão, e um resultado perfeito reivindicado requer uma verificação separada da saída lado a lado.
+Uma grade regular de recursos não é automaticamente um padrão, e afirmar que o resultado não tem emendas exige verificar separadamente sua repetição lado a lado.
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/background--pattern--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/pattern/background--pattern--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,7 +18,7 @@ Muster: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigeh
 
 <a id="understand"></a>
 
-![Transparenter Hintergrund: Muster: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
+![Transparenter Hintergrund: Muster: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 Kompositionsskizze
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster oder keinen weißen Grund in das Bild und bezeichnen Sie es als transparent; Geben Sie an, dass eine Nachbearbeitung erforderlich ist, wenn das Tool keine Transparenz erzeugen kann.
+Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster und keinen weißen Hintergrund in das Bild, um es dann als transparent zu bezeichnen. Geben Sie an, dass Nachbearbeitung nötig ist, wenn das Werkzeug keine Transparenz erzeugen kann.
 
 [← Zurück zu den Mustern](../pattern.md)
 
@@ -34,9 +34,9 @@ Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster o
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -52,11 +52,11 @@ Behalten Sie Motivwiederholungen oder dekorative Ordnung bei. Wenn der gewählte
 
 **Hintergrund**
 
-Verwenden Sie alle relevanten Paletten, Behandlungen oder erforderlichen Themenhinweise von einem vorhandenen Hintergrund und entfernen Sie dann die Trägerschicht. Halten Sie einen fehlenden Hintergrund transparent, anstatt einen falschen Grund zu malen. Die notwendigen Farben im Inhalt können erhalten bleiben.
+Übernehmen Sie relevante Farbpaletten, Gestaltungsmerkmale oder notwendige thematische Hinweise aus einem vorhandenen Hintergrund und entfernen Sie anschließend die Hintergrundebene. Lassen Sie einen fehlenden Hintergrund transparent, statt einen künstlichen Untergrund hineinzumalen; notwendige Farben innerhalb des Inhalts dürfen erhalten bleiben.
 
 **Textinhalt**
 
-Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie ein kurzes themenbezogenes Wort oder eine Phrase als unterstützendes Motiv. Wenn eine nahtlose Kachelung erforderlich ist, fügen Sie den Wortlaut in die Wiederholungseinheit ein und überprüfen Sie die Rechtschreibung, die Kantenkontinuität und die Lesbarkeit. Andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie eine ausdrückliche Bitte, keinen Text zu senden.
+Behalten Sie eindeutig lesbaren Text aus der Vorlage und dessen Sprache bei und passen Sie die Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Ist kein Text vorgegeben, ergänzen Sie ein kurzes thematisch passendes Wort oder einen Satz als Begleitmotiv. Ist eine nahtlose Kachelung gefordert, nehmen Sie den Text in die Rapporteinheit auf und prüfen Sie Rechtschreibung, Randanschlüsse und Lesbarkeit; andernfalls versprechen Sie keine Nahtlosigkeit. Beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
 **Beibehalten und anpassen**
 
@@ -64,28 +64,28 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster oder keinen weißen Grund in das Bild und bezeichnen Sie es als transparent; Geben Sie an, dass eine Nachbearbeitung erforderlich ist, wenn das Tool keine Transparenz erzeugen kann.
+Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster und keinen weißen Hintergrund in das Bild, um es dann als transparent zu bezeichnen. Geben Sie an, dass Nachbearbeitung nötig ist, wenn das Werkzeug keine Transparenz erzeugen kann.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Einfarbiger Hintergrund: Muster: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+[![Einfarbiger Hintergrund: Muster: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Muster: Eine einheitliche Farbe bildet den Grund; Weiß ist auch ein solider Hintergrund.](background--pattern--solid.md)[![Hintergrund mit Farbverlauf: Muster: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+Muster: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--pattern--solid.md)[![Hintergrund mit Farbverlauf: Muster: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Muster: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--pattern--gradient.md)[![Gemusterter Hintergrund: lokal: Muster: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
+Muster: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--pattern--gradient.md)[![Gemusterter Hintergrund, lokal: Muster: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Muster: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--pattern--pattern-local.md)[![Gemusterter Hintergrund: vollflächig: Muster: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-full-1.svg)
+Muster: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](background--pattern--pattern-local.md)[![Gemusterter Hintergrund: vollflächig: Muster: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
 Muster: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--pattern--pattern-full.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

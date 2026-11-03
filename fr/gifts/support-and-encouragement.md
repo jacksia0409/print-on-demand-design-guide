@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/support-and-encouragement?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/support-and-encouragement?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -16,7 +16,7 @@ Utilisez une photo familière ou un court message personnel pour créer un desig
 
 <a id="courage"></a>
 
-## Construisez le design autour d’une ligne encourageante
+## Construisez le visuel autour d’une phrase encourageante
 
 [Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) donne à une courte phrase encourageante une présence claire et constante.
 
@@ -52,9 +52,9 @@ Disposition des badges circulaires](https://podplo.app/skills/circular-badge-lay
 
 Une photo familière et un court message peuvent créer un design personnel et solidaire.
 
-Une photo familière, une palette de couleurs douces ou un court message client peuvent créer un design favorable à la récupération ou à une période difficile. Il doit proposer des soins sans faire de promesses médicales.
+Une photo familière, une palette douce ou un court message du client peuvent créer un visuel de soutien pendant une convalescence ou une période difficile. Il doit témoigner de l’attention sans faire de promesses médicales.
 
-![Conception confortable et silencieuse avec formulation approuvée](https://podplo.app/pod-guide/generated/gift-comfort.webp)
+![Visuel de réconfort sobre avec texte approuvé](https://podplo.app/pod-guide/generated/gift-comfort.webp)
 
 Exemple
 
@@ -102,6 +102,6 @@ Cadre de nom floral
 
 [![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)

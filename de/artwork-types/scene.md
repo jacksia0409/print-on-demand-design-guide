@@ -6,21 +6,21 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-KUNSTFORMULAR · 03 / 05
+GESTALTUNGSFORM · 03 / 05
 
 # Szenen
 
-Eine Umgebung, ein Moment oder ein gemeinsamer Raum geben den Subjekten einen Kontext. Aktion ist optional.
+Eine Umgebung, ein Moment oder ein gemeinsamer Raum geben den Motiven einen Kontext. Eine Handlung ist optional.
 
 <a id="scene-design"></a>
 
-## Szenenkomposition und Behandlungen
+## Szenenkomposition und Gestaltung
 
 <a id="forms"></a>
 
@@ -48,9 +48,9 @@ Konzentrieren Sie das Bild auf ein Ereignis, das sichtbar im gegenwärtigen Mome
 
 <a id="form-exp-10-0-1"></a>
 
-![Sofortige Aktion – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-0-1.svg)
+![Aktionsmoment – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-0-1.svg)
 
-##### Sofortige Aktion
+##### Aktionsmoment
 
 Erfassen Sie eine entscheidende Pose, z. B. Springen, Umdrehen oder Fangen eines Balls.
 
@@ -72,7 +72,7 @@ Zeigen Sie das Ergebnis durch Überreste, Gesichtsausdrücke oder sichtbare Ver�
 
 <a id="form-exp-10-0-4"></a>
 
-![Alltagsaktivität – visuelles Studium](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-0-4.svg)
+![Alltagsaktivität – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-0-4.svg)
 
 ##### Alltagsaktivität
 
@@ -140,15 +140,15 @@ Lassen Sie die Straße, die Reisegruppe und das Ziel zusammen die Reise definier
 
 ##### Wachstum und Wandel
 
-Verwenden Sie aufeinanderfolgende Phasen des gleichen Themenwechsels als Hauptinhalt.
+Verwenden Sie aufeinanderfolgende Stadien der Veränderung desselben Motivs als Hauptinhalt.
 
 <a id="form-exp-10-0-13"></a>
 
-![Zyklische Routine – visuelles Studium](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-0-13.svg)
+![Zyklische Routine – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-0-13.svg)
 
 ##### Zyklische Routine
 
-Schlagen Sie ein zyklisches Leben durch wiederholte Aktionen oder wiederkehrende Veränderungen in der Umgebung vor.
+Deuten Sie Lebenszyklen durch wiederholte Handlungen oder wiederkehrende Veränderungen der Umgebung an.
 
 <a id="form-exp-10-0-14"></a>
 
@@ -156,7 +156,7 @@ Schlagen Sie ein zyklisches Leben durch wiederholte Aktionen oder wiederkehrende
 
 ##### Ruhige Lage
 
-Beschreiben Sie einen Zustand durch Themen und Umgebung, ohne ein offensichtliches Ereignis darzustellen.
+Stellen Sie durch Motive und Umgebung einen Zustand dar, ohne ein offensichtliches Ereignis zu zeigen.
 
 <a id="form-exp-10-0-15"></a>
 
@@ -180,15 +180,15 @@ Vergleichen Sie alltägliche Umgebungen nach sozialer Nutzung, Objekten, Bewohne
 
 ##### Häuslicher Innenraum
 
-Kombinieren Sie Möbel, Alltagsgegenstände und Charaktere, um eine bewohnbare Inneneinrichtung zu schaffen.
+Kombinieren Sie Möbel, Alltagsgegenstände und Figuren zu einem belebt wirkenden Wohnraum.
 
 <a id="form-exp-10-1-1"></a>
 
-![Desktop-Stillleben – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-1.svg)
+![Schreibtischstillleben – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-1.svg)
 
-##### Desktop-Stillleben
+##### Schreibtischstillleben
 
-Summieren Sie durch Tischgegenstände, Gebrauchsspuren und einen lokalisierten Lichtfleck auf das tägliche Leben.
+Deuten Sie Alltagsleben durch Gegenstände auf einem Tisch, Gebrauchsspuren und einen örtlich begrenzten Lichtfleck an.
 
 <a id="form-exp-10-1-2"></a>
 
@@ -208,7 +208,7 @@ Lassen Sie Werkzeuge, Materialien und sichtbare Arbeitsgesten die Tätigkeit erk
 
 <a id="form-exp-10-1-4"></a>
 
-![Lern- und Leseraum – visuelles Lernen](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-4.svg)
+![Lern- und Leseraum — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-4.svg)
 
 ##### Lern- und Leseraum
 
@@ -218,7 +218,7 @@ Bauen Sie eine Lernumgebung aus Schreibtischen, Bücherregalen oder Klassenzimme
 
 ![Geschäft und Markt – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-5.svg)
 
-##### Einkaufen und vermarkten
+##### Geschäft und Markt
 
 Organisieren Sie Stände, Waren und den Austausch zwischen Menschen in einer Marktszene.
 
@@ -244,7 +244,7 @@ Kombinieren Sie Gebäudefronten, Straßen und Fußgänger, um den städtischen A
 
 ##### Transport und Bahnhof
 
-Stellen Sie Fahrzeuge und Plattformen um Charaktere herum auf, die warten oder sich durch eine Station bewegen.
+Ordnen Sie Fahrzeuge und Bahnsteige um Figuren an, die warten oder sich durch einen Bahnhof bewegen.
 
 <a id="form-exp-10-1-9"></a>
 
@@ -364,7 +364,7 @@ Organisieren Sie die natürliche Umgebung durch Küstenlinien, Wasserströmungen
 
 ##### Küste und Meer
 
-Ermitteln Sie die Küste anhand von Küstenlinienkonturen, Gezeiten, Felsen oder Booten.
+Machen Sie die Küste durch Küstenlinien, Gezeiten, Felsen oder Boote erkennbar.
 
 <a id="form-exp-10-2-5"></a>
 
@@ -460,7 +460,7 @@ Organisieren Sie imaginäres Gelände oder Architektur mit konsistenten internen
 
 #### Zeit und Atmosphäre
 
-Vergleichen Sie dieselbe Szene zu unterschiedlichen Zeiten, Jahreszeiten, Wetterbedingungen, Sichtverhältnissen und atmosphärischen Bedingungen, anstatt das Thema zu wechseln.
+Vergleichen Sie dieselbe Szene zu unterschiedlichen Zeiten, Jahreszeiten, Wetterlagen, Sichtverhältnissen und atmosphärischen Bedingungen, ohne ihr Motiv zu wechseln.
 
 <a id="form-exp-10-3-0"></a>
 
@@ -516,7 +516,7 @@ Kombinieren Sie fallenden Regen, nasse Spuren, Regenschirme und Reflexionen, um 
 
 ##### Verschneite Szene
 
-Nutzen Sie fallenden Schnee, angesammelte Deckung und verdeckte Oberflächen, um den Raum zu verändern.
+Nutzen Sie fallenden Schnee, angesammelte Schneedecken und verdeckte Oberflächen, um den Raum zu verwandeln.
 
 <a id="form-exp-10-3-7"></a>
 
@@ -548,7 +548,7 @@ Zeigen Sie einen Ort im Laufe der Jahreszeiten an, indem Sie Vegetation, Wetter 
 
 VISUELLE FORMEN · 81
 
-### Zusammensetzung
+### Komposition
 
 <a id="scene-composition-panel-word-10-4"></a>
 
@@ -556,7 +556,7 @@ VISUELLE FORMEN · 81
 
 #### Standpunkte
 
-Vergleichen Sie die Kamera- oder Betrachterposition anhand von Höhe, Neigung, Entfernung, Subjektivität, Rahmengeräten, Schnittansichten und mehreren Blickwinkeln.
+Vergleichen Sie Kamera- oder Betrachterpositionen anhand von Höhe, Neigung, Entfernung, subjektiver Sicht, rahmenden Bildelementen, Schnittansichten und mehreren Blickwinkeln.
 
 <a id="form-exp-10-4-0"></a>
 
@@ -568,7 +568,7 @@ Stellen Sie den Blickwinkel in die Nähe der Höhe der Charaktere oder Hauptobje
 
 <a id="form-exp-10-4-1"></a>
 
-![Niedrigwinkelansicht – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-1.svg)
+![Untersicht – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-1.svg)
 
 ##### Low-Angle-Ansicht
 
@@ -586,7 +586,7 @@ Schauen Sie von einer erhöhten Position nach unten, um Beziehungen auf dem Bode
 
 ![Ansicht von oben – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-3.svg)
 
-##### Ansicht von oben nach unten
+##### Draufsicht
 
 Schauen Sie fast gerade nach unten, sodass die flache Raumaufteilung zur Hauptinformation wird.
 
@@ -602,7 +602,7 @@ Betrachten Sie die Szene diagonal von oben und zeigen Sie sowohl die Bodenvertei
 
 ![Ansicht vom Boden aus – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-5.svg)
 
-##### Ansicht vom Erdgeschoss
+##### Ansicht auf Bodenhöhe
 
 Platzieren Sie den Aussichtspunkt auf dem Boden, sodass selbst kleine Objekte groß erscheinen.
 
@@ -684,7 +684,7 @@ Platzieren Sie den Standpunkt zwischen den Charakteren, um ein stärkeres Gefüh
 
 ##### Ansicht auf Oberflächenebene
 
-Stellen Sie den Aussichtspunkt nahe an eine natürliche Oberfläche ein, um die darüber und darunter liegenden Räume hervorzuheben.
+Platzieren Sie den Blickpunkt nahe an einer natürlichen Oberfläche, um die Räume darüber und darunter hervorzuheben.
 
 <a id="form-exp-10-4-16"></a>
 
@@ -706,7 +706,7 @@ Kombinieren Sie verschiedene Blickrichtungen innerhalb einer Szene und machen Si
 
 <a id="scene-composition-group-word-10-5"></a>
 
-#### Rahmenbereich
+#### Bildausschnitt
 
 Vergleichen Sie den Bildausschnitt danach, wie viele Umgebungs- und Motivdetails sichtbar bleiben, von extremen Weitwinkelaufnahmen bis hin zu intimen Nahaufnahmen.
 
@@ -764,7 +764,7 @@ Verwenden Sie einen breiten horizontalen Rahmen, um sowohl die Umgebung als auch
 
 ##### Vertikales Panorama
 
-Verwenden Sie die Höhe, um Böden, ein Tal oder eine Bewegung sichtbar zu machen, die sich vertikal bewegt.
+Nutzen Sie die Höhe, um Etagen, ein Tal oder eine vertikal verlaufende Handlung sichtbar zu machen.
 
 <a id="form-exp-10-5-7"></a>
 
@@ -796,21 +796,21 @@ Definieren Sie die Ansicht mit einem Vordergrundeingang, Ästen oder einer archi
 
 #### Tiefe und Schichten
 
-Vergleichen Sie die räumliche Tiefe durch geschichtete Ebenen, Überlappung, atmosphärische Rezession, Wege, Maßstabsänderungen, Lichtzonen, verschachtelte Öffnungen und vertikale Ebenen.
+Vergleichen Sie räumliche Tiefe anhand von gestaffelten Ebenen, Überlappung, Luftperspektive, Wegen, Größenänderungen, Lichtzonen, verschachtelten Öffnungen und Höhenstufen.
 
 <a id="form-exp-10-6-0"></a>
 
-![Vordergrundmitte und -entfernung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-0.svg)
+![Vordergrund, Mittelgrund und Ferne – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-0.svg)
 
-##### Vordergrundmitte und -entfernung
+##### Vordergrund, Mittelgrund und Ferne
 
 Geben Sie dem Vordergrund, der mittleren Entfernung und der Ferne eigene, erkennbare Inhaltsebenen.
 
 <a id="form-exp-10-6-1"></a>
 
-![Einstufiges Flugzeug – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-1.svg)
+![Einzelne Bühnenebene — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-1.svg)
 
-##### Einstufiges Flugzeug
+##### Einzelne Bühnenebene
 
 Halten Sie die Charaktere hauptsächlich auf einer Ebene, wobei die Umgebung wie eine Theaterkulisse angeordnet ist.
 
@@ -820,7 +820,7 @@ Halten Sie die Charaktere hauptsächlich auf einer Ebene, wobei die Umgebung wie
 
 ##### Vielschichtige Landschaft
 
-Überlagern Sie mehrere Umgebungssilhouetten von vorne nach hinten wie mehrschichtige Bühnenschuhe.
+Staffeln Sie mehrere Umgebungssilhouetten von vorn nach hinten wie flache Bühnenkulissen.
 
 <a id="form-exp-10-6-3"></a>
 
@@ -860,7 +860,7 @@ Reduzieren Sie Details und Kontraste in der Ferne, während nahegelegene Formen 
 
 ##### Lichtzonentiefe
 
-Separate Tiefenebenen mit unterschiedlichen Zonen aus Licht und Dunkelheit.
+Trennen Sie die Tiefenebenen durch deutlich unterschiedliche Licht- und Dunkelzonen.
 
 <a id="form-exp-10-6-8"></a>
 
@@ -1020,15 +1020,15 @@ Beziehen Sie mehrere unabhängige, aber verwandte Aktivitätszentren in einen Ra
 
 ##### Dichte Panorama-Erzählung
 
-Verteilen Sie viele kleine Veranstaltungen auf einen zusammenhängenden Panoramaraum.
+Verteilen Sie viele kleine Ereignisse über einen zusammenhängenden Panoramaraum.
 
 <a id="form-exp-10-7-14"></a>
 
-![Großes Setting, kleine Veranstaltung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-7-14.svg)
+![Weite Umgebung, kleines Ereignis – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-7-14.svg)
 
-##### Großer Rahmen, kleine Veranstaltung
+##### Weite Umgebung, kleines Ereignis
 
-Lassen Sie die Einstellung den größten Teil des Bildes einnehmen, während das Ereignis nur als kleines Detail erscheint.
+Lassen Sie die Umgebung den größten Teil des Bildes einnehmen und das Ereignis nur als kleines Detail erscheinen.
 
 <a id="form-exp-10-7-15"></a>
 
@@ -1082,7 +1082,7 @@ Wiederholen Sie denselben Ort zu unterschiedlichen Zeitpunkten, um Veränderunge
 
 ![Ein Charakter in allen Settings – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-4.svg)
 
-##### Ein Zeichen über alle Einstellungen hinweg
+##### Eine Figur in verschiedenen Umgebungen
 
 Folgen Sie einem Charakter durch verschiedene Umgebungen, um ein längeres Erlebnis zu schaffen.
 
@@ -1096,11 +1096,11 @@ Lassen Sie die Ereignisse sich kontinuierlich über ein ausgedehntes, scrollarti
 
 <a id="form-exp-10-8-6"></a>
 
-![Mehrere Male in einer Szene – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-6.svg)
+![Mehrere Zeitpunkte in einer Szene – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-6.svg)
 
-##### Mehrfach in einer Szene
+##### Mehrere Zeitpunkte in einer Szene
 
-Wiederholen Sie den Charakter innerhalb einer Einstellung, um mehrere verschiedene Momente darzustellen.
+Zeigen Sie dieselbe Figur mehrfach innerhalb einer Umgebung, um verschiedene Zeitpunkte darzustellen.
 
 <a id="form-exp-10-8-7"></a>
 
@@ -1172,7 +1172,7 @@ Vergleichen Sie Szenen, die durch ein umschließendes Objekt, eine Silhouette, e
 
 ##### Miniaturinsel
 
-Platzieren Sie eine komplette Miniaturszene auf einem eigenen Stück Land oder einer schwimmenden Insel.
+Platzieren Sie eine vollständige Miniaturszene auf einem eigenen Stück Land oder einer schwebenden Insel.
 
 <a id="form-exp-10-9-1"></a>
 
@@ -1180,7 +1180,7 @@ Platzieren Sie eine komplette Miniaturszene auf einem eigenen Stück Land oder e
 
 ##### Szene in einer Kiste
 
-Behalten Sie die Szene wie ein Modell in einer Kiste oder einem kubischen Raum bei.
+Fassen Sie die Szene wie ein Modell in einem Kasten oder würfelförmigen Raum ein.
 
 <a id="form-exp-10-9-2"></a>
 
@@ -1208,9 +1208,9 @@ Passen Sie eine komplette Umgebung in ein Objekt wie eine Tasse oder eine Flasch
 
 <a id="form-exp-10-9-5"></a>
 
-![Schnitthaus – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-9-5.svg)
+![Haus in Schnittansicht – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-9-5.svg)
 
-##### Cutaway-Haus
+##### Haus in Schnittansicht
 
 Entfernen Sie Außenwände, um mehrere Räume im selben Haus freizulegen.
 
@@ -1252,9 +1252,9 @@ Bringen Sie einen realistischen Raum und eine erfundene Welt entlang einer expli
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -1266,11 +1266,11 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Organisieren Sie Themen, Umgebung und Raum rund um das ursprüngliche Thema. Das Ergebnis kann ein Ereignis, eine ruhige Umgebung, eine Landschaft oder eine Alltagsvignette sein; Schaffen Sie eine verwandte Umgebung, wenn sie nicht vorhanden sind.
+Ordnen Sie Motive, Schauplatz und Raum um das ursprüngliche Thema an. Das Ergebnis kann ein Ereignis, eine ruhige Umgebung, eine Landschaft oder eine Alltagsvignette sein; schaffen Sie passende Umgebungen, wenn sie fehlen.
 
 **Hintergrund**
 
-Nutzen Sie vorhandene Standort-, Umgebungs- und Atmosphärenmerkmale, um eine kohärente Umgebung zu schaffen. Wenn kein Hintergrund vorhanden ist oder nur eine feste oder transparente Unterlage bereitgestellt wird, erstellen Sie eine entsprechende Umgebung. Ein dekoratives Muster allein darf den wesentlichen Kontext nicht ersetzen.
+Nutzen Sie vorhandene Hinweise auf Ort, Umgebung und Atmosphäre, um einen stimmigen Schauplatz zu entwickeln. Fehlt der Hintergrund oder ist nur ein einfarbiger oder transparenter Hintergrund vorgegeben, schaffen Sie eine passende Umgebung. Ein dekoratives Muster allein darf wesentlichen Kontext nicht ersetzen.
 
 **Textinhalt**
 
@@ -1282,6 +1282,6 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Es besteht kein Handlungsbedarf. Die Dekoration hinter einem isolierten Objekt ohne Kontextbeziehungen ähnelt eher einem subjektorientierten Kunstwerk.
+Eine Handlung ist nicht erforderlich. Dekoration hinter einem isolierten Gegenstand ohne kontextuelle Beziehungen gehört eher zu einer motivbetonten Gestaltung.
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

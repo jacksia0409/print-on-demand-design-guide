@@ -18,9 +18,9 @@
 
 ## जल रंग के फूलों से एक नाम फ्रेम करें
 
-[पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame) एक संतुलित जलरंग पुष्प डिजाइन में एंड्रिया जैसे नाम रखता है।
+[पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame) ANDREA जैसे नाम को संतुलित जलरंग पुष्प डिज़ाइन में रखता है।
 
-[पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame) एक संतुलित जल रंग के पुष्प फ्रेम के अंदर एंड्रिया जैसे नाम रखता है। रिक्ति नाम के अनुसार समायोजित हो जाती है, जिससे हर बार एक ही पुष्प अवधारणा को कस्टम महसूस कराया जाता है।
+[पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame) ANDREA जैसे नाम को संतुलित जलरंग पुष्प फ़्रेम के भीतर रखता है। अंतराल नाम के अनुसार बदलता है, जिससे वही पुष्प अवधारणा हर बार व्यक्तिगत लगती है।
 
 [![पुष्प वैयक्तिकृत नाम फ़्रेम](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
@@ -40,7 +40,7 @@
 
 डायनासोर के नाम का पैटर्न](https://podplo.app/skills/dinosaur-name-pattern)[![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="name-pattern"></a>
 
@@ -50,7 +50,7 @@
 
 [शीर्षक-विषय-उपशीर्षक लेआउट](https://podplo.app/skills/title-subject-subtitle-layout) शीर्षक वाली STAY WILD जैसी एक पंक्ति बनाता है, फिर उसके चारों ओर कलाकृति और वैकल्पिक सहायक पंक्ति को व्यवस्थित करता है। छवि लेआउट प्रदर्शित करती है; यह स्वचालित पाठ प्रतिस्थापन नहीं है.
 
-[![शीर्षक, विषय और सहायक-पंक्ति लेआउट का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![शीर्षक, मुख्य दृश्य तत्व और सहायक पंक्ति के लेआउट का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 शीर्षक-विषय-उपशीर्षक लेआउट
 
@@ -80,7 +80,7 @@
 
 [सर्कुलर बैज लेआउट](https://podplo.app/skills/circular-badge-layout) एक कॉम्पैक्ट स्मारक प्रतीक में एक कलाकृति और तारीख को जोड़ती है।
 
-[सर्कुलर बैज लेआउट](https://podplo.app/skills/circular-badge-layout) ईएसटी जैसे टेक्स्ट को लपेटता है। 2024 या 10.12.2024 एक केंद्रीय कलाकृति के आसपास इसलिए तारीख रचना का हिस्सा बन जाती है। छवि बैज संरचना को प्रदर्शित करती है; यह स्वचालित दिनांक प्रतिस्थापन नहीं है.
+[सर्कुलर बैज लेआउट](https://podplo.app/skills/circular-badge-layout) EST. 2024 या 10.12.2024 जैसे पाठ को केंद्रीय कलाकृति के चारों ओर लपेटता है, ताकि तारीख रचना का हिस्सा बने। चित्र बैज की संरचना समझाता है; यह तारीख का स्वचालित प्रतिस्थापन नहीं है।
 
 [![गोलाकार बैज में व्यवस्थित सटीक शब्दों का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)](https://podplo.app/skills/circular-badge-layout)
 

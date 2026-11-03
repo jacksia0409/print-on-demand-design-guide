@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/art-prints?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/art-prints?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Convierta una imagen en un póster llamativo, un diseño de tipografía e imagen
 
 ### Crea arte para la pared
 
-Las impresiones artísticas pueden presentar un tema destacado, combinar imágenes con tipografía o ampliar un concepto en varias piezas. Una única imagen de declaración; Un diseño editorial de imagen y tipografía; Un conjunto coordinado de dos o tres piezas.
+Las láminas artísticas pueden destacar un motivo principal, combinar imágenes y tipografía o desarrollar un concepto en varias piezas. Una imagen protagonista; una composición editorial de imagen y tipografía; un conjunto coordinado de dos o tres piezas.
 
 [![Pósteres e impresiones artísticas · Wall Art 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100781713611.webp)](https://podplo.app/products/mockup-temu-601100781713611)
 
@@ -32,7 +32,7 @@ Utilice diferentes Skills para convertir la misma imagen en nuevos diseños, ilu
 
 ### Dale a tu obra de arte el tratamiento de cartel
 
-Utilice el Skill seleccionado para combinar la imagen principal y el tipo de soporte en un diseño de póster completo.
+Usa el Skill seleccionado para combinar la imagen principal y la tipografía de apoyo en una composición completa de póster.
 
 [Creador de carteles](https://podplo.app/skills/poster-maker)
 
@@ -46,13 +46,13 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explore más diseños y configure Skills**
+**Explora más Skills de composición y conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore más diseños y configure Skills
+#### Explora más Skills de composición y conjuntos
 
 4 / 14
 
@@ -60,13 +60,13 @@ Vista previa del producto de IA
 
 [![Ejemplo de ilustraciones de patrones sin fisuras](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
-Patrón sin costuras](https://podplo.app/skills/seamless-pattern)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Patrón sin costuras](https://podplo.app/skills/seamless-pattern)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Convierte una foto de pareja en un arte de pared en acuarela
 
@@ -84,13 +84,13 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más fotos e imágenes Skills**
+**Explora más Skills de fotos e imágenes**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explora más fotos e imágenes Skills
+#### Explora más Skills de fotos e imágenes
 
 4 / 97
 
@@ -122,23 +122,23 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más nombre y ocasión Skills**
+**Explora más Skills de nombres y ocasiones**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explora más nombre y ocasión Skills
+#### Explora más Skills de nombres y ocasiones
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Ejemplo de obra de arte con nombre de pata de cuadros de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Ejemplo del nombre con huella de cuadros búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nombre de la pata de cuadros de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de arte del cartel con el nombre del Polo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nombre con huella de cuadros búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de póster del Polo Norte con nombre](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Nombre del Polo Norte Póster](https://podplo.app/skills/north-pole-name-poster)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Póster del Polo Norte con nombre](https://podplo.app/skills/north-pole-name-poster)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Patrón de nombre de corazones de crayón](https://podplo.app/skills/crayon-hearts-name-pattern)[![Ejemplo de diseño artístico del patrón de nombre de dinosaurio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 

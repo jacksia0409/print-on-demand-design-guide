@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Una imagen. Posibilidades infinitas.
 
-Remix tus imágenes y texto con diferentes Skills. Pruebe nuevos diseños y convierta una idea en una variedad de diseños.
+Recombina tus imágenes y tu texto con distintos Skills. Prueba nuevas composiciones y convierte una idea en una variedad de diseños.
 
 <a id="material-is-the-start"></a>
 
@@ -24,17 +24,17 @@ Remix tus imágenes y texto con diferentes Skills. Pruebe nuevos diseños y conv
 
 <a id="opaque-artwork"></a>
 
-[Diseño central compacto](https://podplo.app/skills/compact-center-layout) combina un tema reconocible y una copia en un gráfico centrado en negrita.
+[Diseño central compacto](https://podplo.app/skills/compact-center-layout) combina un motivo reconocible y el texto en un gráfico centrado llamativo.
 
-Comience con una imagen cargada o un activo PodPlo. [Diseño central compacto](https://podplo.app/skills/compact-center-layout) combina el tema y la copia en un gráfico centrado y equilibrado manteniendo la fuente reconocible.
+Comience con una imagen cargada o un activo PodPlo. [Diseño central compacto](https://podplo.app/skills/compact-center-layout) combina el motivo principal y el texto en un gráfico centrado y equilibrado, conservando reconocible el original.
 
 ### Construya un gráfico fuerte y centrado
 
-[Diseño central compacto](https://podplo.app/skills/compact-center-layout) combina un tema y una copia en una forma densa y equilibrada. Una imagen original suelta se convierte en un gráfico fuerte y centrado con un punto focal claro.
+[Diseño central compacto](https://podplo.app/skills/compact-center-layout) combina un motivo principal y el texto en una forma densa y equilibrada. Una imagen de origen dispersa se convierte en un gráfico centrado con un punto focal claro.
 
-### Apila un sujeto alto y cópialo
+### Apila un motivo alto y el texto
 
-[Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout) organiza un tema alto y copia de arriba a abajo en un orden de lectura claro. La composición abierta deja visible el fondo alrededor de la obra de arte.
+[Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout) organiza un motivo alto y el texto de arriba abajo en un orden de lectura claro. La composición abierta deja el fondo visible alrededor de la imagen.
 
 ### Mantenga la escena completa intacta
 
@@ -62,9 +62,9 @@ Diseño central compacto
 
 Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Ejemplo de diseño de insignia circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Ejemplo de diseño de insignia circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -80,13 +80,13 @@ Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout)
 
 ### Comparar un emblema con un diseño abierto
 
-[Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout) encierra la obra de arte y la copia en un emblema completo, mientras que Compact Center Layout crea una forma abierta más densa. La misma fuente puede parecer clásica y contenida o más enérgica e informal.
+[Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout) encierra la imagen y el texto en un emblema completo, mientras que Compact Center Layout crea una forma abierta más densa. El mismo original puede sentirse clásico y contenido o más enérgico e informal.
 
 ![Motivo de fuente única](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Entrada
 
-[![Azulejo de patrones sin fisuras repetible](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Módulo de patrón repetible sin juntas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Patrón sin costuras
 
@@ -102,13 +102,13 @@ Patrón sin costuras
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-changes-the-result"></a>
 
@@ -124,7 +124,7 @@ Desarrolla un personaje o celebración en una colección a juego, con cada gráf
 
 Coloque el gráfico seleccionado en una escena de producto simple para ver cómo lo afectan el color, la forma del objeto y el entorno. El mismo diseño puede parecer atrevido, discreto, divertido o nostálgico en diferentes entornos.
 
-![Un tema fuente antes de la generación establecida](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18-before.webp)
+![Un tema de origen antes de generar el conjunto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18-before.webp)
 
 Entrada
 
@@ -142,11 +142,11 @@ Paquete de pegatinas y imágenes prediseñadas
 
 <a id="_R_5mrk_-cards"></a>
 
-[![Ejemplo de arte del generador de cuadrícula 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+[![Ejemplo del generador de cuadrícula de 4 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-Generador de rejilla de 4 piezas](https://podplo.app/skills/four-piece-grid)[![Ejemplo de ilustración del generador de cuadrícula de 6 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
+Generador de cuadrícula de 4 piezas](https://podplo.app/skills/four-piece-grid)[![Ejemplo de ilustración del generador de cuadrícula de 6 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
 
-Generador de rejilla de 6 piezas](https://podplo.app/skills/six-piece-grid)
+Generador de cuadrícula de 6 piezas](https://podplo.app/skills/six-piece-grid)
 
 <a id="repeatable-combination-workflow"></a>
 
@@ -172,7 +172,7 @@ Ejemplo
 
 <a id="_R_5ork_-cards"></a>
 
-[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-distort?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-distort?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -28,21 +28,21 @@ WIE MAN ES ERKENNT
 
 Dadurch verändert sich die Objektform und nicht nur die Position. Wenn die Objektidentität vollständig verloren geht, bewerten Sie das Ergebnis stattdessen als abstraktes Kunstwerk.
 
-Die Behandlung konzentriert sich auf ein Thema oder eine identifizierbare Gruppe.
+Die Gestaltung funktioniert um ein Einzelmotiv oder eine erkennbare Gruppe herum.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Themenorientiert → Gemeinsame Themenbehandlung → Übertriebene Proportionen
+Motiv im Mittelpunkt → Gemeinsame Motivgestaltung → Übertriebene Proportionen
 
 **Eingabe und Ausgabe**
 
@@ -50,7 +50,7 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Wählen Sie markante oder ausdrucksstarke Teile aus und ändern Sie bewusst deren relative Proportionen. Koordinieren Sie bei mehreren Probanden die Behandlung und bewahren Sie dabei erkennbare, identifizierende Hinweise.
+Wählen Sie markante oder ausdrucksstarke Teile aus und verändern Sie bewusst ihre relativen Proportionen. Stimmen Sie bei mehreren Motiven die Gestaltung aufeinander ab und bewahren Sie ihre charakteristischen Erkennungsmerkmale.
 
 **Hintergrund**
 
@@ -70,13 +70,13 @@ Dadurch verändert sich die Objektform und nicht nur die Position. Wenn die Obje
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Erkennbare Grundform: Das Thema hat eine vertraute, lesbare Form, die als Referenz für andere Behandlungen dient.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
+[![Erkennbare Grundform: Das Motiv hat eine vertraute, klar erkennbare Form, die als Ausgangspunkt für andere Gestaltungsweisen dient.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
 
 ### Erkennbare Grundform↗
 
-Das Thema hat eine vertraute, lesbare Form, die als Referenz für andere Behandlungen dient.](transformation--transform-original.md)[![Geometrische Vereinfachung: Einfache geometrische Formen beschreiben die wesentlichen Merkmale eines identifizierbaren Objekts.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-geometry-1.svg)
+Das Motiv besitzt eine vertraute, klar erkennbare Form, die als Referenz für andere Gestaltungen dient.](transformation--transform-original.md)[![Geometrische Vereinfachung: Einfache geometrische Formen beschreiben die wesentlichen Merkmale eines identifizierbaren Objekts.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-geometry-1.svg)
 
 ### Geometrische Vereinfachung↗
 
@@ -90,4 +90,4 @@ Eine kleine Anzahl von Linien behält die wesentlichen Konturen des Motivs bei.]
 
 Aus wenigen Farbflächen wird ein erkennbares Motiv rekonstruiert.](transformation--transform-blocks.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

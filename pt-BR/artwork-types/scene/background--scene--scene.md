@@ -12,13 +12,13 @@
 
 Cenas / DIREÇÃO CRIATIVA / Cenas
 
-# Contexto ambiental
+# Cenário ao fundo
 
 Cenas: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.
 
 <a id="understand"></a>
 
-![Contexto ambiental: Cenas: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
+![Cenário ao fundo: Cenas: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
 
 Ilustração da composição
 
@@ -26,7 +26,7 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Nas categorias de elemento principal, padrão, textura ou abstração, o cenário permanece secundário. Reavalie a imagem como uma cena se o ambiente ou a narrativa se tornar a expressão principal.
 
 [← Voltar às cenas](../scene.md)
 
@@ -48,11 +48,11 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Preserve o espaço essencial da cena, o cenário e qualquer evento existente. Mude o terreno atrás dele, a camada do céu ou o suporte ao redor, em vez de remover o contexto que o torna uma cena.
+Preserve o espaço essencial da cena, seu cenário e qualquer acontecimento existente. Mude o fundo atrás dela, a camada do céu ou o fundo ao redor, em vez de remover o contexto que a torna uma cena.
 
 **Fundo**
 
-Referenciar a localização, os elementos ambientais e a atmosfera existentes, adaptando-os ao conteúdo principal. Se ausente ou apenas simples ou transparente, crie uma configuração relacionada e coordene escala, direção e profundidade.
+Use a localização, os elementos ambientais e a atmosfera existentes como referência, adaptando-os ao conteúdo principal. Se estiverem ausentes, ou se o fundo for apenas liso ou transparente, crie um cenário relacionado e coordene escala, direção e profundidade.
 
 **Texto**
 
@@ -64,27 +64,27 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Nas categorias de elemento principal, padrão, textura ou abstração, o cenário permanece secundário. Reavalie a imagem como uma cena se o ambiente ou a narrativa se tornar a expressão principal.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Cenas: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![Fundo transparente: cenas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Cenas: O chão fica transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--scene--transparent.md)[![Fundo sólido: Cenas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Cenas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--scene--transparent.md)[![Fundo sólido: Cenas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### Fundo sólido↗
 
-Cenas: Uma cor uniforme forma o solo; o branco também é um fundo sólido.](background--scene--solid.md)[![Fundo gradiente: Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Cenas: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--scene--solid.md)[![Fundo gradiente: Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--scene--gradient.md)[![Fundo padronizado: local: Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--scene--gradient.md)[![Fundo estampado: local: Cenas: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
 Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--scene--pattern-local.md)
 

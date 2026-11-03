@@ -10,9 +10,9 @@
 
 <a id="guide-main"></a>
 
-# Ornamentos e protetores solares
+# Enfeites e captadores de luz
 
-Transforme um retrato de animal de estimação, foto de casal, nome ou data em um design de enfeite de Natal.
+Transforme um retrato de pet, uma foto de casal, um nome ou uma data em um design de enfeite para uma data comemorativa.
 
 <a id="product-overview"></a>
 
@@ -20,9 +20,9 @@ Transforme um retrato de animal de estimação, foto de casal, nome ou data em u
 
 ### Mantenha o design focado
 
-Os enfeites funcionam melhor com um tema claro, um gráfico simples de feriado ou um nome e ano curtos. Um animal de estimação ou pessoa como assunto principal; Um ícone simples de feriado; Um nome e ano integrados no design.
+Enfeites funcionam melhor com um elemento principal bem definido, uma arte festiva simples ou um nome e ano curtos. Um animal ou pessoa como elemento principal; um ícone festivo simples; um nome e ano integrados ao design.
 
-[![Ornamentos e protetores solares · Ornamento acrílico](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
+[![Enfeites e captadores de luz · Enfeite de acrílico](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
 <a id="product-create"></a>
 
@@ -46,13 +46,13 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 1 / 1
 
@@ -62,38 +62,38 @@ Visualização do produto de IA
 
 Retrato de família em vitral](https://podplo.app/skills/stained-glass-family-portrait)
 
-### Adicione detalhes de Natal ao tema original
+### Adicione detalhes de Natal ao elemento principal original
 
-Adicione um pequeno conjunto de elementos festivos, preservando o tema original.
+Adicione um pequeno conjunto de elementos festivos, preservando o elemento principal original.
 
-[Faça do Natal](https://podplo.app/skills/make-it-christmas)
+[Deixe em clima de Natal](https://podplo.app/skills/make-it-christmas)
 
-![Faça do Natal · Imagem fonte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
+![Deixe em clima de Natal · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 Imagem de origem
 
-[![Make It Christmas · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
+[![Deixe em clima de Natal · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
 Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
-### Visualize-o com decoração natalina
+### Visualize com decoração festiva
 
 A visualização da IA coloca o design entre luzes, galhos e outras decorações festivas.
 
-- Use um assunto claro
+- Use um elemento principal bem-definido
 
 - Mantenha o nome curto e fácil de ler
 
 - Uma paleta simples se destaca na decoração detalhada do feriado
 
-[![Ornamentos e protetores solares · Ornamento acrílico](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
+[![Enfeites e captadores de luz · Enfeite de acrílico](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
-[![Enfeites e protetores solares · Memorial Tag 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)](https://podplo.app/products/mockup-temu-605893919926956)
+[![Enfeites e captadores de luz · Placa de lembrança 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)](https://podplo.app/products/mockup-temu-605893919926956)

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/gratitude?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/gratitude?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -42,7 +42,7 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration Sil
 
 Créateur de silhouettes](https://podplo.app/skills/silhouette-maker)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 
@@ -54,7 +54,7 @@ Un nom, un rôle, un sujet ou un court message confère à un design de remercie
 
 Un nom, un rôle, une équipe, un sujet ou un court message peuvent personnaliser un design compact de remerciement pour un enseignant, un coach, un mentor, un collègue ou une équipe soignante. Le détail spécifique l’empêche de paraître générique.
 
-[![Conception d'appréciation compacte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![Visuel de remerciement compact](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
 Disposition centrale compacte
 
@@ -86,7 +86,7 @@ Disposition des badges circulaires](https://podplo.app/skills/circular-badge-lay
 
 [Créateur d'affiches](https://podplo.app/skills/poster-maker) combine une photo de groupe, des dates, le nom du projet et un message signé dans une seule affiche d'adieu. Une hiérarchie claire donne à chaque personne et aux détails partagés suffisamment d'espace.
 
-![Photo d'équipe approuvée et copie d'adieu](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
+![Photo d’équipe et texte d’adieu approuvés](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
 Entrée
 

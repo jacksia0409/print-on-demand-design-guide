@@ -12,15 +12,15 @@
 
 # Apoio e incentivo
 
-Use uma foto familiar ou uma mensagem pessoal curta para criar um design inteligente para um momento difícil ou um novo começo.
+Use uma foto familiar ou uma mensagem pessoal curta para criar um design atencioso para um momento difícil ou um novo começo.
 
 <a id="courage"></a>
 
-## Construa o design em torno de uma linha encorajadora
+## Crie o design em torno de uma frase de incentivo
 
 [Layout central compacto](https://podplo.app/skills/compact-center-layout) dá a uma frase curta e encorajadora uma presença clara e constante.
 
-Use uma frase que o destinatário já valorize para um exame, desafio ou novo começo. [Layout central compacto](https://podplo.app/skills/compact-center-layout) dá à linha uma presença clara e constante, sem transformá-la em uma promessa sobre o resultado.
+Use uma frase que o destinatário já valorize para um exame, desafio ou novo começo. [Layout central compacto](https://podplo.app/skills/compact-center-layout) dá à frase uma presença clara e constante, sem transformá-la em promessa sobre o resultado.
 
 [![Arte compacta de incentivo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
@@ -40,9 +40,9 @@ Layout central compacto
 
 Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -52,9 +52,9 @@ Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
 Uma foto familiar e uma mensagem curta podem criar um design pessoal e de apoio.
 
-Uma foto familiar, uma paleta de cores suaves ou uma mensagem curta para o cliente podem criar um design de apoio para a recuperação ou um período difícil. Deve oferecer cuidados sem fazer promessas médicas.
+Uma foto familiar, uma paleta de cores suaves ou uma mensagem curta do cliente podem criar um design de apoio à recuperação ou a um período difícil. Ele deve transmitir cuidado sem fazer promessas médicas.
 
-![Design de conforto silencioso com texto aprovado](https://podplo.app/pod-guide/generated/gift-comfort.webp)
+![Design discreto de acolhimento com texto aprovado](https://podplo.app/pod-guide/generated/gift-comfort.webp)
 
 Exemplo
 
@@ -102,6 +102,6 @@ Moldura floral com nome
 
 [![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)
