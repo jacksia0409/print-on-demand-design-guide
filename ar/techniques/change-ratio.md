@@ -44,9 +44,9 @@
 
 [![تفاصيل إصلاح العمل الفني مثال](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-إصلاح التفاصيل](https://podplo.app/skills/detail-repair)[![مثال على العمل الفني الراقي عالي الدقة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+إصلاح التفاصيل](https://podplo.app/skills/detail-repair)[![مثال عمل فني لرفع الدقة إلى HD](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-عالية الدقة](https://podplo.app/skills/hd-upscale)[![مثال على العمل الفني لمزيل الخلفية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+رفع الدقة إلى HD](https://podplo.app/skills/hd-upscale)[![مثال على العمل الفني لمزيل الخلفية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 مزيل الخلفية](https://podplo.app/skills/background-remover)
 
@@ -54,7 +54,7 @@
 
 ## إعادة بناء التخطيط لشكل جديد
 
-[صانع الملصقات](https://podplo.app/skills/poster-maker) يعيد ترتيب نفس العمل الفني وينسخه للحصول على شكل قماشي جديد.
+[صانع الملصقات](https://podplo.app/skills/poster-maker) يعيد ترتيب العمل الفني والنص نفسيهما ليناسبا شكلًا جديدًا لمساحة الرسم.
 
 [صانع الملصقات](https://podplo.app/skills/poster-maker) يعيد وضع العنوان والعنصر والخط الداعم لشكل جديد بدلاً من اقتصاص الصورة القديمة ببساطة. يظل النص والعنصر كما هو بينما يتغير التسلسل الهرمي.
 
@@ -82,7 +82,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 
@@ -90,15 +90,15 @@
 
 ## إعادة صياغة التصميم كشعار مدمج
 
-[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يحول العمل الفني الفضفاض والنسخ إلى شعار نظيف ومضغوط.
+[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يحوّل العمل الفني والنص المتناثرين إلى شعار واضح ومدمج.
 
-[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع عنصرًا وينسخه في تركيبة شفافة مدمجة بدلاً من إضافة المزيد من المناظر. يصبح التصميم الواسع أو الفضفاض بمثابة رسم واضح يشبه الشعار.
+[تخطيط مركز مدمج](https://podplo.app/skills/compact-center-layout) يجمع العنصر الرئيسي والنص في تكوين مدمج بخلفية شفافة بدلًا من إضافة مزيد من المناظر. يصبح التصميم الواسع أو غير المتماسك رسمًا واضحًا يشبه الشعار.
 
 ![العمل الفني والصياغة قبل تخطيط الملابس](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
 الإدخال
 
-[![تكوين الملابس المدمجة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![تكوين متماسك لتصاميم الملابس](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
 تخطيط مركز مدمج
 
@@ -118,7 +118,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 

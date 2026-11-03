@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/stickers?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/stickers?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,9 +20,9 @@
 
 ### Маленький формат, большая индивидуальность
 
-Используйте четкий символ, жирный шрифт или группу связанных изображений, которые могут работать отдельно или в комплекте. Талисман с ясным выражением лица; Короткая фраза реакции; Небольшой набор связанных иконок.
+Используйте узнаваемого персонажа, выразительный символ или группу связанных изображений, которые могут работать отдельно или в наборе. Маскот с чётким выражением лица; короткая фраза-реакция; небольшой набор связанных значков.
 
-![Наклейки и этикетки · пустой визуальный продукт](https://podplo.app/pod-guide/generated/stickers-blank.webp)
+![Наклейки и этикетки · Изображение товара без рисунка](https://podplo.app/pod-guide/generated/stickers-blank.webp)
 
 <a id="product-create"></a>
 
@@ -40,7 +40,7 @@
 
 Исходное изображение
 
-[![Набор наклеек и клипартов · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)](https://podplo.app/skills/sticker-clipart-pack)
+[![Набор наклеек и клипарта · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)](https://podplo.app/skills/sticker-clipart-pack)
 
 Созданное произведение искусства
 
@@ -48,37 +48,37 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Изучите больше макета и установите Skills**
+**Изучите другие Skill для композиций и наборов**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Изучите больше макета и установите Skills
+#### Изучите другие Skill для композиций и наборов
 
 4 / 10
 
 <a id="_R_bf3k_-cards"></a>
 
-[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)
 
-### Создайте наклейку с цветочным именем
+### Создайте наклейку с именем и цветами
 
 Поместите имя в цветочную рамку, чтобы получилось небольшое персонализированное изображение.
 
 [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)
 
-АНДРЕА
+ANDREA
 
 Имя
 
-[![Цветочная рамка для имени · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![Цветочная рамка для имени · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 Созданное произведение искусства
 
@@ -86,25 +86,25 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Узнайте больше об имени и случае Skills**
+**Изучите другие Skill для имён и особых поводов**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Узнайте больше об имени и случае Skills
+#### Изучите другие Skill для имён и особых поводов
 
 4 / 10
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример изображения плаката с названием Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример именного постера Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Плакат с названием Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример изображения узора в виде сердечек из карандашей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Именной постер Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример узора с именем и сердечками, нарисованными мелками](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Образец имени в виде сердечек из карандашей](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Узор с именем и сердечками, нарисованными мелками](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
@@ -114,7 +114,7 @@
 
 Используйте предварительный просмотр AI, чтобы увидеть тот же дизайн на бутылке, ноутбуке или блокноте.
 
-- Жирный контур помогает определить характер
+- Выразительный контур помогает выделить персонажа
 
 - Набор наклеек дает клиентам больше возможностей для оформления графики.
 

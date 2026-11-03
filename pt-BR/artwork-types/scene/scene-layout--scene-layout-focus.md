@@ -26,7 +26,7 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-Não remova o ambiente até que reste apenas um objeto isolado. A simetria exata e a colocação de cada figura no centro são desnecessárias.
+Não elimine o ambiente a ponto de sobrar apenas um objeto isolado. Simetria exata e posicionar todas as figuras no centro são desnecessários.
 
 [← Voltar às cenas](../scene.md)
 
@@ -64,57 +64,57 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-Não remova o ambiente até que reste apenas um objeto isolado. A simetria exata e a colocação de cada figura no centro são desnecessárias.
+Não elimine o ambiente a ponto de sobrar apenas um objeto isolado. Simetria exata e posicionar todas as figuras no centro são desnecessários.
 
 <a id="backgrounds"></a>
 
 ## Explorar o plano de fundo
 
-Esses exemplos comparam motivos dentro da mesma família de conteúdo. Manter a composição atual ao aplicar um tratamento; abra um exemplo para obter instruções completas.
+Esses exemplos comparam fundos dentro da mesma família de conteúdo. Preserve a composição atual ao aplicar um tratamento visual; abra um exemplo para ver as instruções completas.
 
-[![Fundo transparente: Cenas: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![Fundo transparente: cenas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Cenas: O chão fica transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--scene--transparent.md)[![Fundo sólido: Cenas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Cenas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--scene--transparent.md)[![Fundo sólido: Cenas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### Fundo sólido↗
 
-Cenas: Uma cor uniforme forma o solo; o branco também é um fundo sólido.](background--scene--solid.md)[![Fundo gradiente: Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Cenas: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--scene--solid.md)[![Fundo gradiente: Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--scene--gradient.md)[![Fundo padronizado: local: Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--scene--gradient.md)[![Fundo estampado: local: Cenas: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--scene--pattern-local.md)[![Fundo padronizado: área completa: Cenas: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-full-1.svg)
+Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--scene--pattern-local.md)[![Fundo estampado: área completa: Cenas: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
 Cenas: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--scene--pattern-full.md)[![Plano de fundo texturizado: Cenas: granulação do papel, partículas ou outro caráter de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--texture-1.svg)
 
 ### Fundo texturizado↗
 
-Cenas: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--scene--texture.md)[![Contexto ambiental: Cenas: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
+Cenas: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--scene--texture.md)[![Cenário ao fundo: Cenas: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
 
-### Contexto ambiental↗
+### Cenário ao fundo↗
 
 Cenas: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](background--scene--scene.md)
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
 [![Cena horizontal: O ambiente se estende pela imagem com uma direção de leitura horizontal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-panorama-1.svg)
 
 ### Cena horizontal↗
 
-O ambiente se estende pela imagem com uma direção de leitura horizontal.](scene-layout--scene-layout-panorama.md)[![Camadas de profundidade: primeiro plano, meio termo e distância criam uma sensação legível de espaço.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-depth-1.svg)
+O ambiente se estende pela imagem com uma direção de leitura horizontal.](scene-layout--scene-layout-panorama.md)[![Camadas de profundidade: Primeiro plano, plano intermediário e distância criam uma sensação clara de espaço.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-depth-1.svg)
 
 ### Camadas de profundidade↗
 
-Primeiro plano, meio termo e distância criam uma sensação legível de espaço.](scene-layout--scene-layout-depth.md)[![Close contextual: uma parte recortada de uma cena mantém relações suficientes para sugerir seu contexto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-close-1.svg)
+Primeiro plano, plano intermediário e distância criam uma sensação clara de espaço.](scene-layout--scene-layout-depth.md)[![Close contextual: uma parte recortada de uma cena mantém relações suficientes para sugerir seu contexto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-close-1.svg)
 
 ### Close contextual↗
 

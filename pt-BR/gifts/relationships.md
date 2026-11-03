@@ -38,9 +38,9 @@ Moldura floral com nome
 
 [![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="people-and-history"></a>
 

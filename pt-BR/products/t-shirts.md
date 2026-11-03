@@ -60,9 +60,9 @@ Detalhes simples. Muita personalidade.
 
 Transforme flores, animais ou formas geométricas em um padrão repetitivo que cubra toda a camisa.
 
-![Um padrão floral perfeito para impressão completa](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+![Um padrão floral sem emendas para impressão em toda a superfície](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
-#### [Padrões perfeitos](#tshirt-pattern-route)
+#### [Padrões sem emendas](#tshirt-pattern-route)
 
 Comece com um único motivo. Repita em toda a camisa.
 
@@ -80,7 +80,7 @@ Maquetes de produtos gerados por IA.
 
 <a id="artwork-transparent"></a>
 
-## Faça você mesmo
+## Personalize do seu jeito
 
 Combine suas fotos, gráficos e texto. Veja o que você pode fazer.
 
@@ -94,9 +94,9 @@ Use Skills diferentes para remixar a mesma imagem e texto. Explore novos layouts
 
 Arte original
 
-[![Título–assunto–subtítulo · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Título–Elemento principal–Subtítulo · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-[Título-assunto-subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+[Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 Empilhe o título, as rosas e o subtítulo para obter um layout claro de cima para baixo.
 
@@ -104,7 +104,7 @@ Empilhe o título, as rosas e o subtítulo para obter um layout claro de cima pa
 
 [Gráfico centralizado](https://podplo.app/skills/compact-center-layout)
 
-Combine as rosas e o texto em um único gráfico em negrito.
+Combine as rosas e o texto em uma única arte marcante.
 
 [![Crachá circular · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-circular-badge.webp)](https://podplo.app/skills/circular-badge-layout)
 
@@ -112,7 +112,7 @@ Combine as rosas e o texto em um único gráfico em negrito.
 
 Curve o texto ao redor das rosas para criar um emblema.
 
-Três layouts gerados por IA, todos usando a mesma arte rosa.
+Três layouts gerados por IA, todos usando a mesma arte de rosa.
 
 **Explorar mais layouts**
 
@@ -168,11 +168,11 @@ Transforme a foto de um animal de estimação em um retrato e adicione uma frase
 
 <a id="_R_df3k_-cards"></a>
 
-[![Exemplo engraçado de arte de desenho animado Big-Belly](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
+[![Exemplo de arte de desenho divertido de barriga grande](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
 
-Desenho engraçado de barriga grande](https://podplo.app/skills/funny-big-belly-cartoon)[![Exemplo de arte de retrato de animal de estimação real](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
+Desenho engraçado de barriga grande](https://podplo.app/skills/funny-big-belly-cartoon)[![Exemplo de arte de retrato de pet da realeza](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
 
-Retrato de animal de estimação real](https://podplo.app/skills/royal-pet-portrait)[![Exemplo de arte de retrato de casal 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
+Retrato de pet da realeza](https://podplo.app/skills/royal-pet-portrait)[![Exemplo de arte de retrato de casal 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
 
 Retrato de casal 3D](https://podplo.app/skills/3d-couple-portrait)[![Exemplo de arte de enfeite de casal de Natal](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607648296616502-after.webp)
 
@@ -194,7 +194,7 @@ Transforme uma foto favorita de vocês dois em um retrato de personagem 3D, comp
 
 [Retrato de casal 3D](https://podplo.app/skills/3d-couple-portrait)
 
-Charlie
+CHARLIE
 
 Nome
 
@@ -210,7 +210,7 @@ Em uma camiseta
 
 Coloque o nome deles no centro de um desenho de Natal. Experimente molduras florais ou letras divertidas para uma ocasião diferente.
 
-[Póster Nome do Pólo Norte](https://podplo.app/skills/north-pole-name-poster)
+[Pôster de nome do Polo Norte](https://podplo.app/skills/north-pole-name-poster)
 
 **Mais maneiras de torná-lo pessoal**
 
@@ -222,9 +222,9 @@ Coloque o nome deles no centro de um desenho de Natal. Experimente molduras flor
 
 <a id="_R_ef3k_-cards"></a>
 
-[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte do padrão de nome Crayon Hearts](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de padrão de nome com corações em giz de cera](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Padrão de nome de corações de giz de cera](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -244,23 +244,23 @@ Arte
 
 ### Projeto pequeno. Grande personalidade.
 
-Transforme uma foto de gato em um gráfico simples de estilo bordado com o Bordado Sketch. Algumas linhas e blocos de cores podem capturar bastante personalidade.
+Transforme uma foto de gato em uma arte simples no estilo de bordado com o Embroidery Sketch. Algumas linhas e blocos de cor podem transmitir muita personalidade.
 
 [Esboço de bordado](https://podplo.app/skills/embroidery-sketch)
 
 <a id="tshirt-pattern-route"></a>
 
-![Fonte de padrão sem costura](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Imagem de origem de padrão sem emendas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Entrada
 
-[![Resultado de arte padrão sem costura](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Resultado de arte de padrão sem emendas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Arte
 
 ### Transforme um único motivo em um padrão
 
-Use Padrão Sem Costura para transformar flores, animais ou formas geométricas em uma repetição. Experimente espaçamentos e arranjos diferentes para mudar a aparência.
+Use Padrão sem emendas para transformar flores, animais ou formas geométricas em uma repetição. Experimente espaçamentos e arranjos diferentes para mudar o visual.
 
 [Padrão sem emendas](https://podplo.app/skills/seamless-pattern)
 
@@ -280,11 +280,11 @@ As imagens das camisetas são maquetes geradas por IA.
 
 ## Veja em uma camiseta
 
-Visualize seu trabalho artístico em uma camiseta ou modelo em branco. Experimente diferentes cores e configurações de camisa para encontrar o visual que você gosta.
+Visualize sua arte em uma camiseta lisa ou em uma pessoa vestindo a peça. Experimente diferentes cores de camiseta e cenários para encontrar o visual que você gosta.
 
 Maquetes geradas por IA.
 
-[Procure modelos de camisetas](https://podplo.app/products/mockup-zazzle-256566384936571224)
+[Explorar mockups de camisetas](https://podplo.app/products/mockup-zazzle-256566384936571224)
 
 ![Arte finalizada da camiseta do Golden Retriever](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
 

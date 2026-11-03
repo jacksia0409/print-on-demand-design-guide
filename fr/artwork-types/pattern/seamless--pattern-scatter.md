@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/seamless--pattern-scatter?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/pattern/seamless--pattern-scatter?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,9 +26,9 @@ COMMENT LE RECONNAÎTRE
 
 ## Qu'est-ce qui définit cette direction
 
-La dispersion décrit l'organisation à l'intérieur de la tuile, et non l'absence de structure. Remplir une image au hasard ne la rend pas transparente.
+La dispersion décrit l’organisation à l’intérieur de la tuile, pas l’absence de structure. Remplir une image au hasard ne crée pas de raccords invisibles.
 
-[← Retour aux modèles](../pattern.md)
+[← Retour aux motifs](../pattern.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Utilisez-le avec une image ou demandez à l'IA de réécrire votre invite d'imag
 
 **Orientation souhaitée**
 
-Motifs → Répétitions harmonieuses → Répétition dispersée
+Motifs → Répétitions à raccords invisibles → Répétition dispersée
 
 **Entrée et sortie**
 
@@ -48,15 +48,15 @@ Si une image est fournie, adaptez-la à cette orientation. Si un prompt est four
 
 **Structure souhaitée**
 
-Organisez librement la position, l'échelle et la rotation du motif à l'intérieur d'un carreau répété, en évitant une grille évidente. Gérez les motifs à bords croisés afin que l'unité complète puisse continuer périodiquement.
+Disposez librement les motifs dans une tuile de répétition en variant leur position, leur échelle et leur rotation, sans grille évidente. Traitez les motifs qui traversent les bords de façon à ce que la tuile complète puisse se répéter périodiquement.
 
 **Arrière-plan**
 
-Palette et motifs d'arrière-plan de référence, en concevant l'arrière-plan et le premier plan à l'intérieur de la même unité de répétition. En cas d'absence, créez une couleur de base associée ou un support qui peut continuer périodiquement. Reconstruisez un arrière-plan source qui ne correspond pas plutôt que de réclamer automatiquement les vignettes d'image complètes.
+Prenez pour référence la palette et les motifs d’arrière-plan en concevant fond et premier plan dans la même unité de répétition. S’ils sont absents, créez une couleur de base apparentée ou un fond pouvant se répéter périodiquement. Reconstruisez un fond source incompatible plutôt que d’affirmer que l’image complète se répète automatiquement sans raccord.
 
 **Texte**
 
-Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez un court mot ou une phrase liée au thème comme motif de support. Lorsqu'un carrelage homogène est requis, incluez le libellé dans l'unité de répétition et vérifiez l'orthographe, la continuité des bords et la lisibilité ; sinon, ne promettez pas la transparence. Respectez une demande explicite d’absence de texte.
+Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un court mot ou une courte phrase liés au thème comme motif secondaire. Si une répétition à raccords invisibles est nécessaire, intégrez le texte dans l’unité de répétition et vérifiez l’orthographe, la continuité aux bords et la lisibilité ; sinon, ne promettez pas de raccords invisibles. Respectez toute demande explicite de ne pas inclure de texte.
 
 **Préserver et adapter**
 
@@ -64,31 +64,31 @@ Conservez le thème central et les caractéristiques permettant de reconnaître 
 
 **Portée et limites**
 
-La dispersion décrit l'organisation à l'intérieur de la tuile, et non l'absence de structure. Remplir une image au hasard ne la rend pas transparente.
+La dispersion décrit l’organisation à l’intérieur de la tuile, pas l’absence de structure. Remplir une image au hasard ne crée pas de raccords invisibles.
 
 **Vérification du résultat**
 
-Testez les dispositions horizontales, verticales et à quatre carreaux pour vérifier les coutures, le rythme et la continuité des couleurs de base. Ne revendiquez pas une transparence vérifiée sans vérification ou lorsque l’outil ne peut pas la garantir.
+Testez les assemblages horizontaux, verticaux et de quatre modules pour vérifier les raccords, le rythme et la continuité de la couleur de fond. N’affirmez pas que les raccords invisibles ont été vérifiés sans les contrôler ou lorsque l’outil ne peut pas les garantir.
 
-[Modèle sans couture ouvert Skill ↗](https://podplo.app/generate?skill=seamless-pattern)
+[Ouvrir le Skill de motifs à raccords invisibles ↗](https://podplo.app/generate?skill=seamless-pattern)
 
-Bascule vers ce Skill et conserve vos images d'invite et de référence existantes.
+Passe à ce Skill et conserve votre prompt et vos images de référence existants.
 
 <a id="backgrounds"></a>
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
-[![Fond transparent : Motifs : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
+[![Fond transparent : motifs : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Fond transparent↗
 
-Motifs : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--pattern--transparent.md)[![Fond uni : Motifs : Une couleur uniforme forme le sol ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+Motifs : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--pattern--transparent.md)[![Fond uni : motifs : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
-Motifs : une couleur uniforme forme le sol ; le blanc est également un fond uni.](background--pattern--solid.md)[![Fond dégradé : Motifs : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+Motifs : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](background--pattern--solid.md)[![Fond dégradé : Motifs : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 ### Fond dégradé↗
 
@@ -104,15 +104,15 @@ Motifs : un fond à motifs recouvre l'image derrière un contenu de premier pla
 
 ### Fond texturé↗
 
-Motifs : le grain du papier, les particules ou tout autre caractère de surface prennent en charge le contenu du premier plan.](background--pattern--texture.md)[![Contexte environnemental : Modèles : Un environnement lié à un thème prend en charge le contenu principal derrière ou autour de lui.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
+Motifs : le grain du papier, les particules ou tout autre caractère de surface prennent en charge le contenu du premier plan.](background--pattern--texture.md)[![Décor d’arrière-plan : motifs : un environnement lié au thème soutient le contenu principal, derrière ou autour de celui-ci.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
 
 ### Contexte environnemental↗
 
-Modèles : un environnement lié à un thème prend en charge le contenu principal derrière ou autour de lui.](background--pattern--scene.md)
+Motifs : un environnement lié au thème soutient le contenu principal, derrière ou autour de lui.](background--pattern--scene.md)
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Répétition droite : une unité répétée s'aligne en lignes et en colonnes sur une surface.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-seamless--pattern-grid-1.svg)
 

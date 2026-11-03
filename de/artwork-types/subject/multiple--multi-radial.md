@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/multiple--multi-radial?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/multiple--multi-radial?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Motivorientierte Gestaltung / GESTALTUNGSRICHTUNG
 
-# Themen um ein Zentrum
+# Motive um einen Mittelpunkt
 
-Mehrere Fächer bilden eine endliche kreisförmige oder radiale Gruppe.
+Mehrere Motive bilden eine begrenzte kreisförmige oder radiale Gruppe.
 
 <a id="understand"></a>
 
-![Fächer um einen Mittelpunkt: Mehrere Fächer bilden eine endliche Kreis- oder Strahlengruppe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-radial-1.svg)
+![Motive um einen Mittelpunkt: Mehrere Motive bilden eine begrenzte kreisförmige oder radiale Gruppe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-radial-1.svg)
 
 Kompositionsskizze
 
@@ -28,19 +28,19 @@ WIE MAN ES ERKENNT
 
 Sorgen Sie dafür, dass die Objekte unabhängig voneinander erkennbar sind. Wenn wiederholte kleine Motive hauptsächlich eine dekorative Verzierung ergeben, verwenden Sie stattdessen die radiale Musterrichtung.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Betreffgesteuert → Mehrere Betreffzeilen → Betreffzeilen um ein Zentrum
+Motiv im Mittelpunkt → Mehrere Motive → Motive um einen Mittelpunkt
 
 **Eingabe und Ausgabe**
 
@@ -48,7 +48,7 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Ordnen Sie verwandte Themen um ein gemeinsames Zentrum an und koordinieren Sie dabei ihre Ausrichtung, Größe und Abstände. Die Mitte kann offen bleiben oder einen Leitgegenstand oder unterstützende Worte enthalten.
+Ordnen Sie verwandte Motive um eine gemeinsame Mitte an und stimmen Sie Ausrichtung, Größe und Abstände aufeinander ab. Die Mitte kann frei bleiben oder ein Hauptobjekt oder ergänzenden Text enthalten.
 
 **Hintergrund**
 
@@ -70,25 +70,25 @@ Sorgen Sie dafür, dass die Objekte unabhängig voneinander erkennbar sind. Wenn
 
 ## Erkunden Sie den Hintergrund
 
-Diese Beispiele vergleichen Gründe innerhalb derselben Inhaltsfamilie. Behalten Sie die aktuelle Zusammensetzung bei, wenn Sie eine Behandlung anwenden. Öffnen Sie ein Beispiel für die vollständige Anleitung.
+Diese Beispiele vergleichen Hintergründe innerhalb derselben Inhaltsgruppe. Bewahren Sie beim Anwenden einer Gestaltung die aktuelle Komposition; öffnen Sie ein Beispiel, um die vollständige Anleitung zu lesen.
 
-[![Transparenter Hintergrund: Mehrere Motive: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Transparenter Hintergrund: Mehrere Motive: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Mehrere Motive: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--multiple--transparent.md)[![Einfarbiger Hintergrund: Mehrere Motive: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Mehrere Motive: Der Hintergrund bleibt transparent; das Schachbrettmuster ist nur eine Anzeigehilfe.](background--multiple--transparent.md)[![Einfarbiger Hintergrund: Mehrere Motive: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Mehrere Motive: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--multiple--solid.md)[![Hintergrund mit Farbverlauf: Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+Mehrere Motive: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--multiple--solid.md)[![Hintergrund mit Farbverlauf: Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--multiple--gradient.md)[![Gemusterter Hintergrund: lokal: Mehrere Motive: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--multiple--gradient.md)[![Gemusterter Hintergrund, lokal: Mehrere Motive: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Mehrere Motive: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--multiple--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Mehrere Motive: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
+Mehrere Motive: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](background--multiple--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Mehrere Motive: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
@@ -96,32 +96,32 @@ Mehrere Motive: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich les
 
 ### Strukturierter Hintergrund↗
 
-Mehrere Motive: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--multiple--texture.md)[![Umgebungshintergrund: Mehrere Themen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
+Mehrere Motive: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--multiple--texture.md)[![Umgebungshintergrund: Mehrere Motive: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
 
-### Umwelthintergrund↗
+### Umgebungshintergrund↗
 
-Mehrere Themen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--multiple--scene.md)
+Mehrere Motive: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](background--multiple--scene.md)
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Nebeneinander liegende Motive: Mehrere erkennbare Motive werden horizontal angeordnet und gemeinsam dargestellt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-parallel-1.svg)
 
-### Nebeneinander liegende Themen↗
+### Motive nebeneinander↗
 
-Mehrere erkennbare Motive werden horizontal angeordnet und gemeinsam dargestellt.](multiple--multi-parallel.md)[![Primäre und unterstützende Subjekte: Ein Subjekt leitet die Komposition, während andere Objekte sie unterstützen.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-dominant-1.svg)
+Mehrere erkennbare Motive werden horizontal angeordnet und gemeinsam dargestellt.](multiple--multi-parallel.md)[![Haupt- und Nebenmotive: Ein Motiv bestimmt die Komposition; andere Gegenstände unterstützen es.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-dominant-1.svg)
 
-### Haupt- und Nebenfächer↗
+### Haupt- und Nebenmotive↗
 
-Ein Subjekt leitet die Komposition, während andere Objekte sie unterstützen.](multiple--multi-dominant.md)[![Vertikale Gruppierung: Mehrere Themen bilden eine Komposition, die von oben nach unten gelesen wird.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-stack-1.svg)
+Ein Motiv bestimmt die Komposition; andere Gegenstände unterstützen es.](multiple--multi-dominant.md)[![Vertikale Gruppierung: Mehrere Motive bilden eine Komposition, deren Leseführung von oben nach unten verläuft.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-stack-1.svg)
 
 ### Vertikale Gruppierung↗
 
-Mehrere Themen bilden eine Komposition, die sich von oben nach unten liest.](multiple--multi-stack.md)[![Symmetrische Gruppierung: Die Motive korrespondieren entlang einer Achse, um eine ausgewogene Komposition zu schaffen.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-symmetric-1.svg)
+Mehrere Motive bilden eine Komposition, deren Leseführung von oben nach unten verläuft.](multiple--multi-stack.md)[![Symmetrische Gruppierung: Die Motive entsprechen einander beiderseits einer Achse und bilden so eine ausgewogene Komposition.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-symmetric-1.svg)
 
 ### Symmetrische Gruppierung↗
 
 Die Motive korrespondieren über eine Achse hinweg, um eine ausgewogene Komposition zu schaffen.](multiple--multi-symmetric.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

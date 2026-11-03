@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--single--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/background--single--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Themengesteuert / KREATIVE RICHTUNG / einzelnes Thema
+Motiv im Mittelpunkt / GESTALTUNGSRICHTUNG / Einzelmotiv
 
 # Gemusterter Hintergrund: lokal
 
-Einzelnes Motiv: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.
+Einzelmotiv: Eine dekorative Fläche liegt hinter dem Inhalt; außerhalb dieser Fläche bleibt ein Bereich frei.
 
 <a id="understand"></a>
 
-![Gemusterter Hintergrund: lokal: Einzelnes Motiv: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
+![Gemusterter Hintergrund, lokal: Einzelmotiv: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
 
 Kompositionsskizze
 
@@ -26,21 +26,21 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Betreffgesteuert → Einzelnes Betreff → Hintergrund → Gemusterter Hintergrund: lokal
+Motiv im Mittelpunkt → Einzelmotiv → Hintergrund → Gemusterter Hintergrund: lokal
 
 **Eingabe und Ausgabe**
 
@@ -48,11 +48,11 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Behalten Sie ein zusammenhängendes Schwerpunktthema bei. Wenn mehrere unabhängige Objekte vorhanden sind, wählen Sie das Hauptthema oder organisieren Sie ein klares, einheitliches visuelles Ganzes.
+Bewahren Sie ein in sich stimmiges Hauptmotiv. Sind mehrere unabhängige Objekte vorhanden, wählen Sie das Hauptmotiv aus oder ordnen Sie sie zu einem klar zusammengehörigen visuellen Ganzen.
 
 **Hintergrund**
 
-Verwenden Sie Hintergrundelemente, Behandlung und Palette als Referenzen und reorganisieren Sie sie in einen lokalen dekorativen Hintergrund. Wenn keine vorhanden ist oder die Quelle nur einen glatten oder transparenten Grund hat, erstellen Sie verwandte Motive. Behalten Sie die Transparenz, die ursprüngliche Grundfarbe oder einen explizit gewünschten Grund außerhalb des Pflasters bei.
+Verwenden Sie Hintergrundelemente, Gestaltung und Farbpalette als Referenzen und ordnen Sie diese zu einer örtlich begrenzten dekorativen Hintergrundfläche neu an. Ist keine vorhanden oder hat die Vorlage nur einen einfarbigen oder transparenten Hintergrund, schaffen Sie passende Motive. Bewahren Sie außerhalb der Fläche die Transparenz, ursprüngliche Grundfarbe oder einen ausdrücklich gewünschten Hintergrund.
 
 **Textinhalt**
 
@@ -64,21 +64,21 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Transparenter Hintergrund: Einzelnes Motiv: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
+[![Transparenter Hintergrund: Einzelmotiv: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Einzelmotiv: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--single--transparent.md)[![Einfarbiger Hintergrund: Einzelnes Motiv: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+Einzelmotiv: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--single--transparent.md)[![Einfarbiger Hintergrund: Einzelmotiv: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Einzelmotiv: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--single--solid.md)[![Hintergrund mit Farbverlauf: Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+Einzelmotiv: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--single--solid.md)[![Hintergrund mit Farbverlauf: Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
@@ -88,4 +88,4 @@ Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helli
 
 Einzelnes Motiv: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--single--pattern-full.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

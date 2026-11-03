@@ -48,9 +48,9 @@ Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte 
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte de reparo detalhado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte do Reparo de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparo Detalhado](https://podplo.app/skills/detail-repair)
+Reparo de detalhes](https://podplo.app/skills/detail-repair)
 
 <a id="templates"></a>
 
@@ -76,17 +76,17 @@ Padrão de nome de dinossauro
 
 [![Exemplo de arte com moldura de nome floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-Moldura floral com nome](https://podplo.app/skills/floral-name-frame)[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Moldura floral com nome](https://podplo.app/skills/floral-name-frame)[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="proofing"></a>
 
 ## Crie um cartão memorial pessoal
 
-[Cartão comemorativo fotográfico](https://podplo.app/skills/photo-memorial-card) combina uma foto escolhida, nome, datas e mensagem em um design memorial.
+[Cartão fotográfico em memória](https://podplo.app/skills/photo-memorial-card) combina uma foto escolhida, nome, datas e mensagem em um design memorial.
 
-[Cartão comemorativo fotográfico](https://podplo.app/skills/photo-memorial-card) combina uma foto escolhida com o nome, datas e mensagem da pessoa em um design memorial discreto. Mantém a pessoa e os detalhes biográficos inalterados.
+[Cartão fotográfico em memória](https://podplo.app/skills/photo-memorial-card) combina uma foto escolhida com o nome, datas e mensagem da pessoa em um design memorial discreto. Mantém a pessoa e os detalhes biográficos inalterados.
 
 ![Fotografia memorial aprovada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606669413176818-before.webp)
 
@@ -94,7 +94,7 @@ Entrada
 
 [![Arte do cartão memorial com texto exato](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606669413176818-after.webp)](https://podplo.app/skills/photo-memorial-card)
 
-Cartão comemorativo fotográfico
+Cartão fotográfico em memória
 
 **Mais Skills para explorar**
 
@@ -150,6 +150,6 @@ Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte 
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte de reparo detalhado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Removedor de fundo](https://podplo.app/skills/background-remover)[![Exemplo de arte do Reparo de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparo Detalhado](https://podplo.app/skills/detail-repair)
+Reparo de detalhes](https://podplo.app/skills/detail-repair)

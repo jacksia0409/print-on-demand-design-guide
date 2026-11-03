@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/make-pod-artwork?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/make-pod-artwork?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 

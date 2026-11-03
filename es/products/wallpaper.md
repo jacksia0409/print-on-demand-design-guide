@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/wallpaper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/wallpaper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Fondo de pantalla
+# Papel pintado
 
 Convierta un motivo en una pequeña repetición de fondo, un patrón llamativo grande o un diseño de papel tapiz direccional.
 
@@ -22,7 +22,7 @@ Convierta un motivo en una pequeña repetición de fondo, un patrón llamativo g
 
 Los motivos pequeños y densos crean un fondo sutil, los motivos más grandes y espaciados se destacan en la pared y las repeticiones verticales o diagonales guían la vista a través de la habitación. Una pequeña repetición para un fondo sutil; Un motivo grande y espaciado para una pared llamativa; Una repetición vertical o diagonal.
 
-![Fondo de pantalla · imagen de producto en blanco](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
+![Papel pintado · Imagen de producto en blanco](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
 
 <a id="product-create"></a>
 
@@ -44,9 +44,9 @@ Imagen fuente
 
 Obra de arte generada
 
-![Papel tapiz · Patrón sin costuras · Vista previa del producto AI](https://podplo.app/pod-guide/generated/wallpaper-seamless-pattern-proof.webp)
+![Papel pintado · Patrón sin juntas · Previsualización de producto con IA](https://podplo.app/pod-guide/generated/wallpaper-seamless-pattern-proof.webp)
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
 <a id="product-mockup"></a>
 
@@ -62,4 +62,4 @@ Utilice la vista previa de la sala de IA para comparar una repetición pequeña,
 
 - Las repeticiones direccionales pueden cambiar la altura o el ancho de la habitación.
 
-![Fondo de pantalla · Prueba de producto AI](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
+![Papel pintado · Prueba visual de producto con IA](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)

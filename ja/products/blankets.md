@@ -18,7 +18,7 @@
 
 ## この商品のデザインアイデア
 
-### 毛布を丸ごと使いましょう
+### ブランケットの全面を使う
 
 特大の画像を 1 つ選択するか、全体をリピートするか、複数の写真を 1 つの構成にまとめたコラージュを選択します。大きな肖像画 1 枚。全面的に繰り返します。関連写真のコラージュ。
 
@@ -48,11 +48,11 @@
 
 AI 製品のプレビュー
 
-**さらにレイアウトを調べて Skills を設定します**
+**レイアウトやセット作成のSkillをもっと見る**
 
 <a id="_R_bf3k_-title"></a>
 
-#### さらにレイアウトを調べて Skills を設定します
+#### レイアウトやセット作成のSkillをもっと見る
 
 4 / 14
 
@@ -64,9 +64,9 @@ AI 製品のプレビュー
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### 家族の写真をブランケットアートに変える
 
@@ -86,11 +86,11 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**写真と画像をもっと見る Skills**
+**写真や画像向けのSkillをもっと見る**
 
 <a id="_R_bn3k_-title"></a>
 
-#### 写真と画像をもっと見る Skills
+#### 写真や画像向けのSkillをもっと見る
 
 4 / 97
 
@@ -106,13 +106,13 @@ AI 製品のプレビュー
 
 モノクロスタンプ](https://podplo.app/skills/monochrome-stamp)
 
-### 大きな花の名前デザインを作成します。
+### 花で名前を彩る大きなデザインを作る
 
 名前を中心にして、ブランケットの花のフレームをスケールします。
 
 [花のネームフレーム](https://podplo.app/skills/floral-name-frame)
 
-アンドレア
+ANDREA
 
 名前
 
@@ -124,19 +124,19 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**名前と機会をさらに詳しく見る Skills**
+**名前やイベント向けのSkillをもっと見る**
 
 <a id="_R_bv3k_-title"></a>
 
-#### 名前と機会をさらに詳しく見る Skills
+#### 名前やイベント向けのSkillをもっと見る
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 北極名ポスター](https://podplo.app/skills/north-pole-name-poster)[![クレヨンハートネームパターンアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 

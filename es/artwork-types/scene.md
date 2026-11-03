@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-FORMULARIO DE OBRA · 03 / 05
+FORMA DE LA IMAGEN · 03 / 05
 
 # Escenas
 
@@ -140,7 +140,7 @@ Haga que la carretera, el grupo de viaje y el destino definan juntos el viaje.
 
 ##### Crecimiento y cambio
 
-Utilice etapas sucesivas del cambio del mismo tema como contenido principal.
+Usa como contenido principal etapas sucesivas de la transformación de un mismo motivo.
 
 <a id="form-exp-10-0-13"></a>
 
@@ -460,7 +460,7 @@ Organice terrenos o arquitectura imaginarios con reglas espaciales internas cons
 
 #### Tiempo y atmósfera
 
-Compare la misma escena en diferentes momentos, estaciones, clima, visibilidad y condiciones atmosféricas en lugar de cambiar de tema.
+Compara la misma escena en distintos momentos, estaciones, condiciones meteorológicas, de visibilidad y de atmósfera, sin cambiar su motivo principal.
 
 <a id="form-exp-10-3-0"></a>
 
@@ -604,7 +604,7 @@ Vea la escena en diagonal desde arriba, mostrando tanto la distribución del sue
 
 ##### Vista a nivel del suelo
 
-Coloque el mirador contra el suelo para que incluso los objetos pequeños parezcan altos.
+Sitúa el punto de vista a ras de suelo para que incluso los objetos pequeños parezcan altos.
 
 <a id="form-exp-10-4-6"></a>
 
@@ -674,7 +674,7 @@ Observe el evento desde la distancia para que su actividad se lea dentro del ent
 
 ![Participante cercano: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-14.svg)
 
-##### Cerrar participante
+##### Participante cercano
 
 Coloque el punto de vista entre los personajes para crear un mayor sentido de participación.
 
@@ -800,17 +800,17 @@ Compare la profundidad espacial a través de planos en capas, superposiciones, r
 
 <a id="form-exp-10-6-0"></a>
 
-![Primer plano medio y distancia: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-0.svg)
+![Primer plano, plano medio y fondo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-0.svg)
 
-##### Primer plano medio y distancia
+##### Primer plano, plano medio y fondo
 
 Dale al primer plano, a la distancia media y a la distancia lejana sus propias capas de contenido reconocibles.
 
 <a id="form-exp-10-6-1"></a>
 
-![Plano de una sola etapa: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-1.svg)
+![Plano único de escena: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-1.svg)
 
-##### Avión de una sola etapa
+##### Plano único de escena
 
 Mantenga a los personajes principalmente en un plano con el entorno dispuesto como un escenario teatral.
 
@@ -820,7 +820,7 @@ Mantenga a los personajes principalmente en un plano con el entorno dispuesto co
 
 ##### paisaje en capas
 
-Superponga varias siluetas ambientales de adelante hacia atrás como pisos de escenario en capas.
+Superpón varias siluetas del entorno de delante hacia atrás, como bastidores de escenografía en capas.
 
 <a id="form-exp-10-6-3"></a>
 
@@ -896,9 +896,9 @@ Organiza el espacio en niveles sucesivos que van hacia arriba y hacia abajo.
 
 <a id="form-exp-10-6-12"></a>
 
-![Codirectores cercanos y lejanos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-12.svg)
+![Protagonismo compartido entre cerca y lejos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-12.svg)
 
-##### Co-líderes cercanos y lejanos
+##### Protagonismo compartido entre cerca y lejos
 
 Deje que un personaje cercano y un punto de referencia distante compartan la misma importancia temática.
 
@@ -1026,7 +1026,7 @@ Distribuya muchos eventos pequeños en un espacio panorámico continuo.
 
 ![Evento pequeño en un entorno grande: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-7-14.svg)
 
-##### Gran evento pequeño
+##### Entorno grande y acontecimiento pequeño
 
 Deja que el escenario ocupe la mayor parte de la imagen mientras el evento aparece como un pequeño detalle.
 
@@ -1082,23 +1082,23 @@ Repita el mismo lugar en diferentes momentos para revelar cambios con el tiempo.
 
 ![Un personaje en todos los escenarios: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-4.svg)
 
-##### Un personaje en todas las configuraciones
+##### Un personaje en distintos escenarios
 
 Sigue a un personaje a través de diferentes entornos para conectar una experiencia más larga.
 
 <a id="form-exp-10-8-5"></a>
 
-![Narrativa de desplazamiento continuo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-5.svg)
+![Narrativa de pergamino continuo: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-5.svg)
 
-##### Narrativa de desplazamiento continuo
+##### Narrativa de pergamino continuo
 
-Deje que los eventos se desarrollen continuamente a lo largo de una imagen extendida en forma de desplazamiento.
+Deja que los acontecimientos se desarrollen de forma continua en una imagen alargada como un pergamino.
 
 <a id="form-exp-10-8-6"></a>
 
-![Varias veces en una escena: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-6.svg)
+![Varios momentos en una escena: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-6.svg)
 
-##### Varias veces en una escena
+##### Varios momentos en una escena
 
 Repite el personaje dentro de un escenario para representar varios momentos diferentes.
 
@@ -1208,9 +1208,9 @@ Adaptar un ambiente completo dentro de un objeto como una taza o una botella.
 
 <a id="form-exp-10-9-5"></a>
 
-![Casa cortada - estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-9-5.svg)
+![Casa en sección: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-9-5.svg)
 
-##### casa cortada
+##### Casa en sección
 
 Retire las paredes exteriores para revelar varias habitaciones dentro de la misma casa.
 
@@ -1250,11 +1250,11 @@ Reúna un espacio realista y un mundo inventado a lo largo de un límite explíc
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -1266,7 +1266,7 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Organice los temas, el entorno y el espacio en torno al tema original. El resultado puede ser un acontecimiento, un entorno tranquilo, un paisaje o una viñeta cotidiana; crear entornos relacionados si están ausentes.
+Organiza los motivos principales, el entorno y el espacio alrededor del tema original. El resultado puede ser un acontecimiento, un entorno tranquilo, un paisaje o una escena cotidiana; crea un entorno relacionado si falta.
 
 **Fondo**
 
@@ -1284,4 +1284,4 @@ Conserva el tema central y los rasgos que permiten reconocer el original. Usa su
 
 No se requiere acción. La decoración detrás de un objeto aislado sin relaciones contextuales se acerca más a una obra de arte dirigida por un sujeto.
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

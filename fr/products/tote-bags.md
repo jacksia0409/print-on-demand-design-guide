@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/tote-bags?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/tote-bags?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Sacs fourre-tout
 
-Utilisez le devant d'un fourre-tout pour un graphique centré en gras, un message court ou un motif répété.
+Utilisez le devant d’un sac fourre-tout pour un visuel centré affirmé, un message court ou un motif répétitif.
 
 <a id="product-overview"></a>
 
@@ -20,7 +20,7 @@ Utilisez le devant d'un fourre-tout pour un graphique centré en gras, un messag
 
 ### Un design que les gens peuvent transporter
 
-Des illustrations centrées, de grandes lettres et des groupes compacts de motifs s'adaptent tous au large panneau avant du fourre-tout. Un graphique centré en gras ; Un message court et lisible ; Un groupe d'objets d'un thème.
+Les visuels centrés, les grands lettrages et les groupes compacts de motifs conviennent au large panneau avant du cabas. Un graphisme affirmé et centré ; un message court et lisible ; un groupe d’objets autour d’un même thème.
 
 [![Sacs fourre-tout · Sac fourre-tout](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-149520694559925464.webp)](https://podplo.app/products/mockup-zazzle-149520694559925464)
 
@@ -30,7 +30,7 @@ Des illustrations centrées, de grandes lettres et des groupes compacts de motif
 
 Utilisez différents Skills pour transformer la même image en de nouvelles mises en page, des illustrations basées sur des photos et des designs personnalisés.
 
-### Créer un graphique fourre-tout centré
+### Créer un graphisme centré pour cabas
 
 Combinez l'image principale et un court message dans une mise en page compacte pour le devant du sac.
 
@@ -46,19 +46,19 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de mise en page et définissez Skills**
+**Explorez davantage de Skills de mise en page et de création d’ensembles**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explorez plus de mise en page et définissez Skills
+#### Explorez davantage de Skills de mise en page et de création d’ensembles
 
 4 / 14
 
 <a id="_R_bf3k_-cards"></a>
 
-[![Exemple d'illustration de modèle sans couture](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+[![Exemple de visuel « Motif à raccords invisibles »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 Motif sans raccord visible](https://podplo.app/skills/seamless-pattern)[![Exemple d'illustration de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
@@ -84,13 +84,13 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de photos et d'images Skills**
+**Explorez davantage de Skills photo et image**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explorez plus de photos et d'images Skills
+#### Explorez davantage de Skills photo et image
 
 4 / 97
 
@@ -102,7 +102,7 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration Sil
 
 Créateur de silhouettes](https://podplo.app/skills/silhouette-maker)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 
@@ -110,25 +110,25 @@ Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 
 Associez le nom d’un animal de compagnie à une patte à carreaux rouge et noir et à un cœur.
 
-[Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)
+[Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 Bellan
 
 Nom
 
-[![Nom de la patte à carreaux de buffle · Illustration générée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)](https://podplo.app/skills/buffalo-plaid-paw-name)
+[![Prénom sur empreinte de patte à grands carreaux · Visuel généré](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Découvrez plus de noms et d'occasions Skills**
+**Découvrez davantage de Skills pour les noms et les occasions**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Découvrez plus de noms et d'occasions Skills
+#### Découvrez davantage de Skills pour les noms et les occasions
 
 4 / 19
 
@@ -136,13 +136,13 @@ Aperçu du produit IA
 
 [![Exemple d'illustration d'affiche de nom du pôle Nord](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Nom du pôle Nord Poster](https://podplo.app/skills/north-pole-name-poster)[![Exemple d'illustration de motif de nom de crayon coeurs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Affiche du pôle Nord avec prénom](https://podplo.app/skills/north-pole-name-poster)[![Exemple de visuel « Motif de cœurs au crayon avec prénom »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Modèle de nom de coeurs de crayon](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Motif de cœurs au crayon avec prénom](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple d'illustration de motif de nom de gnome de Noël](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607445124489843-artwork.webp)
 
-Modèle de nom de gnome de Noël](https://podplo.app/skills/christmas-gnome-name-pattern)
+Motif de lutins de Noël avec prénom](https://podplo.app/skills/christmas-gnome-name-pattern)
 
 <a id="product-mockup"></a>
 

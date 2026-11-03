@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Créer avec Skills
+# Créer avec les Skills
 
-Remix une mise en page, ajoutez un nom ou créez une version vacances. Découvrez ce que vous pouvez faire avec vos images et Skills.
+Remixez une mise en page, ajoutez un prénom ou créez une version festive. Découvrez ce que vous pouvez faire avec vos images et les Skills.
 
 ## Transformez une photo préférée en art
 
@@ -40,7 +40,7 @@ Portrait à l'aquarelle
 
 Portrait d’animal de compagnie à l’aquarelle douce](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Exemple d'illustration Naive Marker Portrait](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
 
-Portrait de marqueur naïf](https://podplo.app/skills/naive-marker-portrait)[![Exemple d'illustration de disposition de badge circulaire](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Portrait naïf au feutre](https://podplo.app/skills/naive-marker-portrait)[![Exemple d'illustration de disposition de badge circulaire](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Disposition des badges circulaires](https://podplo.app/skills/circular-badge-layout)[![Exemple d'illustration de cadre de nom floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -50,9 +50,9 @@ Cadre de nom floral](https://podplo.app/skills/floral-name-frame)
 
 [![Disposition centrale compacte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**Une image. Des possibilités infinies.**](techniques/compose-anything.md)[![Faites-en Noël](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+**Une image. Des possibilités infinies.**](techniques/compose-anything.md)[![Une touche de Noël](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**Donnez à votre design une touche de vacances**](techniques/holiday-versions.md)[![Peinture intelligente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**Donnez à votre visuel une touche de fête**](techniques/holiday-versions.md)[![Extension d’image intelligente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
 **Faites sortir votre image du cadre**](techniques/change-ratio.md)[![Générateur de grille 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 

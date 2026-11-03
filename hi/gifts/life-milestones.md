@@ -16,13 +16,13 @@
 
 <a id="birth-and-age"></a>
 
-## मील के पत्थर का विवरण प्रदर्शित करें
+## महत्वपूर्ण उपलब्धि के विवरण उभारें
 
 एक नाम, दिनांक, आयु, या जन्म विवरण एक साझा लेआउट को एक मील के पत्थर के लिए विशिष्ट बनाता है।
 
-जन्म का समय, मील का पत्थर की उम्र, या उम्र के आने की तारीख व्यक्ति के नाम के आगे डिज़ाइन को तय कर सकती है। ये विशिष्ट विवरण कलाकृति को उस घटना और व्यक्ति के लिए व्यक्तिगत बनाते हैं।
+जन्म का समय, जीवन के किसी खास पड़ाव की उम्र या वयस्क होने की तारीख को व्यक्ति के नाम के साथ डिज़ाइन का आधार बनाया जा सकता है। ये खास विवरण कलाकृति को उस व्यक्ति और अवसर से जोड़ते हैं।
 
-[![वैयक्तिकृत मील का पत्थर नाम फ़्रेम](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![खास पड़ाव के लिए वैयक्तिकृत नाम-फ़्रेम](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 पुष्प नाम फ़्रेम
 
@@ -40,7 +40,7 @@
 
 डायनासोर के नाम का पैटर्न](https://podplo.app/skills/dinosaur-name-pattern)[![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="school-and-work"></a>
 
@@ -82,11 +82,11 @@
 
 सेवानिवृत्ति और गृहप्रवेश डिज़ाइन में वर्ष, स्थान, भूमिकाएँ, पते, फ़ोटो और एक व्यक्तिगत पंक्ति शामिल हो सकती है। [पोस्टर निर्माता](https://podplo.app/skills/poster-maker) उन तत्वों को एक स्पष्ट स्मारक पोस्टर में व्यवस्थित करता है।
 
-![एक मील के पत्थर के लिए स्वीकृत तथ्य और कल्पना](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
+![किसी महत्वपूर्ण पड़ाव के लिए स्वीकृत तथ्य और दृश्य सामग्री](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
 इनपुट
 
-[![स्पष्ट पदानुक्रम के साथ मील का पत्थर पोस्टर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)](https://podplo.app/skills/poster-maker)
+[![स्पष्ट दृश्य पदानुक्रम वाला खास पड़ाव का पोस्टर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)](https://podplo.app/skills/poster-maker)
 
 पोस्टर निर्माता
 

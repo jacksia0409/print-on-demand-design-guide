@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques/replace-name-text?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques/replace-name-text?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@
 
 [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame) помещает такое имя, как ANDREA, в сбалансированный акварельный цветочный дизайн.
 
-[Цветочная рамка имени](https://podplo.app/skills/floral-name-frame) помещает имя, такое как АНДРЕА, в сбалансированную акварельную цветочную рамку. Интервал подстраивается под название, благодаря чему каждый раз одна и та же цветочная концепция кажется индивидуальной.
+[Цветочная рамка имени](https://podplo.app/skills/floral-name-frame) помещает имя, например ANDREA, в сбалансированную акварельную цветочную рамку. Интервалы подстраиваются под имя, делая одну цветочную концепцию персональной в каждом случае.
 
 [![Цветочная персонализированная рамка для имени](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
@@ -36,23 +36,23 @@
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="name-pattern"></a>
 
 ## Постройте дизайн вокруг короткой фразы
 
-[Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout) выстраивает четкую текстовую композицию вокруг STAY WILD и одного произведения искусства.
+[Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout) выстраивает четкую текстовую композицию вокруг STAY WILD и одного произведения искусства.
 
-[Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout) делает строку типа STAY WILD в качестве заголовка, затем размещает вокруг нее иллюстрацию и дополнительную вспомогательную строку. Изображение демонстрирует макет; это не автоматическая замена текста.
+[Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout) делает строку типа STAY WILD в качестве заголовка, затем размещает вокруг нее иллюстрацию и дополнительную вспомогательную строку. Изображение демонстрирует макет; это не автоматическая замена текста.
 
-[![Пример оформления заголовка, темы и вспомогательной строки](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Пример композиции с заголовком, главным объектом и вспомогательной строкой](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-Заголовок–Тема–Макет субтитров
+Композиция «Заголовок — главный объект — подзаголовок»
 
 **Еще больше Skills для изучения**
 
@@ -66,11 +66,11 @@
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)
 
@@ -98,10 +98,10 @@
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)

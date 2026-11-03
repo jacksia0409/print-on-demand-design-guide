@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/gifts/personality-and-fun?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/gifts/personality-and-fun?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -40,9 +40,9 @@ Diseño central compacto
 
 Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Ejemplo de diseño de insignia circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Ejemplo de diseño de insignia circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -70,29 +70,29 @@ Diseño de insignia circular
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="groups-and-sets"></a>
 
 ## Construir un conjunto de grupo coordinado
 
-4PC y [Generador de rejilla de 6 piezas](https://podplo.app/skills/six-piece-grid) convierta un motivo compartido en un conjunto coordinado con distintas variaciones.
+4PC y [Generador de cuadrícula de 6 piezas](https://podplo.app/skills/six-piece-grid) convierta un motivo compartido en un conjunto coordinado con distintas variaciones.
 
-Utilice un motivo compartido para un equipo, club o comunidad, luego varíe el nombre, función, color o número de cada miembro. 4PC y [Generador de rejilla de 6 piezas](https://podplo.app/skills/six-piece-grid) Mantenga el conjunto coordinado sin que todos los diseños sean idénticos.
+Utilice un motivo compartido para un equipo, club o comunidad, luego varíe el nombre, función, color o número de cada miembro. 4PC y [Generador de cuadrícula de 6 piezas](https://podplo.app/skills/six-piece-grid) Mantenga el conjunto coordinado sin que todos los diseños sean idénticos.
 
 [![Cuatro diseños coordinados para un conjunto pequeño](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)](https://podplo.app/skills/four-piece-grid)
 
-Generador de rejilla de 4 piezas
+Generador de cuadrícula de 4 piezas
 
 [![Seis diseños coordinados para un conjunto más grande](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)](https://podplo.app/skills/six-piece-grid)
 
-Generador de rejilla de 6 piezas
+Generador de cuadrícula de 6 piezas
 
 **Más Skills para explorar**
 

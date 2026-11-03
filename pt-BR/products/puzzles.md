@@ -30,23 +30,23 @@ Rostos, mudanças de cor e objetos distintos dão a cada área do quebra-cabeça
 
 Use Skills diferentes para transformar a mesma imagem em novos layouts, arte baseada em fotos e designs personalizados.
 
-### Crie um padrão de quebra-cabeça perfeito
+### Crie um padrão sem emendas para quebra-cabeça
 
 Escolha formas da sua imagem e organize-as repetidamente com detalhes reconhecíveis em toda a imagem.
 
 [Padrão sem emendas](https://podplo.app/skills/seamless-pattern)
 
-![Padrão sem costura · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Padrão sem emendas · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Imagem de origem
 
-[![Padrão sem costura · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Padrão sem emendas · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
 ### Transforme uma foto de família em uma obra de arte em quadrinhos
 
@@ -64,13 +64,13 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 4 / 92
 
@@ -88,7 +88,7 @@ Criador de estêncil](https://podplo.app/skills/stencil-maker)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize a imagem completa do quebra-cabeça
 

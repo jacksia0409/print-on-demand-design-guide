@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/holiday-versions?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/holiday-versions?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Donnez à votre design une touche de vacances
+# Donnez à votre visuel une touche de fête
 
 Prenez un design que vous aimez et ajoutez des lumières de Noël, des détails d'Halloween ou une touche de romantisme pour la Saint-Valentin.
 
@@ -18,9 +18,9 @@ Prenez un design que vous aimez et ajoutez des lumières de Noël, des détails 
 
 ## Créez une variante de Noël
 
-[Faites-en Noël](https://podplo.app/skills/make-it-christmas) ajoute des détails de vacances coordonnés tout en préservant le sujet original.
+[Une touche de Noël](https://podplo.app/skills/make-it-christmas) ajoute des détails de fête coordonnés tout en préservant le sujet original.
 
-[Faites-en Noël](https://podplo.app/skills/make-it-christmas) ajoute des lumières, de la verdure, de la neige et d'autres détails de vacances coordonnés autour du sujet d'origine. La personne, l'animal, l'œuvre d'art et le texte restent reconnaissables.
+[Une touche de Noël](https://podplo.app/skills/make-it-christmas) ajoute des lumières, de la verdure, de la neige et d’autres détails de fête coordonnés autour du sujet original. La personne, l’animal, l’illustration et le texte restent reconnaissables.
 
 ![Référence avant d'ajouter un thème de Noël](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
@@ -28,7 +28,7 @@ Entrée
 
 [![Version de Noël préservant l'identité de la source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
-Faites-en Noël
+Une touche de Noël
 
 **Plus de Skills à explorer**
 
@@ -42,11 +42,11 @@ Faites-en Noël
 
 [![Exemple d'illustration Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Faites-en Halloween](https://podplo.app/skills/make-it-halloween)[![Exemple d'illustration Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Faites-en Halloween](https://podplo.app/skills/make-it-halloween)[![Exemple de visuel « Une touche de Saint-Valentin »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
 Faites-en la Saint-Valentin](https://podplo.app/skills/make-it-valentines)[![Exemple d'illustration Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Faites Pâques](https://podplo.app/skills/make-it-easter)[![Exemple d'illustration Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Une touche de Pâques](https://podplo.app/skills/make-it-easter)[![Exemple d'illustration Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
 Faites-en Thanksgiving](https://podplo.app/skills/make-it-thanksgiving)
 
@@ -78,11 +78,11 @@ Faites-en la Saint-Valentin
 
 [![Exemple d'illustration Make It Christmas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-Faites-en Noël](https://podplo.app/skills/make-it-christmas)[![Exemple d'illustration Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+Une touche de Noël](https://podplo.app/skills/make-it-christmas)[![Exemple d'illustration Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
 Faites-en Halloween](https://podplo.app/skills/make-it-halloween)[![Exemple d'illustration Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Faites Pâques](https://podplo.app/skills/make-it-easter)[![Exemple d'illustration Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Une touche de Pâques](https://podplo.app/skills/make-it-easter)[![Exemple d'illustration Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
 Faites-en Thanksgiving](https://podplo.app/skills/make-it-thanksgiving)
 
@@ -98,7 +98,7 @@ Faites-en Thanksgiving](https://podplo.app/skills/make-it-thanksgiving)
 
 Entrée
 
-[![Version Fête des Mères préservant les personnes approvisionnées](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6.webp)](https://podplo.app/skills/make-it-mothers-day)
+[![Version pour la fête des Mères préservant les personnes de l’image fournie](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6.webp)](https://podplo.app/skills/make-it-mothers-day)
 
 Faites-en la fête des mères
 
@@ -114,10 +114,10 @@ Faites-en la fête des mères
 
 [![Exemple d'illustration Make It Christmas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-Faites-en Noël](https://podplo.app/skills/make-it-christmas)[![Exemple d'illustration Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+Une touche de Noël](https://podplo.app/skills/make-it-christmas)[![Exemple d'illustration Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Faites-en Halloween](https://podplo.app/skills/make-it-halloween)[![Exemple d'illustration Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Faites-en Halloween](https://podplo.app/skills/make-it-halloween)[![Exemple de visuel « Une touche de Saint-Valentin »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
 Faites-en la Saint-Valentin](https://podplo.app/skills/make-it-valentines)[![Exemple d'illustration Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Faites Pâques](https://podplo.app/skills/make-it-easter)
+Une touche de Pâques](https://podplo.app/skills/make-it-easter)

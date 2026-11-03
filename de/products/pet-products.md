@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/pet-products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/pet-products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,7 +18,7 @@ Entwerfen Sie eine Futtermatte für Haustiere rund um ein Porträt, einen Namen 
 
 ## Designideen für dieses Produkt
 
-### Machen Sie das Haustier zum Hauptthema
+### Machen Sie das Haustier zum Hauptmotiv
 
 Platzieren Sie das Porträt neben den Näpfen, wiederholen Sie ein bekanntes Symbol oder bauen Sie den Namen des Haustieres in das Design ein. Ein seitlich platziertes Porträt; Ein Name gepaart mit Pfoten und Lieblingsgegenständen; Ein Rapport, der rund um den Schüsselbereich angeordnet ist.
 
@@ -48,11 +48,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_5v3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 44
 
@@ -60,13 +60,13 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 <a id="product-mockup"></a>
 

@@ -32,7 +32,7 @@
 
 <a id="tropical-botanical-leaves-and-flowers"></a>
 
-![स्वर्ग के फूल का पक्षी](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/feace20b-5969-5bf2-8776-5bc1eb1d5dc1.png)
+![बर्ड ऑफ़ पैराडाइज़ फूल](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/feace20b-5969-5bf2-8776-5bc1eb1d5dc1.png)
 
 ![मॉन्स्टेरा की पत्तियां जलरंग](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/b7e588a1-fd2b-5a56-bc9c-28a168b739cc.png)
 
@@ -110,7 +110,7 @@
 
 पशु और जीव
 
-### शांत और चंचल बिल्लियाँ
+### कूल और चंचल बिल्लियाँ
 
 एक चरित्र-आधारित ग्राफ़िक, बैज, या चंचल संग्रह बनाएं।
 
@@ -136,9 +136,9 @@
 
 ![एक शाखा पर पक्षी](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fdccea1f-6778-5ea7-86cc-cad870c766d1.png)
 
-![शाखा पर नीला जय](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/efb8a195-6f1f-57b3-afed-f9e4fdbda01f.png)
+![शाखा पर बैठा ब्लू जे पक्षी](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/efb8a195-6f1f-57b3-afed-f9e4fdbda01f.png)
 
-![उड़नेवाला निगल](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/dad6d622-53b1-564b-a5ed-f6d18c22a771.png)
+![उड़ती अबाबील](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/dad6d622-53b1-564b-a5ed-f6d18c22a771.png)
 
 पशु और जीव
 
@@ -168,17 +168,17 @@
 
 03
 
-### छुट्टियाँ और मौसम
+### त्योहार और ऋतुएँ
 
 <a id="classic-spooky-halloween-horror"></a>
 
-![काली बिल्ली पीछे की ओर झुक रही है](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff7bae48-8450-5a14-ac04-cd5294971945.png)
+![पीठ को मेहराब की तरह उठाती काली बिल्ली](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff7bae48-8450-5a14-ac04-cd5294971945.png)
 
 ![झाड़ू पर उड़ती हुई चुड़ैल](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f717ee37-10d4-55a1-96b1-f0cabc2001aa.png)
 
 ![टपकता हुआ बैंगनी नेत्रगोलक](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ec78560a-4ff6-59d6-975f-65e0b8d071bf.png)
 
-छुट्टियाँ और मौसम
+त्योहार और ऋतुएँ
 
 ### क्लासिक डरावना हेलोवीन हॉरर
 
@@ -194,7 +194,7 @@
 
 ![फूल मुकुट के साथ खरगोश](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d1dd0c27-0d7c-52a5-8418-1747b1d25419.png)
 
-छुट्टियाँ और मौसम
+त्योहार और ऋतुएँ
 
 ### जल रंग ईस्टर बनी और अंडे
 
@@ -210,9 +210,9 @@
 
 ![शीर्ष टोपी और स्कार्फ के साथ स्नोमैन](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/7b495f63-c56d-561d-821e-a8aa15c19b3f.png)
 
-छुट्टियाँ और मौसम
+त्योहार और ऋतुएँ
 
-### कार्टून क्रिसमस अवकाश चिह्न
+### कार्टून शैली के क्रिसमस त्योहार के चिह्न
 
 शुभकामनाओं, उपहारों या थीम वाले ग्राफ़िक्स में मौसमी केंद्र बिंदु जोड़ें।
 
@@ -224,9 +224,9 @@
 
 ![सेल्टिक क्रॉस](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fa645282-cd0f-51c2-84e8-d82ac45e6ba1.png)
 
-![सोने और तिपतिया घास का इंद्रधनुष बर्तन](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e47968b5-0307-5bda-97ff-23cc318328d8.png)
+![इंद्रधनुष, सोने का घड़ा और तिपतिया घास](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e47968b5-0307-5bda-97ff-23cc318328d8.png)
 
-छुट्टियाँ और मौसम
+त्योहार और ऋतुएँ
 
 ### सेंट पैट्रिक्स डे ग्रीन शेमरॉक
 
@@ -252,13 +252,13 @@
 
 ### रेट्रो कार्टून फल और सब्जियाँ
 
-छोटी प्रतिलिपि, लेबल या दोहराए जाने वाले लेआउट के साथ छोटे रूपांकनों को संयोजित करें।
+छोटे रूपांकनों को संक्षिप्त टेक्स्ट, लेबल या दोहराव वाले लेआउट के साथ मिलाएँ।
 
 [लाइब्रेरी में और अधिक खोजें](https://podplo.app/elements)
 
 <a id="vintage-coffee-and-cafe"></a>
 
-![हाथ से कॉफी डालना, ऊपर डालना](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe5248e4-8b81-5a95-a75c-41200e9cfef1.png)
+![पोर-ओवर कॉफ़ी बनाते समय पानी डालता हाथ](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe5248e4-8b81-5a95-a75c-41200e9cfef1.png)
 
 ![लट्टे कला के साथ कॉफी कप](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd35a8d4-4a86-56aa-a174-0eb968ea4dd2.png)
 
@@ -268,7 +268,7 @@
 
 ### विंटेज कॉफी और कैफे
 
-छोटी प्रतिलिपि, लेबल या दोहराए जाने वाले लेआउट के साथ छोटे रूपांकनों को संयोजित करें।
+छोटे रूपांकनों को संक्षिप्त टेक्स्ट, लेबल या दोहराव वाले लेआउट के साथ मिलाएँ।
 
 [लाइब्रेरी में और अधिक खोजें](https://podplo.app/elements)
 
@@ -284,7 +284,7 @@
 
 ### जल रंग फास्ट फूड और पेय
 
-छोटी प्रतिलिपि, लेबल या दोहराए जाने वाले लेआउट के साथ छोटे रूपांकनों को संयोजित करें।
+छोटे रूपांकनों को संक्षिप्त टेक्स्ट, लेबल या दोहराव वाले लेआउट के साथ मिलाएँ।
 
 [लाइब्रेरी में और अधिक खोजें](https://podplo.app/elements)
 
@@ -430,7 +430,7 @@
 
 ### आर्ट डेको ज्यामितीय निर्बाध पैटर्न
 
-रैपिंग पेपर, नोटबुक कवर, या टम्बलर डिज़ाइन पर पंखा, क्रेन, या ज्यामितीय रूपांकनों को आज़माएँ।
+रैपिंग पेपर, नोटबुक कवर या टम्बलर पर पंखे, सारस पक्षी या ज्यामितीय रूपांकनों को आज़माएँ।
 
 [लाइब्रेरी में और अधिक खोजें](https://podplo.app/elements)
 
@@ -438,7 +438,7 @@
 
 08
 
-### प्रतीक और प्रतीक
+### प्रतीक और आइकन
 
 <a id="cute-hand-drawn-crayon-doodles"></a>
 
@@ -448,7 +448,7 @@
 
 ![हैप्पी डॉग स्केच](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/df79d102-a8b5-52d6-864e-7fe8a9b4037d.png)
 
-प्रतीक और प्रतीक
+प्रतीक और आइकन
 
 ### प्यारे हाथ से बनाए गए क्रेयॉन डूडल
 
@@ -462,9 +462,9 @@
 
 ![ग्रेडिएंट ग्लोब वायरफ्रेम](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/dab61aef-8478-5e25-814c-9a294e0fd6b9.png)
 
-![रंगीन सार अंगूठियाँ](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/469cec92-0517-5baa-9e48-b2b6c80c4f8c.png)
+![रंगीन अमूर्त वलय](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/469cec92-0517-5baa-9e48-b2b6c80c4f8c.png)
 
-प्रतीक और प्रतीक
+प्रतीक और आइकन
 
 ### इंद्रधनुषी होलोग्राफिक ग्रेडिएंट प्रतीक
 
@@ -542,17 +542,17 @@
 
 12
 
-### सार एवं ज्यामितीय
+### अमूर्त और ज्यामितीय
 
 <a id="bold-ink-brush-paint-textures"></a>
 
 ![पेंट स्ट्रोक ड्रिप](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ffd036e3-bb6c-5515-b360-7b4aa8f71287.png)
 
-![सार स्याही स्ट्रोक और वृत्त](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d7e80abc-b3c1-51a5-a97d-29383ae0e791.png)
+![अमूर्त स्याही-रेखाएँ और वृत्त](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d7e80abc-b3c1-51a5-a97d-29383ae0e791.png)
 
 ![पेंट ब्रश स्ट्रोक](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/26b80cf5-b6fd-53b0-bbc6-0d4432ba880d.png)
 
-सार एवं ज्यामितीय
+अमूर्त और ज्यामितीय
 
 ### बोल्ड इंक ब्रश पेंट बनावट
 
@@ -564,11 +564,11 @@
 
 ![क्रमिक प्रकाश धारियाँ](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff1de82d-e95f-56af-8370-a8faa69d9088.png)
 
-![सार ज्यामितीय टोरस](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc7b9139-7d9c-5006-bdc4-bf4af595f901.png)
+![अमूर्त ज्यामितीय टोरस](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc7b9139-7d9c-5006-bdc4-bf4af595f901.png)
 
 ![ग्रेडिएंट कंटूर लाइन्स वेवफॉर्म](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc533f5d-071b-546b-90eb-bd3526344e5f.png)
 
-सार एवं ज्यामितीय
+अमूर्त और ज्यामितीय
 
 ### ग्रेडिएंट वायरफ़्रेम ज्यामितीय आकृतियाँ
 
@@ -586,8 +586,8 @@
 
 ## एक संपूर्ण छवि से प्रारंभ करें
 
-छवियां संपूर्ण संरचना को सुरक्षित रखती हैं, जिससे जब आप किसी मौजूदा दृश्य से निर्माण करना चाहते हैं तो वे उपयोगी हो जाती हैं। लेआउट पर दोबारा काम करें, सटीक शब्द जोड़ें, एक मौसमी थीम पेश करें, या Photo to Art Skill के साथ एक नया दृश्य दृश्य शैली तलाशें।
+चित्र पूरी रचना बनाए रखते हैं, इसलिए किसी मौजूदा दृश्य से नया काम शुरू करने में उपयोगी हैं। लेआउट बदलें, सटीक शब्द जोड़ें, मौसमी थीम लाएँ या Photo to Art Skill से नई दृश्य शैली तलाशें।
 
-स्पष्ट विषय, ऐसी थीम जो आपके विचार से मेल खाती हो, और दृश्य विवरण वाली छवियां चुनें जिन्हें आप अगले संस्करण में संरक्षित करना चाहते हैं।
+ऐसी छवियाँ चुनें जिनका मुख्य दृश्य तत्व स्पष्ट हो, थीम आपके विचार से मेल खाती हो और वे विवरण हों जिन्हें अगले संस्करण में बनाए रखना है।
 
 [और देखें](https://podplo.app/design-ideas)

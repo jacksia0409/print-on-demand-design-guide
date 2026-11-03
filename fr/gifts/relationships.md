@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/relationships?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/relationships?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -38,9 +38,9 @@ Cadre de nom floral
 
 [![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="people-and-history"></a>
 
@@ -74,7 +74,7 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration Sil
 
 Créateur de silhouettes](https://podplo.app/skills/silhouette-maker)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 

@@ -12,7 +12,7 @@ Estas son instrucciones de la Guía pública, no reglas privadas de Skill. Los e
 
 ## 1 Composición centrada en el motivo principal
 
-Un objeto identificable, un grupo o una letra encabeza la composición.
+Un objeto identificable, un grupo o una composición de letras protagoniza la imagen.
 
 ```text
 Dirección deseada: Composición centrada en el motivo principal
@@ -27,7 +27,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: No reemplace el tema focal identificable con un entorno, repetición decorativa, superficie material o abstracción no figurativa.
+Alcance y límites: no sustituyas el motivo focal identificable por un entorno, una repetición decorativa, una superficie material o una abstracción no figurativa.
 ```
 
 ## 2 Escenas
@@ -39,7 +39,7 @@ Dirección deseada: Escenas
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Organice los temas, el entorno y el espacio en torno al tema original. El resultado puede ser un acontecimiento, un entorno tranquilo, un paisaje o una viñeta cotidiana; crear entornos relacionados si están ausentes.
+Estructura deseada: organiza los motivos principales, el entorno y el espacio alrededor del tema original. El resultado puede ser un acontecimiento, un entorno tranquilo, un paisaje o una escena cotidiana; crea un entorno relacionado si falta.
 
 Fondo: Utilice la ubicación existente, las señales ambientales y atmosféricas para desarrollar un entorno coherente. Si no existe ningún fondo o solo se proporciona un respaldo sólido o transparente, cree un entorno relacionado. Un patrón decorativo por sí solo no debe reemplazar el contexto esencial.
 
@@ -67,7 +67,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Una cuadrícula de activos normal no es automáticamente un patrón, y un resultado fluido reclamado requiere una verificación de salida en mosaico por separado.
+Alcance y límites: una cuadrícula regular de elementos no es automáticamente un patrón. Para afirmar que un resultado se repite sin juntas hace falta una comprobación independiente del resultado en mosaico.
 ```
 
 ## 4 Texturas
@@ -81,18 +81,18 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Traduzca la paleta, el material y la atmósfera relevantes en obras de arte basadas en superficies. Utilice cobertura total, fragmentos o capas locales, reduciendo objetos no relacionados que se convertirían en sujetos focales independientes.
 
-Fondo: Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Fondo: toma como referencia el material, la paleta y la atmósfera; si faltan, crea un acabado de superficie relacionado. Un parche localizado puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un escenario narrativo.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el material, la superficie, la paleta y la atmósfera relevantes sin requerir una silueta de objeto o una escena completa. Cree el efecto solicitado cuando no haya señales materiales, sin pretender haber identificado el material real de la fuente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: En cambio, la silueta de un objeto o un entorno completo puede ser una obra de arte de tema o escena. No todas las imágenes sin un objeto claro son una textura.
+Alcance y límites: la silueta de un objeto o un entorno completo pueden corresponder a diseños de motivos principales o escenas. No toda imagen sin un objeto claro es una textura.
 ```
 
 ## 5 Arte abstracto
 
-Formas, líneas, marcas y colores conducen sin una referencia objetiva definida.
+Las formas, líneas, marcas y colores protagonizan el diseño sin representar un objeto definido.
 
 ```text
 Dirección deseada: Arte abstracto
@@ -101,13 +101,13 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Traduce la paleta, el ritmo, la dirección o el estado de ánimo en formas geométricas, flujo orgánico, marcas o campos de color. Reorganizar las relaciones y el espacio en lugar de preservar un objeto concreto como objetivo principal.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Un objeto estilizado identificable sigue siendo un tema de tratamiento. El carácter de la superficie del material pertenece a las texturas cuando es la expresión principal.
+Alcance y límites: un objeto estilizado identificable sigue siendo un tratamiento del motivo principal. Las cualidades de superficie material corresponden a texturas cuando son la expresión principal.
 ```
 
 ## Motivo principal centrado
@@ -115,7 +115,7 @@ Alcance y límites: Un objeto estilizado identificable sigue siendo un tema de t
 Un sujeto principal se encuentra cerca del centro, con espacio a su alrededor.
 
 ```text
-Dirección deseada: Dirigido por materia → Materia única → Materia centrada
+Dirección deseada: Motivo principal → Motivo único → Motivo centrado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -127,15 +127,15 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: El centrado no requiere simetría especular. Evite distribuir varios temas independientes con igual énfasis.
+Alcance y límites: centrar no exige simetría especular. Evita repartir el mismo protagonismo entre varios motivos independientes.
 ```
 
-## Compensado con espacio abierto
+## Desplazado con espacio libre
 
-El sujeto principal se sienta a un lado, dejando un área notablemente más tranquila en el resto.
+El motivo principal se sitúa a un lado y deja una zona notablemente más despejada en el resto.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Asunto único → Compensado con espacio abierto
+Dirección deseada: Motivo principal → Motivo único → Desplazado con espacio libre
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -155,11 +155,11 @@ Alcance y límites: Un diseño desplazado debe preservar características recono
 Una vista ampliada y recortada enfoca una parte reconocible del sujeto.
 
 ```text
-Dirección deseada: Dirigido por tema → Tema único → Detalle ampliado
+Dirección deseada: Motivo principal → Motivo único → Detalle ampliado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Seleccione una parte distintiva del tema de entrada y amplíela más allá de uno o más bordes. Conserve suficiente contorno, estructura o detalle para identificar el objeto.
+Estructura deseada: selecciona una parte distintiva del motivo original y amplíala más allá de uno o varios bordes. Conserva suficiente contorno, estructura o detalle para identificar el objeto.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -167,7 +167,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Esto recorta un tema individual. Un entorno recortado o un momento con relaciones contextuales pertenecen a un primer plano de escena.
+Alcance y límites: aquí se recorta un motivo individual. Un entorno recortado o un momento con relaciones contextuales corresponde a un primer plano de escena.
 ```
 
 ## composición diagonal
@@ -175,7 +175,7 @@ Alcance y límites: Esto recorta un tema individual. Un entorno recortado o un m
 El sujeto se extiende a lo largo de una diagonal, dando a la imagen una dirección clara.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Asunto único → Composición diagonal
+Dirección deseada: Motivo principal → Motivo único → Composición diagonal
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -190,12 +190,12 @@ Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconoce
 Alcance y límites: Inclinar sólo el fondo o las letras no convierte al sujeto en diagonal. Preservar una estructura de objeto creíble o intencionalmente estilizada.
 ```
 
-## Temas uno al lado del otro
+## Motivos uno al lado del otro
 
 Varios sujetos reconocibles están dispuestos horizontalmente y se muestran juntos.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples sujetos → Sujetos uno al lado del otro
+Dirección deseada: Motivo principal → Varios motivos → Motivos uno al lado del otro
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -210,12 +210,12 @@ Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconoce
 Alcance y límites: Los objetos no necesitan ser idénticos en tamaño ni igualmente espaciados. Mantenga sus siluetas individuales legibles en lugar de fusionarlas en una pila confusa.
 ```
 
-## Materias primarias y secundarias.
+## Motivo principal y motivos de apoyo
 
 Un sujeto lidera la composición mientras otros objetos la sostienen.
 
 ```text
-Dirección deseada: Dirigido por materias → Materias múltiples → Materias primarias y de apoyo
+Dirección deseada: Motivo principal → Varios motivos → Motivo principal y motivos de apoyo
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -232,14 +232,14 @@ Alcance y límites: La jerarquía debe ser visible. Si un entorno o evento se co
 
 ## Agrupación vertical
 
-Varios temas forman una composición que se lee de arriba a abajo.
+Varios motivos forman una composición que se lee de arriba abajo.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples sujetos → Agrupación vertical
+Dirección deseada: Motivo principal → Varios motivos → Agrupación vertical
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Organice temas relacionados en dirección vertical. Permita desplazamientos o superposiciones limitadas mientras mantiene una relación clara de arriba a abajo y un peso visual equilibrado.
+Estructura deseada: organiza los motivos relacionados en dirección vertical. Permite desplazamientos o superposiciones limitadas y conserva una relación clara de arriba abajo y un peso visual equilibrado.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -255,7 +255,7 @@ Alcance y límites: Los objetos no tienen por qué sostenerse físicamente unos 
 Los sujetos se corresponden a lo largo de un eje para crear una composición equilibrada.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples sujetos → Agrupación simétrica
+Dirección deseada: Motivo principal → Varios motivos → Agrupación simétrica
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -270,16 +270,16 @@ Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconoce
 Alcance y límites: Los detalles pueden diferir; No se requiere duplicación de píxeles perfectos. Las unidades repetidas utilizadas principalmente como decoración continua pertenecen a los patrones.
 ```
 
-## Temas alrededor de un centro
+## Motivos alrededor de un centro
 
 Varios sujetos forman un grupo finito circular o radial.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples sujetos → Sujetos alrededor de un centro
+Dirección deseada: Motivo principal → Varios motivos → Motivos alrededor de un centro
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Organizar temas relacionados alrededor de un centro compartido, coordinando su orientación, escala y espaciado. El centro puede permanecer abierto o contener un objeto principal o palabras de apoyo.
+Estructura deseada: organiza los motivos relacionados alrededor de un centro compartido y coordina su orientación, escala y separación. El centro puede quedar libre o contener un objeto principal o texto de apoyo.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -295,7 +295,7 @@ Alcance y límites: Mantenga los objetos reconocibles de forma independiente. Si
 Los sujetos se reúnen en una composición compacta con un orden claro de adelante hacia atrás.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples temas → Agrupados y superpuestos
+Dirección deseada: Motivo principal → Varios motivos → Agrupados y superpuestos
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -315,7 +315,7 @@ Alcance y límites: La superposición no debe ocultar todas las características
 Los elementos independientes se muestran en filas, columnas o en una cuadrícula consistente.
 
 ```text
-Dirección deseada: Dirigido por materias → Materias múltiples → Colecciones → Diseño de colección regular
+Dirección deseada: Motivo principal → Varios motivos → Colecciones → Colección en distribución regular
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -327,15 +327,15 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: El objetivo es mostrar elementos individuales. Una cuadrícula finita no es automáticamente una repetición perfecta y los elementos no tienen por qué ser idénticos.
+Alcance y límites: el propósito es mostrar elementos individuales. Una cuadrícula finita no es automáticamente una repetición sin juntas y los elementos no tienen que ser idénticos.
 ```
 
-## Diseño de colección gratuito
+## Composición libre de colección
 
 Los elementos independientes se ubican en una disposición suelta e irregular mientras comparten un tema.
 
 ```text
-Dirección deseada: Dirigido por materias → Materias múltiples → Colecciones → Diseño de colección gratuito
+Dirección deseada: Motivo principal → Varios motivos → Colecciones → Colección en distribución libre
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -355,7 +355,7 @@ Alcance y límites: Evite una unidad repetitiva obvia. Si un entorno o interacci
 La imagen llama primero la atención; las palabras añaden significado o contexto.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Dirigido por imagen, con texto de apoyo
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imagen protagonista con texto de apoyo
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -375,7 +375,7 @@ Alcance y límites: El texto de apoyo debe seguir siendo legible sin convertirse
 Las palabras transmiten el mensaje principal, con una pequeña imagen que respalda su significado.
 
 ```text
-Dirección deseada: Dirigido por el sujeto → Texto y relaciones entre el sujeto → Dirigido por el texto, con imágenes de apoyo
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Texto protagonista con imágenes de apoyo
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -387,25 +387,25 @@ Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptand
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: El texto debe indicar claramente. El peso visual igual entre texto e imagen es una composición compartida y no basada en texto.
+Alcance y límites: el texto debe dominar claramente. Si texto e imagen tienen el mismo peso visual, la composición comparte el protagonismo en vez de estar centrada en el texto.
 ```
 
-## Expresión de solo tipo
+## Expresión solo tipográfica
 
 Las formas de las letras, la escala y la disposición llevan el diseño.
 
 ```text
-Dirección deseada: Dirigido por asunto → Relaciones entre texto y asunto → Expresión de solo tipo
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Expresión solo tipográfica
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Convierte el tema en una expresión tipográfica concisa. Si la entrada es una imagen, traduzca su tema o estado de ánimo en palabras y elimine el tema pictórico independiente; conserve el texto suministrado cuando esté presente.
+Estructura deseada: convierte el tema en una expresión tipográfica concisa. Si la entrada es una imagen, transforma su tema o ambiente en palabras y elimina el motivo gráfico independiente; conserva el texto proporcionado cuando lo haya.
 
-Fondo: Haga referencia al color de fondo, la paleta o el material existente. Cuando no esté presente, cree un respaldo sólido, degradado o con textura sutil adecuado. No retenga un tema de imagen figurativa independiente en el fondo de un diseño tipográfico únicamente.
+Fondo: toma como referencia el color de base, la paleta o el material existentes. Si no los hay, crea un fondo adecuado de color uniforme, degradado o textura sutil. En un diseño compuesto solo por letras, no conserves una figura independiente en el fondo.
 
 Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree un texto conciso relacionado con el tema y haga que las letras sean el foco de este tratamiento. Conservar el orden y el significado de la lectura y revisar la ortografía. Si una solicitud explícita sin texto entra en conflicto con esta instrucción basada en texto, indique el conflicto en lugar de agregar palabras en silencio.
 
-Conservar y adaptar: Conserve el tema, el texto fuente legible, el idioma y la paleta mientras traduce la información de la imagen a tipografía. Tampoco es necesario que permanezca un tema pictórico independiente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
+Conservar y adaptar: conserva el tema, el texto legible del original, su idioma y su paleta al convertir la información de la imagen en tipografía. No exijas que también se conserve un motivo gráfico independiente. No describas el contenido recién creado como si ya estuviera en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala el conflicto en lugar de afirmar que se han cumplido ambas.
 
 Alcance y límites: Se permite un color de fondo, una textura sutil o un acento no figurativo. No introduzca una persona u objeto independiente como sujeto competidor.
 ```
@@ -415,7 +415,7 @@ Alcance y límites: Se permite un color de fondo, una textura sutil o un acento 
 La imagen y el texto ocupan las áreas superior e inferior, creando un orden de lectura claro.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Imagen y texto apilados
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imagen y texto apilados
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -435,11 +435,11 @@ Alcance y límites: No es necesario que ningún elemento esté encima ni tenga e
 Imagen y texto ocupan lados opuestos y se responden entre sí.
 
 ```text
-Dirección deseada: Dirigido por tema → Texto y relaciones entre tema → Imagen y texto uno al lado del otro
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imagen y texto uno al lado del otro
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Divida la imagen principal y el texto entre las áreas izquierda y derecha. Establezca la alineación y el espaciado según la dirección del tema, el orden de lectura y el equilibrio visual.
+Estructura deseada: reparte la imagen principal y el texto entre las zonas izquierda y derecha. Ajusta la alineación y la separación según la orientación del motivo principal, el orden de lectura y el equilibrio visual.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -450,12 +450,12 @@ Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconoce
 Alcance y límites: No es necesario que las áreas sean del mismo tamaño. Una línea horizontal de texto por sí sola no establece una relación de imagen y texto de lado a lado.
 ```
 
-## Texto sobre el tema
+## Texto alrededor del motivo principal
 
 Las palabras siguen un arco o camino exterior alrededor de la imagen.
 
 ```text
-Dirección deseada: Dirigido por tema → Texto y relaciones entre el tema → Texto alrededor del tema
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Texto alrededor del motivo principal
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -475,11 +475,11 @@ Alcance y límites: Un círculo completo es opcional. Mantenga una trayectoria c
 Partes de la imagen y las letras pasan una delante o detrás de la otra.
 
 ```text
-Dirección deseada: Dirigido por el sujeto → Texto y relaciones entre el sujeto → Imagen y texto entrelazados
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imagen y texto entrelazados
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Lleve la redacción y el tema a un solo área de diseño. Coloque partes de la imagen seleccionada delante de las letras y otras detrás de ellas, o utilice espacios en las letras para establecer un entrelazado.
+Estructura deseada: reúne el texto y el motivo principal en una misma zona de diseño. Coloca determinadas partes de la imagen delante de las letras y otras detrás, o usa huecos de las letras para crear un entrelazado.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -495,7 +495,7 @@ Alcance y límites: Una simple superposición de texto no necesariamente está e
 Una imagen relevante reemplaza o pasa a formar parte de una letra o trazo.
 
 ```text
-Dirección deseada: Dirigido por materia → Texto y relaciones entre materia → Imágenes dentro de una letra
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imágenes dentro de una letra
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -515,11 +515,11 @@ Alcance y límites: Mantenga la redacción y el significado previstos. No reempl
 La disposición y densidad de las palabras construyen un contorno reconocible.
 
 ```text
-Dirección deseada: Dirigido por materia → Texto y relaciones entre materia → Palabras que forman una forma
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Palabras que forman una figura
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Utilice palabras relacionadas con el tema como unidades de construcción de la forma del tema original. Ajuste la longitud, escala, repetición y densidad de las líneas; reutilice la redacción proporcionada cuando sea posible o cree una copia breve relevante.
+Estructura deseada: usa palabras relacionadas con el tema como unidades para construir la forma del motivo principal original. Ajusta la longitud de las líneas, la escala, la repetición y la densidad; reutiliza el texto proporcionado cuando sea posible o crea un texto breve relacionado.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -535,7 +535,7 @@ Alcance y límites: La forma debe provenir principalmente de la disposición de 
 Los contornos de las letras llevan el diseño mientras que la mayoría de sus interiores permanecen abiertos.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Letras de contorno
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Letras de contorno
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -547,15 +547,15 @@ Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptand
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: El esquema debe seguir las letras en lugar de formar un marco alrededor de toda la frase. Vuelva a comprobar la legibilidad en tamaños pequeños o en un fondo ajetreado.
+Alcance y límites: el contorno debe seguir las letras, en lugar de formar un marco alrededor de toda la frase. Comprueba de nuevo la legibilidad a tamaños pequeños o sobre un fondo recargado.
 ```
 
-## Tipo estirado o comprimido
+## Tipografía estirada o comprimida
 
 Las proporciones de las letras se alargan, estrechan o ensanchan visiblemente.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Texto estirado o comprimido
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía estirada o comprimida
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -570,12 +570,12 @@ Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconoce
 Alcance y límites: El cambio proporcional debe ser visible, no simplemente un tamaño de fuente más grande. Evite comprimir letras hasta que sus identidades se vuelvan ambiguas.
 ```
 
-## Tipo curvo u ondulado
+## Letras curvas u onduladas
 
 Las letras siguen una curva u onda con un ritmo visible de subida y bajada.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Texto curvo u ondulado
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía curva u ondulada
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -590,12 +590,12 @@ Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconoce
 Alcance y límites: Es posible tanto una disposición ondulada como formas de letras deformadas; ninguno de los dos es obligatorio en combinación. Cambiar solo la fuente no crea una ola.
 ```
 
-## Tipo de perspectiva en ángulo
+## Letras en perspectiva oblicua
 
 Las letras cambian la escala aparente a lo ancho para sugerir profundidad.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Tipo de perspectiva en ángulo
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía en perspectiva oblicua
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -607,15 +607,15 @@ Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptand
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La rotación o un corte uniforme por sí solo no es necesariamente perspectiva. Muestre un cambio en la escala relativa manteniendo una redacción reconocible.
+Alcance y límites: una rotación o una cizalla uniforme por sí solas no implican necesariamente perspectiva. Muestra un cambio de escala relativa y conserva el texto reconocible.
 ```
 
-## Tipo dividido y desplazado
+## Tipografía cortada y desplazada
 
 Las formas de las letras se cortan en partes desplazadas mientras las palabras originales siguen siendo reconocibles.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Tipos divididos y desplazados
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía cortada y desplazada
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -627,7 +627,7 @@ Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptand
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: No esparzas fragmentos hasta que las palabras pierdan su significado. Los cortes y compensaciones pueden variar en lugar de repetirse de manera idéntica en cada letra.
+Alcance y límites: no disperses los fragmentos hasta que las palabras pierdan su significado. Los cortes y desplazamientos pueden variar, sin repetirse de forma idéntica en cada letra.
 ```
 
 ## Texto relleno de imagen o textura
@@ -635,7 +635,7 @@ Alcance y límites: No esparzas fragmentos hasta que las palabras pierdan su sig
 Patrones, imágenes o detalles materiales llenan el interior de las letras.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Imagen o texto relleno de textura
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía rellena de imágenes o texturas
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -655,7 +655,7 @@ Alcance y límites: El relleno debe ocupar principalmente las letras. Una imagen
 Líneas o formas radiantes se extienden hacia afuera desde el sujeto.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Decoración compartida → Rayos y acentos radiantes
+Dirección deseada: Motivo principal → Decoración compartida → Rayos y detalles radiales
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -672,14 +672,14 @@ Alcance y límites: La luz emitida literalmente es opcional, al igual que un ani
 
 ## Pequeños acentos circundantes
 
-Algunos pequeños elementos enriquecen el espacio alrededor del tema principal.
+Unos pocos elementos pequeños enriquecen el espacio alrededor del motivo principal.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Decoración compartida → Pequeños acentos circundantes
+Dirección deseada: Motivo principal → Decoración compartida → Pequeños detalles circundantes
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Agregue una cantidad limitada de símbolos, flores, líneas o pequeños motivos relacionados con el tema cerca del tema. Varíe el espaciado manteniendo despejados el contorno del sujeto y las áreas abiertas.
+Estructura deseada: añade un número limitado de símbolos, flores, líneas o pequeños motivos relacionados con el tema cerca del motivo principal. Varía su separación y mantén despejados el contorno del motivo principal y los espacios libres.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -695,11 +695,11 @@ Alcance y límites: Mantenga los acentos subordinados. Una disposición circunda
 Los elementos decorativos forman un recinto parcial o completo alrededor del tema.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Decoración compartida → Decoración circundante
+Dirección deseada: Motivo principal → Decoración compartida → Decoración circundante
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Organice ramas, líneas, símbolos o motivos relacionados principalmente alrededor del exterior del tema o grupo. Construya un anillo parcial, una corona o un recinto libre con el sujeto como punto focal.
+Estructura deseada: organiza ramas, líneas, símbolos o motivos relacionados principalmente alrededor del exterior del motivo principal o del grupo. Construye un anillo parcial, una corona o un cerco libre con el motivo principal como punto focal.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -715,11 +715,11 @@ Alcance y límites: La simetría y un anillo cerrado son opcionales. Un parche p
 Un marco definido, una insignia o una estructura envolvente sujetan al sujeto.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Decoración compartida → Asunto enmarcado
+Dirección deseada: Motivo principal → Decoración compartida → Motivo enmarcado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Cree un marco circular, rectangular, con forma de insignia o irregular que se adapte al tema y al tema. Escala de coordenadas, espaciado interno y cualquier parte deliberada que se extienda más allá del marco.
+Estructura deseada: crea un marco circular, rectangular, de insignia o irregular adecuado al motivo principal y al tema. Coordina la escala, el espacio interior y cualquier parte que sobresalga del marco de forma intencional.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -735,11 +735,11 @@ Alcance y límites: El límite debe estar claramente organizado. Unos pocos acen
 Los elementos decorativos se tejen delante y detrás del sujeto.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Decoración compartida → Decoración entrelazada
+Dirección deseada: Motivo principal → Decoración compartida → Decoración entrelazada
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conserve el tema o grupo focal y entreteje ramas, líneas o cintas relacionadas a través de él. Coloque algunas partes detrás y otras delante para establecer una superposición comprensible.
+Estructura deseada: conserva el motivo o grupo focal y entreteje ramas, líneas o cintas relacionadas a través de él. Coloca unas partes detrás y otras delante para crear una superposición comprensible.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -752,14 +752,14 @@ Alcance y límites: Poner toda la decoración encima no es entrelazar. Preserva 
 
 ## Forma base reconocible
 
-El tema tiene una forma familiar y legible que proporciona una referencia para otros tratamientos.
+El motivo principal tiene una forma familiar y reconocible que sirve de referencia para otros tratamientos.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Tratamientos de sujetos compartidos → Forma base reconocible
+Dirección deseada: Motivo principal → Tratamientos compartidos del motivo principal → Forma base reconocible
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Organice el tema central en una estructura y proporción claras y familiares. Conserve su tema y características importantes mientras simplifica los detalles que obstruyen el reconocimiento.
+Estructura deseada: organiza el motivo central con una estructura y unas proporciones claras y familiares. Conserva su tema y rasgos importantes y simplifica los detalles que dificulten reconocerlo.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -775,7 +775,7 @@ Alcance y límites: Una forma familiar no tiene por qué ser fotorrealista ni te
 Partes del sujeto se alargan, comprimen o amplían mientras sigue siendo identificable.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Tratamientos de sujetos compartidos → Proporciones exageradas
+Dirección deseada: Motivo principal → Tratamientos compartidos del motivo principal → Proporciones exageradas
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -795,7 +795,7 @@ Alcance y límites: Esto cambia la forma del objeto en lugar de simplemente su p
 Las formas geométricas simples describen las características esenciales de un objeto identificable.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Tratamientos temáticos compartidos → Simplificación geométrica
+Dirección deseada: Motivo principal → Tratamientos compartidos del motivo principal → Simplificación geométrica
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -815,11 +815,11 @@ Alcance y límites: Las formas geométricas todavía describen el objeto. Las fo
 Un pequeño número de líneas conservan los contornos esenciales del sujeto.
 
 ```text
-Dirección deseada: Dirigido por temas → Tratamientos de temas compartidos → Simplificación de líneas
+Dirección deseada: Motivo principal → Tratamientos compartidos del motivo principal → Simplificación de líneas
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Extraiga el esquema principal y algunas estructuras internas importantes, luego expréselos con líneas claras. Omita detalles secundarios preservando las relaciones entre múltiples temas.
+Estructura deseada: extrae el contorno principal y unas pocas estructuras internas importantes y exprésalos con líneas claras. Omite los detalles secundarios y conserva las relaciones entre los distintos motivos principales.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -835,11 +835,11 @@ Alcance y límites: Un trazo único continuo y contornos completamente cerrados 
 Un sujeto reconocible se reconstruye a partir de una pequeña cantidad de áreas de color.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Tratamientos de sujetos compartidos → Reconstrucción de bloques de colores
+Dirección deseada: Motivo principal → Tratamientos compartidos del motivo principal → Reconstrucción con bloques de color
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Divida el tema según silueta, volumen o estructura. Simplifique los detalles y el sombreado para que las conexiones, superposiciones y proporciones de las áreas de color describan el objeto original.
+Estructura deseada: divide el motivo principal según su silueta, volumen o estructura. Simplifica los detalles y el sombreado para que las conexiones, superposiciones y proporciones de las zonas de color describan el objeto original.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -847,7 +847,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Las divisiones pueden ser irregulares o expresivas, pero aun así deben hacer referencia al tema. Cambiar sólo los bloques de fondo no es una reconstrucción del tema.
+Alcance y límites: las divisiones pueden ser irregulares o expresivas, pero deben seguir remitiendo al motivo principal. Cambiar solo los bloques de fondo no reconstruye el motivo.
 ```
 
 ## Forma fragmentada y desplazada
@@ -855,11 +855,11 @@ Alcance y límites: Las divisiones pueden ser irregulares o expresivas, pero aun
 Las partes reconocibles se separan, desplazan o vuelven a ensamblar en un todo nuevo.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Tratamientos de temas compartidos → Formulario fragmentado y desplazado
+Dirección deseada: Motivo principal → Tratamientos compartidos del motivo principal → Forma fragmentada y desplazada
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Divida el tema en partes estructuralmente significativas e introduzca espacios, cambios o reordenamientos controlados. Conservar suficientes relaciones de forma y posición para sugerir el objeto original.
+Estructura deseada: divide el motivo principal en partes con sentido estructural e introduce huecos, desplazamientos o reorganizaciones controlados. Conserva suficientes relaciones de forma y posición para sugerir el objeto original.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -879,7 +879,7 @@ Dirección deseada: Escenas → Formas escénicas → Momento narrativo
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conserve el tema central y cree una acción, interacción o evento relacionado con el tema en torno a él. Los objetos pueden participar a través del uso, la actividad circundante o un cambio que se esté produciendo.
+Estructura deseada: conserva el motivo central y construye a su alrededor una acción, interacción o acontecimiento relacionado con el tema. Los objetos pueden participar mediante su uso, la actividad circundante o un cambio en curso.
 
 Fondo: Utilice la ubicación existente, las señales ambientales y atmosféricas para desarrollar un entorno coherente. Si no existe ningún fondo o solo se proporciona un respaldo sólido o transparente, cree un entorno relacionado. Un patrón decorativo por sí solo no debe reemplazar el contexto esencial.
 
@@ -899,7 +899,7 @@ Dirección deseada: Escenas → Formas de escena → Entorno ambiental
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Cree un entorno relacionado en torno al propósito, la ubicación o el tema del tema. Organizar el espacio y las relaciones entre objetos de manera que el entorno aporte un contexto esencial.
+Estructura deseada: crea un entorno relacionado con el propósito, el lugar o el tema del motivo principal. Organiza el espacio y las relaciones entre objetos para que el entorno aporte contexto esencial.
 
 Fondo: Utilice la ubicación existente, las señales ambientales y atmosféricas para desarrollar un entorno coherente. Si no existe ningún fondo o solo se proporciona un respaldo sólido o transparente, cree un entorno relacionado. Un patrón decorativo por sí solo no debe reemplazar el contexto esencial.
 
@@ -907,7 +907,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Una acción o persona es opcional. Si el entorno es sólo una decoración intercambiable y no aporta ningún contexto, el resultado se acerca más a un gráfico centrado en un tema.
+Alcance y límites: una acción o una persona son opcionales. Si el entorno solo es una decoración intercambiable y no aporta contexto, el resultado se acerca más a un diseño centrado en un motivo principal.
 ```
 
 ## Paisaje y espacio
@@ -927,7 +927,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Las figuras u objetos pueden actuar como pequeños acentos, pero no deben reemplazar el entorno como tema principal. A narrative event is not required.
+Alcance y límites: las figuras u objetos pueden servir de pequeños detalles de apoyo, pero no deben sustituir al entorno como contenido principal. No hace falta un acontecimiento narrativo.
 ```
 
 ## Viñeta cotidiana
@@ -1061,15 +1061,15 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Extraiga los motivos adecuados y establezca un mosaico consistente que se repita horizontal y verticalmente. Haga coincidir el contenido que cruza los bordes de las baldosas con sus bordes opuestos y coordine el espaciado y el color del fondo.
 
-Fondo: Paleta de fondo y motivos de referencia, diseñando fondo y primer plano dentro de la misma unidad repetida. Cuando esté ausente, cree un color base relacionado o un respaldo que pueda continuar periódicamente. Reconstruya un fondo de origen que no coincida en lugar de reclamar automáticamente los mosaicos de imágenes completos.
+Fondo: toma como referencia la paleta y los motivos del fondo, y diseña fondo y primer plano dentro del mismo módulo de repetición. Si no hay fondo, crea un color base relacionado o un fondo que pueda repetirse periódicamente. Reconstruye un fondo original que no encaje, en lugar de afirmar que la imagen completa se repite sin más.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Una cuadrícula finita no es automáticamente perfecta. Verifique la salida en mosaico horizontal y vertical; un aviso por sí solo no verifica la continuidad del borde.
+Alcance y límites: una cuadrícula finita no se repite automáticamente sin juntas. Comprueba el resultado repetido horizontal y verticalmente; un prompt por sí solo no verifica la continuidad de los bordes.
 
-Comprobación del resultado: Pruebe disposiciones horizontales, verticales y de cuatro mosaicos para ver las uniones, el ritmo y la continuidad del color base. No reclame la fluidez verificada sin verificarla o cuando la herramienta no pueda garantizarla.
+Comprobación del resultado: prueba disposiciones horizontales, verticales y de cuatro módulos para revisar las juntas, el ritmo y la continuidad del color de base. No afirmes que la repetición sin juntas está verificada sin comprobarlo o si la herramienta no puede garantizarlo.
 ```
 
 ## Repetición desplazada
@@ -1077,21 +1077,21 @@ Comprobación del resultado: Pruebe disposiciones horizontales, verticales y de 
 Las filas o columnas adyacentes se desplazan en una cantidad constante dentro de un sistema repetitivo.
 
 ```text
-Dirección deseada: Patrones → Repeticiones perfectas → Repetición desplazada
+Dirección deseada: Patrones → Repeticiones sin juntas → Repetición desplazada
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
 Estructura deseada: Cree un mosaico que contenga una relación de desplazamiento estable entre filas o columnas adyacentes. Coordine la dirección, el espaciado y la densidad del motivo, incluida la continuación en el borde opuesto.
 
-Fondo: Paleta de fondo y motivos de referencia, diseñando fondo y primer plano dentro de la misma unidad repetida. Cuando esté ausente, cree un color base relacionado o un respaldo que pueda continuar periódicamente. Reconstruya un fondo de origen que no coincida en lugar de reclamar automáticamente los mosaicos de imágenes completos.
+Fondo: toma como referencia la paleta y los motivos del fondo, y diseña fondo y primer plano dentro del mismo módulo de repetición. Si no hay fondo, crea un color base relacionado o un fondo que pueda repetirse periódicamente. Reconstruye un fondo original que no encaje, en lugar de afirmar que la imagen completa se repite sin más.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Las compensaciones pueden variar según el diseño, pero requieren un período general estable. Mover algunos motivos individuales no crea un mosaico perfecto.
+Alcance y límites: los desplazamientos pueden variar según el diseño, pero requieren un periodo global estable. Mover unos pocos motivos individuales no garantiza una repetición sin juntas.
 
-Comprobación del resultado: Pruebe disposiciones horizontales, verticales y de cuatro mosaicos para ver las uniones, el ritmo y la continuidad del color base. No reclame la fluidez verificada sin verificarla o cuando la herramienta no pueda garantizarla.
+Comprobación del resultado: prueba disposiciones horizontales, verticales y de cuatro módulos para revisar las juntas, el ritmo y la continuidad del color de base. No afirmes que la repetición sin juntas está verificada sin comprobarlo o si la herramienta no puede garantizarlo.
 ```
 
 ## repetición dispersa
@@ -1105,15 +1105,15 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Organice la posición, escala y rotación del motivo libremente dentro de un mosaico repetido, evitando una cuadrícula obvia. Maneje los motivos de bordes cruzados para que la unidad completa pueda continuar periódicamente.
 
-Fondo: Paleta de fondo y motivos de referencia, diseñando fondo y primer plano dentro de la misma unidad repetida. Cuando esté ausente, cree un color base relacionado o un respaldo que pueda continuar periódicamente. Reconstruya un fondo de origen que no coincida en lugar de reclamar automáticamente los mosaicos de imágenes completos.
+Fondo: toma como referencia la paleta y los motivos del fondo, y diseña fondo y primer plano dentro del mismo módulo de repetición. Si no hay fondo, crea un color base relacionado o un fondo que pueda repetirse periódicamente. Reconstruye un fondo original que no encaje, en lugar de afirmar que la imagen completa se repite sin más.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La dispersión describe la organización dentro del mosaico, no la falta de estructura. Rellenar una imagen aleatoriamente no la hace perfecta.
+Alcance y límites: la dispersión describe la organización dentro del módulo, no la ausencia de toda estructura. Rellenar una imagen al azar no hace que se repita sin juntas.
 
-Comprobación del resultado: Pruebe disposiciones horizontales, verticales y de cuatro mosaicos para ver las uniones, el ritmo y la continuidad del color base. No reclame la fluidez verificada sin verificarla o cuando la herramienta no pueda garantizarla.
+Comprobación del resultado: prueba disposiciones horizontales, verticales y de cuatro módulos para revisar las juntas, el ritmo y la continuidad del color de base. No afirmes que la repetición sin juntas está verificada sin comprobarlo o si la herramienta no puede garantizarlo.
 ```
 
 ## patrón acotado
@@ -1167,7 +1167,7 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Utilice señales de color, luz, atmósfera o agua de la entrada para desarrollar una textura de superficie de agua. Reducir los objetos independientes como barcos, personas o edificios que desviarían la atención de la superficie.
 
-Fondo: Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Fondo: toma como referencia el material, la paleta y la atmósfera; si faltan, crea un acabado de superficie relacionado. Un parche localizado puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un escenario narrativo.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
@@ -1178,7 +1178,7 @@ Alcance y límites: La atención se centra en el carácter de la superficie, no 
 
 ## Textura natural: piedra
 
-Las vetas, las vetas, las grietas y las variaciones de la superficie sugieren un material parecido a la piedra.
+Los granos, las vetas, las grietas y la variación de superficie sugieren un material pétreo.
 
 ```text
 Dirección deseada: Texturas → Formas superficiales → Textura natural: piedra
@@ -1187,7 +1187,7 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Desarrolle características de superficie similares a las de la piedra a partir de señales relevantes de color, material o estructura natural. Dejemos que la variación de la superficie lidere en lugar de la silueta de una roca separada.
 
-Fondo: Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Fondo: toma como referencia el material, la paleta y la atmósfera; si faltan, crea un acabado de superficie relacionado. Un parche localizado puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un escenario narrativo.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
@@ -1207,13 +1207,13 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Utilice el tema, la paleta y cualquier referencia de papel existente para organizar fibras sutiles, partículas y variaciones tonales. Mantenga la calidad de la superficie más importante que un objeto independiente.
 
-Fondo: Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Fondo: toma como referencia el material, la paleta y la atmósfera; si faltan, crea un acabado de superficie relacionado. Un parche localizado puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un escenario narrativo.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el material, la superficie, la paleta y la atmósfera relevantes sin requerir una silueta de objeto o una escena completa. Cree el efecto solicitado cuando no haya señales materiales, sin pretender haber identificado el material real de la fuente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: El color envejecido, los bordes rasgados y el color amarillento son opcionales. Un libro u hoja presentado principalmente como un objeto pertenece al tema o a la obra de arte de escena.
+Alcance y límites: el color envejecido, los bordes rasgados y el amarilleo son opcionales. Un libro o una hoja presentados principalmente como objetos pertenecen a las categorías de motivos principales o escenas.
 ```
 
 ## Textura del material: tela
@@ -1227,7 +1227,7 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Utilice la paleta de entrada y las señales de materiales para desarrollar hilos cruzados, capas de fibra o una superficie tejida. Coordine el grosor y la densidad de la línea para que el carácter del material sea legible.
 
-Fondo: Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Fondo: toma como referencia el material, la paleta y la atmósfera; si faltan, crea un acabado de superficie relacionado. Un parche localizado puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un escenario narrativo.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
@@ -1247,7 +1247,7 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Desarrolla abrasión variada, partículas, parches desgastados o marcas de cepillo que parecen pertenecer a la misma superficie. Coordinar su densidad e intensidad con el tema y material fuente.
 
-Fondo: Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Fondo: toma como referencia el material, la paleta y la atmósfera; si faltan, crea un acabado de superficie relacionado. Un parche localizado puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un escenario narrativo.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
@@ -1267,7 +1267,7 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Extiende la textura elegida por toda la imagen. Mantenga la escala, la paleta y la densidad del material coherentes en los bordes sin dejar un área de respaldo visible separada.
 
-Fondo: Traduzca señales relevantes de color o material del respaldo original a la textura principal misma. Cree detalles de superficie relacionados de área completa si no existe respaldo; el contenido y el terreno se fusionan en esta dirección en lugar de dejar visible un fondo completo separado.
+Fondo: incorpora los indicios relevantes de color o material del fondo original a la propia textura principal. Si no hay fondo, crea detalles de superficie relacionados en toda el área; en esta propuesta, contenido y fondo se fusionan en lugar de dejar visible un fondo completo independiente.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
@@ -1285,15 +1285,15 @@ Dirección deseada: Texturas → Composición → Fragmento de textura local
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Concentre los detalles relevantes de la superficie dentro de un parche localizado con un límite regular, natural o que se desvanece. Deje espacio a su alrededor para tener antecedentes o información de apoyo.
+Estructura deseada: concentra los detalles de superficie pertinentes dentro de una zona localizada con un borde regular, natural o difuminado. Conserva espacio alrededor para un fondo o información de apoyo.
 
-Fondo: Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Fondo: toma como referencia el material, la paleta y la atmósfera; si faltan, crea un acabado de superficie relacionado. Un parche localizado puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un escenario narrativo.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el material, la superficie, la paleta y la atmósfera relevantes sin requerir una silueta de objeto o una escena completa. Cree el efecto solicitado cuando no haya señales materiales, sin pretender haber identificado el material real de la fuente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: La textura sigue siendo el contenido principal. Si el parche se convierte en un objeto identificable cuya identidad domina, reconsiderelo como obra de arte.
+Alcance y límites: la textura sigue siendo el contenido principal. Si la zona se convierte en un objeto identificable cuya identidad domina, reevalúala como diseño de motivo principal.
 ```
 
 ## Collage de textura en capas
@@ -1307,7 +1307,7 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Seleccione algunos fragmentos de superficie relacionados con el tema o el color. Organice su tamaño, ubicación, rotación y superposición manteniendo las diferencias de materiales y los bordes comprensibles.
 
-Fondo: Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Fondo: toma como referencia el material, la paleta y la atmósfera; si faltan, crea un acabado de superficie relacionado. Un parche localizado puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un escenario narrativo.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
@@ -1327,16 +1327,16 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Extraiga paleta, ritmo, dirección o estructura de la entrada y reorganícelas como formas y líneas geométricas. Utilice escala, ubicación, intersecciones y espacios abiertos en lugar de preservar el reconocimiento de objetos.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: La geometría que aún representa claramente un objeto es un tratamiento de tema geométrico. La geometría no figurativa puede ser regular o irregular.
+Alcance y límites: una geometría que sigue representando claramente un objeto es un tratamiento geométrico del motivo principal. La geometría no figurativa puede ser regular o irregular.
 ```
 
-## flujo organico
+## Flujo orgánico
 
 Curvas, cintas y formas libres crean movimiento sin representar un objeto específico.
 
@@ -1347,13 +1347,13 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Traduce la paleta, el movimiento o la atmósfera de la entrada en curvas conectadas, bandas fluidas o formas orgánicas. Coordinar giros, espesores, conexiones y áreas abiertas.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Las formas orgánicas no necesitan representar seres vivos. La representación clara de objetos pertenece a los temas; una superficie de material puede pertenecer a texturas.
+Alcance y límites: las formas orgánicas no tienen que representar seres vivos. La representación clara de objetos corresponde a motivos principales; una superficie material puede corresponder a texturas.
 ```
 
 ## Marcas expresivas
@@ -1367,13 +1367,13 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Reorganice la paleta y la atmósfera de la entrada a través de marcas direccionales. Coordine la densidad, la longitud, el grosor y la superposición para que las marcas mismas lleven la expresión.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Simular una herramienta de pintura real en particular es opcional. Las marcas que representan principalmente un objeto reconocible siguen siendo objeto de tratamiento.
+Alcance y límites: simular una herramienta real de pintura concreta es opcional. Las marcas que representan principalmente un objeto reconocible siguen siendo un tratamiento del motivo principal.
 ```
 
 ## Campos de color
@@ -1381,19 +1381,19 @@ Alcance y límites: Simular una herramienta de pintura real en particular es opc
 Las áreas de color, la superposición y las relaciones de color forman la composición abstracta.
 
 ```text
-Dirección deseada: Obra abstracta → Formularios → Campos de color
+Dirección deseada: Arte abstracto → Formas → Campos de color
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
 Estructura deseada: Reduzca la paleta y el estado de ánimo de la entrada a unos pocos campos de color. Organice el área, la ubicación, los límites, la transparencia o las transiciones para que las relaciones de color transmitan la imagen.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Un único fondo liso no es automáticamente una composición de campo de color. Los bloques de colores que representan claramente un objeto siguen siendo un tratamiento temático.
+Alcance y límites: un único fondo liso no es automáticamente una composición de campos de color. Los bloques de color que representan claramente un objeto siguen siendo un tratamiento del motivo principal.
 ```
 
 ## grupo central
@@ -1407,27 +1407,27 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Concentre formas, líneas o áreas de color no figurativas cerca del centro. Genere enfoque a través de la escala, la superposición y la densidad mientras coordina el espacio circundante.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: La simetría especular es opcional. Si el arreglo forma claramente un objeto específico, vuelva a evaluarlo como obra de arte.
+Alcance y límites: la simetría especular es opcional. Si la disposición forma claramente un objeto específico, reevalúala como diseño de motivo principal.
 ```
 
-## abstracción compensada
+## Abstracción desplazada
 
 Los elementos abstractos se concentran en un lado, creando contraste con un área abierta.
 
 ```text
-Dirección deseada: Arte abstracto → Composición → abstracción compensada
+Dirección deseada: Arte abstracto → Composición → Abstracción desplazada
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mueve las principales formas o campos abstractos hacia un lado. Limite el peso visual en la región más tranquila para que el espacio abierto y desplazado permanezca despejado.
+Estructura deseada: desplaza las formas o campos abstractos principales hacia un lado. Limita el peso visual de la zona más tranquila para que el desplazamiento y el espacio libre sigan siendo claros.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
@@ -1436,24 +1436,24 @@ Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la d
 Alcance y límites: El espacio abierto puede incluir color o una textura sutil; no es necesario que sea transparente. No distribuyas todo uniformemente solo para llenar el área.
 ```
 
-## Distribución gratuita
+## Distribución libre
 
 Los elementos abstractos ocupan posiciones variadas sin repetición periódica.
 
 ```text
-Dirección deseada: Arte abstracto → Composición → Distribución gratuita
+Dirección deseada: Arte abstracto → Composición → Distribución libre
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
 Estructura deseada: Organice formas, líneas y colores no figurativos con escala y espaciado variados. Equilibre las regiones densas y abiertas manteniendo una organización libre y no periódica.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: No es lo mismo la distribución gratuita que un montón no considerado. Un arreglo que se repite como una unidad periódica pertenece a los patrones.
+Alcance y límites: una distribución libre no equivale a una acumulación sin criterio. Una disposición que se repite como unidad periódica pertenece a patrones.
 ```
 
 ## Formas abstractas recortadas
@@ -1467,13 +1467,13 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Amplíe o mueva formas abstractas más allá de los bordes seleccionados. Utilice el recorte para crear escala y extensión mientras coordina las relaciones que permanecen visibles.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Cruzar un borde no establece un mosaico perfecto. No se requiere un objeto físico completo o una escena fuera del marco.
+Alcance y límites: cruzar un borde no establece una repetición sin juntas. No hace falta un objeto físico completo ni una escena fuera del marco.
 ```
 
 ## Zonas superpuestas
@@ -1485,9 +1485,9 @@ Dirección deseada: Arte abstracto → Composición → Zonas superpuestas
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Organice la paleta de entrada y los formularios en algunas regiones principales. Construya relaciones a través de la partición, la superposición, el cruce de formas o la transparencia.
+Estructura deseada: organiza la paleta y las formas de la imagen de entrada en unas pocas regiones principales. Crea relaciones mediante divisiones, superposiciones, formas que se cruzan o transparencias.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
@@ -1498,14 +1498,14 @@ Alcance y límites: Las divisiones iguales y una cuadrícula regular son opciona
 
 ## fondo transparente
 
-Asunto único: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.
+Motivo único: el fondo permanece transparente; el damero solo es una ayuda de visualización.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Un solo sujeto → Fondo → Fondo transparente
+Dirección deseada: Motivo principal → Motivo único → Fondo → Fondo transparente
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga un tema focal coherente. Si hay varios objetos independientes, elija el tema principal u organice un todo visual claramente unificado.
+Estructura deseada: conserva un único motivo focal coherente. Si hay varios objetos independientes, elige el motivo principal u organízalos como un conjunto visual claramente unificado.
 
 Fondo: Utilice cualquier paleta, tratamiento o tema necesario relevante de un fondo existente, luego elimine la capa de respaldo. Mantenga transparente un fondo ausente en lugar de pintar un fondo falso; Los colores necesarios dentro del contenido pueden permanecer.
 
@@ -1513,19 +1513,19 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La verdadera transparencia requiere un canal alfa. No pintes un tablero de ajedrez o un fondo blanco en la imagen y la llames transparente; afirman que el posprocesamiento es necesario si la herramienta no puede producir transparencia.
+Alcance y límites: la transparencia real exige un canal alfa. No pintes un damero ni un fondo blanco en la imagen y lo llames transparente; indica que hace falta posprocesamiento si la herramienta no puede producir transparencia.
 ```
 
 ## Fondo sólido
 
-Tema único: Un color uniforme forma el fondo; El blanco también es un fondo sólido.
+Motivo único: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Un solo sujeto → Fondo → Fondo sólido
+Dirección deseada: Motivo principal → Motivo único → Fondo → Fondo de color uniforme
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga un tema focal coherente. Si hay varios objetos independientes, elija el tema principal u organice un todo visual claramente unificado.
+Estructura deseada: conserva un único motivo focal coherente. Si hay varios objetos independientes, elige el motivo principal u organízalos como un conjunto visual claramente unificado.
 
 Fondo: Elija un color adecuado del fondo o tema existente, o utilice un color específico. Si no se proporciona ninguna base, cree un respaldo de un solo color relacionado con el tema y manténgalo uniforme.
 
@@ -1538,14 +1538,14 @@ Alcance y límites: No agregue patrones, degradados, texturas o escenas al respa
 
 ## Fondo degradado
 
-Asunto único: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.
+Motivo único: el fondo cambia de color o brillo de forma continua y el contenido principal sigue distinguiéndose.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Un solo sujeto → Fondo → Fondo degradado
+Dirección deseada: Motivo principal → Motivo único → Fondo → Fondo degradado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga un tema focal coherente. Si hay varios objetos independientes, elija el tema principal u organice un todo visual claramente unificado.
+Estructura deseada: conserva un único motivo focal coherente. Si hay varios objetos independientes, elige el motivo principal u organízalos como un conjunto visual claramente unificado.
 
 Fondo: Utilice el color y la atmósfera del fondo o tema de origen para crear una transición continua de tono, color u opacidad. Cuando esté ausente, cree un gradiente relacionado y coordine su dirección y fuerza.
 
@@ -1558,14 +1558,14 @@ Alcance y límites: Dos áreas planas con una división marcada no son un gradie
 
 ## Fondo estampado: local
 
-Tema único: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.
+Motivo único: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Asunto único → Fondo → Fondo estampado: local
+Dirección deseada: Motivo principal → Motivo único → Fondo → Fondo estampado localizado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga un tema focal coherente. Si hay varios objetos independientes, elija el tema principal u organice un todo visual claramente unificado.
+Estructura deseada: conserva un único motivo focal coherente. Si hay varios objetos independientes, elige el motivo principal u organízalos como un conjunto visual claramente unificado.
 
 Fondo: Utilice elementos de fondo, tratamiento y paleta como referencias y reorganícelos en un respaldo decorativo local. Si no existe ninguno, o la fuente sólo tiene un fondo plano o transparente, cree motivos relacionados. Conservar la transparencia, el color base original o un fondo solicitado explícitamente fuera del parche.
 
@@ -1578,14 +1578,14 @@ Alcance y límites: El parche puede ser regular o libre pero no cubre el lienzo.
 
 ## Fondo estampado: área completa
 
-Asunto único: un fondo estampado cubre la imagen detrás de un contenido en primer plano claramente legible.
+Motivo único: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Un solo sujeto → Fondo → Fondo estampado: área completa
+Dirección deseada: Motivo principal → Motivo único → Fondo → Fondo estampado integral
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga un tema focal coherente. Si hay varios objetos independientes, elija el tema principal u organice un todo visual claramente unificado.
+Estructura deseada: conserva un único motivo focal coherente. Si hay varios objetos independientes, elige el motivo principal u organízalos como un conjunto visual claramente unificado.
 
 Fondo: Desarrolla motivos de fondo y señales de color existentes en un respaldo que cubra toda la imagen. Si está ausente, cree motivos relacionados; controle la escala, la densidad y el contraste para preservar la jerarquía del primer plano.
 
@@ -1593,19 +1593,19 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La cobertura total no es prueba de que la imagen completa se muestre sin problemas. Mantenga visible el contenido en primer plano y conserve la disposición del patrón cuando los patrones sean la categoría principal.
+Alcance y límites: la cobertura total no demuestra que la imagen completa se repita sin juntas. Mantén visible el contenido de primer plano y conserva la disposición del patrón cuando esta sea la categoría principal.
 ```
 
 ## Fondo texturizado
 
-Asunto único: Granos de papel, partículas u otro carácter superficial respaldan el contenido en primer plano.
+Motivo único: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Un solo sujeto → Fondo → Fondo texturizado
+Dirección deseada: Motivo principal → Motivo único → Fondo → Fondo texturizado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga un tema focal coherente. Si hay varios objetos independientes, elija el tema principal u organice un todo visual claramente unificado.
+Estructura deseada: conserva un único motivo focal coherente. Si hay varios objetos independientes, elige el motivo principal u organízalos como un conjunto visual claramente unificado.
 
 Fondo: Haga referencia a los detalles, la paleta y la densidad de la superficie existente, o cree una textura de baja interferencia relacionada con el tema cuando esté ausente. Coordine la escala y el contraste para que el material siga desempeñando un papel de apoyo.
 
@@ -1613,39 +1613,39 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Alcance y límites: un fondo texturizado no debe convertirse automáticamente en un objeto independiente o una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal de su fondo de apoyo.
 ```
 
-## Antecedentes ambientales
+## Fondo ambiental
 
-Tema único: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.
+Motivo único: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.
 
 ```text
-Dirección deseada: Dirigido por un sujeto → Un solo tema → Antecedentes → Antecedentes ambientales
+Dirección deseada: Motivo principal → Motivo único → Fondo → Fondo ambiental
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga un tema focal coherente. Si hay varios objetos independientes, elija el tema principal u organice un todo visual claramente unificado.
+Estructura deseada: conserva un único motivo focal coherente. Si hay varios objetos independientes, elige el motivo principal u organízalos como un conjunto visual claramente unificado.
 
-Fondo: Referenciar la ubicación existente, los elementos ambientales y la atmósfera, adaptándolos al contenido principal. Si está ausente o es solo simple o transparente, cree una configuración relacionada y coordine la escala, dirección y profundidad.
+Fondo: toma como referencia el lugar, los elementos del entorno y la atmósfera existentes, adaptándolos al contenido principal. Si no hay fondo, o si es liso o transparente, crea un escenario relacionado y coordina la escala, la dirección y la profundidad.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Para las categorías de tema, patrón, textura o abstracto, el entorno sigue siendo secundario. Reevaluar la imagen como escena si el entorno o la narrativa se convierten en la expresión principal.
+Alcance y límites: en las categorías de motivos principales, patrones, texturas o abstracciones, el entorno sigue siendo secundario. Reevalúa la imagen como escena si el entorno o la narración se convierten en la expresión principal.
 ```
 
 ## fondo transparente
 
-Múltiples sujetos: el suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.
+Varios motivos principales: el fondo permanece transparente; el damero solo es una ayuda de visualización.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Múltiples sujetos → Fondo → Fondo transparente
+Dirección deseada: Motivo principal → Varios motivos → Fondo → Fondo transparente
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conserve varios temas identificables y su agrupación principal. Agregue objetos relacionados con el tema si es necesario; una colección aún debería mostrar sus elementos de forma independiente.
+Estructura deseada: conserva varios motivos identificables y su agrupación principal. Añade objetos relacionados con el tema si hace falta; una colección debe seguir mostrando sus elementos de forma independiente.
 
 Fondo: Utilice cualquier paleta, tratamiento o tema necesario relevante de un fondo existente, luego elimine la capa de respaldo. Mantenga transparente un fondo ausente en lugar de pintar un fondo falso; Los colores necesarios dentro del contenido pueden permanecer.
 
@@ -1653,19 +1653,19 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La verdadera transparencia requiere un canal alfa. No pintes un tablero de ajedrez o un fondo blanco en la imagen y la llames transparente; afirman que el posprocesamiento es necesario si la herramienta no puede producir transparencia.
+Alcance y límites: la transparencia real exige un canal alfa. No pintes un damero ni un fondo blanco en la imagen y lo llames transparente; indica que hace falta posprocesamiento si la herramienta no puede producir transparencia.
 ```
 
 ## Fondo sólido
 
-Múltiples temas: un color uniforme forma el fondo; El blanco también es un fondo sólido.
+Varios motivos principales: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Múltiples sujetos → Fondo → Fondo sólido
+Dirección deseada: Motivo principal → Varios motivos → Fondo → Fondo de color uniforme
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conserve varios temas identificables y su agrupación principal. Agregue objetos relacionados con el tema si es necesario; una colección aún debería mostrar sus elementos de forma independiente.
+Estructura deseada: conserva varios motivos identificables y su agrupación principal. Añade objetos relacionados con el tema si hace falta; una colección debe seguir mostrando sus elementos de forma independiente.
 
 Fondo: Elija un color adecuado del fondo o tema existente, o utilice un color específico. Si no se proporciona ninguna base, cree un respaldo de un solo color relacionado con el tema y manténgalo uniforme.
 
@@ -1681,11 +1681,11 @@ Alcance y límites: No agregue patrones, degradados, texturas o escenas al respa
 Múltiples sujetos: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Múltiples sujetos → Fondo → Fondo degradado
+Dirección deseada: Motivo principal → Varios motivos → Fondo → Fondo degradado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conserve varios temas identificables y su agrupación principal. Agregue objetos relacionados con el tema si es necesario; una colección aún debería mostrar sus elementos de forma independiente.
+Estructura deseada: conserva varios motivos identificables y su agrupación principal. Añade objetos relacionados con el tema si hace falta; una colección debe seguir mostrando sus elementos de forma independiente.
 
 Fondo: Utilice el color y la atmósfera del fondo o tema de origen para crear una transición continua de tono, color u opacidad. Cuando esté ausente, cree un gradiente relacionado y coordine su dirección y fuerza.
 
@@ -1701,11 +1701,11 @@ Alcance y límites: Dos áreas planas con una división marcada no son un gradie
 Múltiples sujetos: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples sujetos → Fondo → Fondo estampado: local
+Dirección deseada: Motivo principal → Varios motivos → Fondo → Fondo estampado localizado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conserve varios temas identificables y su agrupación principal. Agregue objetos relacionados con el tema si es necesario; una colección aún debería mostrar sus elementos de forma independiente.
+Estructura deseada: conserva varios motivos identificables y su agrupación principal. Añade objetos relacionados con el tema si hace falta; una colección debe seguir mostrando sus elementos de forma independiente.
 
 Fondo: Utilice elementos de fondo, tratamiento y paleta como referencias y reorganícelos en un respaldo decorativo local. Si no existe ninguno, o la fuente sólo tiene un fondo plano o transparente, cree motivos relacionados. Conservar la transparencia, el color base original o un fondo solicitado explícitamente fuera del parche.
 
@@ -1721,11 +1721,11 @@ Alcance y límites: El parche puede ser regular o libre pero no cubre el lienzo.
 Múltiples sujetos: un fondo estampado cubre la imagen detrás de un contenido en primer plano claramente legible.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Múltiples sujetos → Fondo → Fondo estampado: área completa
+Dirección deseada: Motivo principal → Varios motivos → Fondo → Fondo estampado integral
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conserve varios temas identificables y su agrupación principal. Agregue objetos relacionados con el tema si es necesario; una colección aún debería mostrar sus elementos de forma independiente.
+Estructura deseada: conserva varios motivos identificables y su agrupación principal. Añade objetos relacionados con el tema si hace falta; una colección debe seguir mostrando sus elementos de forma independiente.
 
 Fondo: Desarrolla motivos de fondo y señales de color existentes en un respaldo que cubra toda la imagen. Si está ausente, cree motivos relacionados; controle la escala, la densidad y el contraste para preservar la jerarquía del primer plano.
 
@@ -1733,19 +1733,19 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La cobertura total no es prueba de que la imagen completa se muestre sin problemas. Mantenga visible el contenido en primer plano y conserve la disposición del patrón cuando los patrones sean la categoría principal.
+Alcance y límites: la cobertura total no demuestra que la imagen completa se repita sin juntas. Mantén visible el contenido de primer plano y conserva la disposición del patrón cuando esta sea la categoría principal.
 ```
 
 ## Fondo texturizado
 
-Múltiples temas: Granos de papel, partículas u otros caracteres de la superficie respaldan el contenido del primer plano.
+Varios motivos principales: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido del primer plano.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Múltiples sujetos → Fondo → Fondo texturizado
+Dirección deseada: Motivo principal → Varios motivos → Fondo → Fondo texturizado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conserve varios temas identificables y su agrupación principal. Agregue objetos relacionados con el tema si es necesario; una colección aún debería mostrar sus elementos de forma independiente.
+Estructura deseada: conserva varios motivos identificables y su agrupación principal. Añade objetos relacionados con el tema si hace falta; una colección debe seguir mostrando sus elementos de forma independiente.
 
 Fondo: Haga referencia a los detalles, la paleta y la densidad de la superficie existente, o cree una textura de baja interferencia relacionada con el tema cuando esté ausente. Coordine la escala y el contraste para que el material siga desempeñando un papel de apoyo.
 
@@ -1753,35 +1753,35 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Alcance y límites: un fondo texturizado no debe convertirse automáticamente en un objeto independiente o una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal de su fondo de apoyo.
 ```
 
-## Antecedentes ambientales
+## Fondo ambiental
 
-Múltiples temas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.
+Varios motivos principales: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples temas → Antecedentes → Antecedentes ambientales
+Dirección deseada: Motivo principal → Varios motivos → Fondo → Fondo ambiental
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conserve varios temas identificables y su agrupación principal. Agregue objetos relacionados con el tema si es necesario; una colección aún debería mostrar sus elementos de forma independiente.
+Estructura deseada: conserva varios motivos identificables y su agrupación principal. Añade objetos relacionados con el tema si hace falta; una colección debe seguir mostrando sus elementos de forma independiente.
 
-Fondo: Referenciar la ubicación existente, los elementos ambientales y la atmósfera, adaptándolos al contenido principal. Si está ausente o es solo simple o transparente, cree una configuración relacionada y coordine la escala, dirección y profundidad.
+Fondo: toma como referencia el lugar, los elementos del entorno y la atmósfera existentes, adaptándolos al contenido principal. Si no hay fondo, o si es liso o transparente, crea un escenario relacionado y coordina la escala, la dirección y la profundidad.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Para las categorías de tema, patrón, textura o abstracto, el entorno sigue siendo secundario. Reevaluar la imagen como escena si el entorno o la narrativa se convierten en la expresión principal.
+Alcance y límites: en las categorías de motivos principales, patrones, texturas o abstracciones, el entorno sigue siendo secundario. Reevalúa la imagen como escena si el entorno o la narración se convierten en la expresión principal.
 ```
 
 ## fondo transparente
 
-Relaciones entre texto y tema: el fondo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.
+Relaciones entre texto y motivo principal: el fondo permanece transparente; el damero solo es una ayuda de visualización.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Fondo → Fondo transparente
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Fondo → Fondo transparente
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -1793,15 +1793,15 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La verdadera transparencia requiere un canal alfa. No pintes un tablero de ajedrez o un fondo blanco en la imagen y la llames transparente; afirman que el posprocesamiento es necesario si la herramienta no puede producir transparencia.
+Alcance y límites: la transparencia real exige un canal alfa. No pintes un damero ni un fondo blanco en la imagen y lo llames transparente; indica que hace falta posprocesamiento si la herramienta no puede producir transparencia.
 ```
 
 ## Fondo sólido
 
-Relaciones entre texto y tema: un color uniforme forma el fondo; El blanco también es un fondo sólido.
+Relaciones entre texto y motivo principal: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Fondo → Fondo sólido
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Fondo → Fondo de color uniforme
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -1818,10 +1818,10 @@ Alcance y límites: No agregue patrones, degradados, texturas o escenas al respa
 
 ## Fondo degradado
 
-Relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.
+Relaciones entre texto y motivo principal: el fondo cambia de color o brillo de forma continua y el contenido principal sigue distinguiéndose.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Fondo → Fondo degradado
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Fondo → Fondo degradado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -1838,10 +1838,10 @@ Alcance y límites: Dos áreas planas con una división marcada no son un gradie
 
 ## Fondo estampado: local
 
-Relaciones entre texto y tema: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.
+Relaciones entre texto y motivo principal: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Fondo → Fondo estampado: local
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Fondo → Fondo estampado localizado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -1858,10 +1858,10 @@ Alcance y límites: El parche puede ser regular o libre pero no cubre el lienzo.
 
 ## Fondo estampado: área completa
 
-Relaciones entre texto y tema: un fondo estampado cubre la imagen detrás del contenido en primer plano claramente legible.
+Relaciones entre texto y motivo principal: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Fondo → Fondo estampado: área completa
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Fondo → Fondo estampado integral
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -1873,15 +1873,15 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La cobertura total no es prueba de que la imagen completa se muestre sin problemas. Mantenga visible el contenido en primer plano y conserve la disposición del patrón cuando los patrones sean la categoría principal.
+Alcance y límites: la cobertura total no demuestra que la imagen completa se repita sin juntas. Mantén visible el contenido de primer plano y conserva la disposición del patrón cuando esta sea la categoría principal.
 ```
 
 ## Fondo texturizado
 
-Relaciones entre texto y tema: el grano del papel, las partículas u otros caracteres superficiales respaldan el contenido en primer plano.
+Relaciones entre texto y motivo principal: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Fondo → Fondo texturizado
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Fondo → Fondo texturizado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -1893,39 +1893,39 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Alcance y límites: un fondo texturizado no debe convertirse automáticamente en un objeto independiente o una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal de su fondo de apoyo.
 ```
 
-## Antecedentes ambientales
+## Fondo ambiental
 
-Relaciones entre texto y tema: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.
+Relaciones entre texto y motivo principal: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.
 
 ```text
-Dirección deseada: Dirigido por materia → Texto y relaciones entre materia → Antecedentes → Antecedentes ambientales
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Fondo → Fondo ambiental
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
 Estructura deseada: Conservar el tema y la relación central del texto y la imagen. Coordine la jerarquía, la ubicación y la lectura sin convertir el texto de apoyo en un título dominante no relacionado.
 
-Fondo: Referenciar la ubicación existente, los elementos ambientales y la atmósfera, adaptándolos al contenido principal. Si está ausente o es solo simple o transparente, cree una configuración relacionada y coordine la escala, dirección y profundidad.
+Fondo: toma como referencia el lugar, los elementos del entorno y la atmósfera existentes, adaptándolos al contenido principal. Si no hay fondo, o si es liso o transparente, crea un escenario relacionado y coordina la escala, la dirección y la profundidad.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Para las categorías de tema, patrón, textura o abstracto, el entorno sigue siendo secundario. Reevaluar la imagen como escena si el entorno o la narrativa se convierten en la expresión principal.
+Alcance y límites: en las categorías de motivos principales, patrones, texturas o abstracciones, el entorno sigue siendo secundario. Reevalúa la imagen como escena si el entorno o la narración se convierten en la expresión principal.
 ```
 
 ## fondo transparente
 
-Escenas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.
+Escenas: el fondo permanece transparente; el damero solo es una ayuda de visualización.
 
 ```text
 Dirección deseada: Escenas → Fondo → fondo transparente
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Preservar el espacio esencial de la escena, el entorno y cualquier evento existente. Cambie el suelo detrás de él, la capa de cielo o el respaldo circundante en lugar de eliminar el contexto que lo convierte en una escena.
+Estructura deseada: conserva el espacio esencial de la escena, el entorno y cualquier acontecimiento existente. Cambia el fondo que hay detrás, la capa de cielo o el fondo circundante, en vez de eliminar el contexto que la convierte en una escena.
 
 Fondo: Utilice cualquier paleta, tratamiento o tema necesario relevante de un fondo existente, luego elimine la capa de respaldo. Mantenga transparente un fondo ausente en lugar de pintar un fondo falso; Los colores necesarios dentro del contenido pueden permanecer.
 
@@ -1933,7 +1933,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La verdadera transparencia requiere un canal alfa. No pintes un tablero de ajedrez o un fondo blanco en la imagen y la llames transparente; afirman que el posprocesamiento es necesario si la herramienta no puede producir transparencia.
+Alcance y límites: la transparencia real exige un canal alfa. No pintes un damero ni un fondo blanco en la imagen y lo llames transparente; indica que hace falta posprocesamiento si la herramienta no puede producir transparencia.
 ```
 
 ## Fondo sólido
@@ -1945,7 +1945,7 @@ Dirección deseada: Escenas → Fondo → Fondo sólido
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Preservar el espacio esencial de la escena, el entorno y cualquier evento existente. Cambie el suelo detrás de él, la capa de cielo o el respaldo circundante en lugar de eliminar el contexto que lo convierte en una escena.
+Estructura deseada: conserva el espacio esencial de la escena, el entorno y cualquier acontecimiento existente. Cambia el fondo que hay detrás, la capa de cielo o el fondo circundante, en vez de eliminar el contexto que la convierte en una escena.
 
 Fondo: Elija un color adecuado del fondo o tema existente, o utilice un color específico. Si no se proporciona ninguna base, cree un respaldo de un solo color relacionado con el tema y manténgalo uniforme.
 
@@ -1965,7 +1965,7 @@ Dirección deseada: Escenas → Fondo → Fondo degradado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Preservar el espacio esencial de la escena, el entorno y cualquier evento existente. Cambie el suelo detrás de él, la capa de cielo o el respaldo circundante en lugar de eliminar el contexto que lo convierte en una escena.
+Estructura deseada: conserva el espacio esencial de la escena, el entorno y cualquier acontecimiento existente. Cambia el fondo que hay detrás, la capa de cielo o el fondo circundante, en vez de eliminar el contexto que la convierte en una escena.
 
 Fondo: Utilice el color y la atmósfera del fondo o tema de origen para crear una transición continua de tono, color u opacidad. Cuando esté ausente, cree un gradiente relacionado y coordine su dirección y fuerza.
 
@@ -1985,7 +1985,7 @@ Dirección deseada: Escenas → Fondo → Fondo estampado: local
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Preservar el espacio esencial de la escena, el entorno y cualquier evento existente. Cambie el suelo detrás de él, la capa de cielo o el respaldo circundante en lugar de eliminar el contexto que lo convierte en una escena.
+Estructura deseada: conserva el espacio esencial de la escena, el entorno y cualquier acontecimiento existente. Cambia el fondo que hay detrás, la capa de cielo o el fondo circundante, en vez de eliminar el contexto que la convierte en una escena.
 
 Fondo: Utilice elementos de fondo, tratamiento y paleta como referencias y reorganícelos en un respaldo decorativo local. Si no existe ninguno, o la fuente sólo tiene un fondo plano o transparente, cree motivos relacionados. Conservar la transparencia, el color base original o un fondo solicitado explícitamente fuera del parche.
 
@@ -2005,7 +2005,7 @@ Dirección deseada: Escenas → Fondo → Fondo estampado: área completa
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Preservar el espacio esencial de la escena, el entorno y cualquier evento existente. Cambie el suelo detrás de él, la capa de cielo o el respaldo circundante en lugar de eliminar el contexto que lo convierte en una escena.
+Estructura deseada: conserva el espacio esencial de la escena, el entorno y cualquier acontecimiento existente. Cambia el fondo que hay detrás, la capa de cielo o el fondo circundante, en vez de eliminar el contexto que la convierte en una escena.
 
 Fondo: Desarrolla motivos de fondo y señales de color existentes en un respaldo que cubra toda la imagen. Si está ausente, cree motivos relacionados; controle la escala, la densidad y el contraste para preservar la jerarquía del primer plano.
 
@@ -2013,19 +2013,19 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La cobertura total no es prueba de que la imagen completa se muestre sin problemas. Mantenga visible el contenido en primer plano y conserve la disposición del patrón cuando los patrones sean la categoría principal.
+Alcance y límites: la cobertura total no demuestra que la imagen completa se repita sin juntas. Mantén visible el contenido de primer plano y conserva la disposición del patrón cuando esta sea la categoría principal.
 ```
 
 ## Fondo texturizado
 
-Escenas: Granos de papel, partículas u otros caracteres superficiales respaldan el contenido en primer plano.
+Escenas: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.
 
 ```text
 Dirección deseada: Escenas → Fondo → Fondo texturizado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Preservar el espacio esencial de la escena, el entorno y cualquier evento existente. Cambie el suelo detrás de él, la capa de cielo o el respaldo circundante en lugar de eliminar el contexto que lo convierte en una escena.
+Estructura deseada: conserva el espacio esencial de la escena, el entorno y cualquier acontecimiento existente. Cambia el fondo que hay detrás, la capa de cielo o el fondo circundante, en vez de eliminar el contexto que la convierte en una escena.
 
 Fondo: Haga referencia a los detalles, la paleta y la densidad de la superficie existente, o cree una textura de baja interferencia relacionada con el tema cuando esté ausente. Coordine la escala y el contraste para que el material siga desempeñando un papel de apoyo.
 
@@ -2033,32 +2033,32 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Alcance y límites: un fondo texturizado no debe convertirse automáticamente en un objeto independiente o una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal de su fondo de apoyo.
 ```
 
-## Antecedentes ambientales
+## Fondo ambiental
 
 Escenas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.
 
 ```text
-Dirección deseada: Escenas → Fondo → Antecedentes ambientales
+Dirección deseada: Escenas → Fondo → Fondo ambiental
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Preservar el espacio esencial de la escena, el entorno y cualquier evento existente. Cambie el suelo detrás de él, la capa de cielo o el respaldo circundante en lugar de eliminar el contexto que lo convierte en una escena.
+Estructura deseada: conserva el espacio esencial de la escena, el entorno y cualquier acontecimiento existente. Cambia el fondo que hay detrás, la capa de cielo o el fondo circundante, en vez de eliminar el contexto que la convierte en una escena.
 
-Fondo: Referenciar la ubicación existente, los elementos ambientales y la atmósfera, adaptándolos al contenido principal. Si está ausente o es solo simple o transparente, cree una configuración relacionada y coordine la escala, dirección y profundidad.
+Fondo: toma como referencia el lugar, los elementos del entorno y la atmósfera existentes, adaptándolos al contenido principal. Si no hay fondo, o si es liso o transparente, crea un escenario relacionado y coordina la escala, la dirección y la profundidad.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Para las categorías de tema, patrón, textura o abstracto, el entorno sigue siendo secundario. Reevaluar la imagen como escena si el entorno o la narrativa se convierten en la expresión principal.
+Alcance y límites: en las categorías de motivos principales, patrones, texturas o abstracciones, el entorno sigue siendo secundario. Reevalúa la imagen como escena si el entorno o la narración se convierten en la expresión principal.
 ```
 
 ## fondo transparente
 
-Patrones: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.
+Patrones: el fondo permanece transparente; el damero solo es una ayuda de visualización.
 
 ```text
 Dirección deseada: Patrones → Fondo → fondo transparente
@@ -2069,11 +2069,11 @@ Estructura deseada: Conservar la repetición de motivos u orden decorativo. Si e
 
 Fondo: Utilice cualquier paleta, tratamiento o tema necesario relevante de un fondo existente, luego elimine la capa de respaldo. Mantenga transparente un fondo ausente en lugar de pintar un fondo falso; Los colores necesarios dentro del contenido pueden permanecer.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La verdadera transparencia requiere un canal alfa. No pintes un tablero de ajedrez o un fondo blanco en la imagen y la llames transparente; afirman que el posprocesamiento es necesario si la herramienta no puede producir transparencia.
+Alcance y límites: la transparencia real exige un canal alfa. No pintes un damero ni un fondo blanco en la imagen y lo llames transparente; indica que hace falta posprocesamiento si la herramienta no puede producir transparencia.
 ```
 
 ## Fondo sólido
@@ -2089,7 +2089,7 @@ Estructura deseada: Conservar la repetición de motivos u orden decorativo. Si e
 
 Fondo: Elija un color adecuado del fondo o tema existente, o utilice un color específico. Si no se proporciona ninguna base, cree un respaldo de un solo color relacionado con el tema y manténgalo uniforme.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
@@ -2109,7 +2109,7 @@ Estructura deseada: Conservar la repetición de motivos u orden decorativo. Si e
 
 Fondo: Utilice el color y la atmósfera del fondo o tema de origen para crear una transición continua de tono, color u opacidad. Cuando esté ausente, cree un gradiente relacionado y coordine su dirección y fuerza.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
@@ -2129,7 +2129,7 @@ Estructura deseada: Conservar la repetición de motivos u orden decorativo. Si e
 
 Fondo: Utilice elementos de fondo, tratamiento y paleta como referencias y reorganícelos en un respaldo decorativo local. Si no existe ninguno, o la fuente sólo tiene un fondo plano o transparente, cree motivos relacionados. Conservar la transparencia, el color base original o un fondo solicitado explícitamente fuera del parche.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
@@ -2149,16 +2149,16 @@ Estructura deseada: Conservar la repetición de motivos u orden decorativo. Si e
 
 Fondo: Desarrolla motivos de fondo y señales de color existentes en un respaldo que cubra toda la imagen. Si está ausente, cree motivos relacionados; controle la escala, la densidad y el contraste para preservar la jerarquía del primer plano.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La cobertura total no es prueba de que la imagen completa se muestre sin problemas. Mantenga visible el contenido en primer plano y conserve la disposición del patrón cuando los patrones sean la categoría principal.
+Alcance y límites: la cobertura total no demuestra que la imagen completa se repita sin juntas. Mantén visible el contenido de primer plano y conserva la disposición del patrón cuando esta sea la categoría principal.
 ```
 
 ## Fondo texturizado
 
-Patrones: el grano de papel, las partículas u otros caracteres de la superficie respaldan el contenido del primer plano.
+Patrones: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.
 
 ```text
 Dirección deseada: Patrones → Fondo → Fondo texturizado
@@ -2169,43 +2169,43 @@ Estructura deseada: Conservar la repetición de motivos u orden decorativo. Si e
 
 Fondo: Haga referencia a los detalles, la paleta y la densidad de la superficie existente, o cree una textura de baja interferencia relacionada con el tema cuando esté ausente. Coordine la escala y el contraste para que el material siga desempeñando un papel de apoyo.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Alcance y límites: un fondo texturizado no debe convertirse automáticamente en un objeto independiente o una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal de su fondo de apoyo.
 ```
 
-## Antecedentes ambientales
+## Fondo ambiental
 
 Patrones: un entorno relacionado con un tema respalda el contenido principal desde detrás o alrededor de él.
 
 ```text
-Dirección deseada: Patrones → Fondo → Antecedentes ambientales
+Dirección deseada: Patrones → Fondo → Fondo ambiental
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
 Estructura deseada: Conservar la repetición de motivos u orden decorativo. Si el subtipo elegido requiere un mosaico sin interrupciones, el primer plano, el fondo y el texto deben continuar juntos y verificarse nuevamente después de un cambio de fondo.
 
-Fondo: Referenciar la ubicación existente, los elementos ambientales y la atmósfera, adaptándolos al contenido principal. Si está ausente o es solo simple o transparente, cree una configuración relacionada y coordine la escala, dirección y profundidad.
+Fondo: toma como referencia el lugar, los elementos del entorno y la atmósfera existentes, adaptándolos al contenido principal. Si no hay fondo, o si es liso o transparente, crea un escenario relacionado y coordina la escala, la dirección y la profundidad.
 
-Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree una palabra o frase corta relacionada con el tema como motivo de apoyo. Cuando se requiera un mosaico continuo, incluya texto en la unidad repetida y revise la ortografía, la continuación de los bordes y la legibilidad; de lo contrario, no prometa continuidad. Respete una solicitud explícita de no enviar mensajes de texto.
+Texto: conserva el texto claramente legible del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, crea una palabra o frase breve relacionada con el tema como motivo de apoyo. Si se exige repetición sin juntas, incluye el texto en la unidad de repetición y comprueba la ortografía, la continuidad de los bordes y la legibilidad; de lo contrario, no prometas una repetición sin juntas. Respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Para las categorías de tema, patrón, textura o abstracto, el entorno sigue siendo secundario. Reevaluar la imagen como escena si el entorno o la narrativa se convierten en la expresión principal.
+Alcance y límites: en las categorías de motivos principales, patrones, texturas o abstracciones, el entorno sigue siendo secundario. Reevalúa la imagen como escena si el entorno o la narración se convierten en la expresión principal.
 ```
 
 ## fondo transparente
 
-Texturas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.
+Texturas: el fondo permanece transparente; el damero solo es una ayuda de visualización.
 
 ```text
 Dirección deseada: Texturas → Fondo → fondo transparente
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga el carácter material dominante. Utilice un fragmento de textura local cuando deba ser visible un terreno separado; Una textura opaca de superficie completa y su fondo se unen, por lo que otro soporte completo no puede permanecer visible.
+Estructura deseada: mantén el protagonismo de las cualidades materiales. Usa un fragmento de textura localizado si debe verse un fondo independiente; una textura opaca integral se fusiona con su fondo, por lo que no puede quedar visible a la vez otro fondo completo.
 
 Fondo: Utilice cualquier paleta, tratamiento o tema necesario relevante de un fondo existente, luego elimine la capa de respaldo. Mantenga transparente un fondo ausente en lugar de pintar un fondo falso; Los colores necesarios dentro del contenido pueden permanecer.
 
@@ -2213,19 +2213,19 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserve el material, la superficie, la paleta y la atmósfera relevantes sin requerir una silueta de objeto o una escena completa. Cree el efecto solicitado cuando no haya señales materiales, sin pretender haber identificado el material real de la fuente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: La verdadera transparencia requiere un canal alfa. No pintes un tablero de ajedrez o un fondo blanco en la imagen y la llames transparente; afirman que el posprocesamiento es necesario si la herramienta no puede producir transparencia.
+Alcance y límites: la transparencia real exige un canal alfa. No pintes un damero ni un fondo blanco en la imagen y lo llames transparente; indica que hace falta posprocesamiento si la herramienta no puede producir transparencia.
 ```
 
 ## Fondo sólido
 
-Texturas: Un color uniforme forma el suelo; El blanco también es un fondo sólido.
+Texturas: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.
 
 ```text
 Dirección deseada: Texturas → Fondo → Fondo sólido
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga el carácter material dominante. Utilice un fragmento de textura local cuando deba ser visible un terreno separado; Una textura opaca de superficie completa y su fondo se unen, por lo que otro soporte completo no puede permanecer visible.
+Estructura deseada: mantén el protagonismo de las cualidades materiales. Usa un fragmento de textura localizado si debe verse un fondo independiente; una textura opaca integral se fusiona con su fondo, por lo que no puede quedar visible a la vez otro fondo completo.
 
 Fondo: Elija un color adecuado del fondo o tema existente, o utilice un color específico. Si no se proporciona ninguna base, cree un respaldo de un solo color relacionado con el tema y manténgalo uniforme.
 
@@ -2245,7 +2245,7 @@ Dirección deseada: Texturas → Fondo → Fondo degradado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga el carácter material dominante. Utilice un fragmento de textura local cuando deba ser visible un terreno separado; Una textura opaca de superficie completa y su fondo se unen, por lo que otro soporte completo no puede permanecer visible.
+Estructura deseada: mantén el protagonismo de las cualidades materiales. Usa un fragmento de textura localizado si debe verse un fondo independiente; una textura opaca integral se fusiona con su fondo, por lo que no puede quedar visible a la vez otro fondo completo.
 
 Fondo: Utilice el color y la atmósfera del fondo o tema de origen para crear una transición continua de tono, color u opacidad. Cuando esté ausente, cree un gradiente relacionado y coordine su dirección y fuerza.
 
@@ -2265,7 +2265,7 @@ Dirección deseada: Texturas → Fondo → Fondo estampado: local
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga el carácter material dominante. Utilice un fragmento de textura local cuando deba ser visible un terreno separado; Una textura opaca de superficie completa y su fondo se unen, por lo que otro soporte completo no puede permanecer visible.
+Estructura deseada: mantén el protagonismo de las cualidades materiales. Usa un fragmento de textura localizado si debe verse un fondo independiente; una textura opaca integral se fusiona con su fondo, por lo que no puede quedar visible a la vez otro fondo completo.
 
 Fondo: Utilice elementos de fondo, tratamiento y paleta como referencias y reorganícelos en un respaldo decorativo local. Si no existe ninguno, o la fuente sólo tiene un fondo plano o transparente, cree motivos relacionados. Conservar la transparencia, el color base original o un fondo solicitado explícitamente fuera del parche.
 
@@ -2285,7 +2285,7 @@ Dirección deseada: Texturas → Fondo → Fondo estampado: área completa
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga el carácter material dominante. Utilice un fragmento de textura local cuando deba ser visible un terreno separado; Una textura opaca de superficie completa y su fondo se unen, por lo que otro soporte completo no puede permanecer visible.
+Estructura deseada: mantén el protagonismo de las cualidades materiales. Usa un fragmento de textura localizado si debe verse un fondo independiente; una textura opaca integral se fusiona con su fondo, por lo que no puede quedar visible a la vez otro fondo completo.
 
 Fondo: Desarrolla motivos de fondo y señales de color existentes en un respaldo que cubra toda la imagen. Si está ausente, cree motivos relacionados; controle la escala, la densidad y el contraste para preservar la jerarquía del primer plano.
 
@@ -2293,19 +2293,19 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserve el material, la superficie, la paleta y la atmósfera relevantes sin requerir una silueta de objeto o una escena completa. Cree el efecto solicitado cuando no haya señales materiales, sin pretender haber identificado el material real de la fuente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: La cobertura total no es prueba de que la imagen completa se muestre sin problemas. Mantenga visible el contenido en primer plano y conserve la disposición del patrón cuando los patrones sean la categoría principal.
+Alcance y límites: la cobertura total no demuestra que la imagen completa se repita sin juntas. Mantén visible el contenido de primer plano y conserva la disposición del patrón cuando esta sea la categoría principal.
 ```
 
 ## Fondo texturizado
 
-Texturas: el grano de papel, las partículas u otros caracteres de la superficie respaldan el contenido del primer plano.
+Texturas: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.
 
 ```text
 Dirección deseada: Texturas → Fondo → Fondo texturizado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga el carácter material dominante. Utilice un fragmento de textura local cuando deba ser visible un terreno separado; Una textura opaca de superficie completa y su fondo se unen, por lo que otro soporte completo no puede permanecer visible.
+Estructura deseada: mantén el protagonismo de las cualidades materiales. Usa un fragmento de textura localizado si debe verse un fondo independiente; una textura opaca integral se fusiona con su fondo, por lo que no puede quedar visible a la vez otro fondo completo.
 
 Fondo: Haga referencia a los detalles, la paleta y la densidad de la superficie existente, o cree una textura de baja interferencia relacionada con el tema cuando esté ausente. Coordine la escala y el contraste para que el material siga desempeñando un papel de apoyo.
 
@@ -2313,39 +2313,39 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserve el material, la superficie, la paleta y la atmósfera relevantes sin requerir una silueta de objeto o una escena completa. Cree el efecto solicitado cuando no haya señales materiales, sin pretender haber identificado el material real de la fuente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Alcance y límites: un fondo texturizado no debe convertirse automáticamente en un objeto independiente o una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal de su fondo de apoyo.
 ```
 
-## Antecedentes ambientales
+## Fondo ambiental
 
 Texturas: un entorno relacionado con el tema soporta el contenido principal desde detrás o alrededor de él.
 
 ```text
-Dirección deseada: Texturas → Fondo → Antecedentes ambientales
+Dirección deseada: Texturas → Fondo → Fondo ambiental
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Mantenga el carácter material dominante. Utilice un fragmento de textura local cuando deba ser visible un terreno separado; Una textura opaca de superficie completa y su fondo se unen, por lo que otro soporte completo no puede permanecer visible.
+Estructura deseada: mantén el protagonismo de las cualidades materiales. Usa un fragmento de textura localizado si debe verse un fondo independiente; una textura opaca integral se fusiona con su fondo, por lo que no puede quedar visible a la vez otro fondo completo.
 
-Fondo: Referenciar la ubicación existente, los elementos ambientales y la atmósfera, adaptándolos al contenido principal. Si está ausente o es solo simple o transparente, cree una configuración relacionada y coordine la escala, dirección y profundidad.
+Fondo: toma como referencia el lugar, los elementos del entorno y la atmósfera existentes, adaptándolos al contenido principal. Si no hay fondo, o si es liso o transparente, crea un escenario relacionado y coordina la escala, la dirección y la profundidad.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el material, la superficie, la paleta y la atmósfera relevantes sin requerir una silueta de objeto o una escena completa. Cree el efecto solicitado cuando no haya señales materiales, sin pretender haber identificado el material real de la fuente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Para las categorías de tema, patrón, textura o abstracto, el entorno sigue siendo secundario. Reevaluar la imagen como escena si el entorno o la narrativa se convierten en la expresión principal.
+Alcance y límites: en las categorías de motivos principales, patrones, texturas o abstracciones, el entorno sigue siendo secundario. Reevalúa la imagen como escena si el entorno o la narración se convierten en la expresión principal.
 ```
 
 ## fondo transparente
 
-Obra de arte abstracta: el suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.
+Arte abstracto: el fondo permanece transparente; el damero solo es una ayuda de visualización.
 
 ```text
 Dirección deseada: Arte abstracto → Fondo → fondo transparente
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conservar relaciones no figurativas de forma, línea y color. El fundamento debe apoyar la abstracción en lugar de introducir un objeto identificable dominante.
+Estructura deseada: conserva las relaciones no figurativas de forma, línea y color. El fondo debe apoyar la abstracción, sin introducir un objeto identificable dominante.
 
 Fondo: Utilice cualquier paleta, tratamiento o tema necesario relevante de un fondo existente, luego elimine la capa de respaldo. Mantenga transparente un fondo ausente en lugar de pintar un fondo falso; Los colores necesarios dentro del contenido pueden permanecer.
 
@@ -2353,7 +2353,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: La verdadera transparencia requiere un canal alfa. No pintes un tablero de ajedrez o un fondo blanco en la imagen y la llames transparente; afirman que el posprocesamiento es necesario si la herramienta no puede producir transparencia.
+Alcance y límites: la transparencia real exige un canal alfa. No pintes un damero ni un fondo blanco en la imagen y lo llames transparente; indica que hace falta posprocesamiento si la herramienta no puede producir transparencia.
 ```
 
 ## Fondo sólido
@@ -2365,7 +2365,7 @@ Dirección deseada: Arte abstracto → Fondo → Fondo sólido
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conservar relaciones no figurativas de forma, línea y color. El fundamento debe apoyar la abstracción en lugar de introducir un objeto identificable dominante.
+Estructura deseada: conserva las relaciones no figurativas de forma, línea y color. El fondo debe apoyar la abstracción, sin introducir un objeto identificable dominante.
 
 Fondo: Elija un color adecuado del fondo o tema existente, o utilice un color específico. Si no se proporciona ninguna base, cree un respaldo de un solo color relacionado con el tema y manténgalo uniforme.
 
@@ -2378,14 +2378,14 @@ Alcance y límites: No agregue patrones, degradados, texturas o escenas al respa
 
 ## Fondo degradado
 
-Obra de arte abstracta: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.
+Arte abstracto: el fondo cambia gradualmente de color o luminosidad mientras el contenido principal permanece claro.
 
 ```text
 Dirección deseada: Arte abstracto → Fondo → Fondo degradado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conservar relaciones no figurativas de forma, línea y color. El fundamento debe apoyar la abstracción en lugar de introducir un objeto identificable dominante.
+Estructura deseada: conserva las relaciones no figurativas de forma, línea y color. El fondo debe apoyar la abstracción, sin introducir un objeto identificable dominante.
 
 Fondo: Utilice el color y la atmósfera del fondo o tema de origen para crear una transición continua de tono, color u opacidad. Cuando esté ausente, cree un gradiente relacionado y coordine su dirección y fuerza.
 
@@ -2405,7 +2405,7 @@ Dirección deseada: Arte abstracto → Fondo → Fondo estampado: local
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conservar relaciones no figurativas de forma, línea y color. El fundamento debe apoyar la abstracción en lugar de introducir un objeto identificable dominante.
+Estructura deseada: conserva las relaciones no figurativas de forma, línea y color. El fondo debe apoyar la abstracción, sin introducir un objeto identificable dominante.
 
 Fondo: Utilice elementos de fondo, tratamiento y paleta como referencias y reorganícelos en un respaldo decorativo local. Si no existe ninguno, o la fuente sólo tiene un fondo plano o transparente, cree motivos relacionados. Conservar la transparencia, el color base original o un fondo solicitado explícitamente fuera del parche.
 
@@ -2425,7 +2425,7 @@ Dirección deseada: Arte abstracto → Fondo → Fondo estampado: área completa
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conservar relaciones no figurativas de forma, línea y color. El fundamento debe apoyar la abstracción en lugar de introducir un objeto identificable dominante.
+Estructura deseada: conserva las relaciones no figurativas de forma, línea y color. El fondo debe apoyar la abstracción, sin introducir un objeto identificable dominante.
 
 Fondo: Desarrolla motivos de fondo y señales de color existentes en un respaldo que cubra toda la imagen. Si está ausente, cree motivos relacionados; controle la escala, la densidad y el contraste para preservar la jerarquía del primer plano.
 
@@ -2433,19 +2433,19 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: La cobertura total no es prueba de que la imagen completa se muestre sin problemas. Mantenga visible el contenido en primer plano y conserve la disposición del patrón cuando los patrones sean la categoría principal.
+Alcance y límites: la cobertura total no demuestra que la imagen completa se repita sin juntas. Mantén visible el contenido de primer plano y conserva la disposición del patrón cuando esta sea la categoría principal.
 ```
 
 ## Fondo texturizado
 
-Obra de arte abstracta: granos de papel, partículas u otros caracteres de la superficie respaldan el contenido del primer plano.
+Arte abstracto: el grano del papel, las partículas u otra cualidad de superficie sirven de apoyo al contenido del primer plano.
 
 ```text
 Dirección deseada: Arte abstracto → Fondo → Fondo texturizado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conservar relaciones no figurativas de forma, línea y color. El fundamento debe apoyar la abstracción en lugar de introducir un objeto identificable dominante.
+Estructura deseada: conserva las relaciones no figurativas de forma, línea y color. El fondo debe apoyar la abstracción, sin introducir un objeto identificable dominante.
 
 Fondo: Haga referencia a los detalles, la paleta y la densidad de la superficie existente, o cree una textura de baja interferencia relacionada con el tema cuando esté ausente. Coordine la escala y el contraste para que el material siga desempeñando un papel de apoyo.
 
@@ -2453,25 +2453,25 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Alcance y límites: un fondo texturizado no debe convertirse automáticamente en un objeto independiente o una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal de su fondo de apoyo.
 ```
 
-## Antecedentes ambientales
+## Fondo ambiental
 
 Obra de arte abstracta: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.
 
 ```text
-Dirección deseada: Arte abstracto → Fondo → Antecedentes ambientales
+Dirección deseada: Arte abstracto → Fondo → Fondo ambiental
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Conservar relaciones no figurativas de forma, línea y color. El fundamento debe apoyar la abstracción en lugar de introducir un objeto identificable dominante.
+Estructura deseada: conserva las relaciones no figurativas de forma, línea y color. El fondo debe apoyar la abstracción, sin introducir un objeto identificable dominante.
 
-Fondo: Referenciar la ubicación existente, los elementos ambientales y la atmósfera, adaptándolos al contenido principal. Si está ausente o es solo simple o transparente, cree una configuración relacionada y coordine la escala, dirección y profundidad.
+Fondo: toma como referencia el lugar, los elementos del entorno y la atmósfera existentes, adaptándolos al contenido principal. Si no hay fondo, o si es liso o transparente, crea un escenario relacionado y coordina la escala, la dirección y la profundidad.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Para las categorías de tema, patrón, textura o abstracto, el entorno sigue siendo secundario. Reevaluar la imagen como escena si el entorno o la narrativa se convierten en la expresión principal.
+Alcance y límites: en las categorías de motivos principales, patrones, texturas o abstracciones, el entorno sigue siendo secundario. Reevalúa la imagen como escena si el entorno o la narración se convierten en la expresión principal.
 ```

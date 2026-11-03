@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/collection--collection-grid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/collection--collection-grid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,9 +26,9 @@ COMMENT LE RECONNAÎTRE
 
 ## Qu'est-ce qui définit cette direction
 
-Le but est de montrer des éléments individuels. Une grille finie n’est pas automatiquement une répétition transparente et les éléments n’ont pas besoin d’être identiques.
+Le but est de montrer des éléments individuels. Une grille finie n’est pas automatiquement un motif répétable sans raccord visible, et les éléments n’ont pas besoin d’être identiques.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -64,21 +64,21 @@ Conservez le thème central et les caractéristiques permettant de reconnaître 
 
 **Portée et limites**
 
-Le but est de montrer des éléments individuels. Une grille finie n’est pas automatiquement une répétition transparente et les éléments n’ont pas besoin d’être identiques.
+Le but est de montrer des éléments individuels. Une grille finie n’est pas automatiquement un motif répétable sans raccord visible, et les éléments n’ont pas besoin d’être identiques.
 
 <a id="backgrounds"></a>
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
-[![Fond transparent : Sujets multiples : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Fond transparent : sujets multiples : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Fond transparent↗
 
-Sujets multiples : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--multiple--transparent.md)[![Fond uni : sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Sujets multiples : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--multiple--transparent.md)[![Fond uni : sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Sujets multiples : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--multiple--solid.md)[![Fond dégradé : Sujets multiples : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
@@ -92,7 +92,7 @@ Sujets multiples : un patch décoratif se trouve derrière le contenu, laissant
 
 ### Fond à motifs : zone entière↗
 
-Sujets multiples : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](background--multiple--pattern-full.md)[![Arrière-plan texturé : sujets multiples : le grain du papier, les particules ou tout autre caractère de surface prennent en charge le contenu du premier plan.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
+Sujets multiples : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](background--multiple--pattern-full.md)[![Fond texturé : sujets multiples : le grain du papier, les particules ou une autre qualité de surface mettent en valeur le contenu du premier plan.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
 
 ### Fond texturé↗
 
@@ -104,11 +104,11 @@ Sujets multiples : un environnement lié à un thème prend en charge le conten
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Disposition de collection libre : les éléments indépendants sont disposés de manière lâche et irrégulière tout en partageant un thème.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-collection--collection-free-1.svg)
 
-### Mise en page de collection gratuite↗
+### Disposition libre d’une collection↗
 
 Les éléments indépendants sont disposés de manière lâche et irrégulière tout en partageant un thème.](collection--collection-free.md)
 

@@ -14,11 +14,11 @@
 
 # 全領域テクスチャ
 
-表面のディテールが画像全体に表示されるため、メインのコンテンツと地面が 1 つになります。
+表面の細部が画面全体を埋め、主役となる内容と背景が一体化します。
 
 <a id="understand"></a>
 
-![全領域テクスチャ: 表面の詳細が画像を満たすため、メイン コンテンツと地面が 1 つになります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-full-1.svg)
+![全面の肌理：表面の細部が画像を満たし、主な内容と背景が一体になります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-full-1.svg)
 
 構図の模式図
 
@@ -26,13 +26,13 @@
 
 ## この方向性を定義するもの
 
-完全なカバレッジはシームレスなタイリングを意味するものではありません。同時に、不透明な全領域テクスチャの背後に別の完全な背景を視覚的に残す必要はありません。
+全面を覆っていても、継ぎ目なく繰り返せるとは限りません。不透明な肌理で全面を覆いながら、その背後に別の完全な背景を見える状態で残すよう、同時に要求しないでください。
 
 [← テクスチャに戻る](../texture.md)
 
 <a id="ai-directions"></a>
 
-AIの指示
+AIで広げる創作の方向性
 
 ## この方向性を AI に取り入れましょう
 
@@ -40,7 +40,7 @@ AIの指示
 
 **目指す表現**
 
-テクスチャ → 構成 → 全領域テクスチャ
+テクスチャ → 構成 → 全面を覆うテクスチャ
 
 **入力と出力**
 
@@ -52,7 +52,7 @@ AIの指示
 
 **背景**
 
-関連する色または素材の手がかりを元のバッキングからメインのテクスチャ自体に変換します。バッキングが存在しない場合は、関連する全領域サーフェスの詳細を作成します。コンテンツと地面は、個別の完全な背景が表示されたままになるのではなく、この方向にマージされます。
+元の背景の関連する色や素材の手がかりを、主役のテクスチャ自体に取り入れます。背景がない場合は、関連する表面の細部を全面に作ります。この表現では、別の背景全体を見せるのではなく、内容と背景を一体化させます。
 
 **文字の扱い**
 
@@ -64,39 +64,39 @@ AIの指示
 
 **適用範囲と制約**
 
-完全なカバレッジはシームレスなタイリングを意味するものではありません。同時に、不透明な全領域テクスチャの背後に別の完全な背景を視覚的に残す必要はありません。
+全面を覆っていても、継ぎ目なく繰り返せるとは限りません。不透明な肌理で全面を覆いながら、その背後に別の完全な背景を見える状態で残すよう、同時に要求しないでください。
 
 <a id="backgrounds"></a>
 
 ## 背景を探る
 
-これらの例では、同じコンテンツ ファミリ内の根拠を比較しています。トリートメントを適用するときは、現在の組成を維持します。完全な手順については、例を開いてください。
+これらの例では、同じ内容のカテゴリ内で背景を比較しています。表現を適用するときも現在の構図を維持してください。各例を開くと指示の全文を確認できます。
 
-[![透明な背景: テクスチャ: 地面は透明のままです。チェッカーボードは単なる表示補助です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
+[![透明な背景: テクスチャ: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### 透明背景↗
 
-テクスチャ: 地面は透明のままです。チェッカーボードは単なる表示補助です。](background--texture--transparent.md)[![単色の背景: テクスチャ: 1 つの均一な色が地面を形成します。白も単色の背景です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+テクスチャ: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](background--texture--transparent.md)[![無地の背景：肌理：均一な一色を背景にします。白も無地の背景に含まれます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 ### 無地の背景↗
 
-テクスチャ: 1 つの均一な色が地面を形成します。白も単色の背景です。](background--texture--solid.md)[![グラデーションの背景: テクスチャ: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+テクスチャ: 均一な1色で背景を作ります。白も無地の背景に含まれます。](background--texture--solid.md)[![グラデーションの背景: テクスチャ: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### グラデーション背景↗
 
-テクスチャ: メインコンテンツはクリアなままでありながら、裏地の色や明るさが連続的に変化します。](background--texture--gradient.md)[![パターン化された背景: ローカル: テクスチャ: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
+テクスチャ: 主役をはっきり保ちながら、背景の色や明るさを連続的に変化させます。](background--texture--gradient.md)[![柄の背景：部分：肌理：内容の背後に部分的な装飾の下地を置き、その外側には別の領域を残します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
 
-### パターン背景: ローカル↗
+### 柄の背景：部分↗
 
-テクスチャ: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--texture--pattern-local.md)[![パターン化された背景: 全領域: テクスチャ: パターン化された地面が、はっきりと読み取れる前景コンテンツの後ろの画像を覆います。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
+テクスチャ: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--texture--pattern-local.md)[![柄の背景：全面：肌理：背景全体に柄を敷き、手前の内容ははっきり読み取れるようにします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
 
 ### パターン背景：全面↗
 
-テクスチャ: パターン化された地面が、はっきりと読み取れる前景コンテンツの背後の画像を覆います。](background--texture--pattern-full.md)[![テクスチャ背景: テクスチャ: 紙粒、粒子、または別の表面の文字が前景コンテンツをサポートします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--texture-1.svg)
+テクスチャ: はっきり見える前景の内容の背後を、模様のある背景で覆います。](background--texture--pattern-full.md)[![質感のある背景: テクスチャ: 紙の繊維や粒子などの表面の質感で、前景の内容を引き立てます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--texture-1.svg)
 
 ### テクスチャ背景↗
 
-テクスチャ: 紙粒、粒子、または別の表面の特徴が前景コンテンツをサポートします。](background--texture--texture.md)[![環境背景: テクスチャ: テーマに関連した環境は、メイン コンテンツをその背後または周囲からサポートします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
+テクスチャ: 紙の繊維や粒子などの表面の質感で、前景の内容を引き立てます。](background--texture--texture.md)[![環境背景: テクスチャ: テーマに関連した環境は、メイン コンテンツをその背後または周囲からサポートします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
 
 ### 環境背景↗
 
@@ -104,16 +104,16 @@ AIの指示
 
 <a id="related"></a>
 
-## 近くのルートを比較する
+## 近い創作の方向性を比べる
 
-[![ローカル テクスチャ フラグメント: テクスチャ領域が画像の一部を占め、別の地面が見えるようになります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-local-1.svg)
+[![部分的な肌理：画像の一部を質感のある領域が占め、それ以外には別の背景が見えます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-local-1.svg)
 
 ### ローカルテクスチャフラグメント↗
 
-テクスチャ領域が画像の一部を占め、別の地面が表示されます。](texture-layout--texture-layout-local.md)[![レイヤード テクスチャ コラージュ: いくつかのテクスチャ フラグメントが重なり合って、マテリアルとエッジの関係が作成されます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-layers-1.svg)
+画像の一部を質感のある面が占め、残りには別の背景が見えます。](texture-layout--texture-layout-local.md)[![レイヤード テクスチャ コラージュ: いくつかのテクスチャ フラグメントが重なり合って、マテリアルとエッジの関係が作成されます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-layers-1.svg)
 
 ### レイヤードテクスチャコラージュ↗
 
 いくつかのテクスチャ付きフラグメントが重なり合って、マテリアルとエッジの関係が作成されます。](texture-layout--texture-layout-layers.md)
 
-コードによる研究では、構成と視覚的処理を比較します。メディアとスタイルの例は概念的なものです。これらの方向は、画像モデルを使用して個別にテストされていません。生成されたテキスト、透明度、リピートエッジを確認します。
+コードで描いた図で、構図や視覚表現を比較します。画材やスタイルの例は概念を示すもので、これらの方向性を画像モデルで一つずつ検証したものではありません。生成した文字、透過、リピートの継ぎ目を確認してください。

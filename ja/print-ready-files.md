@@ -42,9 +42,9 @@ HD アップスケール
 
 [![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)[![背景リムーバーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+細部修復](https://podplo.app/skills/detail-repair)[![背景リムーバーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-背景除去剤](https://podplo.app/skills/background-remover)[![Smart Outpaint アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+背景除去](https://podplo.app/skills/background-remover)[![Smart Outpaint アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
 スマートアウトペイント](https://podplo.app/skills/smart-outpaint)
 
@@ -52,17 +52,17 @@ HD アップスケール
 
 ## 新しい背景で被写体を再利用する
 
-[背景除去剤](https://podplo.app/skills/background-remover) 主役を分離して、さまざまなレイアウトやシーン間で再利用できるようにします。
+[背景除去](https://podplo.app/skills/background-remover) 主役を分離して、さまざまなレイアウトやシーン間で再利用できるようにします。
 
-[背景除去剤](https://podplo.app/skills/background-remover) ポートレート、花、またはオブジェクトを分離して、新しい色、レイアウト、シーンで使用できるようにします。 1 枚の写真が、複数の構成で再利用可能なデザイン要素になります。
+[背景除去](https://podplo.app/skills/background-remover) ポートレート、花、またはオブジェクトを分離して、新しい色、レイアウト、シーンで使用できるようにします。 1 枚の写真が、複数の構成で再利用可能なデザイン要素になります。
 
 ![オリジナルの背景を持つ被写体](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3-before.webp)
 
 入力
 
-[![透明な被写体で新しい構図を準備可能](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
+[![背景透過済みで、新しい構図に使えるモチーフ](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
 
-背景除去剤
+背景除去
 
 **さらに Skills を探索してください**
 
@@ -76,7 +76,7 @@ HD アップスケール
 
 [![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)[![HD アップスケール アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+細部修復](https://podplo.app/skills/detail-repair)[![HD アップスケール アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 HD アップスケール](https://podplo.app/skills/hd-upscale)[![Smart Outpaint アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
@@ -110,11 +110,11 @@ HD アップスケール](https://podplo.app/skills/hd-upscale)[![Smart Outpaint
 
 [![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)[![HD アップスケール アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+細部修復](https://podplo.app/skills/detail-repair)[![HD アップスケール アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 HD アップスケール](https://podplo.app/skills/hd-upscale)[![背景リムーバーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-背景除去剤](https://podplo.app/skills/background-remover)
+背景除去](https://podplo.app/skills/background-remover)
 
 <a id="export"></a>
 
@@ -150,6 +150,6 @@ HD アップスケール](https://podplo.app/skills/hd-upscale)[![背景リム�
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![背景リムーバーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-背景除去剤](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+背景除去](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)
+細部修復](https://podplo.app/skills/detail-repair)

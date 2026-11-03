@@ -18,9 +18,9 @@ Escolha um design que você adora e adicione luzes de Natal, detalhes de Hallowe
 
 ## Crie uma variação de Natal
 
-[Faça do Natal](https://podplo.app/skills/make-it-christmas) adiciona detalhes coordenados do feriado, preservando o tema original.
+[Deixe em clima de Natal](https://podplo.app/skills/make-it-christmas) adiciona detalhes coordenados de uma data comemorativa, preservando o elemento principal original.
 
-[Faça do Natal](https://podplo.app/skills/make-it-christmas) adiciona luzes, vegetação, neve e outros detalhes coordenados do feriado em torno do assunto original. A pessoa, o animal de estimação, a obra de arte e o texto permanecem reconhecíveis.
+[Deixe em clima de Natal](https://podplo.app/skills/make-it-christmas) adiciona luzes, folhagens, neve e outros detalhes coordenados de uma data comemorativa ao redor do elemento principal original. A pessoa, o pet, a arte e o texto permanecem reconhecíveis.
 
 ![Referência antes de adicionar um tema de Natal](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
@@ -28,7 +28,7 @@ Entrada
 
 [![Versão natalina preservando a identidade original](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
-Faça do Natal
+Deixe em clima de Natal
 
 **Mais Skills para explorar**
 
@@ -40,23 +40,23 @@ Faça do Natal
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Exemplo de arte do Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+[![Exemplo de arte de Deixe em clima de Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Faça o Halloween](https://podplo.app/skills/make-it-halloween)[![Exemplo de arte do Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Deixe em clima de Halloween](https://podplo.app/skills/make-it-halloween)[![Exemplo de arte de Deixe em clima de Dia dos Namorados](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Faça isso no Dia dos Namorados](https://podplo.app/skills/make-it-valentines)[![Exemplo de arte Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Deixe em clima de Dia dos Namorados](https://podplo.app/skills/make-it-valentines)[![Exemplo de arte de Deixe em clima de Páscoa](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Faça isso na Páscoa](https://podplo.app/skills/make-it-easter)[![Exemplo de arte de Ação de Graças Make It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Deixe em clima de Páscoa](https://podplo.app/skills/make-it-easter)[![Exemplo de arte de Deixe em clima de Ação de Graças](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Faça isso no Dia de Ação de Graças](https://podplo.app/skills/make-it-thanksgiving)
+Deixe em clima de Ação de Graças](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="valentines-version"></a>
 
 ## Crie uma variação do Dia dos Namorados
 
-[Faça isso no Dia dos Namorados](https://podplo.app/skills/make-it-valentines) adiciona detalhes românticos às pessoas, animais de estimação ou obras de arte já mostradas.
+[Deixe em clima de Dia dos Namorados](https://podplo.app/skills/make-it-valentines) adiciona detalhes românticos às pessoas, animais de estimação ou obras de arte já mostradas.
 
-[Faça isso no Dia dos Namorados](https://podplo.app/skills/make-it-valentines) adiciona corações, flores, cores quentes ou uma mensagem curta sobre uma pessoa, casal, animal de estimação ou obra de arte existente. Baseia-se no relacionamento já demonstrado, em vez de inventar um.
+[Deixe em clima de Dia dos Namorados](https://podplo.app/skills/make-it-valentines) adiciona corações, flores, cores quentes ou uma mensagem curta ao redor de uma pessoa, casal, pet ou arte existente. Baseia-se na relação já mostrada, em vez de inventar uma.
 
 ![Referência antes de adicionar um tema de Dia dos Namorados](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3-before.webp)
 
@@ -64,7 +64,7 @@ Entrada
 
 [![Versão do Dia dos Namorados com detalhes românticos contidos](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)](https://podplo.app/skills/make-it-valentines)
 
-Faça isso no Dia dos Namorados
+Deixe em clima de Dia dos Namorados
 
 **Mais Skills para explorar**
 
@@ -76,31 +76,31 @@ Faça isso no Dia dos Namorados
 
 <a id="_R_2srk_-cards"></a>
 
-[![Exemplo de arte de Natal Make It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+[![Exemplo de arte de Deixe em clima de Natal](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-Faça do Natal](https://podplo.app/skills/make-it-christmas)[![Exemplo de arte do Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+Deixe em clima de Natal](https://podplo.app/skills/make-it-christmas)[![Exemplo de arte de Deixe em clima de Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Faça o Halloween](https://podplo.app/skills/make-it-halloween)[![Exemplo de arte Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Deixe em clima de Halloween](https://podplo.app/skills/make-it-halloween)[![Exemplo de arte de Deixe em clima de Páscoa](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Faça isso na Páscoa](https://podplo.app/skills/make-it-easter)[![Exemplo de arte de Ação de Graças Make It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Deixe em clima de Páscoa](https://podplo.app/skills/make-it-easter)[![Exemplo de arte de Deixe em clima de Ação de Graças](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Faça isso no Dia de Ação de Graças](https://podplo.app/skills/make-it-thanksgiving)
+Deixe em clima de Ação de Graças](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="mothers-day-version"></a>
 
 ## Crie uma variação para o Dia das Mães
 
-[Faça isso no Dia das Mães](https://podplo.app/skills/make-it-mothers-day) adiciona flores e uma mensagem pessoal, mantendo os mesmos membros da família.
+[Deixe em clima de Dia das Mães](https://podplo.app/skills/make-it-mothers-day) adiciona flores e uma mensagem pessoal, mantendo os mesmos membros da família.
 
-[Faça isso no Dia das Mães](https://podplo.app/skills/make-it-mothers-day) adiciona flores, cores quentes e uma mensagem do cliente em torno das pessoas na imagem original. Ele mantém todos os membros da família no lugar, sem adicionar ou substituir ninguém.
+[Deixe em clima de Dia das Mães](https://podplo.app/skills/make-it-mothers-day) adiciona flores, cores quentes e uma mensagem do cliente em torno das pessoas na imagem original. Ele mantém todos os membros da família no lugar, sem adicionar ou substituir ninguém.
 
 ![Referência familiar antes de adicionar um tema de Dia das Mães](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6-before.webp)
 
 Entrada
 
-[![Versão Dia das Mães preservando as pessoas abastecidas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6.webp)](https://podplo.app/skills/make-it-mothers-day)
+[![Versão de Dia das Mães preservando as pessoas da imagem fornecida](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6.webp)](https://podplo.app/skills/make-it-mothers-day)
 
-Faça isso no Dia das Mães
+Deixe em clima de Dia das Mães
 
 **Mais Skills para explorar**
 
@@ -112,12 +112,12 @@ Faça isso no Dia das Mães
 
 <a id="_R_2urk_-cards"></a>
 
-[![Exemplo de arte de Natal Make It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+[![Exemplo de arte de Deixe em clima de Natal](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-Faça do Natal](https://podplo.app/skills/make-it-christmas)[![Exemplo de arte do Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+Deixe em clima de Natal](https://podplo.app/skills/make-it-christmas)[![Exemplo de arte de Deixe em clima de Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Faça o Halloween](https://podplo.app/skills/make-it-halloween)[![Exemplo de arte do Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Deixe em clima de Halloween](https://podplo.app/skills/make-it-halloween)[![Exemplo de arte de Deixe em clima de Dia dos Namorados](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Faça isso no Dia dos Namorados](https://podplo.app/skills/make-it-valentines)[![Exemplo de arte Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Deixe em clima de Dia dos Namorados](https://podplo.app/skills/make-it-valentines)[![Exemplo de arte de Deixe em clima de Páscoa](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Faça isso na Páscoa](https://podplo.app/skills/make-it-easter)
+Deixe em clima de Páscoa](https://podplo.app/skills/make-it-easter)

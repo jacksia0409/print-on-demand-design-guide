@@ -12,13 +12,13 @@
 
 主役主導 / クリエイティブディレクション / テキストと画像
 
-# 模様のある背景: ローカル
+# 柄の背景：部分
 
-テキストと主役の関係: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。
+文字とモチーフの関係: 内容の背後の一部分に装飾を置き、その外側には余白を残します。
 
 <a id="understand"></a>
 
-![パターン化された背景: ローカル: テキストと主役の関係: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+![柄の背景：部分：文字とモチーフの関係：内容の背後に部分的な装飾の下地を置き、その外側には別の領域を残します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
 構図の模式図
 
@@ -26,13 +26,13 @@
 
 ## この方向性を定義するもの
 
-パッチは通常または自由形式ですが、キャンバスを覆いません。主に外側の輪郭を囲む装飾が周囲装飾です。メインコンテンツを優位に保ちます。
+装飾部分は規則的な形でも自由な形でもかまいませんが、画面全体は覆いません。主に外輪郭を取り囲む装飾は「周囲の装飾」に当たります。主役となる内容を目立たせます。
 
-[← 科目主導に戻る](../subject.md)
+[← モチーフ主体に戻る](../subject.md)
 
 <a id="ai-directions"></a>
 
-AIの指示
+AIで広げる創作の方向性
 
 ## この方向性を AI に取り入れましょう
 
@@ -40,7 +40,7 @@ AIの指示
 
 **目指す表現**
 
-主役主導 → テキストと主役の関係 → 背景 → パターン化された背景: ローカル
+モチーフ主体 → 文字とモチーフの関係 → 背景 → 柄の背景：部分
 
 **入力と出力**
 
@@ -52,7 +52,7 @@ AIの指示
 
 **背景**
 
-背景要素、トリートメント、パレットを参照として使用し、それらをローカルの装飾的な裏地に再編成します。何も存在しない場合、またはソースに無地または透明な地面しかない場合は、関連するモチーフを作成します。透明度、元のベースカラー、またはパッチの外側で明示的に要求されたグラウンドを保持します。
+背景要素、表現方法、配色を参考にして、一部分に収まる装飾的な背景へ組み直します。背景がない、または無地や透明のみの場合は、関連するモチーフを作ります。その装飾部分の外側は、透明、元の地色、または明示的に指定された背景を維持します。
 
 **文字の扱い**
 
@@ -64,28 +64,28 @@ AIの指示
 
 **適用範囲と制約**
 
-パッチは通常または自由形式ですが、キャンバスを覆いません。主に外側の輪郭を囲む装飾が周囲装飾です。メインコンテンツを優位に保ちます。
+装飾部分は規則的な形でも自由な形でもかまいませんが、画面全体は覆いません。主に外輪郭を取り囲む装飾は「周囲の装飾」に当たります。主役となる内容を目立たせます。
 
 <a id="related"></a>
 
-## 近くのルートを比較する
+## 近い創作の方向性を比べる
 
-[![透明な背景: テキストと主役の関係: 地面は透明のままです。チェッカーボードは単なる表示補助です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
+[![透明な背景: 文字とモチーフの関係: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### 透明背景↗
 
-テキストと主役の関係: 地面は透明のままです。チェッカーボードは単なる表示補助です。](background--relationship--transparent.md)[![単色の背景: テキストと主役の関係: 1 つの均一な色が地面を形成します。白も単色の背景です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+文字とモチーフの関係: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](background--relationship--transparent.md)[![無地の背景：文字とモチーフの関係：均一な一色を背景にします。白も無地の背景に含まれます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
 ### 無地の背景↗
 
-テキストと主役の関係: 1 つの均一な色が地面を形成します。白も単色の背景です。](background--relationship--solid.md)[![グラデーションの背景: テキストと主役の関係: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+文字とモチーフの関係: 均一な1色で背景を作ります。白も無地の背景に含まれます。](background--relationship--solid.md)[![グラデーションの背景: テキストと主役の関係: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### グラデーション背景↗
 
-テキストと主役の関係: 主要なコンテンツは鮮明なままですが、台紙の色や明るさが連続的に変化します。](background--relationship--gradient.md)[![パターン化された背景: 全領域: テキストと主役の関係: パターン化された地面が、はっきりと読み取れる前景コンテンツの後ろの画像を覆います。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
+文字とモチーフの関係: 主役をはっきり保ちながら、背景の色や明るさを連続的に変化させます。](background--relationship--gradient.md)[![柄の背景：全面：文字とモチーフの関係：背景全体に柄を敷き、手前の内容ははっきり読み取れるようにします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
 
 ### パターン背景：全面↗
 
-テキストと主役の関係: はっきりと読み取れる前景コンテンツの背後にある画像をパターン化した地面で覆います。](background--relationship--pattern-full.md)
+文字とモチーフの関係: はっきり見える前景の内容の背後を、模様のある背景で覆います。](background--relationship--pattern-full.md)
 
-コードによる研究では、構成と視覚的処理を比較します。メディアとスタイルの例は概念的なものです。これらの方向は、画像モデルを使用して個別にテストされていません。生成されたテキスト、透明度、リピートエッジを確認します。
+コードで描いた図で、構図や視覚表現を比較します。画材やスタイルの例は概念を示すもので、これらの方向性を画像モデルで一つずつ検証したものではありません。生成した文字、透過、リピートの継ぎ目を確認してください。

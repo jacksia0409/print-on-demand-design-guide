@@ -47,11 +47,11 @@ Vous n’avez pas besoin de commencer avec un design fini. Choisissez la ligne l
 
 | Votre point de départ | Que découvrir | Lire le guide | Essayez-le sur PodPlo |
 | --- | --- | --- | --- |
-| Une photo d’une personne ou d’un animal | Aquarelle, portraits de personnages ou autre traitement artistique | [Photo to Art](fr/techniques/photo-to-art.md) | [Ouvrir un portrait Skill](https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_start_photo) |
+| Une photo d’une personne ou d’un animal | Aquarelle, portraits de personnages ou autre traitement artistique | [Photo to Art](fr/techniques/photo-to-art.md) | [Ouvrir un Skill de portrait](https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_start_photo) |
 | Un graphisme que vous aimez | Centrez-le, empilez-le ou encadrez-le comme un badge | [Idées de composition](fr/techniques/compose-anything.md) | [Disposition centrale compacte](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_start_layout) |
 | Un nom ou un court message | Cadres floraux, graphiques textuels ou mises en page commémoratives | [Texte et noms](fr/techniques/replace-name-text.md) | [Cadre de nom floral](https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_start_text) |
-| Une référence de motif ou de motif | Arrangements répétés et idées de motifs coordonnés | [Types de motifs](fr/artwork-types/pattern.md) | [Motif sans raccord visible](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_start_pattern) |
-| Une idée écrite | Choisir une structure et adapter une orientation publique de l'IA | [Instructions IA copiables](fr/ai-directions/INDEX.md) | [Parcourir l’image Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_start_prompt) |
+| Une référence d’élément graphique ou de motif répété | Arrangements répétés et idées de motifs coordonnés | [Types de motifs](fr/artwork-types/pattern.md) | [Motif sans raccord visible](https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_start_pattern) |
+| Une idée écrite | Choisir une structure et adapter une orientation publique de l'IA | [Instructions IA copiables](fr/ai-directions/INDEX.md) | [Parcourir les Skills de création d’images](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_start_prompt) |
 
 <a id="layouts"></a>
 
@@ -83,7 +83,7 @@ Une bonne photo de départ vous donne quelque chose de personnel sur lequel trav
 <table>
 <tr><th>Direction</th><th>Photo d’origine</th><th>Exemple d'illustration · cliquez pour essayer</th></tr>
 <tr><td><strong>Portrait d'animal à l'aquarelle douce</strong><br />Un médium plus doux, avec le même chien comme sujet central.</td><td><a href="https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_photo_source_soft-watercolor-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp" alt="Photo source pour Portrait d&#x27;animal à l&#x27;aquarelle douce" width="230" /></a></td><td><a href="https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_photo_result_soft-watercolor-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp" alt="Exemple de portrait d&#x27;animal à l&#x27;aquarelle douce" width="230" /></a><br /><a href="https://podplo.app/skills/soft-watercolor-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_photo_cta_soft-watercolor-pet-portrait">Portrait d’animal de compagnie à l’aquarelle douce</a></td></tr>
-<tr><td><strong>Caractère royal d'animal de compagnie</strong><br />Un changement ludique de costume et de décor.</td><td><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_photo_source_royal-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp" alt="Photo source du personnage de compagnie royal" width="230" /></a></td><td><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_photo_result_royal-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp" alt="Exemple de personnage de familier royal" width="230" /></a><br /><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_photo_cta_royal-pet-portrait">Portrait d'animal royal</a></td></tr>
+<tr><td><strong>Personnage royal d’animal de compagnie</strong><br />Un changement ludique de costume et de décor.</td><td><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_photo_source_royal-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp" alt="Photo source du personnage de compagnie royal" width="230" /></a></td><td><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_photo_result_royal-pet-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp" alt="Exemple de personnage royal d’animal de compagnie" width="230" /></a><br /><a href="https://podplo.app/skills/royal-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_photo_cta_royal-pet-portrait">Portrait d'animal royal</a></td></tr>
 <tr><td><strong>Portrait de couple dimensionnel</strong><br />Un portrait stylisé construit autour du couple dans la référence.</td><td><a href="https://podplo.app/skills/3d-couple-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_photo_source_3d-couple-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-before.webp" alt="Photo source pour le portrait de couple dimensionnel" width="230" /></a></td><td><a href="https://podplo.app/skills/3d-couple-portrait?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_photo_result_3d-couple-portrait"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp" alt="Exemple de portrait de couple dimensionnel" width="230" /></a><br /><a href="https://podplo.app/skills/3d-couple-portrait?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_photo_cta_3d-couple-portrait">Portrait de couple 3D</a></td></tr>
 </table>
 
@@ -97,14 +97,14 @@ Une bonne photo de départ vous donne quelque chose de personnel sur lequel trav
 <table>
 <tr>
 <td align="center" valign="top"><a href="https://podplo.app/skills/floral-name-frame?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_variation_floral-name-frame"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp" alt="Un nom dans un cadre floral" width="240" /></a><br /><strong>Un nom dans un cadre floral</strong><br />Utilisez un nom comme point focal, avec des fleurs construisant la forme environnante.<br /><a href="https://podplo.app/skills/floral-name-frame?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_variation_floral-name-frame">Ouvrez ce Skill</a></td>
-<td align="center" valign="top"><a href="https://podplo.app/skills/seamless-pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_variation_seamless-pattern"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp" alt="Une répétition coordonnée" width="240" /></a><br /><strong>Une répétition coordonnée</strong><br />Explorez la direction des motifs, l'espacement et répétez le rythme. Inspectez les bords dans un aperçu en mosaïque.<br /><a href="https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_variation_seamless-pattern">Ouvrez ce Skill</a></td>
-<td align="center" valign="top"><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_variation_make-it-christmas"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp" alt="Une version vacances" width="240" /></a><br /><strong>Une version vacances</strong><br />Essayez des détails saisonniers coordonnés autour du sujet principal.<br /><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_variation_make-it-christmas">Ouvrez ce Skill</a></td>
+<td align="center" valign="top"><a href="https://podplo.app/skills/seamless-pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_variation_seamless-pattern"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp" alt="Une répétition coordonnée" width="240" /></a><br /><strong>Une répétition coordonnée</strong><br />Explorez l’orientation des motifs, leur espacement et le rythme de répétition. Examinez les bords dans un aperçu en répétition.<br /><a href="https://podplo.app/skills/seamless-pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_variation_seamless-pattern">Ouvrez ce Skill</a></td>
+<td align="center" valign="top"><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_variation_make-it-christmas"><img src="https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp" alt="Une version festive" width="240" /></a><br /><strong>Une version festive</strong><br />Essayez des détails saisonniers coordonnés autour du sujet principal.<br /><a href="https://podplo.app/skills/make-it-christmas?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_variation_make-it-christmas">Ouvrez ce Skill</a></td>
 </tr>
 </table>
 
-Ce sont différentes tâches créatives. Une mise en page Skill change d'organisation ; un Photo to Art Skill change l'expression artistique ; un nom ou un jour férié Skill ajoute un type spécifique de contenu. Suivez le guide pour choisir la transformation que vous souhaitez réellement.
+Il s’agit de tâches créatives différentes. Un Skill de mise en page modifie l’organisation ; un Skill Photo vers art modifie l’expression artistique ; un Skill de personnalisation par nom ou de fête ajoute un type précis de contenu. Suivez le guide pour choisir la transformation souhaitée.
 
-[Noms et messages personnels](fr/techniques/replace-name-text.md) · [Variantes de vacances](fr/techniques/holiday-versions.md) · [Construire une série coordonnée](fr/techniques/series-builder.md)
+[Noms et messages personnels](fr/techniques/replace-name-text.md) · [Variantes festives](fr/techniques/holiday-versions.md) · [Construire une série coordonnée](fr/techniques/series-builder.md)
 
 <a id="artwork-types"></a>
 
@@ -115,8 +115,8 @@ Un design peut être dirigé par un sujet reconnaissable, un motif répété, un
 
 <table>
 <tr><th>Type d'œuvre</th><th>Comparez deux formes visuelles</th><th>Explorer</th></tr>
-<tr><td><strong>Composition centrée sur le sujet</strong><br />Des objets, des personnages ou des mots mènent la composition.</td><td><a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_subject_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-0.svg" alt="Composition centrée" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_subject_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-0.svg" alt="Titre ci-dessus" width="170" /></a></td><td><a href="fr/artwork-types/subject.md">Lire dans ce référentiel</a><br /><a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_type_subject_cta">Naviguez visuellement sur PodPlo</a></td></tr>
-<tr><td><strong>Motifs</strong><br />Les motifs forment un tout grâce à la répétition et à l'arrangement.</td><td><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_pattern_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-0.svg" alt="Carrelage régulier" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_pattern_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-1.svg" alt="Disposition décalée" width="170" /></a></td><td><a href="fr/artwork-types/pattern.md">Lire dans ce référentiel</a><br /><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_type_pattern_cta">Naviguez visuellement sur PodPlo</a></td></tr>
+<tr><td><strong>Composition centrée sur le sujet</strong><br />Des objets, des personnages ou des mots mènent la composition.</td><td><a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_subject_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-0.svg" alt="Composition centrée" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_subject_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-0.svg" alt="Titre au-dessus" width="170" /></a></td><td><a href="fr/artwork-types/subject.md">Lire dans ce référentiel</a><br /><a href="https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_type_subject_cta">Naviguez visuellement sur PodPlo</a></td></tr>
+<tr><td><strong>Motifs</strong><br />Les motifs forment un tout grâce à la répétition et à l'arrangement.</td><td><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_pattern_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-0.svg" alt="Pavage régulier" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_pattern_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-1.svg" alt="Disposition décalée" width="170" /></a></td><td><a href="fr/artwork-types/pattern.md">Lire dans ce référentiel</a><br /><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_type_pattern_cta">Naviguez visuellement sur PodPlo</a></td></tr>
 <tr><td><strong>Scènes</strong><br />Un décor donne aux sujets un contexte partagé.</td><td><a href="https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_scene_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-0-0.svg" alt="Événement unique" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_scene_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-0.svg" alt="Intérieur domestique" width="170" /></a></td><td><a href="fr/artwork-types/scene.md">Lire dans ce référentiel</a><br /><a href="https://podplo.app/pod-guide/artwork-types/scene?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_type_scene_cta">Naviguez visuellement sur PodPlo</a></td></tr>
 <tr><td><strong>Textures</strong><br />Le caractère d'une surface devient le centre visuel.</td><td><a href="https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_texture_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-0-0.svg" alt="Veines de marbre" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_texture_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-13-1-1.svg" alt="Ondulations de sable" width="170" /></a></td><td><a href="fr/artwork-types/texture.md">Lire dans ce référentiel</a><br /><a href="https://podplo.app/pod-guide/artwork-types/texture?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_type_texture_cta">Naviguez visuellement sur PodPlo</a></td></tr>
 <tr><td><strong>Art abstrait</strong><br />Les formes, les marques et les couleurs portent l'image.</td><td><a href="https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_abstract_a"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-1.svg" alt="Points regroupés" width="170" /></a> <a href="https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_type_abstract_b"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-1-0.svg" alt="Cercles et arcs" width="170" /></a></td><td><a href="fr/artwork-types/abstract.md">Lire dans ce référentiel</a><br /><a href="https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_type_abstract_cta">Naviguez visuellement sur PodPlo</a></td></tr>
@@ -129,7 +129,7 @@ Les dessins ci-dessus sont des études conceptuelles du guide. Ils expliquent la
 ## Créez un vocabulaire visuel que vous pouvez réellement utiliser
 
 
-« Make it better » laisse trop de gens indécis. Comparez plutôt un changement concret : déplacez le sujet, courbez le lettrage, ajoutez un support circulaire ou changez de support. Le guide complet organise 1 388 formulaires visuels en 128 groupes afin que vous puissiez nommer le changement souhaité.
+« Améliore l’image » laisse trop de choix indéfinis. Comparez plutôt un changement concret : déplacez le sujet, courbez le lettrage, ajoutez un fond circulaire ou changez de médium. Le guide complet classe 1 388 formes visuelles en 128 groupes pour vous aider à nommer le changement souhaité.
 
 <table>
 <tr>
@@ -144,7 +144,7 @@ Les dessins ci-dessus sont des études conceptuelles du guide. Ils expliquent la
 </tr>
 <tr>
 <td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_vocabulary_art-35-0"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-35-0.svg" alt="Croquis au stylo" width="220" /></a><br /><strong>Croquis au stylo</strong></td>
-<td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_vocabulary_art-46-1"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-46-1.svg" alt="Illustration éditoriale plate" width="220" /></a><br /><strong>Illustration éditoriale plate</strong></td>
+<td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_vocabulary_art-46-1"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-46-1.svg" alt="Illustration éditoriale en aplats" width="220" /></a><br /><strong>Illustration éditoriale en aplats</strong></td>
 <td align="center" valign="top"><a href="https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=print-on-demand-design-guide&amp;utm_content=fr_vocabulary_pattern-56-1"><img src="https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-1.svg" alt="Disposition décalée" width="220" /></a><br /><strong>Disposition décalée</strong></td>
 </tr>
 </table>
@@ -156,7 +156,7 @@ Les dessins ci-dessus sont des études conceptuelles du guide. Ils expliquent la
 ## Copiez une direction créative et personnalisez-la
 
 
-Le référentiel comprend 123 directions publiques d'IA dans chaque langue. Ils décrivent les objectifs visuels dans un langage simple : utilisez-les avec un outil d'IA capable d'images ou demandez à un assistant de réécrire une invite existante dans la direction sélectionnée. Ouvrez un exemple ci-dessous pour le libellé complet.
+Le dépôt contient 123 orientations publiques pour l’IA dans chaque langue. Elles décrivent les objectifs visuels en langage simple : utilisez-les avec un outil d’IA capable de traiter des images, ou demandez à un assistant de réécrire un prompt existant selon l’orientation choisie. Ouvrez un exemple ci-dessous pour lire le texte complet.
 
 <details>
 <summary><strong>Sujet centré</strong> — Donnez au sujet principal une position centrale claire.</summary>
@@ -164,7 +164,7 @@ Le référentiel comprend 123 directions publiques d'IA dans chaque langue. Ils 
 Un sujet principal se trouve près du centre, avec un espace autour de lui.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujet unique → Sujet centré
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Sujet centré
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -210,26 +210,26 @@ Portée et limites: Un cercle complet est facultatif. Gardez une trajectoire env
 Les lignes ou colonnes adjacentes se décalent d'une quantité constante dans un système répétitif.
 
 ```text
-Orientation souhaitée: Motifs → Répétitions sans couture → Répétition décalée
+Orientation souhaitée : motifs → Répétitions à raccords invisibles → Répétition décalée
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
 Structure souhaitée: Créez une tuile contenant une relation de décalage stable entre des lignes ou des colonnes adjacentes. Coordonnez la direction, l’espacement et la densité du motif, y compris la continuation du bord opposé.
 
-Arrière-plan: Palette et motifs d'arrière-plan de référence, en concevant l'arrière-plan et le premier plan à l'intérieur de la même unité de répétition. En cas d'absence, créez une couleur de base associée ou un support qui peut continuer périodiquement. Reconstruisez un arrière-plan source qui ne correspond pas plutôt que de réclamer automatiquement les vignettes d'image complètes.
+Arrière-plan : prenez pour référence la palette et les motifs du fond en concevant le fond et le premier plan dans la même unité de répétition. S’ils sont absents, créez une couleur de base apparentée ou un fond pouvant se répéter périodiquement. Reconstruisez tout fond source incompatible plutôt que d’affirmer que l’image complète se répète automatiquement sans raccord.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez un court mot ou une phrase liée au thème comme motif de support. Lorsqu'un carrelage homogène est requis, incluez le libellé dans l'unité de répétition et vérifiez l'orthographe, la continuité des bords et la lisibilité ; sinon, ne promettez pas la transparence. Respectez une demande explicite d’absence de texte.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un mot ou une courte phrase liée au thème comme motif d’accompagnement. Lorsque la répétition sans raccord visible est requise, intégrez le texte au module de répétition et vérifiez l’orthographe, la continuité des bords et la lisibilité ; sinon, ne promettez pas de raccords invisibles. Respectez toute demande explicite de ne pas inclure de texte.
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
-Portée et limites: Les compensations peuvent varier selon la conception mais nécessitent une période globale stable. Le déplacement de quelques motifs individuels ne permet pas d'établir un carrelage homogène.
+Portée et limites : Les décalages peuvent varier selon le visuel, mais doivent conserver une période globale stable. Déplacer quelques motifs isolés ne suffit pas à créer une répétition à raccords invisibles.
 
-Vérification du résultat: Testez les dispositions horizontales, verticales et à quatre carreaux pour vérifier les coutures, le rythme et la continuité des couleurs de base. Ne revendiquez pas une transparence vérifiée sans vérification ou lorsque l’outil ne peut pas la garantir.
+Vérification du résultat : testez les répétitions horizontales, verticales et en carré de quatre tuiles pour vérifier les raccords, le rythme et la continuité de la couleur de base. N’affirmez pas que les raccords invisibles sont vérifiés sans les contrôler ou si l’outil ne peut pas les garantir.
 ```
 
 </details>
 
-[Parcourez les 123 directions publiques](fr/ai-directions/INDEX.md) · [Explorez l'image Skills sur PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_after_prompts)
+[Parcourez les 123 directions publiques](fr/ai-directions/INDEX.md) · [Explorez les Skills de création d’images sur PodPlo](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_after_prompts)
 
 <a id="products"></a>
 
@@ -260,12 +260,12 @@ L'image du produit est une maquette d'IA permettant de visualiser le design, et 
 
 | Chapitre | Ce que vous trouverez | Lire |
 | --- | --- | --- |
-| Types d'œuvres d'art | Sujets, motifs, scènes, textures, formes abstraites, lettrages et arrière-plans | [Chapitre ouvert](fr/artwork-types.md) |
+| Types d'œuvres d'art | Sujets, motifs, scènes, textures, formes abstraites, lettrages et arrière-plans | [Ouvrir le chapitre](fr/artwork-types.md) |
 | Matériaux sources | Éléments, images complètes et collections sélectionnées pour commencer | [Trouver un point de départ](fr/materials.md) |
 | Composition | Une mise en page différente pour la même illustration source | [Explorer les mises en page](fr/techniques/compose-anything.md) |
 | Photo to Art | Photos d'animaux, de personnes et de famille dans de nouveaux traitements artistiques | [Découvrez les portraits](fr/techniques/photo-to-art.md) |
 | Texte et noms | Cadres nominatifs, phrases courtes et motifs commémoratifs | [Rendez-le personnel](fr/techniques/replace-name-text.md) |
-| Versions vacances | Nouveaux détails saisonniers autour de sujets familiers | [Choisissez des vacances](fr/techniques/holiday-versions.md) |
+| Versions festives | Nouveaux détails saisonniers autour de sujets familiers | [Choisir une fête](fr/techniques/holiday-versions.md) |
 | Au-delà du cadre | Nouvelles proportions et compositions pour une image existante | [Explorez les variantes](fr/techniques/change-ratio.md) |
 | Série coordonnée | Conceptions associées partageant un thème ou une approche visuelle | [Construire une série](fr/techniques/series-builder.md) |
 | Produits POD | Applications créatives dans 20 catégories de produits | [Parcourir les produits](fr/products.md) |
@@ -278,7 +278,7 @@ L'image du produit est une maquette d'IA permettant de visualiser le design, et 
 ## Passez à l'étape suivante avec PodPlo
 
 
-Lisez ici lorsque vous voulez des idées et du vocabulaire. Ouvrez PodPlo lorsque vous êtes prêt à travailler avec votre propre image, choisissez une image Skill ou explorez les éléments source.
+Lisez ici pour trouver des idées et du vocabulaire. Ouvrez PodPlo lorsque vous êtes prêt à travailler avec votre image, à choisir un Skill de création d’images ou à explorer les éléments sources.
 
 1. Choisissez une image source ou une idée de design.
 2. Ouvrez le Skill qui correspond à la modification souhaitée.
@@ -288,7 +288,7 @@ Lisez ici lorsque vous voulez des idées et du vocabulaire. Ouvrez PodPlo lorsqu
 | Ce que tu veux faire | Allez-y directement |
 | --- | --- |
 | Parcourez le guide avec sa navigation sur le site Internet | [Ouvrir le guide](https://podplo.app/pod-guide?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_footer_guide) |
-| Trouver une transformation d'image spécifique | [Parcourir l’image Skills](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_footer_skills) |
+| Trouver une transformation d'image spécifique | [Parcourir les Skills de création d’images](https://podplo.app/skills?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_footer_skills) |
 | Partir d'un élément | [Explorer les éléments](https://podplo.app/elements?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_footer_elements) |
 | Essayez une nouvelle mise en page maintenant | [Disposition centrale compacte](https://podplo.app/skills/compact-center-layout?utm_source=github&utm_medium=readme&utm_campaign=print-on-demand-design-guide&utm_content=fr_footer_layout) |
 
@@ -303,7 +303,7 @@ Vous pouvez lire le guide et parcourir les pages Skill avant de vous connecter. 
 
 Ils décrivent les objectifs visuels dans un langage simple. Vous pouvez les adapter à un outil compatible avec les images ou les utiliser pour réécrire une invite. Les résultats dépendent du modèle, des entrées et des paramètres.
 
-**Les diagrammes générés sont-ils des exemples ?**
+**Les diagrammes sont-ils des exemples générés ?**
 
 Les petits diagrammes de forme visuelle sont des illustrations conceptuelles dessinées par code. Les exemples de photos et d'illustrations sont des images de guide public existantes et de vitrine Skill. Les orientations publiques de l’IA n’ont pas toutes été testées individuellement et les maquettes de produits n’établissent pas les résultats de fabrication.
 
@@ -311,7 +311,7 @@ Les petits diagrammes de forme visuelle sont des illustrations conceptuelles des
 
 L'accent est mis sur la création d'images : structures visuelles, matériaux sources, transformations créatives et idées de produits. La configuration du magasin, l'automatisation des référencements et l'exécution des commandes ne relèvent pas de l'objectif créatif de ce guide.
 
-Vous avez trouvé un exemple déroutant ou un sujet qui mérite d'être ajouté ? [Proposer une amélioration](https://github.com/jacksia0409/print-on-demand-design-guide/issues/new). Si le guide facilite votre travail créatif, une étoile facilite la recherche.
+Vous avez trouvé un exemple déroutant ou un sujet qui mérite d'être ajouté ? [Proposer une amélioration](https://github.com/jacksia0409/print-on-demand-design-guide/issues/new). Si le guide vous aide dans vos créations, une étoile vous permettra de le retrouver plus facilement.
 
 ---
 

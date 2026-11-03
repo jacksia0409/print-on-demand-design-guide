@@ -12,13 +12,13 @@
 
 Padrões / DIREÇÃO CRIATIVA / Padrões
 
-# Contexto ambiental
+# Cenário ao fundo
 
 Padrões: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.
 
 <a id="understand"></a>
 
-![Contexto ambiental: Padrões: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
+![Cenário ao fundo: Padrões: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--scene-1.svg)
 
 Ilustração da composição
 
@@ -26,7 +26,7 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Nas categorias de elemento principal, padrão, textura ou abstração, o cenário permanece secundário. Reavalie a imagem como uma cena se o ambiente ou a narrativa se tornar a expressão principal.
 
 [← Voltar para padrões](../pattern.md)
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Estampas e padrões → Fundo → Contexto ambiental
+Estampas e padrões → Fundo → Cenário
 
 **Entrada e saída**
 
@@ -52,11 +52,11 @@ Mantenha a repetição do motivo ou a ordem decorativa. Se o subtipo escolhido e
 
 **Fundo**
 
-Referenciar a localização, os elementos ambientais e a atmosfera existentes, adaptando-os ao conteúdo principal. Se ausente ou apenas simples ou transparente, crie uma configuração relacionada e coordene escala, direção e profundidade.
+Use a localização, os elementos ambientais e a atmosfera existentes como referência, adaptando-os ao conteúdo principal. Se estiverem ausentes, ou se o fundo for apenas liso ou transparente, crie um cenário relacionado e coordene escala, direção e profundidade.
 
 **Texto**
 
-Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma palavra ou frase curta relacionada ao tema como motivo de apoio. Quando for necessário ladrilho contínuo, inclua o texto na unidade de repetição e verifique a ortografia, a continuação das bordas e a legibilidade; caso contrário, não prometa perfeição. Respeite um pedido explícito de ausência de texto.
+Preserve as palavras claramente legíveis da fonte e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma palavra ou frase curta relacionada ao tema como motivo de apoio. Quando for necessária repetição sem emendas, inclua o texto no módulo de repetição e verifique a ortografia, a continuidade das bordas e a legibilidade; caso contrário, não prometa ausência de emendas. Respeite um pedido explícito de não incluir texto.
 
 **Preservar e adaptar**
 
@@ -64,28 +64,28 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Nas categorias de elemento principal, padrão, textura ou abstração, o cenário permanece secundário. Reavalie a imagem como uma cena se o ambiente ou a narrativa se tornar a expressão principal.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Padrões: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
+[![Fundo transparente: padrões: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Padrões: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--pattern--transparent.md)[![Fundo sólido: Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+Padrões: O fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--pattern--transparent.md)[![Fundo sólido: Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
 ### Fundo sólido↗
 
-Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--pattern--solid.md)[![Fundo gradiente: Padrões: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+Padrões: Uma cor uniforme forma o fundo; o branco também é um fundo de cor uniforme.](background--pattern--solid.md)[![Fundo gradiente: Padrões: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Padrões: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--pattern--gradient.md)[![Fundo padronizado: local: Padrões: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
+Padrões: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--pattern--gradient.md)[![Fundo estampado: local: Padrões: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Padrões: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--pattern--pattern-local.md)
+Padrões: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--pattern--pattern-local.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

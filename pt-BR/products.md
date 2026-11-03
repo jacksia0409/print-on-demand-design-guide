@@ -18,19 +18,19 @@ Encontre inspiração de design para camisetas, copos, arte de parede e muito ma
 
 Veja como o mesmo padrão floral fica em uma camiseta e um copo. Um produto diferente pode dar uma aparência nova a um design familiar.
 
-[![Arte floral perfeita](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Arte floral sem emendas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Arte
 
-![Prévia da camiseta AI da repetição floral](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
+![Prévia com IA da camiseta com padrão floral repetitivo](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
 
 Prévia da camiseta
 
-![Visualização do copo AI da mesma repetição floral](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![Prévia com IA do copo com o mesmo padrão floral repetitivo](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
 Visualização do copo
 
-**Explorar Skills relacionado**
+**Explore Skills relacionados**
 
 <a id="_R_mrk_-title"></a>
 
@@ -40,7 +40,7 @@ Visualização do copo
 
 <a id="_R_mrk_-cards"></a>
 
-[![Exemplo de arte de padrão sem costura](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+[![Exemplo de arte de padrão sem emendas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 Padrão sem emendas](https://podplo.app/skills/seamless-pattern)[![Exemplo de arte de Layout Central Compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
@@ -56,9 +56,9 @@ Retrato de animal de estimação em aquarela suave](https://podplo.app/skills/so
 
 **Camisetas**
 
-Vista o que você ama](products/t-shirts.md)[![Moletons e moletons](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)
+Vista o que você ama](products/t-shirts.md)[![Moletons com e sem capuz](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)
 
-**Moletons e moletons**
+**Moletons com e sem capuz**
 
 Camadas aconchegantes com personalidade](products/sweatshirts.md)[![Chapéus e bonés](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)
 
@@ -112,9 +112,9 @@ Envolva-se em uma lembrança favorita](products/blankets.md)[![Travesseiros e al
 
 **Travesseiros e almofadas**
 
-Adicione um toque pessoal a qualquer ambiente](products/pillows.md)[![Ornamentos e protetores solares](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)
+Adicione um toque pessoal a qualquer ambiente](products/pillows.md)[![Enfeites e captadores de luz](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)
 
-**Ornamentos e protetores solares**
+**Enfeites e captadores de luz**
 
 Pequenas lembranças para grandes momentos](products/ornaments.md)[![Quebra-cabeças](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)
 
@@ -124,7 +124,7 @@ Uma memória, pedaço por pedaço](products/puzzles.md)[![Tapetes de alimentaç�
 
 **Tapetes de alimentação para animais de estimação**
 
-Torne a hora das refeições sua](products/pet-products.md)[![Papel de embrulho](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)
+Personalize a hora da refeição para eles](products/pet-products.md)[![Papel de embrulho](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)
 
 **Papel de embrulho**
 

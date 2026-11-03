@@ -18,9 +18,9 @@ Use o formato de almofada quadrada para uma imagem centralizada, uma frase curta
 
 ## Ideias de design para este produto
 
-### Construa ao redor da praça
+### Crie a composição em torno do formato quadrado
 
-Assuntos centralizados, layouts simétricos e repetições equilibradas funcionam bem em um travesseiro. Um retrato centrado; Uma frase curta usada como gráfico principal; Uma repetição projetada para combinar com outras almofadas.
+Elementos principais centralizados, layouts simétricos e padrões repetitivos equilibrados funcionam bem em uma almofada. Um retrato centralizado; uma frase curta como arte principal; um padrão repetitivo criado para combinar com outras almofadas.
 
 [![Travesseiros e almofadas · Almofada lombar](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 
@@ -30,29 +30,29 @@ Assuntos centralizados, layouts simétricos e repetições equilibradas funciona
 
 Use Skills diferentes para transformar a mesma imagem em novos layouts, arte baseada em fotos e designs personalizados.
 
-### Crie um padrão de travesseiro equilibrado
+### Crie um padrão equilibrado para almofada
 
-Pegue os detalhes da sua imagem e organize-os em uma repetição perfeita para o travesseiro quadrado.
+Extraia detalhes da sua imagem e organize-os em uma repetição sem emendas para a almofada quadrada.
 
 [Padrão sem emendas](https://podplo.app/skills/seamless-pattern)
 
-![Padrão sem costura · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Padrão sem emendas · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Imagem de origem
 
-[![Padrão sem costura · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Padrão sem emendas · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais layout e defina Skills**
+**Explore mais Skills de layout e de conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore mais layout e defina Skills
+#### Explore mais Skills de layout e de conjuntos
 
 4 / 12
 
@@ -68,29 +68,29 @@ Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exem
 
 Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)
 
-### Transforme uma foto de um animal de estimação em uma arte de travesseiro
+### Transforme uma foto de pet em arte para almofada
 
-Uma foto nítida do animal de estimação torna-se um retrato detalhado para o travesseiro.
+Uma foto nítida do animal se torna um retrato detalhado para a almofada.
 
-[Retrato de animal de estimação real](https://podplo.app/skills/royal-pet-portrait)
+[Retrato de pet da realeza](https://podplo.app/skills/royal-pet-portrait)
 
-![Retrato de animal de estimação real · Foto fonte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
+![Retrato de pet da realeza · Foto de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
 
 Foto original
 
-[![Retrato de animal de estimação real · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
+[![Retrato de pet da realeza · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
 
 Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 4 / 91
 
@@ -112,7 +112,7 @@ Coloque um nome dentro de uma moldura floral espaçosa dimensionada para o desen
 
 [Moldura floral com nome](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉIA
+ANDREA
 
 Nome
 
@@ -122,23 +122,23 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais nome e ocasião Skills**
+**Explore mais Skills de nomes e ocasiões**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explore mais nome e ocasião Skills
+#### Explore mais Skills de nomes e ocasiões
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Póster Nome do Pólo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte do padrão de nome Crayon Hearts](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Pôster de nome do Polo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte de padrão de nome com corações em giz de cera](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Padrão de nome de corações de giz de cera](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -146,17 +146,17 @@ Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize-o em um sofá ou cama
 
 Use a visualização de IA para comparar uma almofada extravagante com um design de coordenação mais simples.
 
-- Um assunto centralizado cria um ponto focal claro
+- Um elemento principal centralizado cria um ponto focal claro
 
 - Uma repetição torna mais fácil construir um conjunto coordenado
 
-- Use a cor de fundo para conectar o travesseiro ao ambiente
+- Use a cor de fundo para conectar a almofada ao ambiente
 
 [![Travesseiros e almofadas · Almofada lombar](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 

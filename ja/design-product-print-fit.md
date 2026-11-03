@@ -18,9 +18,9 @@
 
 ## コンパクトな中心デザインを作成する
 
-[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) アートワークとコピーを中央の太字の 1 つの形に結合します。
+[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 図案と文言を、中央の印象的な1つの形にまとめます。
 
-[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 被写体を集めて緻密でバランスのとれた形にコピーします。かつては散在しているように感じられたアートワークが、明確な焦点を備えた強力な中心グラフィックになります。
+[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) モチーフと文言を、密でバランスのよい形にまとめます。散らばっていた図案が、焦点の明確な、中央を飾る力強い図案になります。
 
 ![レイアウト前のアートワークと正確な文言](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
@@ -44,9 +44,9 @@
 
 ポスターメーカー](https://podplo.app/skills/poster-maker)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)
 
@@ -150,6 +150,6 @@
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![背景リムーバーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-背景除去剤](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+背景除去](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)
+細部修復](https://podplo.app/skills/detail-repair)

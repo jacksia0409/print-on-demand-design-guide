@@ -14,7 +14,7 @@ Arte abstrata / DIREÇÃO CRIATIVA / Arte abstrata
 
 # Fundo sólido
 
-Arte abstrata: uma cor uniforme forma o fundo; o branco também é um fundo sólido.
+Arte abstrata: uma cor uniforme forma o fundo; o branco também é uma cor de fundo uniforme.
 
 <a id="understand"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Arte abstrata → Fundo → Fundo sólido
+Arte abstrata → Fundo → Cor uniforme
 
 **Entrada e saída**
 
@@ -52,7 +52,7 @@ Mantenha a forma não figurativa, as relações entre linhas e cores. A base dev
 
 **Fundo**
 
-Escolha uma cor adequada do plano de fundo ou tema existente ou use uma cor específica. Se nenhum aterramento for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
+Escolha uma cor adequada do fundo ou tema existente, ou use uma cor especificada. Se nenhum fundo for fornecido, crie um fundo de cor única relacionado ao tema e mantenha-o uniforme.
 
 **Texto**
 
@@ -68,23 +68,23 @@ Não adicione padrões, gradientes, texturas ou cenas ao fundo. Isso não restri
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
+[![Fundo transparente: arte abstrata: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--abstract--transparent.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
+Arte abstrata: o fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--abstract--transparent.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Plano de fundo padronizado: local: arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
+Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Fundo estampado: local: Arte abstrata: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](background--abstract--pattern-local.md)[![Fundo padronizado: área completa: Arte abstrata: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
+Arte abstrata: uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--abstract--pattern-local.md)[![Fundo estampado: área completa: Arte abstrata: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
 Arte abstrata: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--abstract--pattern-full.md)
 

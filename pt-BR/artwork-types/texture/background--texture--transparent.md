@@ -14,11 +14,11 @@ Texturas / DIREÇÃO CRIATIVA / Texturas
 
 # Fundo transparente
 
-Texturas: O chão fica transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.
+Texturas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.
 
 <a id="understand"></a>
 
-![Fundo transparente: Texturas: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
+![Fundo transparente: texturas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 Ilustração da composição
 
@@ -26,7 +26,7 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+A transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 
 [← Voltar para texturas](../texture.md)
 
@@ -48,7 +48,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Mantenha o caráter material dominante. Use um fragmento de textura local quando um terreno separado precisar estar visível; uma textura opaca de área total e seu fundo tornam-se um, de modo que um suporte completo diferente também não pode permanecer visível.
+Mantenha as características do material dominantes. Use um fragmento de textura localizado quando um fundo separado precisar ficar visível; uma textura opaca em toda a área e seu fundo se tornam um só, por isso outro fundo completo não pode permanecer visível ao mesmo tempo.
 
 **Fundo**
 
@@ -64,11 +64,11 @@ Retenha materiais, superfícies, paletas e atmosfera relevantes sem exigir uma s
 
 **Escopo e limites**
 
-A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+A transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
 [![Fundo sólido: Texturas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
@@ -78,13 +78,13 @@ Texturas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.]
 
 ### Fundo gradiente↗
 
-Texturas: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--texture--gradient.md)[![Fundo padronizado: local: Texturas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
+Texturas: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--texture--gradient.md)[![Fundo estampado: local: Texturas: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Texturas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--texture--pattern-local.md)[![Fundo padronizado: área completa: Texturas: Um fundo padronizado cobre a imagem atrás de um conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
+Texturas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--texture--pattern-local.md)[![Fundo estampado: área completa: Texturas: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
 Texturas: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--texture--pattern-full.md)
 

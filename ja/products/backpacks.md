@@ -22,7 +22,7 @@
 
 主要な画像にメイン パネルを使用し、デザインの残りの部分で色や記号を繰り返します。メインパネルに 1 人のキャラクター。全面的に繰り返します。イラストに組み込まれた名前。
 
-![バックパックとランチバッグ・空白の製品ビジュアル](https://podplo.app/pod-guide/generated/backpacks-blank.webp)
+![バックパックとランチバッグ · 無地の商品イメージ](https://podplo.app/pod-guide/generated/backpacks-blank.webp)
 
 <a id="product-create"></a>
 
@@ -48,11 +48,11 @@
 
 AI 製品のプレビュー
 
-**さらにレイアウトを調べて Skills を設定します**
+**レイアウトやセット作成のSkillをもっと見る**
 
 <a id="_R_bf3k_-title"></a>
 
-#### さらにレイアウトを調べて Skills を設定します
+#### レイアウトやセット作成のSkillをもっと見る
 
 4 / 14
 
@@ -64,15 +64,15 @@ AI 製品のプレビュー
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### 被写体から背景を取り除く
 
 次のデザインのために髪、小さな隙間、自然な輪郭を維持しながら、目に見える被写体を分離します。
 
-[背景除去剤](https://podplo.app/skills/background-remover)
+[背景除去](https://podplo.app/skills/background-remover)
 
 ![背景リムーバー · ソース写真](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3-before.webp)
 
@@ -86,11 +86,11 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**写真と画像をもっと見る Skills**
+**写真や画像向けのSkillをもっと見る**
 
 <a id="_R_bn3k_-title"></a>
 
-#### 写真と画像をもっと見る Skills
+#### 写真や画像向けのSkillをもっと見る
 
 4 / 5
 
@@ -98,7 +98,7 @@ AI 製品のプレビュー
 
 [![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)[![HD アップスケール アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+細部修復](https://podplo.app/skills/detail-repair)[![HD アップスケール アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 HD アップスケール](https://podplo.app/skills/hd-upscale)[![ベクター スタイルのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-4.webp)
 
@@ -124,11 +124,11 @@ HD アップスケール](https://podplo.app/skills/hd-upscale)[![ベクター �
 
 AI 製品のプレビュー
 
-**名前と機会をさらに詳しく見る Skills**
+**名前やイベント向けのSkillをもっと見る**
 
 <a id="_R_bv3k_-title"></a>
 
-#### 名前と機会をさらに詳しく見る Skills
+#### 名前やイベント向けのSkillをもっと見る
 
 4 / 19
 
@@ -136,9 +136,9 @@ AI 製品のプレビュー
 
 [![ピンクのリボンの名前パターンのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607234000023917-artwork.webp)
 
-ピンクのリボンの名前パターン](https://podplo.app/skills/pink-bow-name-pattern)[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+ピンクのリボンの名前パターン](https://podplo.app/skills/pink-bow-name-pattern)[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 北極名ポスター](https://podplo.app/skills/north-pole-name-poster)[![クレヨンハートネームパターンアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -150,7 +150,7 @@ AI 製品のプレビュー
 
 ### バックパックでプレビューする
 
-AI プレビューには、ポケット、ストラップ、バックパックの形状に関連して焦点画像が着地する場所が表示されます。
+AIプレビューでは、ポケット、ストラップ、バックパックの形に対し、主役画像がどの位置に収まるかを確認できます。
 
 - 単一の焦点画像によりデザインが明確に保たれます
 
@@ -158,4 +158,4 @@ AI プレビューには、ポケット、ストラップ、バックパック�
 
 - 名前をテーマに組み込むことができます
 
-![バックパックとランチバッグ・AI製品証明](https://podplo.app/pod-guide/generated/backpacks-proof.webp)
+![バックパックとランチバッグ · AIによる商品仕上がり確認画像](https://podplo.app/pod-guide/generated/backpacks-proof.webp)

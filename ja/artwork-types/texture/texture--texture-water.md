@@ -32,7 +32,7 @@
 
 <a id="ai-directions"></a>
 
-AIの指示
+AIで広げる創作の方向性
 
 ## この方向性を AI に取り入れましょう
 
@@ -52,7 +52,7 @@ AIの指示
 
 **背景**
 
-参照マテリアル、パレット、雰囲気。欠落している場合に関連する表面処理を作成します。ローカル パッチには別のバッキングを含めることができます。全領域のテクスチャが地面とマージされます。支配的なオブジェクトや物語の設定を追加することは避けてください。
+素材、配色、雰囲気を参考にし、表面の表現がなければ関連する質感を作ります。部分的な質感には別の下地を付けられますが、全面の肌理は背景と一体になります。主役となる物体や物語のある場面を加えるのは避けてください。
 
 **文字の扱い**
 
@@ -70,33 +70,33 @@ AIの指示
 
 ## 背景を探る
 
-これらの例では、同じコンテンツ ファミリ内の根拠を比較しています。トリートメントを適用するときは、現在の組成を維持します。完全な手順については、例を開いてください。
+これらの例では、同じ内容のカテゴリ内で背景を比較しています。表現を適用するときも現在の構図を維持してください。各例を開くと指示の全文を確認できます。
 
-[![透明な背景: テクスチャ: 地面は透明のままです。チェッカーボードは単なる表示補助です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
+[![透明な背景: テクスチャ: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### 透明背景↗
 
-テクスチャ: 地面は透明のままです。チェッカーボードは単なる表示補助です。](background--texture--transparent.md)[![単色の背景: テクスチャ: 1 つの均一な色が地面を形成します。白も単色の背景です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+テクスチャ: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](background--texture--transparent.md)[![無地の背景：肌理：均一な一色を背景にします。白も無地の背景に含まれます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 ### 無地の背景↗
 
-テクスチャ: 1 つの均一な色が地面を形成します。白も単色の背景です。](background--texture--solid.md)[![グラデーションの背景: テクスチャ: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+テクスチャ: 均一な1色で背景を作ります。白も無地の背景に含まれます。](background--texture--solid.md)[![グラデーションの背景: テクスチャ: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### グラデーション背景↗
 
-テクスチャ: メインコンテンツはクリアなままでありながら、裏地の色や明るさが連続的に変化します。](background--texture--gradient.md)[![パターン化された背景: ローカル: テクスチャ: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
+テクスチャ: 主役をはっきり保ちながら、背景の色や明るさを連続的に変化させます。](background--texture--gradient.md)[![柄の背景：部分：肌理：内容の背後に部分的な装飾の下地を置き、その外側には別の領域を残します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
 
-### パターン背景: ローカル↗
+### 柄の背景：部分↗
 
-テクスチャ: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--texture--pattern-local.md)[![パターン化された背景: 全領域: テクスチャ: パターン化された地面が、はっきりと読み取れる前景コンテンツの後ろの画像を覆います。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
+テクスチャ: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--texture--pattern-local.md)[![柄の背景：全面：肌理：背景全体に柄を敷き、手前の内容ははっきり読み取れるようにします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
 
 ### パターン背景：全面↗
 
-テクスチャ: パターン化された地面が、はっきりと読み取れる前景コンテンツの背後の画像を覆います。](background--texture--pattern-full.md)[![テクスチャ背景: テクスチャ: 紙粒、粒子、または別の表面の文字が前景コンテンツをサポートします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--texture-1.svg)
+テクスチャ: はっきり見える前景の内容の背後を、模様のある背景で覆います。](background--texture--pattern-full.md)[![質感のある背景: テクスチャ: 紙の繊維や粒子などの表面の質感で、前景の内容を引き立てます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--texture-1.svg)
 
 ### テクスチャ背景↗
 
-テクスチャ: 紙粒、粒子、または別の表面の特徴が前景コンテンツをサポートします。](background--texture--texture.md)[![環境背景: テクスチャ: テーマに関連した環境は、メイン コンテンツをその背後または周囲からサポートします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
+テクスチャ: 紙の繊維や粒子などの表面の質感で、前景の内容を引き立てます。](background--texture--texture.md)[![環境背景: テクスチャ: テーマに関連した環境は、メイン コンテンツをその背後または周囲からサポートします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
 
 ### 環境背景↗
 
@@ -104,13 +104,13 @@ AIの指示
 
 <a id="related"></a>
 
-## 近くのルートを比較する
+## 近い創作の方向性を比べる
 
-[![自然な質感: 石: 粒、葉脈、亀裂、表面の変化は石のような素材であることを示唆しています。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-stone-1.svg)
+[![自然の肌理：石：粒、石目、亀裂、表面の変化が、石のような素材感を生み出します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-stone-1.svg)
 
 ### 自然なテクスチャ: 石↗
 
-粒、葉脈、亀裂、表面の変化は石のような素材であることを示唆しています。](texture--texture-stone.md)[![素材感：紙：繊維が細かく、シボや凹凸が紙の表面を思わせます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-paper-1.svg)
+粒、石目、亀裂、表面の変化が、石のような素材感を生み出します。](texture--texture-stone.md)[![素材感：紙：繊維が細かく、シボや凹凸が紙の表面を思わせます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-paper-1.svg)
 
 ### 素材感：紙↗
 
@@ -120,8 +120,8 @@ AIの指示
 
 織り交ぜられたラインと繊維のディテールは、織り込まれた表面を示唆しています。](texture--texture-weave.md)[![適用されたテクスチャ: 摩耗: 擦り傷、ブラシの跡、不均一な摩耗により、表面に使用済みまたは加工されたような特徴が与えられます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-worn-1.svg)
 
-### 適用されたテクスチャ: 着用↗
+### 加えた肌理：摩耗↗
 
 擦り傷、ブラシの跡、不均一な磨耗は、表面に使い込まれた、または加工されたような特徴を与えます。](texture--texture-worn.md)
 
-コードによる研究では、構成と視覚的処理を比較します。メディアとスタイルの例は概念的なものです。これらの方向は、画像モデルを使用して個別にテストされていません。生成されたテキスト、透明度、リピートエッジを確認します。
+コードで描いた図で、構図や視覚表現を比較します。画材やスタイルの例は概念を示すもので、これらの方向性を画像モデルで一つずつ検証したものではありません。生成した文字、透過、リピートの継ぎ目を確認してください。

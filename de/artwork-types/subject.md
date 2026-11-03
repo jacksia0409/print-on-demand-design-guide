@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-KUNSTFORMULAR · 01 / 05
+GESTALTUNGSFORM · 01 / 05
 
 # Motivorientierte Gestaltung
 
@@ -20,13 +20,13 @@ Ein identifizierbarer Gegenstand, eine Gruppe oder ein Schriftzug leitet den Ent
 
 <a id="subject-design"></a>
 
-## Themenzusammensetzung und Behandlungen
+## Motivkomposition und Gestaltung
 
 <a id="transformation"></a>
 
 VISUELLE FORMEN · 144
 
-### Thematische Kunstbehandlungen
+### Künstlerische Motivgestaltung
 
 <a id="transformation-panel-word-g22"></a>
 
@@ -50,7 +50,7 @@ Isolieren Sie die Außenkanten des Motivs in klare Linien, entfernen Sie Oberfl�
 
 ##### Minimale Strichzeichnung
 
-Beschreiben Sie das Thema mit nur wenigen, sparsamen Strichen und lassen Sie dabei Freiraum für den Großteil der Form.
+Stellen Sie das Motiv mit wenigen sparsamen Strichen dar und lassen Sie den Großteil der Form durch den Freiraum entstehen.
 
 <a id="form-art-22-7"></a>
 
@@ -66,7 +66,7 @@ Bauen Sie das Bild aus unruhigen, überlappenden Markierungen auf, deren unregel
 
 #### Reduktion und Vereinfachung
 
-Vergleichen Sie Strategien zum Entfernen von Details bei gleichzeitiger Wahrung der Identität, einschließlich Auslassungen, Silhouetten, Symbolen, Symbolen und einer vereinfachten Wertestruktur.
+Vergleichen Sie Strategien, Details zu reduzieren und die Identität zu bewahren: Auslassung, Silhouetten, Bildzeichen, Symbole und vereinfachte Tonwertstruktur.
 
 <a id="form-art-23-0"></a>
 
@@ -114,7 +114,7 @@ Lassen Sie leere Bereiche auf fehlende Kanten schließen, sodass der Betrachter 
 
 ##### Silhouettenreduzierung
 
-Komprimieren Sie das Motiv zu einem festen Umriss, dessen Pose und Profil alle erkennbar sind.
+Reduzieren Sie das Motiv auf eine geschlossene Silhouette, deren Pose und Profil allein die Wiedererkennbarkeit tragen.
 
 <a id="form-art-23-6"></a>
 
@@ -142,9 +142,9 @@ Ersetzen Sie die schrittweise Modellierung durch einige breite, ineinandergreife
 
 <a id="form-art-23-9"></a>
 
-![Wertegruppierung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-23-9.svg)
+![Tonwertgruppierung — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-23-9.svg)
 
-##### Wertegruppierung
+##### Tonwertgruppierung
 
 Organisieren Sie Hell und Dunkel in einer kleinen Anzahl klarer Tonmassen, anstatt kontinuierliche Schattierungen vorzunehmen.
 
@@ -210,7 +210,7 @@ Vergrößern Sie ein anatomisches Merkmal, sodass es zum dominanten visuellen Hi
 
 ##### Reduzierte Körperdetails
 
-Verkleinern Sie ein ausgewähltes Feature, um Kontrast, Verletzlichkeit oder eine absichtlich ungerade Proportion zu erzeugen.
+Verkleinern Sie ein ausgewähltes Merkmal, um Kontrast, Verletzlichkeit oder bewusst ungewöhnliche Proportionen zu erzeugen.
 
 <a id="form-art-24-5"></a>
 
@@ -298,7 +298,7 @@ Biegen Sie gerade Linien um ein abgerundetes Sichtfeld und erzeugen Sie so eine 
 
 #### Charakterisierung
 
-Vergleichen Sie, wie Subjekte durch Anthropomorphismus, Ausdruck, Gliedmaßen, Kleidung, Beruf, Persönlichkeit, Heldentum, Monstrosität oder mechanisches Leben zu Charakteren werden.
+Vergleichen Sie, wie Motive durch Vermenschlichung, Ausdruck, Gliedmaßen, Kleidung, Beruf, Persönlichkeit, Heldentum, Monstrosität oder mechanisches Leben zu Figuren werden.
 
 <a id="form-art-25-0"></a>
 
@@ -402,7 +402,7 @@ Kombinieren Sie Maschinen mit Zeichen des Bewusstseins, sodass sich Gelenke, Sen
 
 #### Dekonstruktion und Montage
 
-Vergleichen Sie, wie ein Thema geteilt, verschoben, gespiegelt, modularisiert und rekonstruiert wird, während seine Montagelogik sichtbar bleibt.
+Vergleichen Sie, wie ein Motiv geteilt, verschoben, gespiegelt, modularisiert und neu zusammengesetzt wird, während sein Aufbau sichtbar bleibt.
 
 <a id="form-art-26-0"></a>
 
@@ -430,9 +430,9 @@ Bauen Sie aus verschobenen Scherben ein erkennbares Ganzes wieder auf, dessen N�
 
 <a id="form-art-26-3"></a>
 
-![Verbundene Flugzeuge – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-26-3.svg)
+![Verbundene Flächen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-26-3.svg)
 
-##### Verbundene Flugzeuge
+##### Verbundene Flächen
 
 Verbinden Sie eckige Flächen Kante an Kante und lassen Sie planare Facetten das Volumen definieren, anstatt sie glatt zu modellieren.
 
@@ -506,7 +506,7 @@ Sorgen Sie dafür, dass die größere Struktur trotz bewusster Lücken an den St
 
 ##### Explosionszeichnung
 
-Hängen Sie getrennte Teile an ihren ursprünglichen Positionen auf, um Ordnung, Hierarchie und Zusammenbau sichtbar zu machen.
+Lassen Sie getrennte Teile nahe ihrer ursprünglichen Positionen schweben, um Ordnung, Hierarchie und Zusammenbau sichtbar zu machen.
 
 <a id="transformation-panel-word-g27"></a>
 
@@ -542,9 +542,9 @@ Verflechten Sie Fleisch und Maschine durch gemeinsame Gelenke, Oberflächen und 
 
 <a id="form-art-27-3"></a>
 
-![Objektbau-Hybrid – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-27-3.svg)
+![Objekt-Gebäude-Hybrid – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-27-3.svg)
 
-##### Objektbildender Hybrid
+##### Objekt-Gebäude-Hybrid
 
 Verschmelzen Sie ein vertrautes Objekt mit architektonischer Masse und verwandeln Sie Öffnungen und Komponenten in eine bewohnbare Struktur.
 
@@ -602,7 +602,7 @@ Erfinden Sie eine Kreatur aus mehreren Arten und vereinen Sie nicht zusammenpass
 
 #### Innenfüllungen und Oberflächen
 
-Vergleichen Sie Bilder, die innerhalb eines Motivs platziert, darunter sichtbar oder über ein Motiv hinweg ersetzt werden, von abgeschnittenen Füllungen bis hin zu Ausschnitten und alternativen Skins.
+Vergleichen Sie Bildinhalte, die in einem Motiv liegen, darunter sichtbar werden oder seine Oberfläche ersetzen: von maskierten Füllungen über Schnittansichten bis zu alternativen Materialoberflächen.
 
 <a id="form-art-28-0"></a>
 
@@ -680,7 +680,7 @@ Zeigen Sie Knochen oder ein strukturelles Gerüst durch den Körper und behalten
 
 ![Schnittausschnitt – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-28-9.svg)
 
-##### Cutaway-Abschnitt
+##### Schnittdarstellung
 
 Entfernen Sie einen ausgewählten äußeren Teil, um organisierte innere Schichten in der Schnittansicht freizulegen.
 
@@ -694,9 +694,9 @@ Machen Sie das Äußere optisch klar, sodass überlappende Innenkomponenten durc
 
 <a id="form-art-28-11"></a>
 
-![Alternatives Hautmaterial – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-28-11.svg)
+![Alternative Materialoberfläche – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-28-11.svg)
 
-##### Alternatives Hautmaterial
+##### Alternative Materialoberfläche
 
 Überziehen Sie das Motiv mit einer unerwarteten Substanz, deren Textur seinen Charakter verändert, ohne seine Form zu verändern.
 
@@ -704,7 +704,7 @@ Machen Sie das Äußere optisch klar, sodass überlappende Innenkomponenten durc
 
 <a id="transformation-group-word-g29"></a>
 
-#### Figurengrund und Illusionen
+#### Figur-Grund-Beziehungen und Illusionen
 
 Vergleichen Sie mehrdeutige Grenzen und räumliche Paradoxien, bei denen sich Figur, Grund, Tiefe, Maßstab oder Dimensionalität umkehren können.
 
@@ -760,7 +760,7 @@ Verwenden Sie mehrdeutige Schattierungen und Kanten, damit eine Oberfläche abwe
 
 ![Schwebende Struktur – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-29-6.svg)
 
-##### Schwimmende Struktur
+##### Schwebende Struktur
 
 Entfernen Sie sichtbare Stützen und trennen Sie die Komponenten leicht voneinander, sodass die Struktur im Raum zu schweben scheint.
 
@@ -770,7 +770,7 @@ Entfernen Sie sichtbare Stützen und trennen Sie die Komponenten leicht voneinan
 
 ##### Inside-Out-Raum
 
-Umgekehrte Einschließungshinweise, so dass Innenräume als Außenräume wahrgenommen werden und geschlossene Räume sich nach außen zu wenden scheinen.
+Kehren Sie die räumlichen Hinweise auf Umschließung um, sodass Innenräume wie Außenräume wirken und eingeschlossene Räume sich scheinbar nach außen wenden.
 
 <a id="form-art-29-8"></a>
 
@@ -782,9 +782,9 @@ Lassen Sie eine flache Zeichnung in das modellierte Volumen hineinragen und sorg
 
 <a id="form-art-29-9"></a>
 
-![Skalenverschiebung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-29-9.svg)
+![Maßstabsverschiebung — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-29-9.svg)
 
-##### Skalenverschiebung
+##### Maßstabsverschiebung
 
 Platzieren Sie Motive in inkompatiblen relativen Größen, sodass ein normaler Maßstab überraschend oder unmöglich erscheint.
 
@@ -798,9 +798,9 @@ Vergleichen Sie rhythmische Wiederholungen durch Ändern von Größe, Richtung, 
 
 <a id="form-art-30-0"></a>
 
-![Wiederholtes Thema – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-30-0.svg)
+![Wiederholtes Motiv – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-30-0.svg)
 
-##### Wiederholtes Thema
+##### Wiederholtes Motiv
 
 Wiederholen Sie dasselbe Motiv als Sequenz, Muster oder Menschenmenge und bewahren Sie dabei eine einheitliche visuelle Identität.
 
@@ -856,7 +856,7 @@ Verteilen Sie Kopien als Strahlen von einem gemeinsamen Zentrum und betonen Sie 
 
 ![Bewegungsaufschlüsselung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-30-7.svg)
 
-##### Bewegungszusammenbruch
+##### Aufschlüsselung der Bewegung
 
 Teilen Sie eine Aktion in aufeinanderfolgende Schlüsselposen auf, die ihren Weg und Zeitpunkt erklären.
 
@@ -866,7 +866,7 @@ Teilen Sie eine Aktion in aufeinanderfolgende Schlüsselposen auf, die ihren Weg
 
 ##### Bewegungsechos
 
-Versetzen Sie Silhouetten hinter einem sich bewegenden Motiv nach, um auf Geschwindigkeit, Vibration oder anhaltenden Schwung hinzuweisen.
+Lassen Sie versetzte Silhouetten hinter einem bewegten Motiv nachziehen, um Geschwindigkeit, Schwingung oder nachwirkenden Schwung anzudeuten.
 
 <a id="form-art-30-9"></a>
 
@@ -888,7 +888,7 @@ Platzieren Sie kleinere Versionen des Ganzen in sich selbst und erweitern Sie da
 
 <a id="transformation-group-word-g31"></a>
 
-#### Farbbehandlungen
+#### Farbgestaltungen
 
 Vergleichen Sie Palettentransformationen, die Farbtonbeziehungen, Farbanzahl, regionale Zuordnung, Umkehrung oder Spektraltrennung ändern.
 
@@ -974,9 +974,9 @@ Ordnen Sie Helligkeitsbereiche einem entworfenen Farbverlauf zu und ersetzen Sie
 
 <a id="form-art-31-10"></a>
 
-![Posterisierte Werte – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-31-10.svg)
+![Reduzierte Tonwertstufen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-31-10.svg)
 
-##### Posterisierte Werte
+##### Reduzierte Tonwertstufen
 
 Reduzieren Sie kontinuierliche Schattierungen in ein paar abrupte Tonschritte mit klaren Grenzen.
 
@@ -986,7 +986,7 @@ Reduzieren Sie kontinuierliche Schattierungen in ein paar abrupte Tonschritte mi
 
 ##### Farbaustausch
 
-Ersetzen Sie einen etablierten Farbton, wo immer er erscheint, und verändern Sie so die Identität, während die Wertestruktur erhalten bleibt.
+Ersetzen Sie einen vorhandenen Farbton überall dort, wo er auftritt, und ändern Sie so die Farbidentität unter Beibehaltung der Tonwertstruktur.
 
 <a id="form-art-31-12"></a>
 
@@ -1016,9 +1016,9 @@ Verwenden Sie intensiv leuchtende synthetische Farbtöne, die vor den dunkleren 
 
 <a id="transformation-group-word-g32"></a>
 
-#### Licht und Wert
+#### Licht und Tonwert
 
-Vergleichen Sie Transformationen, die durch Wert, Beleuchtung, Glanz, Schattenfarbe, Transluzenz und optische Aufteilung und nicht nur durch die Palette gesteuert werden.
+Vergleichen Sie Veränderungen durch Tonwert, Beleuchtung, Leuchten, Schattenfarbe, Lichtdurchlässigkeit und optische Aufspaltung statt nur durch die Farbpalette.
 
 <a id="form-art-32-0"></a>
 
@@ -1038,9 +1038,9 @@ Verwenden Sie eine gleichmäßige Beleuchtung nahezu ohne Schlagschatten, sodass
 
 <a id="form-art-32-2"></a>
 
-![Blockierte Werte – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-2.svg)
+![Flächig angelegte Tonwerte – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-2.svg)
 
-##### Gesperrte Werte
+##### Flächig angelegte Tonwerte
 
 Teilen Sie das Motiv in klare helle, mittlere und dunkle Formen auf, anstatt es schrittweise zu modellieren.
 
@@ -1054,9 +1054,9 @@ Platzieren Sie die Lichtquelle hinter dem Motiv, sodass die Umrisse zu einer dun
 
 <a id="form-art-32-4"></a>
 
-![Felgenlicht – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-4.svg)
+![Konturlicht — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-4.svg)
 
-##### Felgenlicht
+##### Konturlicht
 
 Zeichnen Sie die schattige Kante mit einem schmalen Lichtband nach, das sie vom Hintergrund trennt.
 
@@ -1090,7 +1090,7 @@ Umgeben Sie helle Farblinien mit sanften Lichtstrahlen, die eine elektrisch gela
 
 ##### Weichzeichner-Glühen
 
-Bloom hebt sich in verschwommene Ränder hervor und verleiht dem Bild eine sanfte, stimmungsvolle Ausstrahlung.
+Lassen Sie Glanzlichter weich überstrahlen und an den Rändern verschwimmen, sodass das Bild eine sanfte, atmosphärische Leuchtkraft erhält.
 
 <a id="form-art-32-9"></a>
 
@@ -1138,11 +1138,11 @@ Lassen Sie das Licht durch die Form dringen und offenbaren Sie geschichtete Farb
 
 #### Verschleiß und Verformung
 
-Vergleichen Sie physische Abnutzung und digitale Verzerrung und unterscheiden Sie Abrieb, Bruch, Ablagerungen, Ausbleichen, Fehlregistrierung, Störungen und Auflösung.
+Vergleichen Sie körperlich wirkende Abnutzung und digitale Verzerrung: Abrieb, Bruch, Ablagerungen, Ausbleichen, Passerversatz, Glitches und Auflösung.
 
 <a id="form-art-33-0"></a>
 
-![Abgenutzte Kleidung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-0.svg)
+![Gebrauchsspuren im Used-Look – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-0.svg)
 
 ##### Gebrauchsspuren im Used-Look
 
@@ -1166,9 +1166,9 @@ Schneiden Sie dünne, gerichtete Narben über die Oberflächen, um auf Reibung, 
 
 <a id="form-art-33-3"></a>
 
-![Tränen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-3.svg)
+![Einrisse — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-3.svg)
 
-##### Tränen
+##### Einrisse
 
 Offene, gezackte Risse mit gewellten oder getrennten Kanten, die eine weitere Schicht dahinter freigeben.
 
@@ -1202,7 +1202,7 @@ Schaffen Sie narbige, zerfressene Oberflächen mit unregelmäßigen Farbverschie
 
 ##### Flecken
 
-Fügen Sie ungleichmäßige Blüten, Ringe oder Spritzer hinzu, die in das Bild eindringen, anstatt sauber darüber zu sitzen.
+Fügen Sie unregelmäßige Farbverläufe, Ringe oder Spritzer hinzu, die in das Bild einsickern, statt sauber darüberzuliegen.
 
 <a id="form-art-33-8"></a>
 
@@ -1222,9 +1222,9 @@ Versetzen Sie ein schwaches Duplikat des Motivs, um Geisterbilder anstelle einer
 
 <a id="form-art-33-10"></a>
 
-![Fehlregistrierung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-10.svg)
+![Passerversatz – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-10.svg)
 
-##### Fehlregistrierung
+##### Passerversatz
 
 Verschieben Sie Farb- oder Druckebenen aus der Ausrichtung, wodurch sichtbare Ränder und unvollständige Überlappungen entstehen.
 
@@ -1232,7 +1232,7 @@ Verschieben Sie Farb- oder Druckebenen aus der Ausrichtung, wodurch sichtbare R�
 
 ![Scanspuren – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-11.svg)
 
-##### Spuren scannen
+##### Scanspuren
 
 Ziehen Sie schmale horizontale Reste aus Bildmerkmalen, die an einen Scanner erinnern, der sich nicht mehr synchron bewegt.
 
@@ -1284,21 +1284,21 @@ Zerteilen Sie eine Kante in immer kleinere Fragmente, bis sich die feste Form im
 
 VISUELLE FORMEN · 99
 
-### Zusammensetzung
+### Komposition
 
 <a id="layout-panel-word-9-0"></a>
 
 <a id="layout-group-word-9-0"></a>
 
-#### Anzahl und Kombinationen der Themen
+#### Anzahl und Kombinationen der Motive
 
-Vergleichen Sie Kompositionen nach Anzahl und Identität der Themen und unterscheiden Sie dabei einzelne, passende oder gemischte Paare, Ensembles, Sammlungen und Menschenmengen.
+Vergleichen Sie Kompositionen nach Anzahl und Identität ihrer Motive: einzelne Motive, gleiche oder gemischte Paare, Ensembles, Sammlungen und Menschenmengen.
 
 <a id="form-exp-9-0-0"></a>
 
-![Isoliertes Einzelsubjekt – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-0.svg)
+![Freigestelltes Einzelmotiv – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-0.svg)
 
-##### Isoliertes einzelnes Thema
+##### Freigestelltes Einzelmotiv
 
 Zeigen Sie ein Hauptobjekt mit einer vollständigen Silhouette und einer völlig eigenständigen visuellen Identität.
 
@@ -1336,17 +1336,17 @@ Sammeln Sie verschiedene Objekte zu einem Thema und bewahren Sie dabei die indiv
 
 <a id="form-exp-9-0-5"></a>
 
-![Leitende und unterstützende Fächer – visuelles Studium](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-5.svg)
+![Haupt- und Nebenmotive – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-5.svg)
 
-##### Leitende und unterstützende Fächer
+##### Haupt- und Nebenmotive
 
 Geben Sie einem Objekt die Hauptrolle, während die anderen für Begleitung oder Kontext sorgen.
 
 <a id="form-exp-9-0-6"></a>
 
-![Gleichberechtigte Co-Leiter – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-6.svg)
+![Gleichwertige Hauptmotive – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-6.svg)
 
-##### Gleiche Co-Leads
+##### Gleichwertige Hauptmotive
 
 Balancieren Sie zwei Hauptobjekte mit nahezu gleicher visueller Bedeutung aus.
 
@@ -1392,7 +1392,7 @@ Wiederholen Sie dasselbe Objekt in mehreren Versionen, um die Wiederholung oder 
 
 <a id="form-exp-9-0-12"></a>
 
-![Einzelsubjektneigung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-12.svg)
+![Geneigtes Einzelmotiv — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-12.svg)
 
 ##### Neigung einzelner Motive
 
@@ -1448,9 +1448,9 @@ Platzieren Sie das Motiv nah an einer Rahmenkante, um eine Bindung und visuelle 
 
 <a id="form-exp-9-1-7"></a>
 
-![Unten geerdet – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-7.svg)
+![Am unteren Rand verankert – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-7.svg)
 
-##### Unten geerdet
+##### Am unteren Rand verankert
 
 Halten Sie das Gewicht des Motivs in der Nähe der Unterkante, als stünde es auf einer Bodenebene.
 
@@ -1488,7 +1488,7 @@ Lassen Sie das Motiv den größten Teil des Bildes einnehmen, während die Silho
 
 <a id="form-exp-9-2-3"></a>
 
-![Rahmenfüllendes Thema – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-3.svg)
+![Bildfüllendes Motiv – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-3.svg)
 
 ##### Rahmenfüllendes Motiv
 
@@ -1548,7 +1548,7 @@ Erweitern Sie das Motiv über eine oder mehrere Rahmenkanten, um eine Fortsetzun
 
 ##### Vollständig innen, teilweise außen
 
-Behalten Sie ein vollständiges Formular innerhalb eines inneren Rahmens und lassen Sie gleichzeitig teilweise Erweiterungen darüber hinaus zu.
+Erhalten Sie eine vollständige Form innerhalb eines inneren Rahmens und lassen Sie einzelne Teile darüber hinausragen.
 
 <a id="form-exp-9-2-11"></a>
 
@@ -1610,7 +1610,7 @@ Versetzen Sie benachbarte Zeilen oder Spalten, um einen ineinandergreifenden Rhy
 
 ![Freie Anordnung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-5.svg)
 
-##### Kostenlose Vereinbarung
+##### Freie Anordnung
 
 Variieren Sie die Objektpositionen frei und halten Sie dabei das visuelle Gesamtgewicht im Gleichgewicht.
 
@@ -1652,7 +1652,7 @@ Verteilen Sie die Objekte auf einer länglichen oder geneigten elliptischen Stre
 
 ##### Offener Halbkreis
 
-Bilden Sie einen Halbkreis oder eine andere Einfriedung mit einer bewussten Öffnung.
+Gestalten Sie einen Halbkreis oder eine andere Einfassung mit einer bewussten Öffnung.
 
 <a id="form-exp-9-3-11"></a>
 
@@ -1664,11 +1664,11 @@ Verteilen Sie Objekte nach außen um ein Zentrum mit sichtbar radialer Ausrichtu
 
 <a id="form-exp-9-3-12"></a>
 
-![Fan-Spread – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-12.svg)
+![Fächerförmige Anordnung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-12.svg)
 
-##### Fan-Spread
+##### Fächerförmige Anordnung
 
-Öffnen Sie die Objekte in einem begrenzten Winkel nach außen, wie bei einem Handventilator.
+Fächern Sie die Gegenstände innerhalb eines begrenzten Winkels wie einen Handfächer auf.
 
 <a id="form-exp-9-3-13"></a>
 
@@ -1692,7 +1692,7 @@ Verbinden Sie den Blick des Betrachters durch Objekte, die auf einer S-förmigen
 
 ##### Zick-Zack-Weg
 
-Platzieren Sie Objekte entlang einer segmentierten Winkelroute mit deutlich sichtbaren Kurven.
+Ordnen Sie Objekte entlang eines in gerade Abschnitte unterteilten, kantigen Pfads mit deutlich erkennbaren Richtungswechseln an.
 
 <a id="form-exp-9-3-16"></a>
 
@@ -1788,7 +1788,7 @@ Lassen Sie einen dichten Cluster eine Antwort auf eine dünner verteilte Menge v
 
 ##### Stark-Schwach-Kontrast
 
-Trennen Sie Haupt- und Nebenmotive durch Kontrast in Wert, Farbe oder Detail.
+Heben Sie Haupt- und Nebenmotive durch Kontraste in Tonwert, Farbe oder Detailgrad voneinander ab.
 
 <a id="form-exp-9-4-9"></a>
 
@@ -1836,7 +1836,7 @@ Verschieben Sie das visuelle Gewicht bewusst auf eine Seite, um Bewegung oder In
 
 #### Überlappung und Distanz
 
-Vergleichen Sie räumliche Beziehungen durch Trennung, Kontakt, Überlappung, Verschachtelung, Verschachtelung, Tiefenordnung und kontrollierte Clusterbildung.
+Vergleichen Sie räumliche Beziehungen durch Trennung, Berührung, Überlappung, Verflechtung, Verschachtelung, Tiefenstaffelung und gezielte Gruppierung.
 
 <a id="form-exp-9-5-0"></a>
 
@@ -1848,9 +1848,9 @@ Lassen Sie deutlich sichtbare Lücken zwischen den Objekten, damit jedes einzeln
 
 <a id="form-exp-9-5-1"></a>
 
-![Konturen berühren – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-1.svg)
+![Sich berührende Konturen — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-1.svg)
 
-##### Konturen berühren
+##### Sich berührende Konturen
 
 Lassen Sie Objekte nur an ihren Kanten aufeinandertreffen und behalten Sie dabei die vollständige Kontur bei.
 
@@ -1868,7 +1868,7 @@ Lassen Sie Objekte nur an ihren Kanten aufeinandertreffen und behalten Sie dabei
 
 ##### Überlappung von vorne nach hinten
 
-Verwenden Sie eine starke Okklusion, um unverwechselbare Vorder- und Hintergrundmotive festzulegen.
+Verwenden Sie deutliche Verdeckungen, um Motive im Vorder- und Hintergrund eindeutig voneinander abzugrenzen.
 
 <a id="form-exp-9-5-4"></a>
 
@@ -1888,17 +1888,17 @@ Verteilen Sie die Objekte auseinander und sorgen Sie dafür, dass sie als eine G
 
 <a id="form-exp-9-5-6"></a>
 
-![Alternierendes Interlace – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-6.svg)
+![Wechselnde Verflechtung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-6.svg)
 
-##### Abwechselndes Interlace
+##### Wechselnde Verflechtung
 
 Lassen Sie verschiedene Objekte in einem gewebten Schichtmuster abwechselnd einander verdecken.
 
 <a id="form-exp-9-5-7"></a>
 
-![Verschachtelte Themen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-7.svg)
+![Verschachtelte Motive – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-7.svg)
 
-##### Verschachtelte Themen
+##### Verschachtelte Motive
 
 Platzieren Sie ein kleineres Objekt in einem Raum, der von einem anderen Objekt gebildet wird.
 
@@ -1956,7 +1956,7 @@ Platzieren Sie einen Teil eines Objekts innerhalb des Rahmens und lassen Sie den
 
 #### Orientierung und Interaktion
 
-Vergleichen Sie, wie Probanden durch Pose, Blick und gerichtete Interaktion Aktionen anschauen, beobachten, verfolgen, umarmen, sich widersetzen oder ihre Handlungen koordinieren.
+Vergleichen Sie, wie Figuren durch Pose, Blick und gerichtete Interaktion einander gegenüberstehen, beobachten, verfolgen, umarmen, entgegentreten oder ihre Handlungen abstimmen.
 
 <a id="form-exp-9-6-0"></a>
 
@@ -2036,7 +2036,7 @@ Verknüpfen Sie aufeinanderfolgende Posen, sodass eine Aktion sichtbar in die n�
 
 ##### Verfolgungsjagd
 
-Ordnen Sie die Zeichen hintereinander an und verfolgen Sie sie in die gleiche Richtung.
+Ordnen Sie Figuren hintereinander an, sodass sie einander in derselben Richtung verfolgen.
 
 <a id="form-exp-9-6-10"></a>
 
@@ -2052,7 +2052,7 @@ Bringen Sie die Charaktere durch Körperkontakt näher zusammen, um eine intime 
 
 ##### Gegensätzliche Kräfte
 
-Zeigen Sie zwei Personen, die Kraft ausüben oder sich in entgegengesetzte Richtungen bewegen.
+Zeigen Sie zwei Motive, die Kraft ausüben oder sich in entgegengesetzte Richtungen bewegen.
 
 <a id="layout-panel-word-9-7"></a>
 
@@ -2060,7 +2060,7 @@ Zeigen Sie zwei Personen, die Kraft ausüben oder sich in entgegengesetzte Richt
 
 #### Rahmen und Gruppierung
 
-Vergleichen Sie Organisationsbehälter und Sammelformate, einschließlich Rahmen, Platten, Probengitter, gruppierte Lücken und modulare Baugruppen.
+Vergleichen Sie ordnende Einfassungen und Sammlungsformate, darunter Rahmen, Bildfelder, Schauraster, gruppierte Zwischenräume und modulare Anordnungen.
 
 <a id="form-exp-9-7-0"></a>
 
@@ -2076,7 +2076,7 @@ Umgeben Sie eine Gruppe von Motiven mit einem gemeinsamen Rahmen.
 
 ##### Separate Paneele
 
-Geben Sie jedem Thema ein eigenes Panel und kombinieren Sie die Panels dann zu einer Komposition.
+Geben Sie jedem Motiv ein eigenes Bildfeld und verbinden Sie diese zu einer Komposition.
 
 <a id="form-exp-9-7-2"></a>
 
@@ -2088,9 +2088,9 @@ Stellen Sie komplette Objekte wie eine illustrierte Referenzsammlung zur individ
 
 <a id="form-exp-9-7-3"></a>
 
-![Flachdisplay – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-3.svg)
+![Anordnung in Draufsicht – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-3.svg)
 
-##### Flaches Display
+##### Anordnung in Draufsicht
 
 Ordnen Sie Objekte auf einer flachen Ebene an, sodass Sie sie direkt von oben betrachten können.
 
@@ -2100,7 +2100,7 @@ Ordnen Sie Objekte auf einer flachen Ebene an, sodass Sie sie direkt von oben be
 
 ##### Explosionszeichnung der Teile
 
-Trennen Sie die Komponenten zu einem Ganzen und bewahren Sie dabei ihre sichtbaren Zusammenbaubeziehungen.
+Trennen Sie die Bestandteile eines Ganzen voneinander und bewahren Sie dabei die erkennbaren Beziehungen ihres Zusammenbaus.
 
 <a id="form-exp-9-7-5"></a>
 
@@ -2112,9 +2112,9 @@ Platzieren Sie mehrere unabhängige kleine Objekte um ein zentrales Kernobjekt.
 
 <a id="form-exp-9-7-6"></a>
 
-![Enge Gruppen öffnen Lücken – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-6.svg)
+![Dichte Gruppen mit offenen Zwischenräumen — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-6.svg)
 
-##### Enge Gruppen öffnen Lücken
+##### Dichte Gruppen mit offenen Zwischenräumen
 
 Packen Sie Objekte eng in kleine Gruppen ein und lassen Sie zwischen diesen Gruppen offene Lücken.
 
@@ -2162,7 +2162,7 @@ Vergleichen Sie Akzente, die von einem Motiv ausgehen, von sanften Lichthöfen b
 
 ##### Ausstrahlende Strahlen
 
-Abwechselnd lange und kurze Linien, die von jeder Seite des Motivs nach außen verlaufen.
+Lassen Sie abwechselnd lange und kurze Linien von allen Seiten des Motivs nach außen verlaufen.
 
 <a id="form-decoration-0-1"></a>
 
@@ -2174,15 +2174,15 @@ Platzieren Sie einen sanften Lichthof, einen Schein oder mehrere diffuse Lichtri
 
 <a id="form-decoration-0-2"></a>
 
-![Burst Spikes – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-0-2.svg)
+![Strahlenspitzen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-0-2.svg)
 
-##### Geplatzte Spitzen
+##### Strahlenspitzen
 
 Verwenden Sie gezackte Spitzen, scharfe Ecken oder Comic-Explosionsformen, um das Motiv hervorzuheben.
 
 <a id="form-decoration-0-3"></a>
 
-![Lokale Glitzer – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-0-3.svg)
+![Lokale Glitzerpunkte – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-0-3.svg)
 
 ##### Lokales Funkeln
 
@@ -2216,7 +2216,7 @@ Streuen Sie ein paar Blumen, Sterne oder kleine Punkte locker um die Hauptform.
 
 ![Gleichmäßige Streuung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-1-1.svg)
 
-##### Sogar streuend
+##### Gleichmäßige Streuung
 
 Umgeben Sie das Motiv mit kleinen Elementen in nahezu gleichmäßiger Dichte.
 
@@ -2242,7 +2242,7 @@ Sammeln Sie die Dekoration entlang einer Seite, in einer Ecke oder in mehreren k
 
 ##### Größenechos
 
-Mischen Sie große und kleine unterstützende Elemente, um einen Rhythmus zu schaffen, der das Thema widerspiegelt.
+Mischen Sie große und kleine Begleitelemente zu einem Rhythmus, der das Motiv aufgreift.
 
 <a id="form-decoration-1-5"></a>
 
@@ -2264,7 +2264,7 @@ Hängen Sie umgebende Elemente mit genügend Freiraum auf, um Leichtigkeit und S
 
 <a id="decoration-group-word-g2"></a>
 
-#### Ringe und Gehäuse
+#### Ringe und Einfassungen
 
 Vergleichen Sie Kränze, Umlaufbahnen, Spiralen und Teilumschließungen, die ein zentrales Motiv sichtbar umschließen.
 
@@ -2294,9 +2294,9 @@ Führen Sie eine kreisförmige, elliptische oder geneigte Umlaufbahn vor und hin
 
 <a id="form-decoration-2-3"></a>
 
-![Spiralverpackung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-2-3.svg)
+![Spiralförmige Umwicklung — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-2-3.svg)
 
-##### Spiralverpackung
+##### Spiralförmige Umwicklung
 
 Wickeln Sie die Dekoration nach innen zum Motiv hin oder lassen Sie sie spiralförmig nach außen entfalten.
 
@@ -2312,13 +2312,13 @@ Legen Sie mehrere Ringe unterschiedlicher Größe und unterschiedlichen Material
 
 ![Konturfolgender Beschnitt – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-2-5.svg)
 
-##### Konturenbetonter Besatz
+##### Konturfolgender Besatz
 
 Folgen Sie der Silhouette des Motivs mit Verzierungen, um einen passenden Außenbesatz zu schaffen.
 
 <a id="form-decoration-2-6"></a>
 
-![Bogeneinfriedung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-2-6.svg)
+![Bogeneinfassung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-2-6.svg)
 
 ##### Bogeneinfassung
 
@@ -2362,7 +2362,7 @@ Verwenden Sie eine unregelmäßige handgezeichnete, wolkenartige oder flüssige 
 
 ##### Gemusterter Rahmen
 
-Konstruieren Sie die Bordüre aus Spitze, Rüschen, Knoten, Ketten oder stempelartigen Perforationen.
+Gestalten Sie die Bordüre aus Spitze, Rüschen, Knoten, Ketten oder briefmarkenartigen Perforationen.
 
 <a id="form-decoration-3-3"></a>
 
@@ -2378,7 +2378,7 @@ Dekorieren Sie nur die vier Ecken, ein Diagonalpaar oder eine ausgewählte Ecke.
 
 ##### Gepaarte Seitenornamente
 
-Platzieren Sie passende Blätter, Flügel oder Rollwerke links und rechts vom Motiv.
+Platzieren Sie zueinander passende Blätter, Flügel oder Schnörkel links und rechts des Motivs.
 
 <a id="form-decoration-3-5"></a>
 
@@ -2408,7 +2408,7 @@ Lassen Sie das Motiv den Rahmen durchqueren, während die Dekoration Innen und A
 
 <a id="decoration-group-word-g4"></a>
 
-#### Rückhalt und Unterstützung
+#### Hintergrund und Untergrund
 
 Vergleichen Sie Formen, die hinter, unter oder über einem Motiv platziert sind, um dessen Silhouette und visuelles Gewicht zu unterstützen.
 
@@ -2416,23 +2416,23 @@ Vergleichen Sie Formen, die hinter, unter oder über einem Motiv platziert sind,
 
 ![Hintergrundfarbblock – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-4-0.svg)
 
-##### Farbblock auf der Rückseite
+##### Hinterlegter Farbblock
 
 Platzieren Sie eine Scheibe, eine unregelmäßige Farbform oder ein Collagenpapierstück direkt hinter dem Motiv.
 
 <a id="form-decoration-4-1"></a>
 
-![Silhouettenunterlage – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-4-1.svg)
+![Hintergrund in Silhouettenform — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-4-1.svg)
 
-##### Silhouette-Rückseite
+##### Hintergrund in Silhouettenform
 
 Unterstützen Sie das Motiv mit einer größeren Silhouette wie Blattwerk, Flügeln oder einem Bergprofil.
 
 <a id="form-decoration-4-2"></a>
 
-![Basisunterstützung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-4-2.svg)
+![Tragender Untergrund – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-4-2.svg)
 
-##### Basisunterstützung
+##### Tragender Untergrund
 
 Konzentrieren Sie Blumen, Blätter, Wolken oder Wellen als visuelle Grundlage unter dem Motiv.
 
@@ -2466,11 +2466,11 @@ Versetzen Sie mehrere Papier-, Etiketten-, Stoff- oder geometrische Blätter hin
 
 #### Verflechtungen und Verbindungen
 
-Vergleichen Sie Bänder, Ranken, Linien und Verbindungselemente, die das Hauptthema kreuzen, verbinden, verbinden oder durchweben.
+Vergleichen Sie Bänder, Ranken, Linien und Verbindungselemente, die das Hauptmotiv kreuzen, umschlingen, verbinden oder durchweben.
 
 <a id="form-decoration-5-0"></a>
 
-![Vorne-hinten-Interlacing – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-5-0.svg)
+![Verflechtung vor und hinter dem Motiv – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-5-0.svg)
 
 ##### Vorne-hinten-Verflechtung
 
@@ -2486,9 +2486,9 @@ Lassen Sie Stängel und Ranken entlang wachsen, darüber klettern oder sich um d
 
 <a id="form-decoration-5-2"></a>
 
-![Bandverpackung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-5-2.svg)
+![Umwicklung mit Bändern — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-5-2.svg)
 
-##### Bandverpackung
+##### Umwicklung mit Bändern
 
 Wickeln Sie ein Band, Stoffstreifen oder Seil um und hinter das Motiv.
 
@@ -2522,7 +2522,7 @@ Hängen Sie Perlen, Quasten, Anhänger oder Ranken an das Motiv oder seinen Rahm
 
 ##### Verknüpfte Sequenz
 
-Verbinden Sie mehrere Themen mit einer Linie, Kette, einem Zweig oder einer anderen durchgehenden Verbindung.
+Verbinden Sie mehrere Motive durch eine Linie, Kette, einen Zweig oder eine andere durchgehende Verbindung.
 
 <a id="form-decoration-5-7"></a>
 
@@ -2664,7 +2664,7 @@ Fügen Sie geteilte Wedel hinzu, deren sich wiederholende Blättchen eine zarte 
 
 ##### Weizenähren
 
-Sammeln Sie spitz zulaufende Kornköpfe zu aufrechten Bündeln oder Kränzen, die Ernte, Fülle und Spätsommerwärme suggerieren.
+Bündeln Sie spitz zulaufende Getreideähren zu aufrechten Gebinden oder Kränzen, die Ernte, Fülle und Spätsommerwärme vermitteln.
 
 <a id="form-decoration-7-8"></a>
 
@@ -2724,9 +2724,9 @@ Streuen Sie spitze Lichter in unterschiedlichen Maßstäben, um Funkeln, Distanz
 
 <a id="form-decoration-8-3"></a>
 
-![Konstellationen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-8-3.svg)
+![Sternbilder – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-8-3.svg)
 
-##### Konstellationen
+##### Sternbilder
 
 Verbinden Sie ausgewählte Sterne mit feinen Linien, sodass eine imaginäre Figur oder ein kartiertes Himmelsmuster entsteht.
 
@@ -2760,7 +2760,7 @@ Legen Sie abgerundete oder längliche Massen über den Kopf, um Weichheit, Wette
 
 ##### Regenbogen
 
-Biegen Sie geordnete Farbbänder in einen Bogen, der klares Wetter, Optimismus oder Symbolik des umfassenden Spektrums signalisiert.
+Biegen Sie geordnete Farbbänder zu einem Bogen, der aufklarendes Wetter, Optimismus oder die inklusive Symbolik des Farbspektrums ausdrückt.
 
 <a id="form-decoration-8-8"></a>
 
@@ -2800,7 +2800,7 @@ Vergleichen Sie dekorative Motive tierischen Ursprungs und unterscheiden Sie gan
 
 ##### Schmetterlinge
 
-Verwenden Sie verspiegelte Flügel und einen kleinen zentralen Körper, um Leichtigkeit, Transformation und dekorative bilaterale Balance zu schaffen.
+Verwenden Sie spiegelbildlich angeordnete Flügel und einen kleinen mittigen Körper, um Leichtigkeit, Verwandlung und dekoratives beidseitiges Gleichgewicht zu erzeugen.
 
 <a id="form-decoration-9-1"></a>
 
@@ -2816,7 +2816,7 @@ Bevorzugen Sie breiter gemusterte Flügel und gedämpfte nächtliche Farben für
 
 ##### Bienen
 
-Kombinieren Sie gestreifte Körper, durchscheinende Flügel und kleine Flugbahnen, um Bestäubung, Industrie und lebhafte Schuppen zu suggerieren.
+Kombinieren Sie gestreifte Körper, durchscheinende Flügel und kleine Flugbahnen, um Bestäubung, Fleiß und lebendige Kleinteiligkeit anzudeuten.
 
 <a id="form-decoration-9-3"></a>
 
@@ -2840,7 +2840,7 @@ Ordnen Sie stromlinienförmige Körper und Flossen in Strömungen oder Schwärme
 
 ##### Federn
 
-Legen Sie konische Widerhaken um einen zentralen Schaft, um ihm Weichheit, Flugsymbolik und eine feine Richtungsstruktur zu verleihen.
+Schichten Sie sich verjüngende Federäste um einen mittigen Federschaft, um Weichheit, Flugsymbolik und eine feine gerichtete Textur zu erzeugen.
 
 <a id="form-decoration-9-6"></a>
 
@@ -2908,9 +2908,9 @@ Ordnen Sie spitze dreiseitige Formen so an, dass sie Stabilität, Warnung, Aufst
 
 <a id="form-decoration-10-4"></a>
 
-![Diamanten – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-4.svg)
+![Rauten – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-4.svg)
 
-##### Diamanten
+##### Rauten
 
 Verwenden Sie geneigte Quadrate als funkelnde Facetten, Referenzen für Kartenfarben oder sich wiederholende eckige Ornamente.
 
@@ -2928,7 +2928,7 @@ Wechseln Sie dunkle und helle Quadrate ab, um ein kräftiges Raster mit unmittel
 
 ##### Wellen
 
-Führen Sie parallele Kurven oder sich wiederholende Kämme über das Design, um Wasser, Vibration und kontinuierlichen Fluss hervorzurufen.
+Führen Sie parallele Kurven oder wiederholte Wellenberge über das Design, um Wasser, Schwingungen und einen kontinuierlichen Fluss anzudeuten.
 
 <a id="form-decoration-10-7"></a>
 
@@ -2944,7 +2944,7 @@ Wickeln Sie eine Linie um die Mitte, um Wachstum, Rotation, Hypnose oder eine Be
 
 ##### Pfeile
 
-Richten Sie einfache Wellen auf Aktionen, Routen, Beschriftungen oder Sequenzen, damit die Richtung visuell deutlich wird.
+Richten Sie einfache Pfeilschäfte auf Handlungen, Wege, Beschriftungen oder Abfolgen, damit die Richtung klar sichtbar wird.
 
 <a id="form-decoration-10-9"></a>
 
@@ -2964,11 +2964,11 @@ Streuen Sie Noten entlang angedeuteter Rhythmen, um Klang, Gesang, Feier oder ei
 
 <a id="form-decoration-10-11"></a>
 
-![Sparkles – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-11.svg)
+![Funkelnde Akzente — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-11.svg)
 
-##### Funkelt
+##### Funkelnde Akzente
 
-Fügen Sie kleine Vierpunkt-Ausbrüche um Glanzlichter und Kanten hinzu, um den Oberflächen ein poliertes, magisches oder neu enthülltes Aussehen zu verleihen.
+Fügen Sie kleine vierstrahlige Sterne an Glanzlichtern und Kanten hinzu, damit die Oberflächen poliert, magisch oder gerade erst sichtbar geworden wirken.
 
 <a id="materials-panel-word-g11"></a>
 
@@ -2976,7 +2976,7 @@ Fügen Sie kleine Vierpunkt-Ausbrüche um Glanzlichter und Kanten hinzu, um den 
 
 #### Textilien und Ornamente
 
-Vergleichen Sie Stoff-, Kordel-, Schmuck- und Befestigungsmotive, die als Bordüren, Krawatten, hängende Akzente oder dekorative Details verwendet werden.
+Vergleichen Sie Stoff-, Kordel-, Schmuck- und Verschlussmotive, die als Bordüren, Bindungen, hängende Akzente oder ornamentale Details dienen.
 
 <a id="form-decoration-11-0"></a>
 
@@ -2988,9 +2988,9 @@ Biegen Sie breite Stoffstreifen als Banner, Verpackungsakzente oder anmutige Ric
 
 <a id="form-decoration-11-1"></a>
 
-![Bögen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-11-1.svg)
+![Schleifen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-11-1.svg)
 
-##### Bögen
+##### Schleifen
 
 Binden Sie symmetrische Schlaufen um einen zentralen Knoten, um einen kompakten, geschenkähnlichen Akzent mit sanftem Charme zu schaffen.
 
@@ -3076,7 +3076,7 @@ Vergleichen Sie Collage-fähige Papierstücke und gedruckte Ephemera, einschlie�
 
 <a id="form-decoration-12-1"></a>
 
-![Band – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-12-1.svg)
+![Klebeband — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-12-1.svg)
 
 ##### Klebeband
 
@@ -3102,7 +3102,7 @@ Fügen Sie perforierte Miniaturrahmen mit entwertungsähnlichen Markierungen hin
 
 ![Siegel – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-12-4.svg)
 
-##### Robben
+##### Siegel
 
 Platzieren Sie kreisförmige oder geprägte Eindrücke als Zeichen der Genehmigung, Authentizität, des Abschlusses oder der offiziellen Handhabung.
 
@@ -3112,7 +3112,7 @@ Platzieren Sie kreisförmige oder geprägte Eindrücke als Zeichen der Genehmigu
 
 ##### Tickets
 
-Verwenden Sie nummerierte Stubs und abgeschnittene Ecken, um Eintritt, Durchreise, Ereignisse oder ein Andenken an ein Erlebnis vorzuschlagen.
+Verwenden Sie nummerierte Ticketabschnitte und abgeschnittene Ecken, um Eintritt, Verkehr, Veranstaltungen oder Erinnerungen an ein Erlebnis anzudeuten.
 
 <a id="form-decoration-12-6"></a>
 
@@ -3144,7 +3144,7 @@ Vergleichen Sie vorübergehende natürliche Spuren und abstrakte Rückstände, v
 
 ##### Rauch
 
-Lassen Sie durchscheinende Federn sich nach oben kräuseln und verteilen, wodurch die Kanten weicher werden und gleichzeitig Wärme, Geheimnis oder Atmosphäre suggeriert werden.
+Lassen Sie durchscheinende Rauchschwaden nach oben kräuseln und sich auflösen, sodass weiche Ränder Wärme, Geheimnis oder Atmosphäre andeuten.
 
 <a id="form-decoration-13-1"></a>
 
@@ -3160,7 +3160,7 @@ Bilden Sie spitze Zungen in warmen Farben, die sich mit energetischer Hitze unvo
 
 ##### Wasserspritzer
 
-Werfen Sie Lichtbögen und Tröpfchen von einem Aufprallpunkt nach außen, um die Kraft der Flüssigkeit und schwebende Bewegungen einzufangen.
+Lassen Sie Flüssigkeitsbögen und Tröpfchen von einer Aufprallstelle nach außen spritzen, um die Kraft der Flüssigkeit und einen schwebenden Bewegungsmoment einzufangen.
 
 <a id="form-decoration-13-3"></a>
 
@@ -3176,7 +3176,7 @@ Erweitern Sie dünne konzentrische Kurven von einem Zentrum aus und verwandeln S
 
 ##### Tintenflecken
 
-Verwenden Sie zusammengeballte Schwarztöne, trockene Ränder, Spritzer und zufällige Ausblühungen als ausdrucksstarken Beweis für flüssige Tinte.
+Verwenden Sie angesammelte schwarze Tusche, trockene Ränder, Spritzer und zufällige Ausblühungen als ausdrucksstarke Spuren flüssiger Tusche.
 
 <a id="form-decoration-13-5"></a>
 
@@ -3200,7 +3200,7 @@ Verteilen Sie unregelmäßige, durchscheinende Flecken mit dunkleren Rändern, u
 
 ##### Fragmente
 
-Verteilen Sie zerbrochene, kantige Stücke um eine zerstörte Quelle und gleichen Sie eine scharfe Trennung mit einem angedeuteten ursprünglichen Ganzen aus.
+Verteilen Sie abgebrochene, kantige Teile um die aufgebrochene Ausgangsform. Verbinden Sie die deutliche Trennung mit dem Eindruck eines ursprünglich zusammengehörigen Ganzen.
 
 <a id="form-decoration-13-8"></a>
 
@@ -3210,15 +3210,15 @@ Verteilen Sie zerbrochene, kantige Stücke um eine zerstörte Quelle und gleiche
 
 Lösen Sie Kanten in viele kleine Einheiten auf, deren wechselnde Dichte Staub, Glitzer oder atmosphärische Übergänge erzeugt.
 
-**Verwenden Sie die allgemeine themenorientierte Richtung**
+**Verwenden Sie die allgemeine Gestaltungsrichtung „Motiv im Mittelpunkt“.**
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -3246,6 +3246,6 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Ersetzen Sie das identifizierbare Schwerpunktthema nicht durch eine Umgebung, eine dekorative Wiederholung, eine materielle Oberfläche oder eine nichtfigurative Abstraktion.
+Ersetzen Sie das erkennbare Hauptmotiv nicht durch eine Umgebung, einen dekorativen Rapport, eine Materialoberfläche oder eine nichtgegenständliche Abstraktion.
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

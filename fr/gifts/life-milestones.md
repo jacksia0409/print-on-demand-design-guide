@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/life-milestones?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/life-milestones?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -38,9 +38,9 @@ Cadre de nom floral
 
 [![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="school-and-work"></a>
 
@@ -80,7 +80,7 @@ Disposition des badges circulaires](https://podplo.app/skills/circular-badge-lay
 
 [Créateur d'affiches](https://podplo.app/skills/poster-maker) organise les années, les lieux, les photos et une ligne personnelle dans une affiche commémorative claire.
 
-Les conceptions de retraite et de pendaison de crémaillère peuvent inclure des années, des lieux, des rôles, des adresses, des photos et une ligne personnelle. [Créateur d'affiches](https://podplo.app/skills/poster-maker) organise ces éléments dans une affiche commémorative claire.
+Les visuels de retraite ou de pendaison de crémaillère peuvent inclure années, lieux, rôles, adresses, photos et phrase personnelle. [Créateur d'affiches](https://podplo.app/skills/poster-maker) organise ces éléments dans une affiche commémorative claire.
 
 ![Faits et images approuvés pour une étape importante](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 

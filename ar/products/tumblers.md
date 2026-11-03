@@ -12,7 +12,7 @@
 
 <a id="guide-main"></a>
 
-# البهلوانات
+# أكواب حرارية
 
 قم بتكييف صورة واحدة في قطعة مركزية طويلة، أو تكرار شامل، أو غلاف كامل للكوب.
 
@@ -22,9 +22,9 @@
 
 ### استخدم الارتفاع والالتفاف الكامل
 
-تعمل الشخصيات الطويلة والكتابات المكدسة والزخارف المتناثرة والمشاهد البانورامية بشكل جيد على البهلوان. شخصية مركزية طويلة؛ زخارف صغيرة متناثرة من الأعلى إلى الأسفل؛ مشهد بانورامي حول البهلوان.
+تلائم الأكواب الحرارية الشخصيات الطويلة والحروف المتراصة والزخارف المتناثرة والمشاهد البانورامية. شخصية مركزية طويلة؛ زخارف صغيرة متناثرة من الأعلى إلى الأسفل؛ مشهد بانورامي يلتف حول الكوب الحراري.
 
-![البهلوانات · منتج مرئي فارغ](https://podplo.app/pod-guide/generated/tumblers-blank.webp)
+![أكواب حرارية · صورة منتج بلا تصميم](https://podplo.app/pod-guide/generated/tumblers-blank.webp)
 
 <a id="product-create"></a>
 
@@ -32,7 +32,7 @@
 
 استخدم Skills مختلفة لتحويل نفس الصورة إلى تخطيطات جديدة وأعمال فنية قائمة على الصور وتصميمات مخصصة.
 
-### قم بإنشاء نمط بهلوان شامل
+### أنشئ نمطًا يغطي الكوب الحراري بالكامل
 
 خذ التفاصيل من صورتك وقم بترتيبها بتكرار سلس عبر الغلاف الكامل.
 
@@ -46,15 +46,15 @@
 
 عمل فني تم إنشاؤه
 
-![البهلوانات · نمط سلس · معاينة منتج الذكاء الاصطناعي](https://podplo.app/pod-guide/generated/tumblers-seamless-pattern-proof.webp)
+![أكواب حرارية · نمط متصل بلا فواصل · معاينة المنتج بالذكاء الاصطناعي](https://podplo.app/pod-guide/generated/tumblers-seamless-pattern-proof.webp)
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من التخطيط وقم بتعيين Skills**
+**استكشف المزيد من Skills للتخطيطات والمجموعات**
 
 <a id="_R_bf3k_-title"></a>
 
-#### اكتشف المزيد من التخطيط وقم بتعيين Skills
+#### استكشف المزيد من Skills للتخطيطات والمجموعات
 
 4 / 11
 
@@ -66,11 +66,11 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)
 
-### تحويل صورة حيوان أليف إلى رسم بهلوان رئيسي
+### حوّل صورة حيوان أليف إلى الرسم الرئيسي لكوب حراري
 
 قم بإنشاء صورة للحيوانات الأليفة بالألوان المائية، ثم قم بترتيبها لتناسب شكل الكوب الطويل.
 
@@ -86,13 +86,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bn3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 4 / 91
 
@@ -108,13 +108,13 @@
 
 صانع الاستنسل](https://podplo.app/skills/stencil-maker)
 
-### إنشاء تصميم اسم الأزهار طويل القامة
+### أنشئ تصميمًا طوليًا لاسم وزهور
 
-اجعل الاسم هو النقطة المحورية وقم بترتيب الزهور لتناسب الشكل الرأسي للبهلوان.
+اجعل الاسم نقطة التركيز ورتّب الزهور لتناسب الشكل الطولي للكوب الحراري.
 
 [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)
 
-أندريا
+ANDREA
 
 الاسم
 
@@ -124,25 +124,25 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من الاسم والمناسبة Skills**
+**استكشف المزيد من Skills للأسماء والمناسبات**
 
 <a id="_R_bv3k_-title"></a>
 
-#### اكتشف المزيد من الاسم والمناسبة Skills
+#### استكشف المزيد من Skills للأسماء والمناسبات
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال على العمل الفني لنمط اسم قلوب تلوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال عمل فني لنمط اسم وقلوب بأقلام شمعية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-تلوين قلوب اسم النمط](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+نمط اسم وقلوب بأقلام شمعية](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -150,16 +150,16 @@
 
 ## معاينة التصميم على المنتج
 
-### معاينة تصميم البهلوان الكامل
+### عاين تصميم الكوب الحراري كاملًا
 
-تُظهر معاينة الذكاء الاصطناعي نقطة التركيز الرئيسية والتفاصيل التي تظهر أثناء دوران الكأس.
+تُظهر المعاينة بالذكاء الاصطناعي نقطة التركيز الرئيسية والتفاصيل التي تظهر عند تدوير الكوب الحراري.
 
-- يؤكد العمل الفني العمودي على ارتفاع البهلوان
+- يبرز التكوين الرأسي ارتفاع الكوب الحراري
 
 - تخلق الزخارف المتناثرة تصميمًا شاملاً
 
 - يستخدم المشهد البانورامي الغلاف بأكمله
 
-![البهلوانات · إثبات المنتج بالذكاء الاصطناعي](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![أكواب حرارية · معاينة المنتج بالذكاء الاصطناعي](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
 </div>

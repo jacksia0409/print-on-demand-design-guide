@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/skills-and-asset-library?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/skills-and-asset-library?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,17 +18,17 @@ Comience con su propia imagen o explore la biblioteca de recursos. Utilice Skill
 
 ## Convierte una foto de mascota en un retrato real
 
-[Retrato de mascota real](https://podplo.app/skills/royal-pet-portrait) Agrega trajes y paisajes de época y al mismo tiempo mantiene a la mascota reconocible.
+[Retrato regio de mascota](https://podplo.app/skills/royal-pet-portrait) Agrega trajes y paisajes de época y al mismo tiempo mantiene a la mascota reconocible.
 
-[Retrato de mascota real](https://podplo.app/skills/royal-pet-portrait) convierte una foto familiar de una mascota en el retrato de un personaje majestuoso. El disfraz y el entorno pueden cambiar drásticamente, mientras que la forma de la cara, las marcas del pelaje y la expresión mantienen a la mascota inconfundiblemente misma.
+[Retrato regio de mascota](https://podplo.app/skills/royal-pet-portrait) convierte una foto familiar de una mascota en el retrato de un personaje majestuoso. El disfraz y el entorno pueden cambiar drásticamente, mientras que la forma de la cara, las marcas del pelaje y la expresión mantienen a la mascota inconfundiblemente misma.
 
 ![Fotografía de mascota proporcionada por el cliente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
 
 Entrada
 
-[![Retrato de mascota real basado en esa fotografía.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
+[![Retrato regio de mascota basado en esa fotografía](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
 
-Retrato de mascota real
+Retrato regio de mascota
 
 **Más Skills para explorar**
 
@@ -70,21 +70,21 @@ Guarde sus imágenes originales y resultados favoritos para poder volver a ellos
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración del eliminador de fondo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Eliminador de fondo](https://podplo.app/skills/background-remover)[![Ejemplo de obra de arte de reparación detallada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Eliminador de fondo](https://podplo.app/skills/background-remover)[![Ejemplo de reparación de detalles](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparación detallada](https://podplo.app/skills/detail-repair)
+Reparación de detalles](https://podplo.app/skills/detail-repair)
 
 <a id="metadata"></a>
 
 ## Etiquetar recursos para reutilizarlos fácilmente
 
-Las etiquetas claras facilitan la búsqueda de un activo y crean una variación estacional con [Hazlo Navidad](https://podplo.app/skills/make-it-christmas).
+Las etiquetas claras facilitan la búsqueda de un activo y crean una variación estacional con [Versión navideña](https://podplo.app/skills/make-it-christmas).
 
-Las etiquetas por tema, temporada, diseño, color y fuente hacen que los recursos útiles sean fáciles de encontrar nuevamente. Por ejemplo, un retrato de mascota etiquetado para Navidad está listo para una [Hazlo Navidad](https://podplo.app/skills/make-it-christmas) variación que todavía presenta la misma mascota.
+Las etiquetas por tema, temporada, diseño, color y fuente hacen que los recursos útiles sean fáciles de encontrar nuevamente. Por ejemplo, un retrato de mascota etiquetado para Navidad está listo para una [Versión navideña](https://podplo.app/skills/make-it-christmas) variación que todavía presenta la misma mascota.
 
 ![Imagen de referencia antes de una edición de temporada.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
@@ -92,7 +92,7 @@ Entrada
 
 [![Versión navideña con la identidad original preservada.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
-Hazlo Navidad
+Versión navideña
 
 **Más Skills para explorar**
 
@@ -106,13 +106,13 @@ Hazlo Navidad
 
 [![Ejemplo de obra de arte de Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Hazlo Halloween](https://podplo.app/skills/make-it-halloween)[![Ejemplo de obra de arte de Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Versión de Halloween](https://podplo.app/skills/make-it-halloween)[![Ejemplo de obra de arte de Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Hazlo San Valentín](https://podplo.app/skills/make-it-valentines)[![Ejemplo de obra de arte de Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Versión de San Valentín](https://podplo.app/skills/make-it-valentines)[![Ejemplo de obra de arte de Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Hazlo Pascua](https://podplo.app/skills/make-it-easter)[![Ejemplo de obra de arte de Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Versión de Pascua](https://podplo.app/skills/make-it-easter)[![Ejemplo de obra de arte de Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Hazlo Acción de Gracias](https://podplo.app/skills/make-it-thanksgiving)
+Versión de Acción de Gracias](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="reuse"></a>
 
@@ -120,9 +120,9 @@ Hazlo Acción de Gracias](https://podplo.app/skills/make-it-thanksgiving)
 
 [Patrón de nombre de dinosaurio](https://podplo.app/skills/dinosaur-name-pattern) adapta un diseño repetido probado a cada nuevo nombre.
 
-Una composición sólida puede admitir un nuevo nombre, tema o color sin sentirse copiado. [Patrón de nombre de dinosaurio](https://podplo.app/skills/dinosaur-name-pattern) mantiene la divertida estructura de repetición mientras ajusta el espacio para cada nombre.
+Una composición sólida puede admitir un nuevo nombre, motivo principal o color sin parecer una copia. [Patrón de nombre de dinosaurio](https://podplo.app/skills/dinosaur-name-pattern) mantiene la divertida estructura de repetición mientras ajusta el espacio para cada nombre.
 
-[![Patrón de nombre de dinosaurio personalizado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
+[![Patrón de dinosaurios con nombre personalizado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
 
 Patrón de nombre de dinosaurio
 
@@ -138,6 +138,6 @@ Patrón de nombre de dinosaurio
 
 [![Ejemplo de arte floral con marco con nombre](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-Marco de nombre floral](https://podplo.app/skills/floral-name-frame)[![Ejemplo de obra de arte con nombre de pata de cuadros de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Marco de nombre floral](https://podplo.app/skills/floral-name-frame)[![Ejemplo del nombre con huella de cuadros búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nombre de la pata de cuadros de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
+Nombre con huella de cuadros búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)

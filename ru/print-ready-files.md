@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/print-ready-files?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/print-ready-files?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Уточните свой имидж
+# Улучшите своё изображение
 
 Уточните детали, удалите фон или расширьте сцену. Раскройте лучшее в изображении, которое вам уже нравится.
 
@@ -18,9 +18,9 @@
 
 ## Выделите мелкие детали
 
-[HD Высококлассное](https://podplo.app/skills/hd-upscale) обостряет текстуру и мелкие детали, сохраняя композицию.
+[Повышение разрешения до HD](https://podplo.app/skills/hd-upscale) повышает чёткость текстуры и мелких деталей, сохраняя композицию.
 
-[HD Высококлассное](https://podplo.app/skills/hd-upscale) может повысить резкость тонких краев, текстур и мелких форм выбранного изображения. Это добавляет ясности, не меняя тему или композицию.
+[Повышение разрешения до HD](https://podplo.app/skills/hd-upscale) может повысить резкость тонких краёв, текстур и мелких форм на выбранном изображении. Добавляет чёткость, не меняя главный объект или композицию.
 
 ![Выбранное изображение перед обогащением деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2-before.webp)
 
@@ -28,7 +28,7 @@
 
 [![Детализированная версия того же изображения.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)](https://podplo.app/skills/hd-upscale)
 
-HD Высококлассное
+Повышение разрешения до HD
 
 **Еще больше Skills для изучения**
 
@@ -40,13 +40,13 @@ HD Высококлассное
 
 <a id="_R_5irk_-cards"></a>
 
-[![Пример иллюстрации «Детальный ремонт»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Пример восстановления деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Детальный ремонт](https://podplo.app/skills/detail-repair)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Восстановление деталей](https://podplo.app/skills/detail-repair)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Удаление фона](https://podplo.app/skills/background-remover)[![Пример графического изображения Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Умная раскраска](https://podplo.app/skills/smart-outpaint)
+Умная дорисовка за границами](https://podplo.app/skills/smart-outpaint)
 
 <a id="transparency"></a>
 
@@ -60,7 +60,7 @@ HD Высококлассное
 
 Ввод
 
-[![Прозрачный предмет готов к новым композициям](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
+[![Объект на прозрачном фоне, готовый к новым композициям](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
 
 Удаление фона
 
@@ -74,21 +74,21 @@ HD Высококлассное
 
 <a id="_R_5krk_-cards"></a>
 
-[![Пример иллюстрации «Детальный ремонт»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Пример восстановления деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Детальный ремонт](https://podplo.app/skills/detail-repair)[![Пример изображения HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Восстановление деталей](https://podplo.app/skills/detail-repair)[![Пример изображения HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD Высококлассное](https://podplo.app/skills/hd-upscale)[![Пример графического изображения Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+Повышение разрешения до HD](https://podplo.app/skills/hd-upscale)[![Пример графического изображения Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Умная раскраска](https://podplo.app/skills/smart-outpaint)
+Умная дорисовка за границами](https://podplo.app/skills/smart-outpaint)
 
 <a id="bleed"></a>
 
 ## Расширьте сцену за пределы кадра
 
-[Умная раскраска](https://podplo.app/skills/smart-outpaint) расширяет фотографию до более широкой, высокой или просторной композиции.
+[Умная дорисовка за границами](https://podplo.app/skills/smart-outpaint) расширяет фотографию до более широкой, высокой или просторной композиции.
 
-[Умная раскраска](https://podplo.app/skills/smart-outpaint) добавляет правдоподобное небо, пейзаж, внутреннее пространство или атмосферу вокруг исходной сцены, не растягивая объект. Одна и та же фотография может стать более широкой композицией, более высокой или более просторным фоном.
+[Умная дорисовка за границами](https://podplo.app/skills/smart-outpaint) добавляет правдоподобное небо, пейзаж, внутреннее пространство или атмосферу вокруг исходной сцены, не растягивая объект. Одна и та же фотография может стать более широкой композицией, более высокой или более просторным фоном.
 
 ![Исходное изображение перед расширением холста](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6-before.webp)
 
@@ -96,7 +96,7 @@ HD Высококлассное](https://podplo.app/skills/hd-upscale)[![При�
 
 [![Естественно расширенная версия той же сцены.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)](https://podplo.app/skills/smart-outpaint)
 
-Умная раскраска
+Умная дорисовка за границами
 
 **Еще больше Skills для изучения**
 
@@ -108,11 +108,11 @@ HD Высококлассное](https://podplo.app/skills/hd-upscale)[![При�
 
 <a id="_R_5mrk_-cards"></a>
 
-[![Пример иллюстрации «Детальный ремонт»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Пример восстановления деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Детальный ремонт](https://podplo.app/skills/detail-repair)[![Пример изображения HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Восстановление деталей](https://podplo.app/skills/detail-repair)[![Пример изображения HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD Высококлассное](https://podplo.app/skills/hd-upscale)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Повышение разрешения до HD](https://podplo.app/skills/hd-upscale)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Удаление фона](https://podplo.app/skills/background-remover)
 
@@ -122,13 +122,13 @@ HD Высококлассное](https://podplo.app/skills/hd-upscale)[![При�
 
 Параллельные варианты облегчают выбор того, что развивать дальше.
 
-Оставьте оригинал рядом с несколькими сильными вариациями. Сравнивая их рядом, легче выбрать лучший мотив, копию или композицию для следующего раунда.
+Сохраните оригинал рядом с несколькими сильными вариантами. Сравнение бок о бок облегчает выбор лучшего мотива, текста или композиции для следующего этапа.
 
-Исследования макета, созданные искусственным интеллектом, с использованием той же ссылки на розу.
+Варианты композиции, созданные ИИ по одному и тому же референсу розы.
 
-![Надписи Rose и ETERNAL BLOOM в компактном расположении по центру.](https://podplo.app/pod-guide/generated/rose-compact-center.webp)
+![Роза и надпись ETERNAL BLOOM в компактной центрированной композиции](https://podplo.app/pod-guide/generated/rose-compact-center.webp)
 
-Компактный состав
+Компактная композиция
 
 ![Та же роза и надпись ETERNAL BLOOM в круглом расположении значка.](https://podplo.app/pod-guide/generated/rose-circular-badge.webp)
 
@@ -146,10 +146,10 @@ HD Высококлассное](https://podplo.app/skills/hd-upscale)[![При�
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Удаление фона](https://podplo.app/skills/background-remover)[![Пример иллюстрации «Детальный ремонт»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Удаление фона](https://podplo.app/skills/background-remover)[![Пример восстановления деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Детальный ремонт](https://podplo.app/skills/detail-repair)
+Восстановление деталей](https://podplo.app/skills/detail-repair)

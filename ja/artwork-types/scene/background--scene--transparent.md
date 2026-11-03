@@ -14,11 +14,11 @@
 
 # 透明な背景
 
-シーン: 地面は透明のままです。チェッカーボードは単なる表示補助です。
+場面：背景は透明のままです。市松模様は透明部分を示す表示補助にすぎません。
 
 <a id="understand"></a>
 
-![透明な背景: シーン: 地面は透明のままです。チェッカーボードは単なる表示補助です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+![透明な背景: シーン: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 構図の模式図
 
@@ -26,13 +26,13 @@
 
 ## この方向性を定義するもの
 
-真の透明度にはアルファ チャネルが必要です。画像にチェッカーボードや白地をペイントして透明と呼ばないでください。ツールが透明度を生成できない場合は後処理が必要であると述べています。
+本当の透過にはアルファチャンネルが必要です。市松模様や白い背景を画像に描き込んで、透明だと呼ばないでください。ツールが透過画像を出力できない場合は、後処理が必要だと明示します。
 
 [← シーンに戻る](../scene.md)
 
 <a id="ai-directions"></a>
 
-AIの指示
+AIで広げる創作の方向性
 
 ## この方向性を AI に取り入れましょう
 
@@ -52,7 +52,7 @@ AIの指示
 
 **背景**
 
-関連するパレット、処理、または既存の背景から必要なテーマ キューを使用して、バッキング レイヤーを削除します。偽の地面をペイントするのではなく、不在の背景を透明にしておきます。コンテンツ内の必要な色を残すことができます。
+既存の背景から、関連する配色、表現方法、テーマに必要な手がかりを取り入れたうえで、背景レイヤーを取り除きます。背景がない部分は、偽の背景を描かず透明のままにします。モチーフの内部に必要な色は残してかまいません。
 
 **文字の扱い**
 
@@ -64,28 +64,28 @@ AIの指示
 
 **適用範囲と制約**
 
-真の透明度にはアルファ チャネルが必要です。画像にチェッカーボードや白地をペイントして透明と呼ばないでください。ツールが透明度を生成できない場合は後処理が必要であると述べています。
+本当の透過にはアルファチャンネルが必要です。市松模様や白い背景を画像に描き込んで、透明だと呼ばないでください。ツールが透過画像を出力できない場合は、後処理が必要だと明示します。
 
 <a id="related"></a>
 
-## 近くのルートを比較する
+## 近い創作の方向性を比べる
 
-[![単色の背景: シーン: 1 つの均一な色が地面を形成します。白も単色の背景です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+[![無地の背景：場面：均一な一色を背景にします。白も無地の背景に含まれます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### 無地の背景↗
 
-シーン: 単一の均一な色が地面を形成します。白も単色の背景です。](background--scene--solid.md)[![グラデーションの背景: シーン: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+場面：均一な一色を背景にします。白も無地の背景に含まれます。](background--scene--solid.md)[![グラデーションの背景: シーン: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### グラデーション背景↗
 
-シーン: メインコンテンツはクリアなままですが、裏地の色や明るさが連続的に変化します。](background--scene--gradient.md)[![パターン化された背景: ローカル: シーン: 装飾的なパッチがコンテンツの背後にあり、パッチの外側に領域が残ります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+場面：主要な内容ははっきり見せたまま、背景の色や明るさを連続的に変化させます。](background--scene--gradient.md)[![柄の背景：部分：場面：内容の背後に部分的な装飾の下地を置き、その外側には別の領域を残します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
-### パターン背景: ローカル↗
+### 柄の背景：部分↗
 
-シーン: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--scene--pattern-local.md)[![パターン化された背景: 全領域: シーン: パターン化された地面が、はっきりと読み取れる前景コンテンツの後ろの画像を覆います。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-full-1.svg)
+シーン: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--scene--pattern-local.md)[![柄の背景：全面：場面：背景全体に柄を敷き、手前の内容ははっきり読み取れるようにします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-full-1.svg)
 
 ### パターン背景：全面↗
 
-シーン: はっきりと読み取れる前景コンテンツの背後にある画像をパターン化した地面で覆います。](background--scene--pattern-full.md)
+場面：背景全体に柄を敷き、手前の内容ははっきり読み取れるようにします。](background--scene--pattern-full.md)
 
-コードによる研究では、構成と視覚的処理を比較します。メディアとスタイルの例は概念的なものです。これらの方向は、画像モデルを使用して個別にテストされていません。生成されたテキスト、透明度、リピートエッジを確認します。
+コードで描いた図で、構図や視覚表現を比較します。画材やスタイルの例は概念を示すもので、これらの方向性を画像モデルで一つずつ検証したものではありません。生成した文字、透過、リピートの継ぎ目を確認してください。

@@ -18,9 +18,9 @@
 
 ## एक पालतू जानवर की तस्वीर को शाही चित्र में बदलें
 
-[रॉयल पेट पोर्ट्रेट](https://podplo.app/skills/royal-pet-portrait) पालतू जानवर को पहचानने योग्य बनाए रखते हुए अवधि की पोशाक और दृश्यावली जोड़ता है।
+[रॉयल पेट पोर्ट्रेट](https://podplo.app/skills/royal-pet-portrait) पालतू की पहचान बनाए रखते हुए ऐतिहासिक दौर की पोशाक और परिवेश जोड़ता है।
 
-[रॉयल पेट पोर्ट्रेट](https://podplo.app/skills/royal-pet-portrait) एक परिचित पालतू जानवर की तस्वीर को राजसी चरित्र चित्र में बदल देता है। पोशाक और सेटिंग नाटकीय रूप से बदल सकती है जबकि चेहरे का आकार, कोट के निशान और अभिव्यक्ति पालतू जानवर को स्पष्ट रूप से बनाए रखते हैं।
+[रॉयल पेट पोर्ट्रेट](https://podplo.app/skills/royal-pet-portrait) परिचित पालतू की फ़ोटो को राजसी पात्र के पोर्ट्रेट में बदलता है। पोशाक और परिवेश काफ़ी बदल सकते हैं, जबकि चेहरे का आकार, फ़र के निशान और भाव उसी पालतू की पहचान स्पष्ट रखते हैं।
 
 ![ग्राहक द्वारा प्रदत्त पालतू जानवर की तस्वीर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
 
@@ -40,9 +40,9 @@
 
 <a id="_R_5irk_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -74,23 +74,23 @@
 
 कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)[![बैकग्राउंड रिमूवर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-पृष्ठभूमि हटानेवाला](https://podplo.app/skills/background-remover)[![विस्तृत मरम्मत कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+पृष्ठभूमि हटानेवाला](https://podplo.app/skills/background-remover)[![डिटेल रिपेयर की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-विस्तृत मरम्मत](https://podplo.app/skills/detail-repair)
+डिटेल रिपेयर](https://podplo.app/skills/detail-repair)
 
 <a id="metadata"></a>
 
-## आसान पुन: उपयोग के लिए संपत्तियों को टैग करें
+## आसान दोबारा इस्तेमाल के लिए सामग्री पर टैग लगाएँ
 
 स्पष्ट टैग किसी संपत्ति को ढूंढना और उसके साथ मौसमी बदलाव बनाना आसान बनाते हैं [इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas).
 
-विषय, मौसम, लेआउट, रंग और स्रोत के लिए टैग उपयोगी संपत्तियों को फिर से ढूंढना आसान बनाते हैं। उदाहरण के लिए, क्रिसमस के लिए टैग किया गया एक पालतू चित्र तैयार है [इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas) विविधता जिसमें अभी भी वही पालतू जानवर शामिल है।
+मुख्य आकृति, मौसम, लेआउट, रंग और स्रोत के टैग से उपयोगी सामग्री दोबारा ढूँढना आसान होता है। उदाहरण के लिए, क्रिसमस का टैग लगा पालतू जानवर का पोर्ट्रेट तैयार है [इसे क्रिसमस बनाओ](https://podplo.app/skills/make-it-christmas) विविधता जिसमें अभी भी वही पालतू जानवर शामिल है।
 
 ![मौसमी संपादन से पहले संदर्भ छवि](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 इनपुट
 
-[![स्रोत पहचान संरक्षित के साथ क्रिसमस संस्करण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
+[![स्रोत की पहचान बनाए रखने वाला क्रिसमस संस्करण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
 इसे क्रिसमस बनाओ
 
@@ -104,15 +104,15 @@
 
 <a id="_R_5mrk_-cards"></a>
 
-[![इसे हेलोवीन कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+[![मेक इट हैलोवीन — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![इसे वैलेंटाइन की कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+इसे हेलोवीन बनाओ](https://podplo.app/skills/make-it-halloween)[![मेक इट वैलेंटाइन्स — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-इसे वैलेंटाइन बनाएं](https://podplo.app/skills/make-it-valentines)[![इसे ईस्टर कलाकृति उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+इसे वैलेंटाइन बनाएं](https://podplo.app/skills/make-it-valentines)[![मेक इट ईस्टर — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-इसे ईस्टर बनाएं](https://podplo.app/skills/make-it-easter)[![इसे थैंक्सगिविंग कलाकृति का उदाहरण बनाएं](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+इसे ईस्टर बनाएं](https://podplo.app/skills/make-it-easter)[![मेक इट थैंक्सगिविंग — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-इसे धन्यवाद ज्ञापन बनाएं](https://podplo.app/skills/make-it-thanksgiving)
+थैंक्सगिविंग का रूप दें](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="reuse"></a>
 
@@ -120,7 +120,7 @@
 
 [डायनासोर के नाम का पैटर्न](https://podplo.app/skills/dinosaur-name-pattern) प्रत्येक नए नाम के लिए एक सिद्ध दोहराव लेआउट को अनुकूलित करता है।
 
-एक मजबूत रचना नकल किए बिना किसी नए नाम, विषय या रंग का समर्थन कर सकती है। [डायनासोर के नाम का पैटर्न](https://podplo.app/skills/dinosaur-name-pattern) प्रत्येक नाम के लिए रिक्ति को समायोजित करते समय चंचल दोहराव संरचना को बनाए रखता है।
+मज़बूत लेआउट में नया नाम, दृश्य तत्व या रंग शामिल करने पर भी वह नकल जैसा नहीं लगता। [डायनासोर के नाम का पैटर्न](https://podplo.app/skills/dinosaur-name-pattern) प्रत्येक नाम के लिए रिक्ति को समायोजित करते समय चंचल दोहराव संरचना को बनाए रखता है।
 
 [![वैयक्तिकृत डायनासोर नाम पैटर्न](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -140,4 +140,4 @@
 
 पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)[![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)

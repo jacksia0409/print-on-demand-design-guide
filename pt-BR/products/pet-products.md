@@ -18,7 +18,7 @@ Projete um tapete de alimentação para animais de estimação em torno de um re
 
 ## Ideias de design para este produto
 
-### Faça do animal de estimação o assunto principal
+### Faça do animal o elemento principal
 
 Coloque o retrato ao lado das tigelas, repita um símbolo familiar ou inclua o nome do animal de estimação no desenho. Um retrato colocado de lado; Um nome combinado com patas e objetos favoritos; Uma repetição disposta ao redor da área da tigela.
 
@@ -32,7 +32,7 @@ Use Skills diferentes para transformar a mesma imagem em novos layouts, arte bas
 
 ### Transforme uma foto de animal de estimação na arte principal
 
-Uma foto nítida de um animal de estimação se torna um retrato em aquarela para a esteira de alimentação.
+Uma foto nítida do animal se torna um retrato em aquarela para o tapete de alimentação.
 
 [Retrato de animal de estimação em aquarela suave](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
@@ -46,13 +46,13 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_5v3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 4 / 44
 
@@ -70,7 +70,7 @@ Criador de estêncil](https://podplo.app/skills/stencil-maker)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize o design com as tigelas no lugar
 

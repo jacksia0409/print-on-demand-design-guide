@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/backpacks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/backpacks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -22,7 +22,7 @@ Crea un diseño de mochila en torno a un personaje atrevido, un patrón integral
 
 Utilice el panel principal para la imagen focal y luego repita colores o símbolos en el resto del diseño. Un personaje en el panel principal; Una repetición completa; Un nombre integrado en la ilustración.
 
-![Mochilas y bolsas de almuerzo · visual de producto en blanco](https://podplo.app/pod-guide/generated/backpacks-blank.webp)
+![Mochilas y bolsas de almuerzo · Imagen de producto sin diseño](https://podplo.app/pod-guide/generated/backpacks-blank.webp)
 
 <a id="product-create"></a>
 
@@ -44,15 +44,15 @@ Imagen fuente
 
 Obra de arte generada
 
-![Mochilas y bolsas de almuerzo · Patrón sin costuras · Vista previa del producto AI](https://podplo.app/pod-guide/generated/backpacks-seamless-pattern-proof.webp)
+![Mochilas y bolsas de almuerzo · Patrón sin juntas · Previsualización de producto con IA](https://podplo.app/pod-guide/generated/backpacks-seamless-pattern-proof.webp)
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explore más diseños y configure Skills**
+**Explora más Skills de composición y conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore más diseños y configure Skills
+#### Explora más Skills de composición y conjuntos
 
 4 / 14
 
@@ -60,13 +60,13 @@ Vista previa del producto de IA
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Quitar el fondo del sujeto
 
@@ -74,37 +74,37 @@ Separe el sujeto visible conservando el cabello, los pequeños espacios y los co
 
 [Eliminador de fondo](https://podplo.app/skills/background-remover)
 
-![Eliminador de fondo · Foto fuente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3-before.webp)
+![Eliminador de fondo · Foto de origen](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3-before.webp)
 
 Foto original
 
-[![Eliminador de fondo · Ilustraciones generadas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
+[![Eliminador de fondo · Imagen generada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
 
 Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más fotos e imágenes Skills**
+**Explora más Skills de fotos e imágenes**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explora más fotos e imágenes Skills
+#### Explora más Skills de fotos e imágenes
 
 4 / 5
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Ejemplo de obra de arte de reparación detallada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Ejemplo de reparación de detalles](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparación detallada](https://podplo.app/skills/detail-repair)[![Ejemplo de obra de arte HD exclusiva](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Reparación de detalles](https://podplo.app/skills/detail-repair)[![Ejemplo de ampliación HD](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD de lujo](https://podplo.app/skills/hd-upscale)[![Ejemplo de ilustración de estilo vectorial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-4.webp)
+Ampliación HD](https://podplo.app/skills/hd-upscale)[![Ejemplo de ilustración de estilo vectorial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-4.webp)
 
 Estilo vectorial](https://podplo.app/skills/vector-style)[![Ejemplo de obra de arte de Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Pintura inteligente](https://podplo.app/skills/smart-outpaint)
+Ampliación inteligente de imagen](https://podplo.app/skills/smart-outpaint)
 
 ### Añade un patrón de dinosaurio alrededor del nombre.
 
@@ -122,13 +122,13 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más nombre y ocasión Skills**
+**Explora más Skills de nombres y ocasiones**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explora más nombre y ocasión Skills
+#### Explora más Skills de nombres y ocasiones
 
 4 / 19
 
@@ -136,11 +136,11 @@ Vista previa del producto de IA
 
 [![Ejemplo de arte del patrón de nombre de lazo rosa](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607234000023917-artwork.webp)
 
-Patrón de nombre de lazo rosa](https://podplo.app/skills/pink-bow-name-pattern)[![Ejemplo de obra de arte con nombre de pata de cuadros de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Patrón de nombre de lazo rosa](https://podplo.app/skills/pink-bow-name-pattern)[![Ejemplo del nombre con huella de cuadros búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nombre de la pata de cuadros de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de arte del cartel con el nombre del Polo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nombre con huella de cuadros búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de póster del Polo Norte con nombre](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Nombre del Polo Norte Póster](https://podplo.app/skills/north-pole-name-poster)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Póster del Polo Norte con nombre](https://podplo.app/skills/north-pole-name-poster)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Patrón de nombre de corazones de crayón](https://podplo.app/skills/crayon-hearts-name-pattern)
 
@@ -158,4 +158,4 @@ La vista previa de IA muestra dónde aterriza la imagen focal en relación con l
 
 - Se puede integrar un nombre en el tema.
 
-![Mochilas y loncheras · Prueba de producto AI](https://podplo.app/pod-guide/generated/backpacks-proof.webp)
+![Mochilas y bolsas de almuerzo · Prueba visual de producto con IA](https://podplo.app/pod-guide/generated/backpacks-proof.webp)

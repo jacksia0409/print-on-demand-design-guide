@@ -52,19 +52,19 @@ Criador de estêncil](https://podplo.app/skills/stencil-maker)
 
 <a id="pet-character"></a>
 
-## Crie um personagem de estimação real
+## Crie um personagem de animal com aparência de realeza
 
-[Retrato de animal de estimação real](https://podplo.app/skills/royal-pet-portrait) dá a um animal de estimação reconhecível um estilo lúdico de personagem real.
+[Retrato de pet da realeza](https://podplo.app/skills/royal-pet-portrait) dá a um pet reconhecível um estilo divertido de personagem da realeza.
 
-[Retrato de animal de estimação real](https://podplo.app/skills/royal-pet-portrait) muda o traje, o cenário e o estilo do personagem, mantendo o animal de estimação reconhecível. O formato do rosto, as marcas e a expressão conectam a transformação ao mesmo animal.
+[Retrato de pet da realeza](https://podplo.app/skills/royal-pet-portrait) muda o traje, o cenário e o estilo do personagem, mantendo o animal de estimação reconhecível. O formato do rosto, as marcas e a expressão conectam a transformação ao mesmo animal.
 
 ![Fotografia de animal de estimação antes do estilo do personagem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
 
 Entrada
 
-[![Retrato de personagem real do mesmo animal de estimação](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
+[![Retrato do mesmo pet como personagem da realeza](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
 
-Retrato de animal de estimação real
+Retrato de pet da realeza
 
 **Mais Skills para explorar**
 
@@ -98,7 +98,7 @@ Criador de estêncil](https://podplo.app/skills/stencil-maker)
 
 Entrada
 
-[![Retrato de família em 3D com cada pessoa fornecida](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![Retrato de família em 3D com todas as pessoas da foto fornecida](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 Retrato de família 3D
 

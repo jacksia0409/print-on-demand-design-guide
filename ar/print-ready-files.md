@@ -20,9 +20,9 @@
 
 ## اخراج التفاصيل الدقيقة
 
-[عالية الدقة](https://podplo.app/skills/hd-upscale) يشحذ الملمس والتفاصيل الصغيرة مع الحفاظ على التركيبة.
+[رفع الدقة إلى HD](https://podplo.app/skills/hd-upscale) يشحذ الملمس والتفاصيل الصغيرة مع الحفاظ على التركيبة.
 
-[عالية الدقة](https://podplo.app/skills/hd-upscale) يمكنه زيادة حدة الحواف الدقيقة والأنسجة والأشكال الصغيرة في الصورة المحددة. ويضيف الوضوح دون تغيير العنصر أو التكوين.
+[رفع الدقة إلى HD](https://podplo.app/skills/hd-upscale) يمكنه زيادة حدة الحواف الدقيقة والأنسجة والأشكال الصغيرة في الصورة المحددة. ويضيف الوضوح دون تغيير العنصر أو التكوين.
 
 ![الصورة المختارة قبل إثراء التفاصيل](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2-before.webp)
 
@@ -30,7 +30,7 @@
 
 [![نسخة غنية بالتفاصيل من نفس الصورة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)](https://podplo.app/skills/hd-upscale)
 
-عالية الدقة
+رفع الدقة إلى HD
 
 **المزيد من Skills للاستكشاف**
 
@@ -78,9 +78,9 @@
 
 [![تفاصيل إصلاح العمل الفني مثال](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-إصلاح التفاصيل](https://podplo.app/skills/detail-repair)[![مثال على العمل الفني الراقي عالي الدقة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+إصلاح التفاصيل](https://podplo.app/skills/detail-repair)[![مثال عمل فني لرفع الدقة إلى HD](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-عالية الدقة](https://podplo.app/skills/hd-upscale)[![مثال على العمل الفني Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+رفع الدقة إلى HD](https://podplo.app/skills/hd-upscale)[![مثال على العمل الفني Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
 الطلاء الخارجي الذكي](https://podplo.app/skills/smart-outpaint)
 
@@ -112,9 +112,9 @@
 
 [![تفاصيل إصلاح العمل الفني مثال](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-إصلاح التفاصيل](https://podplo.app/skills/detail-repair)[![مثال على العمل الفني الراقي عالي الدقة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+إصلاح التفاصيل](https://podplo.app/skills/detail-repair)[![مثال عمل فني لرفع الدقة إلى HD](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-عالية الدقة](https://podplo.app/skills/hd-upscale)[![مثال على العمل الفني لمزيل الخلفية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+رفع الدقة إلى HD](https://podplo.app/skills/hd-upscale)[![مثال على العمل الفني لمزيل الخلفية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 مزيل الخلفية](https://podplo.app/skills/background-remover)
 
@@ -124,11 +124,11 @@
 
 تسهل الاختلافات جنبًا إلى جنب اختيار ما يجب تطويره بعد ذلك.
 
-احتفظ بالأصل بجانب بعض الاختلافات القوية. إن مقارنتها جنبًا إلى جنب تجعل من السهل اختيار أفضل فكرة أو نسخة أو تكوين للجولة التالية.
+احتفظ بالأصل بجانب بعض النسخ القوية. تسهّل مقارنتها جنبًا إلى جنب اختيار أفضل زخرفة أو نص أو تكوين للجولة التالية.
 
 استكشافات التخطيط التي تم إنشاؤها بواسطة الذكاء الاصطناعي باستخدام نفس مرجع الوردة.
 
-![صياغة Rose وETERNAL BLOOM في تصميم مركزي مدمج](https://podplo.app/pod-guide/generated/rose-compact-center.webp)
+![وردة وعبارة ETERNAL BLOOM في تخطيط متماسك بالمنتصف](https://podplo.app/pod-guide/generated/rose-compact-center.webp)
 
 تركيبة مدمجة
 

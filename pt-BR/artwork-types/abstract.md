@@ -12,7 +12,7 @@
 
 <a id="overview"></a>
 
-FORMULÁRIO DE ARTE · 05/05
+FORMA DA ARTE · 05 / 05
 
 # Arte abstrata
 
@@ -80,9 +80,9 @@ Crie ritmo a partir de linhas retas paralelas variando seu espaçamento e compri
 
 <a id="form-exp-12-0-5"></a>
 
-![Cruzando a linha da web – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-5.svg)
+![Rede de linhas cruzadas — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-5.svg)
 
-##### Cruzando a linha da web
+##### Rede de linhas cruzadas
 
 Cruze vários conjuntos de linhas retas para formar uma estrutura não figurativa visível.
 
@@ -120,9 +120,9 @@ Crie uma batida através da interrupção e retomada de segmentos de linha.
 
 <a id="form-exp-12-0-10"></a>
 
-![Pacotes de linhas convergentes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-10.svg)
+![Feixes de linhas convergentes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-10.svg)
 
-##### Pacotes de linhas convergentes
+##### Feixes de linhas convergentes
 
 Converja várias linhas em direção a um ou mais pontos focais.
 
@@ -164,7 +164,7 @@ Altere a largura da linha continuamente para sugerir força ou profundidade espa
 
 #### Geometria e módulos
 
-Compare geometria abstrata por meio de família de formas, construção modular, lógica de grade, ladrilhos, fragmentação e relacionamentos espaciais rígidos.
+Compare a geometria abstrata por família de formas, construção modular, lógica de grade, pavimentação, fragmentação e relações espaciais de bordas nítidas.
 
 <a id="form-exp-12-1-0"></a>
 
@@ -232,9 +232,9 @@ Ajuste as formas diretamente umas contra as outras para criar um plano contínuo
 
 <a id="form-exp-12-1-8"></a>
 
-![Geometria de ponta – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-1-8.svg)
+![Geometria de bordas nítidas — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-1-8.svg)
 
-##### Geometria de borda dura
+##### Geometria de bordas nítidas
 
 Mantenha os limites das formas nítidos, sem transições suaves entre cores vizinhas.
 
@@ -272,9 +272,9 @@ Compare formas abstratas orgânicas através de crescimento, fluxo, células, es
 
 <a id="form-exp-12-2-0"></a>
 
-![Blocos orgânicos gratuitos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-0.svg)
+![Blocos orgânicos livres — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-0.svg)
 
-##### Blocos orgânicos gratuitos
+##### Blocos orgânicos livres
 
 Crie relações planas a partir de formas irregulares com bordas suavemente arredondadas.
 
@@ -300,7 +300,7 @@ Use formas fluidas para expressar direção e mudanças na viscosidade aparente.
 
 ##### Fluxo giratório
 
-A bobina se forma para dentro ou para fora de um centro de rotação.
+Enrole as formas para dentro ou para fora de um centro de rotação.
 
 <a id="form-exp-12-2-4"></a>
 
@@ -386,9 +386,9 @@ Construa a imagem por meio da direção e cobertura de amplas pinceladas.
 
 ![Lacunas de pincel seco – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-1.svg)
 
-##### Espaços de escova seca
+##### Falhas de pincel seco
 
-Deixe a tinta faltante e o solo exposto visíveis como evidência de cerdas e velocidade.
+Deixe visíveis falhas de tinta e o fundo exposto como sinais das cerdas e da velocidade.
 
 <a id="form-exp-12-3-2"></a>
 
@@ -432,17 +432,17 @@ Cubra camadas de cores repetidamente, mantendo traços visíveis de revisão fei
 
 <a id="form-exp-12-3-7"></a>
 
-![Acúmulo de curso curto – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-7.svg)
+![Construção com traços curtos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-7.svg)
 
-##### Acúmulo de curso curto
+##### Construção com traços curtos
 
-Acumule muitos golpes curtos cuja densidade e direção mudam no campo.
+Acumule muitas pinceladas curtas, variando sua densidade e direção ao longo da área.
 
 <a id="form-exp-12-3-8"></a>
 
 ![Gestos de escrita - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-8.svg)
 
-##### Escrevendo gestos
+##### Gestos de escrita
 
 Use gestos rápidos, semelhantes aos da escrita, para estabelecer um ritmo abstrato.
 
@@ -476,7 +476,7 @@ Crie formas negativas ativas removendo ou simulando o apagamento de material.
 
 #### Campos de cor e ópticos
 
-Compare campos de cores abstratos por meio de contagem de paleta, temperatura, valor, gradientes, faixas, sobreposição transparente, brilho, escuridão e vibração óptica.
+Compare campos abstratos de cor pelo número de cores da paleta, temperatura, valor tonal, degradês, faixas, sobreposição transparente, brilho, escuridão e vibração óptica.
 
 <a id="form-exp-12-4-0"></a>
 
@@ -504,9 +504,9 @@ Organize vários campos de cores através dos limites onde eles se encontram.
 
 <a id="form-exp-12-4-3"></a>
 
-![Hierarquia de valores – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-4-3.svg)
+![Hierarquia de valores tonais — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-4-3.svg)
 
-##### Hierarquia de valores
+##### Hierarquia de valores tonais
 
 Construa a estrutura abstrata a partir de uma hierarquia de valores claros e escuros.
 
@@ -568,9 +568,9 @@ Coloque alguns pontos de luz ou regiões brilhantes dentro de um campo predomina
 
 <a id="form-exp-12-4-11"></a>
 
-![Cores vibrantes – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-4-11.svg)
+![Cores com vibração óptica — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-4-11.svg)
 
-##### Cores vibrantes
+##### Cores com vibração óptica
 
 Coloque cores de alto contraste lado a lado para criar vibração ou instabilidade óptica.
 
@@ -674,13 +674,13 @@ Aninhar formas sucessivamente para criar progressão em escala ou profundidade a
 
 ##### Limite quebrado
 
-Deixe os formulários selecionados romperem a grade ou limite que os continha originalmente.
+Deixe as formas selecionadas romperem a grade ou o limite que originalmente as continha.
 
 <a id="form-exp-12-5-11"></a>
 
 ![Cortar e deslocar — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-11.svg)
 
-##### Cortar e mudar
+##### Cortar e deslocar
 
 Corte uma forma em pedaços e mova ou gire os fragmentos separados.
 
@@ -722,7 +722,7 @@ Corresponder formas em um ou vários eixos de reflexão.
 
 ##### Arranjo de deslizamento
 
-Combine tradução e reflexão na mesma operação de repetição.
+Combine translação e reflexão na mesma operação de repetição.
 
 <a id="form-exp-12-6-4"></a>
 
@@ -738,7 +738,7 @@ Repita estruturas relacionadas em diversas escalas diferentes dentro do mesmo ca
 
 ##### Crescimento semelhante a um fractal
 
-Faça com que as partes locais e o formulário geral compartilhem estruturas ramificadas ou hierárquicas semelhantes.
+Faça as partes locais e a forma geral compartilharem estruturas ramificadas ou hierárquicas semelhantes.
 
 <a id="form-exp-12-6-6"></a>
 
@@ -806,9 +806,9 @@ Compare o equilíbrio abstrato por meio de massa central, deslocada, emparelhada
 
 <a id="form-exp-12-7-0"></a>
 
-![Cluster central — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-7-0.svg)
+![Agrupamento central — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-7-0.svg)
 
-##### Cluster central
+##### Agrupamento central
 
 Concentre as principais formas abstratas perto do centro.
 
@@ -818,7 +818,7 @@ Concentre as principais formas abstratas perto do centro.
 
 ##### Espaço aberto descentralizado
 
-Mova os formulários para um lado enquanto mantém o outro lado aberto.
+Mova as formas para um lado, mantendo o outro livre.
 
 <a id="form-exp-12-7-2"></a>
 
@@ -854,9 +854,9 @@ Cubra a maior parte da moldura com formas e deixe muito pouco espaço aberto.
 
 <a id="form-exp-12-7-6"></a>
 
-![Invólucro de borda — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-7-6.svg)
+![Fechamento pelas bordas — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-7-6.svg)
 
-##### Gabinete de borda
+##### Fechamento pelas bordas
 
 Concentre o conteúdo ao longo das bordas externas, preservando o centro aberto.
 
@@ -910,9 +910,9 @@ Compare o movimento abstrato através de batidas iguais ou alternadas, mudança 
 
 <a id="form-exp-12-8-0"></a>
 
-![Até batidas — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-0.svg)
+![Batidas uniformes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-0.svg)
 
-##### Até bate
+##### Batidas uniformes
 
 Mantenha os intervalos entre as unidades quase iguais para estabelecer uma batida constante.
 
@@ -922,7 +922,7 @@ Mantenha os intervalos entre as unidades quase iguais para estabelecer uma batid
 
 ##### Progressão de densidade
 
-Altere a densidade dos formulários gradualmente ao longo de uma direção.
+Altere gradualmente a densidade das formas ao longo de uma direção.
 
 <a id="form-exp-12-8-2"></a>
 
@@ -942,9 +942,9 @@ Gire cada unidade progressivamente através da sequência para criar uma mudanç
 
 <a id="form-exp-12-8-4"></a>
 
-![Progressão de valor – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-4.svg)
+![Progressão de valor tonal — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-4.svg)
 
-##### Progressão de valor
+##### Progressão de valor tonal
 
 Mude o peso visual através de uma progressão gradual de valores claros e escuros.
 
@@ -978,7 +978,7 @@ Mire linhas e formas em direção a um centro comum.
 
 ##### Expansão externa
 
-Expanda os formulários para fora do centro do campo.
+Expanda as formas para fora do centro do campo.
 
 <a id="form-exp-12-8-9"></a>
 
@@ -1050,7 +1050,7 @@ Suspender formas sem um fundo claramente definido abaixo delas.
 
 ##### Ilusão côncavo-convexa
 
-Use relações de valores ou linhas para sugerir superfícies inchadas e rebaixadas.
+Use relações de valor tonal ou de linhas para sugerir superfícies salientes e reentrantes.
 
 <a id="form-exp-12-9-5"></a>
 
@@ -1058,7 +1058,7 @@ Use relações de valores ou linhas para sugerir superfícies inchadas e rebaixa
 
 ##### Espaço impossível
 
-Conecte formulários em um espaço que não poderia existir fisicamente.
+Conecte formas em um espaço que não poderia existir fisicamente.
 
 <a id="form-exp-12-9-6"></a>
 
@@ -1082,7 +1082,7 @@ Deixe que os caminhos dentro da imagem conduzam para fora, em uma estrutura aber
 
 ##### Agrupamento fechado
 
-Use um limite para reunir todos os formulários em um todo fechado.
+Use um único limite para reunir todas as formas em um conjunto completo e fechado.
 
 <a id="form-exp-12-9-9"></a>
 
@@ -1112,11 +1112,11 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Traduza paleta, ritmo, direção ou humor em formas geométricas, fluxo orgânico, marcas ou campos de cores. Reorganizar as relações e o espaço em vez de preservar um objeto concreto como objetivo principal.
+Traduza a paleta, o ritmo, a direção ou a atmosfera em formas geométricas, fluxo orgânico, marcas ou campos de cor. Reorganize as relações e o espaço, em vez de ter como objetivo principal preservar um objeto concreto.
 
 **Fundo**
 
-Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Use as cores de fundo, o ritmo e a atmosfera como referência. Se estiverem ausentes, crie um fundo de apoio ou relações espaciais relacionadas. O entorno figurativo da imagem de origem pode ser simplificado em elementos de apoio sem substituir a composição não figurativa.
 
 **Texto**
 
@@ -1128,6 +1128,6 @@ Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite q
 
 **Escopo e limites**
 
-Um objeto estilizado identificável permanece um tratamento de assunto. O caráter da superfície do material pertence às texturas quando é a expressão principal.
+Um objeto estilizado identificável continua sendo uma representação do elemento principal. As características de superfície do material pertencem à categoria de texturas quando são a expressão dominante.
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

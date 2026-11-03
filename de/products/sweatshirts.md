@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/sweatshirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/sweatshirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Beginnen Sie mit einem Bild und erstellen Sie dann eine auffällige Grafik auf d
 
 ### Mehr Raum für größere Ideen
 
-Sweatshirts funktionieren gut mit großen zentrierten Grafiken, kompakten Emblemen und Designs, die Vorder- und Rückseite verbinden. Eine auffällige Grafik auf der Vorderseite; Ein kompakter Fleck auf der linken Brust; Ein kleines Detail auf der Vorderseite gepaart mit einer größeren Grafik auf der Rückseite.
+Sweatshirts eignen sich für große, zentrierte Grafiken, kompakte Embleme und Designs, die Vorder- und Rückseite verbinden. Eine auffällige Grafik auf der Vorderseite; ein kompaktes Zeichen links auf der Brust; ein kleines Detail vorne in Kombination mit einer größeren Grafik auf dem Rücken.
 
 ![Sweatshirts und Kapuzenpullover · leere Produktansicht](https://podplo.app/pod-guide/generated/sweatshirts-blank.webp)
 
@@ -48,11 +48,11 @@ Generiertes Kunstwerk
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 9
 
@@ -60,9 +60,9 @@ KI-Produktvorschau
 
 [![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout)[![Beispiel für ein umgekehrtes Dreieckslayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-5.webp)
 
@@ -86,17 +86,17 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 14
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Lustiges Big-Belly-Cartoon-Kunstwerksbeispiel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
+[![Designbeispiel eines lustigen Dickbauch-Cartoons](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
 
 Lustiger Dickbauch-Cartoon](https://podplo.app/skills/funny-big-belly-cartoon)[![Beispiel für ein königliches Haustierporträt](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
 
@@ -124,17 +124,17 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Nordpol-Namensplakat](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
@@ -158,4 +158,4 @@ Verwenden Sie die KI-Vorschau, um dasselbe Design in verschiedenen Sweatshirt-St
 
 - Helle und dunkle Sweatshirtfarben können die Wirkung der Palette verändern
 
-![Sweatshirts und Hoodies · KI-produktsicher](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)
+![Sweatshirts und Hoodies · KI-Produktansicht](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)

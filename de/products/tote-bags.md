@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/tote-bags?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/tote-bags?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Verwenden Sie die Vorderseite einer Tragetasche für eine auffällige, zentriert
 
 ### Ein Design, das Menschen tragen können
 
-Zentriertes Artwork, große Schriftzüge und kompakte Motivgruppen passen auf die breite Frontplatte der Tragetasche. Eine fette, zentrierte Grafik; Eine kurze, lesbare Nachricht; Eine Gruppe von Objekten zu einem Thema.
+Zentrierte Designs, große Schriftzüge und kompakte Motivgruppen passen auf die breite Vorderseite der Tragetasche. Eine markante, zentrierte Grafik; Eine kurze, gut lesbare Botschaft; Eine Gruppe von Gegenständen zu einem Thema.
 
 [![Tragetaschen · Tragetasche](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-149520694559925464.webp)](https://podplo.app/products/mockup-zazzle-149520694559925464)
 
@@ -48,11 +48,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 14
 
@@ -64,9 +64,9 @@ Nahtloses Muster](https://podplo.app/skills/seamless-pattern)[![Beispiel für Po
 
 Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Verwandeln Sie ein Haustierfoto in ein Tragetaschen-Kunstwerk
 
@@ -86,11 +86,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 97
 
@@ -98,15 +98,15 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
-### Erstellen Sie einen Kosenamen und eine Pfotengrafik
+### Gestalten Sie eine Grafik mit Haustiername und Pfote
 
 Kombinieren Sie den Namen eines Haustiers mit einer rot-schwarz karierten Pfote und einem Herzdetail.
 
@@ -124,11 +124,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 19
 

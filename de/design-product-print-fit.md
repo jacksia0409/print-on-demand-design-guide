@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/design-product-print-fit?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/design-product-print-fit?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Versuchen Sie es mit einer auffälligen T-Shirt-Grafik, einem kleinen Emblem ode
 
 [Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) vereint Grafik und Text in einer kräftigen, zentrierten Form.
 
-[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) fasst ein Motiv und eine Kopie in einer dichten, ausgewogenen Form zusammen. Ein Kunstwerk, das einmal verstreut wirkte, wird zu einer stark zentrierten Grafik mit einem klaren Schwerpunkt.
+[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) fasst Motiv und Text zu einer dichten, ausgewogenen Form zusammen. Ein zuvor verstreut wirkendes Bild wird zu einer markanten zentrierten Grafik mit klarem Blickpunkt.
 
 ![Artwork und genauer Wortlaut vor dem Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
@@ -44,9 +44,9 @@ Kompaktes Center-Layout
 
 Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout)
 
@@ -54,7 +54,7 @@ Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout
 
 ## Erstellen Sie ein Konzept im Stitching-Look
 
-[Stickskizze](https://podplo.app/skills/embroidery-sketch) Vereinfacht ein detailliertes Bild in ein sauberes, genähtes Konzept.
+[Stickskizze](https://podplo.app/skills/embroidery-sketch) vereinfacht ein detailliertes Bild zu einem klaren Gestaltungskonzept in Stickoptik.
 
 [Stickskizze](https://podplo.app/skills/embroidery-sketch) Vereinfacht ein Foto oder eine Illustration in größere Formen und genähte Linien. Das Ergebnis ist ein Stickkonzeptbild, keine Stichdatei.
 
@@ -84,7 +84,7 @@ Papierschnitt-Stil](https://podplo.app/skills/paper-cut-style)[![Beispiel für e
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 <a id="composition"></a>
 
@@ -98,7 +98,7 @@ Schablonenhersteller](https://podplo.app/skills/stencil-maker)
 
 Eingabe
 
-[![Separates Aufkleber- und Clipart-Blatt](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)](https://podplo.app/skills/sticker-clipart-pack)
+[![Sticker- und Clipartbogen mit getrennten Einzelmotiven](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)](https://podplo.app/skills/sticker-clipart-pack)
 
 Aufkleber- und Clipart-Paket
 
@@ -122,9 +122,9 @@ Aufkleber- und Clipart-Paket
 
 ## Vorschau des Designs im Kontext
 
-Ein Modell zeigt, wie Form, Farbe und Einstellung eines Produkts die Wirkung eines Designs verändern.
+Ein Mockup zeigt, wie Produktform, Farbe und Umgebung die Wirkung eines Designs verändern.
 
-Ein Modell zeigt, wie sich Farbe, Produktform und Einstellung auf dasselbe Kunstwerk auswirken. Ein zentriertes Motiv kann auf einem Hemd auffällig und auf einem Notizbuch dezent wirken. Bei der Vorschau handelt es sich um ein Konzeptbild, nicht um ein physisches Muster.
+Ein Mockup zeigt, wie Farbe, Produktform und Umgebung auf dasselbe Design wirken. Ein zentriertes Motiv kann auf einem T-Shirt markant und auf einem Notizbuch dezent wirken. Die Vorschau ist ein Konzeptbild, kein physisches Muster.
 
 ![Exakte Vorlage, die geprüft werden muss](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
 
@@ -150,6 +150,6 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein Hintergrundentferner-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Hintergrundentferner](https://podplo.app/skills/background-remover)[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Hintergrundentferner](https://podplo.app/skills/background-remover)[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 Detailreparatur](https://podplo.app/skills/detail-repair)

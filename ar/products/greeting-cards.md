@@ -48,13 +48,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من التخطيط وقم بتعيين Skills**
+**استكشف المزيد من Skills للتخطيطات والمجموعات**
 
 <a id="_R_5v3k_-title"></a>
 
-#### اكتشف المزيد من التخطيط وقم بتعيين Skills
+#### استكشف المزيد من Skills للتخطيطات والمجموعات
 
 4 / 11
 
@@ -68,7 +68,7 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-mockup"></a>
 

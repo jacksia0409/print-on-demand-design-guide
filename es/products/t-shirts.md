@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/t-shirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/t-shirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -60,7 +60,7 @@ Detalles simples. Mucha personalidad.
 
 Convierte flores, animales o formas geométricas en un patrón repetitivo que cubra toda la camisa.
 
-![Un estampado floral sin costuras para un estampado integral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+![Un patrón floral sin juntas para impresión integral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 #### [Patrones sin costuras](#tshirt-pattern-route)
 
@@ -94,9 +94,9 @@ Utilice diferentes Skills para mezclar la misma imagen y texto. Explora nuevos d
 
 Obras de arte originales
 
-[![Título–asunto–subtítulo · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Título, motivo principal y subtítulo · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-[Título-asunto-subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+[Título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 Apile el título, las rosas y el subtítulo para obtener un diseño claro de arriba a abajo.
 
@@ -104,7 +104,7 @@ Apile el título, las rosas y el subtítulo para obtener un diseño claro de arr
 
 [gráfico centrado](https://podplo.app/skills/compact-center-layout)
 
-Combine las rosas y el texto en un único gráfico en negrita.
+Combina las rosas y el texto en un único gráfico llamativo.
 
 [![Insignia circular · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-circular-badge.webp)](https://podplo.app/skills/circular-badge-layout)
 
@@ -124,7 +124,7 @@ Tres diseños generados por IA, todos con la misma obra de arte de rosa.
 
 <a id="_R_gv3k_-cards"></a>
 
-[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
@@ -150,7 +150,7 @@ En una camiseta
 
 ### Tu mascota. Tu camiseta favorita.
 
-Convierta una foto de mascota en un retrato y luego agregue una frase que capture su personalidad con un diseño Skill.
+Convierte una foto de mascota en un retrato y añade una frase que refleje su personalidad con un Skill de composición.
 
 [Retrato de mascota de acuarela suave](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
@@ -168,11 +168,11 @@ Convierta una foto de mascota en un retrato y luego agregue una frase que captur
 
 <a id="_R_df3k_-cards"></a>
 
-[![Ejemplo de arte divertido de dibujos animados de Big-Belly](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
+[![Ejemplo de caricatura divertida de barriga grande](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
 
-Divertidos dibujos animados de barriga grande](https://podplo.app/skills/funny-big-belly-cartoon)[![Ejemplo de obra de arte de retrato de mascota real](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
+Divertidos dibujos animados de barriga grande](https://podplo.app/skills/funny-big-belly-cartoon)[![Ejemplo de retrato regio de mascota](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
 
-Retrato de mascota real](https://podplo.app/skills/royal-pet-portrait)[![Ejemplo de arte de retrato de pareja en 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
+Retrato regio de mascota](https://podplo.app/skills/royal-pet-portrait)[![Ejemplo de retrato de pareja en 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
 
 Retrato de pareja 3D](https://podplo.app/skills/3d-couple-portrait)[![Ejemplo de arte de adorno de pareja navideña](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607648296616502-after.webp)
 
@@ -180,11 +180,11 @@ Adorno de pareja de Navidad](https://podplo.app/skills/christmas-couple-ornament
 
 <a id="tshirt-people-route"></a>
 
-![Fuente de retrato de pareja en 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-before.webp)
+![Imagen de origen del retrato de pareja en 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-before.webp)
 
 Entrada
 
-[![Resultado de la obra de arte Retrato de pareja en 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)](https://podplo.app/skills/3d-couple-portrait)
+[![Resultado del retrato de pareja en 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)](https://podplo.app/skills/3d-couple-portrait)
 
 Obra de arte
 
@@ -210,7 +210,7 @@ En una camiseta
 
 Pon su nombre en el centro de un diseño navideño. Pruebe marcos florales o letras divertidas para una ocasión diferente.
 
-[Nombre del Polo Norte Póster](https://podplo.app/skills/north-pole-name-poster)
+[Póster del Polo Norte con nombre](https://podplo.app/skills/north-pole-name-poster)
 
 **Más formas de hacerlo personal**
 
@@ -222,9 +222,9 @@ Pon su nombre en el centro de un diseño navideño. Pruebe marcos florales o let
 
 <a id="_R_ef3k_-cards"></a>
 
-[![Ejemplo de obra de arte con nombre de pata de cuadros de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Ejemplo del nombre con huella de cuadros búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nombre de la pata de cuadros de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Nombre con huella de cuadros búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Patrón de nombre de corazones de crayón](https://podplo.app/skills/crayon-hearts-name-pattern)[![Ejemplo de diseño artístico del patrón de nombre de dinosaurio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -234,7 +234,7 @@ Patrón de nombre de gnomo navideño](https://podplo.app/skills/christmas-gnome-
 
 <a id="tshirt-embroidery-route"></a>
 
-![Fuente del boceto de bordado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-15-before.webp)
+![Imagen de origen del boceto de bordado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-15-before.webp)
 
 Entrada
 
@@ -244,7 +244,7 @@ Obra de arte
 
 ### Diseño pequeño. Gran personalidad.
 
-Convierte una foto de un gato en un gráfico sencillo de estilo bordado con Border Sketch. Unas pocas líneas y bloques de color pueden capturar mucho carácter.
+Convierte una foto de un gato en un gráfico sencillo de estilo bordado con Embroidery Sketch. Unas pocas líneas y bloques de color pueden capturar mucho carácter.
 
 [Boceto de bordado](https://podplo.app/skills/embroidery-sketch)
 

@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/pillows?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/pillows?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Kissen und Kissen
+# Wohn- und Dekokissen
 
 Verwenden Sie das quadratische Kissenformat für ein zentriertes Bild, einen kurzen Satz oder ein Wiederholungsmuster.
 
@@ -18,11 +18,11 @@ Verwenden Sie das quadratische Kissenformat für ein zentriertes Bild, einen kur
 
 ## Designideen für dieses Produkt
 
-### Bauen Sie um den Platz herum
+### Die Komposition am Quadrat ausrichten
 
 Zentrierte Motive, symmetrische Anordnungen und ausgewogene Wiederholungen funktionieren gut auf einem Kissen. Ein zentriertes Porträt; Eine kurze Phrase, die als Hauptgrafik verwendet wird; Ein Rapport, der mit anderen Kissen kombiniert werden kann.
 
-[![Kissen und Kissen · Lendenkissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
+[![Wohn- und Dekokissen · Lendenkissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 
 <a id="product-create"></a>
 
@@ -48,11 +48,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 12
 
@@ -86,11 +86,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 91
 
@@ -98,13 +98,13 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 ### Gestalten Sie ein Namenskissen mit Blumenmuster
 
@@ -124,17 +124,17 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Nordpol-Namensplakat](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
@@ -154,10 +154,10 @@ Nutzen Sie die KI-Vorschau, um ein Statement-Kissen mit einem einfacheren, passe
 
 - Ein zentriertes Motiv schafft einen klaren Schwerpunkt
 
-- Eine Wiederholung erleichtert den Aufbau eines koordinierten Satzes
+- Ein Rapport erleichtert die Gestaltung eines abgestimmten Sets
 
 - Verwenden Sie die Hintergrundfarbe, um das Kissen mit dem Raum zu verbinden
 
-[![Kissen und Kissen · Lendenkissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
+[![Wohn- und Dekokissen · Lendenkissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 
-[![Kissen und Kissen · Dekokissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189432104509863353.webp)](https://podplo.app/products/mockup-zazzle-189432104509863353)
+[![Wohn- und Dekokissen · Dekokissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189432104509863353.webp)](https://podplo.app/products/mockup-zazzle-189432104509863353)

@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-FORMULARIO DE OBRA · 02 / 05
+FORMA DE LA IMAGEN · 02 / 05
 
 # Patrones
 
@@ -94,7 +94,7 @@ Apunte las unidades hacia un centro, o inviértalas hacia afuera, para crear con
 
 #### Secuencias de motivos y ritmos.
 
-Compare secuencias de motivos mediante alternancia, ciclos, tiempos principales y de relleno, pares, grupos, cambios de tamaño, escalas mixtas e incluso espaciado.
+Compara secuencias de motivos mediante alternancias, ciclos, ritmos de motivos principales y de relleno, parejas, grupos, cambios de tamaño, escalas mixtas y espaciado uniforme.
 
 <a id="form-pattern-60-0"></a>
 
@@ -108,7 +108,7 @@ Alterne dos tipos de unidades en orden ABAB, utilizando diferencias de forma o c
 
 ![Ciclo ABC: estudio visual.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-60-1.svg)
 
-##### ciclo abc
+##### Ciclo ABC
 
 Ciclo de tres o más tipos de unidades en un orden fijo para crear un ritmo repetitivo más largo.
 
@@ -170,9 +170,9 @@ Compare los gradientes espaciales producidos al cambiar la densidad, la escala, 
 
 <a id="form-pattern-61-0"></a>
 
-![Espacios abiertos escasos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-61-0.svg)
+![Distribución poco densa con espacio libre: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-61-0.svg)
 
-##### Espacio abierto escaso
+##### Distribución poco densa con espacio libre
 
 Deje espacios generosos entre algunas unidades para lograr un patrón luminoso y silencioso en toda el área.
 
@@ -214,7 +214,7 @@ Cambie la rotación de cada unidad progresivamente para crear un efecto de giro,
 
 ##### gradiente de color
 
-Mantenga el diseño estable mientras califica el color, el valor o la saturación de la unidad a través de una transición.
+Mantén estable la composición mientras cambias gradualmente el color, el valor tonal o la saturación de las unidades.
 
 <a id="form-pattern-61-6"></a>
 
@@ -322,9 +322,9 @@ Conserve la conexión natural de los tallos, hojas y flores locales en ramitas e
 
 <a id="form-pattern-68-3"></a>
 
-![Cultivo de vides: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-68-3.svg)
+![Enredaderas en crecimiento: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-68-3.svg)
 
-##### Vides en crecimiento
+##### Enredaderas en crecimiento
 
 Llene el campo con un marco de enredaderas que se ramifique y gire y haga crecer pequeñas flores a lo largo de él.
 
@@ -382,7 +382,7 @@ Llene el campo con muchas líneas paralelas, usando anchos de línea y espacios 
 
 ##### Curvas de contorno
 
-Compensa múltiples curvas entre sí, como contornos, anillos de crecimiento o líneas topográficas.
+Desplaza varias curvas unas respecto a otras, como contornos, anillos de crecimiento o líneas topográficas.
 
 <a id="form-pattern-69-2"></a>
 
@@ -502,7 +502,7 @@ Combine diamantes delgados y triángulos alrededor de centros de seis direccione
 
 #### Motivos florales y tradicionales.
 
-Compare los adornos tradicionales a través de escalas de flores, enredaderas entrelazadas, follaje en movimiento, formas de nubes y ondas y estructuras florales heráldicas.
+Compara ornamentos tradicionales mediante el tamaño de las flores, las enredaderas entrelazadas, el follaje en volutas, las nubes y ondas y la estructura floral heráldica.
 
 <a id="form-pattern-73-0"></a>
 
@@ -530,9 +530,9 @@ Enlaza flores y hojas con enredaderas que se curvan continuamente y recorren tod
 
 <a id="form-pattern-73-3"></a>
 
-![Follaje en movimiento: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-3.svg)
+![Follaje en volutas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-3.svg)
 
-##### follaje desplazándose
+##### Follaje en volutas
 
 Construya una estructura fluida a partir de follaje rizado, espirales y líneas en forma de S.
 
@@ -594,9 +594,9 @@ Disponga franjas nítidas con una fuerte variación de ancho a lo largo de una d
 
 <a id="form-pattern-74-3"></a>
 
-![Parches de vacas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-74-3.svg)
+![Manchas de vaca: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-74-3.svg)
 
-##### parches de vaca
+##### Manchas de vaca
 
 Contraste grandes parches sólidos irregulares con un amplio terreno abierto, enfatizando el contorno de cada parche.
 
@@ -606,7 +606,7 @@ Contraste grandes parches sólidos irregulares con un amplio terreno abierto, en
 
 ##### Escamas de piel de serpiente
 
-Unidades de escala compensadas muy compactas, que varían en color y tamaño local para crear profundidad de piel de serpiente.
+Desplaza unidades de escamas muy juntas y varía su color y tamaño local para crear profundidad de piel de serpiente.
 
 <a id="form-pattern-74-5"></a>
 
@@ -704,9 +704,9 @@ Utilice espacios horizontales y verticales desiguales para crear un ritmo rectan
 
 <a id="form-pattern-57-2"></a>
 
-![Cuadrícula de diamantes: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-2.svg)
+![Cuadrícula de rombos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-2.svg)
 
-##### Rejilla de diamantes
+##### Cuadrícula de rombos
 
 Establezca las unidades en puntos de la cuadrícula de diamantes para que la repetición siga caminos diagonales cruzados.
 
@@ -738,9 +738,9 @@ Mueva las columnas vecinas verticalmente media unidad para debilitar las filas h
 
 ![Desplazamiento fraccional: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-6.svg)
 
-##### Compensación fraccionaria
+##### Desplazamiento fraccional
 
-Compensar filas o columnas en tercios o cuartos fijos, volviendo a la alineación después de varios pasos.
+Desplaza filas o columnas en tercios o cuartos fijos, de modo que vuelvan a alinearse después de varios pasos.
 
 <a id="form-pattern-57-7"></a>
 
@@ -780,7 +780,7 @@ Voltee unidades por encima y por debajo de un eje horizontal para formar reflejo
 
 ##### Simetría puntual
 
-Gire una unidad hasta la mitad de un centro para crear un par posicional orientado de manera opuesta.
+Gira una unidad media vuelta alrededor de un centro para crear una pareja de posiciones con orientaciones opuestas.
 
 <a id="form-pattern-58-3"></a>
 
@@ -840,9 +840,9 @@ Alterne dos colores, texturas o figuras en celdas vecinas para crear un ritmo n�
 
 <a id="form-pattern-63-1"></a>
 
-![Red de diamantes: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-1.svg)
+![Retícula de rombos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-1.svg)
 
-##### celosía de diamante
+##### Retícula de rombos
 
 Rodee los motivos centrales con celdas continuas de diamantes, separando el entramado estructural de su decoración.
 
@@ -908,7 +908,7 @@ Repita mosaicos cuadrados o poligonales cuyos diseños interiores se unan a trav
 
 #### Conexiones y enclavamientos
 
-Compare uniones y entrelazamientos continuos cuyas líneas o motivos cruzan los límites de las baldosas para formar superficies tejidas, unidas o laberínticas ininterrumpidas.
+Compara uniones y encajes continuos cuyas líneas o motivos cruzan los límites del módulo para formar superficies ininterrumpidas de aspecto tejido, enlazado o laberíntico.
 
 <a id="form-pattern-64-0"></a>
 
@@ -964,7 +964,7 @@ Ensarte cuentas, colgantes y pequeñas figuras a lo largo de líneas o segmentos
 
 ##### Cruces tejidas
 
-Teje dos o más bandas una encima de la otra según una regla de cruce constante.
+Entrelaza dos o más bandas por encima y por debajo unas de otras, siguiendo una regla de cruce uniforme.
 
 <a id="form-pattern-64-7"></a>
 
@@ -996,7 +996,7 @@ Ejecute bandas horizontales paralelas a lo largo del campo, manteniendo un ritmo
 
 ##### Bandas verticales
 
-Repita bandas verticales verticales adecuadas para plantas trepadoras, motivos alargados u otros temas altos.
+Repite bandas verticales adecuadas para plantas trepadoras, motivos alargados u otros temas de formato alto.
 
 <a id="form-pattern-65-2"></a>
 
@@ -1032,11 +1032,11 @@ Coloque rayas finas o pequeños motivos dentro de bandas más anchas para crear 
 
 <a id="form-pattern-65-6"></a>
 
-![Bandas de ondas compensadas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-65-6.svg)
+![Bandas onduladas desplazadas: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-65-6.svg)
 
-##### Bandas de ondas compensadas
+##### Bandas onduladas desplazadas
 
-Compense las bandas de ondas vecinas para que los picos y los valles encajen continuamente.
+Desplaza las bandas onduladas vecinas para que sus crestas y valles encajen de forma continua.
 
 <a id="seamless-panel-word-g67-seamless"></a>
 
@@ -1064,9 +1064,9 @@ Haga que el espacio en una figura forme otra, alternando qué forma se lee como 
 
 <a id="form-pattern-67-2"></a>
 
-![Azulejos modulares irregulares: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-2.svg)
+![Teselación modular irregular: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-2.svg)
 
-##### Azulejos modulares irregulares
+##### Teselación modular irregular
 
 Repetir un módulo irregular diseñado cuyo contorno exterior determina cómo se une cada pieza.
 
@@ -1082,7 +1082,7 @@ Llene el plano con dos o más formas de módulos que divida las funciones primar
 
 FORMAS VISUALES · 22
 
-### Patrones que no son transparentes
+### Patrones que no se repiten sin juntas
 
 <a id="finite-panel-word-g56-finite"></a>
 
@@ -1150,9 +1150,9 @@ Combine geometría, pétalos y detalles finos en varias capas radialmente simét
 
 <a id="form-pattern-66-4"></a>
 
-![Difusión de fans: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-66-4.svg)
+![Disposición en abanico: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-66-4.svg)
 
-##### propagación del ventilador
+##### Disposición en abanico
 
 Abra las formas desde un punto base a través de un ángulo limitado para crear una estructura de abanico o cola de pavo real.
 
@@ -1182,9 +1182,9 @@ Transforme una unidad gradualmente en otra a lo largo de la imagen preservando e
 
 <a id="form-pattern-67-5"></a>
 
-![Azulejos rotos: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-5.svg)
+![Discontinuidades en la repetición: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-5.svg)
 
-##### Azulejos rotos
+##### Discontinuidades en la repetición
 
 Retire, gire o reemplace algunas unidades dentro de un mosaico ordenado para crear anomalías deliberadas.
 
@@ -1192,15 +1192,15 @@ Retire, gire o reemplace algunas unidades dentro de un mosaico ordenado para cre
 
 <a id="finite-group-word-g70-finite"></a>
 
-#### Fronteras y crecimiento
+#### Bordes y crecimiento
 
 Compare los bordes delimitados y el crecimiento direccional que ocupan bordes, esquinas, marcos, bandas o regiones locales en expansión seleccionados.
 
 <a id="form-pattern-70-0"></a>
 
-![Borde de un solo borde: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-70-0.svg)
+![Borde en un solo lado: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-70-0.svg)
 
-##### Borde de un solo borde
+##### Borde en un solo lado
 
 Repita las unidades continuamente a lo largo de un borde para un puño, pretina, límite del paquete o borde inferior.
 
@@ -1208,9 +1208,9 @@ Repita las unidades continuamente a lo largo de un borde para un puño, pretina,
 
 ![Bordes emparejados: estudio visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-70-1.svg)
 
-##### Fronteras emparejadas
+##### Bordes emparejados
 
-Coloque bordes en dos lados opuestos para mantener un tema, un texto o un área abierta entre ellos.
+Coloca bordes en dos lados opuestos para enmarcar un motivo principal, un texto o un espacio libre entre ellos.
 
 <a id="form-pattern-70-2"></a>
 
@@ -1274,7 +1274,7 @@ Coloque el patrón principal en un lado o esquina, equilibrándolo con elementos
 
 ##### mosaico local
 
-Aplique el patrón solo en el escote, bolsillo, área de la copa u otra zona local designada.
+Aplica el patrón solo en el escote, el bolsillo, una zona de la superficie de la taza u otra zona localizada designada.
 
 <a id="form-pattern-71-3"></a>
 
@@ -1304,11 +1304,11 @@ Coloque los motivos según las dimensiones finales, las costuras y los contornos
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -1336,6 +1336,6 @@ Conserva el tema central y los rasgos que permiten reconocer el original. Usa su
 
 **Alcance y límites**
 
-Una cuadrícula de activos normal no es automáticamente un patrón, y un resultado fluido reclamado requiere una verificación de salida en mosaico por separado.
+Una cuadrícula regular de recursos no es automáticamente un patrón; afirmar que el resultado no tiene juntas exige comprobar por separado su repetición en mosaico.
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

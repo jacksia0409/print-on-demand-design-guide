@@ -6,15 +6,15 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--single--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--single--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Dirigido por materia / DIRECCIÓN CREATIVA / materia única
+Motivo principal / DIRECCIÓN CREATIVA / motivo único
 
 # Fondo sólido
 
-Tema único: Un color uniforme forma el fondo; El blanco también es un fondo sólido.
+Motivo único: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.
 
 <a id="understand"></a>
 
@@ -28,19 +28,19 @@ CÓMO RECONOCERLO
 
 No agregue patrones, degradados, texturas o escenas al respaldo. Esto no restringe los colores y detalles del contenido en primer plano.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por sujeto → Un solo sujeto → Fondo → Fondo sólido
+Motivo principal → Motivo único → Fondo → Fondo de color uniforme
 
 **Entrada y salida**
 
@@ -48,7 +48,7 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Mantenga un tema focal coherente. Si hay varios objetos independientes, elija el tema principal u organice un todo visual claramente unificado.
+Conserva un único motivo focal coherente. Si hay varios objetos independientes, elige el motivo principal u organízalos como un conjunto visual claramente unificado.
 
 **Fondo**
 
@@ -68,24 +68,24 @@ No agregue patrones, degradados, texturas o escenas al respaldo. Esto no restrin
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Fondo transparente: Sujeto único: El fondo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Asunto único: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--single--transparent.md)[![Fondo degradado: Sujeto único: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+Motivo único: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--single--transparent.md)[![Fondo degradado: Sujeto único: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### Fondo degradado↗
 
-Asunto único: el fondo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--single--gradient.md)[![Fondo estampado: local: Tema único: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
+Motivo único: el fondo cambia de color o brillo de forma continua y el contenido principal sigue distinguiéndose.](background--single--gradient.md)[![Fondo estampado localizado: motivo único: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
 
 ### Fondo estampado: local↗
 
-Tema único: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--single--pattern-local.md)[![Fondo estampado: área completa: Sujeto único: un fondo estampado cubre la imagen detrás del contenido en primer plano claramente legible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
+Motivo único: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](background--single--pattern-local.md)[![Fondo estampado integral: motivo único: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
 
 ### Fondo estampado: área completa↗
 
-Asunto único: un fondo estampado cubre la imagen detrás de un contenido en primer plano claramente legible.](background--single--pattern-full.md)
+Motivo único: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.](background--single--pattern-full.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

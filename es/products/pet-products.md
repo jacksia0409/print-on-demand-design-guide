@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/pet-products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/pet-products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -46,13 +46,13 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más fotos e imágenes Skills**
+**Explora más Skills de fotos e imágenes**
 
 <a id="_R_5v3k_-title"></a>
 
-#### Explora más fotos e imágenes Skills
+#### Explora más Skills de fotos e imágenes
 
 4 / 44
 

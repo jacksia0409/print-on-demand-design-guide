@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/blankets?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/blankets?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Skalieren Sie ein Porträt, ein Rapportmuster oder eine Fotocollage über eine D
 
 ### Verwenden Sie die volle Decke
 
-Wählen Sie ein übergroßes Bild, eine vollflächige Wiederholung oder eine Collage, die mehrere Fotos in einer Komposition vereint. Ein großes Porträt; Eine umfassende Wiederholung; Eine Collage verwandter Fotos.
+Wählen Sie ein großformatiges Bild, einen vollflächigen Rapport oder eine Collage, die mehrere Fotos zu einer Komposition verbindet. Ein großes Porträt; Ein vollflächiger Rapport; Eine Collage zusammengehöriger Fotos.
 
 [![Decken · Picknickdecke](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-607555787032287.webp)](https://podplo.app/products/mockup-temu-607555787032287)
 
@@ -32,7 +32,7 @@ Verwenden Sie verschiedene Skills, um dasselbe Bild in neue Layouts, fotobasiert
 
 ### Decken Sie die Decke mit einem nahtlosen Muster ab
 
-Nehmen Sie Details aus Ihrem Bild und ordnen Sie sie in einer Wiederholung über die gesamte Decke an.
+Nehmen Sie Details aus Ihrem Bild und ordnen Sie sie als Rapport über die gesamte Decke an.
 
 [Nahtloses Muster](https://podplo.app/skills/seamless-pattern)
 
@@ -48,11 +48,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 14
 
@@ -64,11 +64,11 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
-### Verwandeln Sie ein Familienfoto in ein umfassendes Kunstwerk
+### Verwandeln Sie ein Familienfoto in ein Motiv für eine Decke.
 
 Erstellen Sie ein 3D-Familienporträt, bei dem jede Person erkennbar bleibt.
 
@@ -86,11 +86,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 97
 
@@ -100,7 +100,7 @@ KI-Produktvorschau
 
 Foto-Gedenkkarte](https://podplo.app/skills/photo-memorial-card)[![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -124,17 +124,17 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Nordpol-Namensplakat](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
@@ -150,11 +150,11 @@ Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern)
 
 ### Sehen Sie sich das ausgebreitete und gefaltete Bild in der Vorschau an
 
-Die KI-Vorschau zeigt, wie sich ein großes Porträt, eine Wiederholung oder eine Collage verändert, wenn die Decke ausgebreitet, gefaltet oder in einem Raum platziert wird.
+Die KI-Vorschau zeigt, wie ein großes Porträt, ein Rapport oder eine Collage wirkt, wenn die Decke ausgebreitet, gefaltet oder in einem Raum platziert wird.
 
 - Ein großes Motiv schafft einen klaren Schwerpunkt
 
-- Während sich die Decke faltet, ändert sich eine Wiederholung
+- Ein Rapport verändert seine Wirkung, wenn sich die Decke faltet
 
 - Eine Collage vereint mehrere Fotos in einem Design
 

@@ -30,29 +30,29 @@ Escolha uma imagem grande, uma repetição completa ou uma colagem que reúna v�
 
 Use Skills diferentes para transformar a mesma imagem em novos layouts, arte baseada em fotos e designs personalizados.
 
-### Cubra o cobertor com um padrão uniforme
+### Cubra a manta com um padrão sem emendas
 
 Pegue os detalhes da sua imagem e organize-os repetidamente em toda a manta.
 
 [Padrão sem emendas](https://podplo.app/skills/seamless-pattern)
 
-![Padrão sem costura · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Padrão sem emendas · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Imagem de origem
 
-[![Padrão sem costura · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Padrão sem emendas · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais layout e defina Skills**
+**Explore mais Skills de layout e de conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore mais layout e defina Skills
+#### Explore mais Skills de layout e de conjuntos
 
 4 / 14
 
@@ -64,11 +64,11 @@ Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte 
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
-### Transforme uma foto de família em uma obra de arte geral
+### Transforme uma foto de família em arte para cobertor
 
 Crie um retrato de família em 3D mantendo cada pessoa reconhecível.
 
@@ -84,21 +84,21 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 4 / 97
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Exemplo de arte de cartão comemorativo fotográfico](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606669413176818-after.webp)
+[![Exemplo de arte de cartão fotográfico em memória](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606669413176818-after.webp)
 
-Cartão comemorativo fotográfico](https://podplo.app/skills/photo-memorial-card)[![Exemplo de arte de página para colorir](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+Cartão fotográfico em memória](https://podplo.app/skills/photo-memorial-card)[![Exemplo de arte de página para colorir](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
 Página para colorir](https://podplo.app/skills/coloring-page)[![Exemplo de arte do Silhouette Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
@@ -112,7 +112,7 @@ Faça do nome o ponto focal e dimensione a moldura floral da manta.
 
 [Moldura floral com nome](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉIA
+ANDREA
 
 Nome
 
@@ -122,23 +122,23 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais nome e ocasião Skills**
+**Explore mais Skills de nomes e ocasiões**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explore mais nome e ocasião Skills
+#### Explore mais Skills de nomes e ocasiões
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Póster Nome do Pólo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte do padrão de nome Crayon Hearts](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Pôster de nome do Polo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte de padrão de nome com corações em giz de cera](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Padrão de nome de corações de giz de cera](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -146,13 +146,13 @@ Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize-o aberto e dobrado
 
 A visualização da IA mostra como um grande retrato, repetição ou colagem muda quando o cobertor é estendido, dobrado ou colocado em uma sala.
 
-- Um assunto grande cria um ponto focal claro
+- Um elemento principal grande cria um ponto focal claro
 
 - Uma repetição muda conforme o cobertor se dobra
 
@@ -160,4 +160,4 @@ A visualização da IA mostra como um grande retrato, repetição ou colagem mud
 
 [![Cobertores · Manta de piquenique](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-607555787032287.webp)](https://podplo.app/products/mockup-temu-607555787032287)
 
-[![Cobertores · Cobertor para bebé](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606891476385733.webp)](https://podplo.app/products/mockup-temu-606891476385733)
+[![Mantas · Manta de bebê](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606891476385733.webp)](https://podplo.app/products/mockup-temu-606891476385733)

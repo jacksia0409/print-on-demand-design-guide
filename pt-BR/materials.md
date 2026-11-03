@@ -34,7 +34,7 @@ Os elementos são gráficos isolados que podem se tornar parte de um layout tipo
 
 ![Flor Ave do Paraíso](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/feace20b-5969-5bf2-8776-5bc1eb1d5dc1.png)
 
-![Monstera deixa aquarela](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/b7e588a1-fd2b-5a56-bc9c-28a168b739cc.png)
+![Folhas de monstera em aquarela](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/b7e588a1-fd2b-5a56-bc9c-28a168b739cc.png)
 
 ![Esboço de folha Monstera](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/808b1346-bf39-5fd0-9fda-68f3e7dc9560.png)
 
@@ -118,7 +118,7 @@ Crie um gráfico, um distintivo ou uma coleção lúdica liderada por personagen
 
 <a id="cute-watercolor-nursery-animals"></a>
 
-![Boné de ursinho de pelúcia aquarela](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe8b83b5-be91-54ef-9d19-9cd9e2c53f46.png)
+![Ursinho de pelúcia de boné em aquarela](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe8b83b5-be91-54ef-9d19-9cd9e2c53f46.png)
 
 ![Pinguim com chapéu amarelo e lenço azul](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d80dca9b-d4cb-56b5-a2d1-dd354124a753.png)
 
@@ -126,7 +126,7 @@ Crie um gráfico, um distintivo ou uma coleção lúdica liderada por personagen
 
 Animais e Criaturas
 
-### Animais fofos de viveiro em aquarela
+### Animais fofos em aquarela para quarto de bebê
 
 Crie um gráfico, um distintivo ou uma coleção lúdica liderada por personagens.
 
@@ -136,7 +136,7 @@ Crie um gráfico, um distintivo ou uma coleção lúdica liderada por personagen
 
 ![pássaro em um galho](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fdccea1f-6778-5ea7-86cc-cad870c766d1.png)
 
-![Blue Jay no galho](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/efb8a195-6f1f-57b3-afed-f9e4fdbda01f.png)
+![Gaio-azul em um galho](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/efb8a195-6f1f-57b3-afed-f9e4fdbda01f.png)
 
 ![Andorinha Voadora](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/dad6d622-53b1-564b-a5ed-f6d18c22a771.png)
 
@@ -168,7 +168,7 @@ Crie um gráfico, um distintivo ou uma coleção lúdica liderada por personagen
 
 03
 
-### Feriados e temporadas
+### Datas comemorativas e estações
 
 <a id="classic-spooky-halloween-horror"></a>
 
@@ -176,9 +176,9 @@ Crie um gráfico, um distintivo ou uma coleção lúdica liderada por personagen
 
 ![Bruxa voando na vassoura](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f717ee37-10d4-55a1-96b1-f0cabc2001aa.png)
 
-![Pingando globo ocular roxo](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ec78560a-4ff6-59d6-975f-65e0b8d071bf.png)
+![Globo ocular roxo escorrendo](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ec78560a-4ff6-59d6-975f-65e0b8d071bf.png)
 
-Feriados e temporadas
+Datas comemorativas e estações
 
 ### Terror clássico assustador de Halloween
 
@@ -194,7 +194,7 @@ Adicione um ponto focal sazonal a saudações, presentes ou gráficos temáticos
 
 ![Coelho com coroa de flores](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d1dd0c27-0d7c-52a5-8418-1747b1d25419.png)
 
-Feriados e temporadas
+Datas comemorativas e estações
 
 ### Coelhinho da Páscoa e Ovos em Aquarela
 
@@ -210,9 +210,9 @@ Adicione um ponto focal sazonal a saudações, presentes ou gráficos temáticos
 
 ![Boneco de neve com cartola e lenço](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/7b495f63-c56d-561d-821e-a8aa15c19b3f.png)
 
-Feriados e temporadas
+Datas comemorativas e estações
 
-### Ícones de férias de Natal dos desenhos animados
+### Ícones festivos de Natal em estilo de desenho animado
 
 Adicione um ponto focal sazonal a saudações, presentes ou gráficos temáticos.
 
@@ -224,9 +224,9 @@ Adicione um ponto focal sazonal a saudações, presentes ou gráficos temáticos
 
 ![Cruz Celta](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fa645282-cd0f-51c2-84e8-d82ac45e6ba1.png)
 
-![Pote arco-íris de ouro e trevo](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e47968b5-0307-5bda-97ff-23cc318328d8.png)
+![Arco-íris, pote de ouro e trevo](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e47968b5-0307-5bda-97ff-23cc318328d8.png)
 
-Feriados e temporadas
+Datas comemorativas e estações
 
 ### Trevo Verde do Dia de São Patrício
 
@@ -258,7 +258,7 @@ Combine pequenos motivos com textos curtos, etiquetas ou layouts repetidos.
 
 <a id="vintage-coffee-and-cafe"></a>
 
-![Mão derramando café](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe5248e4-8b81-5a95-a75c-41200e9cfef1.png)
+![Mão preparando café coado por infusão](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe5248e4-8b81-5a95-a75c-41200e9cfef1.png)
 
 ![Xícara De Café Com Latte Art](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd35a8d4-4a86-56aa-a174-0eb968ea4dd2.png)
 
@@ -266,7 +266,7 @@ Combine pequenos motivos com textos curtos, etiquetas ou layouts repetidos.
 
 Comida e bebida
 
-### Café e café vintage
+### Café e cafeteria vintage
 
 Combine pequenos motivos com textos curtos, etiquetas ou layouts repetidos.
 
@@ -298,7 +298,7 @@ Combine pequenos motivos com textos curtos, etiquetas ou layouts repetidos.
 
 ![Onda e sol do oceano](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fecd1251-775c-5859-a038-1692e8b181f4.png)
 
-![Ícone de ondas do sol e do oceano](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e12bdb88-52a6-5d6d-80c8-35d8c34ef08d.png)
+![Ícone de sol e onda do oceano](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e12bdb88-52a6-5d6d-80c8-35d8c34ef08d.png)
 
 ![Surfista ao pôr do sol](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/c214f5f3-76a3-51fb-aff0-30f21fb04878.png)
 
@@ -330,7 +330,7 @@ Desenvolva uma cena, uma composição emoldurada ou uma direção de arte de par
 
 ![Aquarela Tartaruga Marinha](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fcc774f7-1c63-529a-ae6f-37fb7a66f28e.png)
 
-![Aquarela Tropical Sunset Beach](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/c168875d-eabb-5784-b209-67adcf1bb9fd.png)
+![Aquarela de praia tropical ao pôr do sol](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/c168875d-eabb-5784-b209-67adcf1bb9fd.png)
 
 ![Prancha de surf na praia](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/bd92080b-a7c3-57c9-8939-9c8f0169da71.png)
 
@@ -354,11 +354,11 @@ Desenvolva uma cena, uma composição emoldurada ou uma direção de arte de par
 
 ![Computador pessoal retrô](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ea9ed5dd-7253-5197-b32a-32ba3b0eef47.png)
 
-![Telefone Rotativo Vermelho](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d91f82d8-7396-55b3-8b6c-2c7a0bd7dc5b.png)
+![Telefone vermelho de disco](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d91f82d8-7396-55b3-8b6c-2c7a0bd7dc5b.png)
 
 Objetos e ferramentas
 
-### Câmera de rádio retrô para computador Gameboy
+### Computador, Gameboy, rádio e câmera retrô
 
 Transforme objetos reconhecíveis em gráficos, emblemas ou conjuntos de hobby.
 
@@ -428,9 +428,9 @@ Use uma moldura para fixar um objeto ou estenda um motivo repetido por uma super
 
 Padrões e Molduras
 
-### Padrões geométricos sem costura Art Déco
+### Padrões geométricos Art Déco sem emendas
 
-Experimente leques, guindastes ou motivos geométricos em papel de embrulho, capas de cadernos ou designs de copos.
+Experimente motivos de leques, grous ou formas geométricas em papel de embrulho, capas de caderno ou designs de copos.
 
 [Explore mais na biblioteca](https://podplo.app/elements)
 
@@ -488,9 +488,9 @@ Combine várias marcas pequenas em um conjunto compacto de gráficos ou adesivos
 
 Pessoas e Personagens
 
-### Atletas esportivos com silhueta negra
+### Atletas em silhuetas pretas
 
-Use um caráter claro como foco de um pôster ou layout de vestuário.
+Use um personagem bem-definido como foco de um pôster ou layout para roupas.
 
 [Explore mais na biblioteca](https://podplo.app/elements)
 
@@ -524,7 +524,7 @@ Crie gráficos específicos para o público em torno de interesses e momentos do
 
 <a id="vintage-engraved-cosmic-space"></a>
 
-![Ilustra??o do planeta Saturno](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe6abc92-1904-5479-9148-e609a435bccb.png)
+![Ilustração do planeta Saturno](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe6abc92-1904-5479-9148-e609a435bccb.png)
 
 ![Planeta Saturno com anéis](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ec298096-055c-5091-9538-81daf29eb2ca.png)
 
@@ -554,7 +554,7 @@ Crie um personagem, emblema ou gráfico de declaração baseado em uma história
 
 Abstrato e Geométrico
 
-### Texturas de tinta em negrito com pincel
+### Texturas de pinceladas fortes de tinta
 
 Explore layouts ousados, sistemas de fundo e padrões repetidos.
 
@@ -586,8 +586,8 @@ Imagens
 
 ## Comece com uma imagem completa
 
-As imagens preservam uma composição completa, tornando-as úteis quando você deseja construir a partir de uma cena existente. Retrabalhe o layout, adicione palavras exatas, introduza um tema sazonal ou explore um novo tratamento visual com um Photo to Art Skill.
+As imagens preservam uma composição completa, sendo úteis para partir de uma cena existente. Retrabalhe o layout, adicione o texto exato, introduza um tema sazonal ou explore uma nova expressão visual com um Skill Photo to Art.
 
-Escolha imagens com um assunto claro, um tema que corresponda à sua ideia e detalhes visuais que você deseja preservar na próxima versão.
+Escolha imagens com um elemento principal bem definido, um tema que combine com sua ideia e detalhes visuais que a próxima versão deve preservar.
 
 [Ver mais](https://podplo.app/design-ideas)

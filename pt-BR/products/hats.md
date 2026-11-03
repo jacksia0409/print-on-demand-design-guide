@@ -12,7 +12,7 @@
 
 # Chapéus e bonés
 
-Transforme um caractere, símbolo ou palavra curta em um gráfico compacto de chapéu.
+Transforme um personagem, símbolo ou palavra curta em uma arte compacta para chapéu.
 
 <a id="product-overview"></a>
 
@@ -20,9 +20,9 @@ Transforme um caractere, símbolo ou palavra curta em um gráfico compacto de ch
 
 ### Mantenha-o simples e reconhecível
 
-Silhuetas claras, emblemas compactos e letras curtas funcionam melhor na pequena frente curva de um chapéu. Um emblema de mascote centralizado; Uma palavra curta com letras distintas; Um símbolo simples com um contorno forte.
+Silhuetas bem definidas, emblemas compactos e textos curtos funcionam melhor na pequena frente curva de um chapéu. Um emblema de mascote centralizado; uma palavra curta com letreiramento distinto; um símbolo simples de contorno forte.
 
-[![Chapéus e bonés · Chapéu Trucker 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)](https://podplo.app/products/mockup-zazzle-256114317380662744)
+[![Chapéus e bonés · Boné trucker 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)](https://podplo.app/products/mockup-zazzle-256114317380662744)
 
 <a id="product-create"></a>
 
@@ -32,25 +32,25 @@ Use Skills diferentes para transformar a mesma imagem em novos layouts, arte bas
 
 ### Crie um emblema de chapéu compacto
 
-Combine um título curto, um assunto claro e um subtítulo breve em um layout pequeno e centralizado.
+Combine um título curto, um elemento principal bem definido e um subtítulo breve em um layout pequeno e centralizado.
 
-[Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+[Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
-![Layout Título–Assunto–Subtítulo · Imagem fonte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
+![Layout Título–Elemento principal–Subtítulo · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
 
 Imagem de origem
 
-[![Layout Título–Assunto–Subtítulo · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Layout Título–Elemento principal–Subtítulo · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 Arte gerada
 
-![Chapéus e bonés · Layout de título–assunto–subtítulo · Visualização do produto de IA](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
+![Chapéus e bonés · Layout título–elemento principal–subtítulo · Prévia de produto gerada por IA](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
 ### Converta uma foto em uma marca de uma cor
 
-Use um assunto claro da foto para criar um carimbo gráfico simples com um contorno forte.
+Use um elemento principal bem-definido da foto para criar uma arte simples de carimbo com contorno forte.
 
 [Selo Monocromático](https://podplo.app/skills/monochrome-stamp)
 
@@ -64,13 +64,13 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 4 / 4
 
@@ -90,37 +90,37 @@ Família de estêncil monocromático](https://podplo.app/skills/monochrome-stenc
 
 Coloque um nome sob a coroa para criar um gráfico de chapéu compacto e personalizado.
 
-[Nome da Princesa Coroa](https://podplo.app/skills/princess-crown-name)
+[Nome com coroa de princesa](https://podplo.app/skills/princess-crown-name)
 
-NOME
+NAME
 
 Nome
 
-[![Nome da Coroa da Princesa · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
+[![Nome com coroa de princesa · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
 
 Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais nome e ocasião Skills**
+**Explore mais Skills de nomes e ocasiões**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explore mais nome e ocasião Skills
+#### Explore mais Skills de nomes e ocasiões
 
 1 / 1
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemplo de arte de pôster com citação em negrito amarelo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606868223170088-artwork.webp)
+[![Exemplo de arte de pôster amarelo marcante com frase](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606868223170088-artwork.webp)
 
-Pôster de citações amarelas em negrito](https://podplo.app/skills/bold-yellow-quote-poster)
+Pôster amarelo marcante com frase](https://podplo.app/skills/bold-yellow-quote-poster)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize no chapéu
 
@@ -132,6 +132,6 @@ A visualização da IA mostra a aparência do gráfico na escala do chapéu e em
 
 - A cor do chapéu pode fazer com que o mesmo gráfico pareça ousado ou discreto
 
-[![Chapéus e bonés · Chapéu Trucker 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)](https://podplo.app/products/mockup-zazzle-256114317380662744)
+[![Chapéus e bonés · Boné trucker 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)](https://podplo.app/products/mockup-zazzle-256114317380662744)
 
-[![Chapéus e bonés · Chapéu Trucker 02](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256949692967857555.webp)](https://podplo.app/products/mockup-zazzle-256949692967857555)
+[![Chapéus e bonés · Boné trucker 02](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256949692967857555.webp)](https://podplo.app/products/mockup-zazzle-256949692967857555)

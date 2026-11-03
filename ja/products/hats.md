@@ -12,7 +12,7 @@
 
 # 帽子とキャップ
 
-文字、記号、または短い単語をコンパクトな帽子のグラフィックに変換します。
+キャラクター、記号、短い言葉を、コンパクトな帽子用図案に変えます。
 
 <a id="product-overview"></a>
 
@@ -34,17 +34,17 @@
 
 短いタイトル、1 つの明確な主役、短いサブタイトルを小さな中央レイアウトに組み合わせます。
 
-[タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
+[タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
 
-![タイトル – 件名 – 字幕のレイアウト · ソース画像](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
+![タイトル・モチーフ・サブタイトルのレイアウト · 元画像](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
 
 ソース画像
 
-[![タイトル – 件名 – 字幕のレイアウト · 生成されたアートワーク](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![タイトル・モチーフ・サブタイトルのレイアウト · 生成図案](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 生成されたアートワーク
 
-![帽子と帽子 · タイトル、件名、サブタイトルのレイアウト · AI 製品プレビュー](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
+![帽子とキャップ · タイトル・モチーフ・サブタイトルのレイアウト · AI商品プレビュー](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
 
 AI 製品のプレビュー
 
@@ -66,11 +66,11 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**写真と画像をもっと見る Skills**
+**写真や画像向けのSkillをもっと見る**
 
 <a id="_R_bn3k_-title"></a>
 
-#### 写真と画像をもっと見る Skills
+#### 写真や画像向けのSkillをもっと見る
 
 4 / 4
 
@@ -80,9 +80,9 @@ AI 製品のプレビュー
 
 ぬりえページ](https://podplo.app/skills/coloring-page)[![ペット ステッカー Doodle アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-05.webp)
 
-ペットのステッカーの落書き](https://podplo.app/skills/pet-sticker-doodle)[![気になるペットの質問ステッカーのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-18.webp)
+ペットのステッカーの落書き](https://podplo.app/skills/pet-sticker-doodle)[![首をかしげるペットの疑問符ステッカーの作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-18.webp)
 
-気になるペットの質問スタンプ](https://podplo.app/skills/curious-pet-question-sticker)[![モノクロ ステンシル ファミリーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
+首をかしげるペットの疑問符ステッカー](https://podplo.app/skills/curious-pet-question-sticker)[![モノクロ ステンシル ファミリーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
 
 モノクロステンシルファミリー](https://podplo.app/skills/monochrome-stencil-family)
 
@@ -92,7 +92,7 @@ AI 製品のプレビュー
 
 [プリンセスクラウンの名前](https://podplo.app/skills/princess-crown-name)
 
-名前
+NAME
 
 名前
 
@@ -104,11 +104,11 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**名前と機会をさらに詳しく見る Skills**
+**名前やイベント向けのSkillをもっと見る**
 
 <a id="_R_bv3k_-title"></a>
 
-#### 名前と機会をさらに詳しく見る Skills
+#### 名前やイベント向けのSkillをもっと見る
 
 1 / 1
 

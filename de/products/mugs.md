@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/mugs?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/mugs?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Tassen
 
-Verwenden Sie die volle Tasse: Präsentieren Sie auf einer Seite ein Bild, fügen Sie auf der anderen einen Satz hinzu oder wickeln Sie eine Wiederholung um die Tasse.
+Nutzen Sie die gesamte Tasse: ein Bild auf einer Seite, ein Spruch auf der anderen oder ein umlaufender Rapport.
 
 <a id="product-overview"></a>
 
@@ -34,13 +34,13 @@ Verwenden Sie verschiedene Skills, um dasselbe Bild in neue Layouts, fotobasiert
 
 Erstellen Sie ein klares Bild- und Schriftlayout und platzieren Sie es dann dort, wo es gut lesbar ist, während sich die Tasse dreht.
 
-[Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+[Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
-![Titel-Betreff-Untertitel-Layout · Quellbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
+![Layout aus Titel, Motiv und Untertitel · Ausgangsbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
 
 Quellbild
 
-[![Titel-Betreff-Untertitel-Layout · Generiertes Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Layout aus Titel, Motiv und Untertitel · Generiertes Bild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 Generiertes Kunstwerk
 
@@ -48,11 +48,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 9
 
@@ -86,11 +86,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 91
 
@@ -98,13 +98,13 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 ### Fügen Sie ein florales Namensdesign hinzu
 
@@ -124,17 +124,17 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Nordpol-Namensplakat](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
@@ -148,7 +148,7 @@ Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern)
 
 ## Sehen Sie sich das Design auf dem Produkt in der Vorschau an
 
-### Vorschau der vollständigen Verpackung
+### Vorschau des vollständig umlaufenden Designs
 
 Die KI-Vorschau zeigt, wie das Bild, die Phrase oder das Muster auf der Vorder- und Rückseite sowie im Raum um den Griff herum erscheint.
 

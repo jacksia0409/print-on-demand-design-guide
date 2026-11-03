@@ -42,7 +42,7 @@ Orientation souhaitée: Scènes
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Organisez les sujets, le décor et l'espace autour du thème original. Le résultat peut être un événement, un cadre calme, un paysage ou une vignette du quotidien ; créer un environnement associé s'ils sont absents.
+Structure souhaitée : Organisez les sujets, le décor et l’espace autour du thème original. Le résultat peut être un événement, un cadre calme, un paysage ou une scène du quotidien ; créez un environnement apparenté s’il est absent.
 
 Arrière-plan: Utilisez l’emplacement existant, les indices environnementaux et atmosphériques pour développer un cadre cohérent. S'il n'existe aucun arrière-plan ou si seul un support solide ou transparent est fourni, créez un environnement associé. Un motif décoratif ne doit pas à lui seul remplacer le contexte essentiel.
 
@@ -71,7 +71,7 @@ Texte: Conservez les mots clairement lisibles de la source et leur langue, en ad
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
-Portée et limites: Une grille d'actifs standard n'est pas automatiquement un modèle, et un résultat transparent revendiqué nécessite une vérification de sortie en mosaïque distincte.
+Portée et limites : Une grille régulière d’éléments ne constitue pas automatiquement un motif répété ; un résultat annoncé comme sans raccord visible nécessite une vérification distincte en répétition.
 ```
 
 
@@ -86,7 +86,7 @@ Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si
 
 Structure souhaitée: Traduisez la palette, le matériau et l’atmosphère pertinents en œuvres d’art axées sur la surface. Utilisez une couverture complète, des fragments ou des calques locaux, en réduisant les objets sans rapport qui deviendraient des sujets focaux indépendants.
 
-Arrière-plan: Matériau de référence, palette et atmosphère, créant un traitement de surface pertinent en cas d'absence. Un correctif local peut avoir un support séparé ; une texture sur toute la surface se confond avec son fond. Évitez d'ajouter un objet ou un cadre narratif dominant.
+Arrière-plan : prenez pour référence la matière, la palette et l’atmosphère, et créez un traitement de surface pertinent s’il manque. Une zone de texture localisée peut avoir son propre fond ; une texture intégrale fusionne avec son fond. Évitez d’ajouter un objet dominant ou un décor narratif.
 
 Texte: Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez une courte phrase liée au thème comme texte d’accompagnement, sans masquer les sujets principaux, l’action ou la structure. Adaptez le texte existant à la hiérarchie souhaitée et respectez toute demande explicite de ne pas inclure de texte.
 
@@ -113,7 +113,7 @@ Texte: Conservez les mots clairement lisibles de la source et leur langue, en ad
 
 Préserver et adapter: Conservez le thème, l'atmosphère, la palette, le rythme ou la direction tout en permettant de réduire ou de supprimer l'identité de l'objet concret. N'exigez pas simultanément que la silhouette de l'objet d'origine reste intacte. Ne décrivez pas le contenu nouvellement créé comme étant présent dans la source. Énoncez un conflit entre les restrictions de saisie explicites et les conditions cibles nécessaires plutôt que de prétendre que les deux sont remplies.
 
-Portée et limites: Un objet stylisé identifiable reste un sujet de traitement. Le caractère de la surface matérielle appartient aux textures lorsqu’il s’agit de l’expression principale.
+Portée et limites : un objet stylisé identifiable relève toujours d’un traitement de sujet. Le caractère d’une surface matérielle relève des textures lorsqu’il est l’expression principale.
 ```
 
 
@@ -122,7 +122,7 @@ Portée et limites: Un objet stylisé identifiable reste un sujet de traitement.
 Un sujet principal se trouve près du centre, avec un espace autour de lui.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujet unique → Sujet centré
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Sujet centré
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -143,7 +143,7 @@ Portée et limites: Le centrage ne nécessite pas de symétrie miroir. Évitez d
 Le sujet principal se trouve d’un côté, laissant une zone sensiblement plus calme ailleurs.
 
 ```text
-Orientation souhaitée: Mené par sujet → Sujet unique → Décalage avec espace ouvert
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Sujet décentré avec espace libre
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -164,7 +164,7 @@ Portée et limites: Une mise en page décalée doit préserver les caractéristi
 Une vue agrandie et recadrée met au point une partie reconnaissable du sujet.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Sujet unique → Détail agrandi
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Détail agrandi
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -185,7 +185,7 @@ Portée et limites: Cela recadre un sujet individuel. Un environnement recadré 
 Le sujet s'étend le long d'une diagonale, donnant à l'image une direction claire.
 
 ```text
-Orientation souhaitée: Dirigé par un sujet → Sujet unique → Composition diagonale
+Orientation souhaitée : Composition centrée sur le sujet → Sujet unique → Composition diagonale
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -222,7 +222,7 @@ Portée et limites: Les objets ne doivent pas nécessairement être de taille id
 ```
 
 
-## Matières principales et secondaires
+## Sujets principaux et secondaires
 
 Un sujet dirige la composition tandis que d’autres objets la soutiennent.
 
@@ -294,7 +294,7 @@ Orientation souhaitée: Dirigé par le sujet → Sujets multiples → Sujets aut
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Disposez les sujets connexes autour d’un centre commun, en coordonnant leur orientation, leur échelle et leur espacement. Le centre peut rester ouvert ou contenir un objet principal ou des mots de soutien.
+Structure souhaitée : Disposez les sujets apparentés autour d’un centre commun, en coordonnant leur orientation, leur échelle et leur espacement. Le centre peut rester vide ou accueillir un objet principal ou un texte d’accompagnement.
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
@@ -323,7 +323,7 @@ Texte: Conservez les mots clairement lisibles de la source et leur langue, en ad
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
-Portée et limites: Le chevauchement ne doit pas masquer toutes les caractéristiques distinctives. Un paramètre réaliste est facultatif ; l'objectif principal reste un regroupement d'objets.
+Portée et limites : Le chevauchement ne doit pas masquer toutes les caractéristiques distinctives. Un décor réaliste est facultatif ; l’objectif principal reste un groupement d’objets.
 ```
 
 
@@ -344,16 +344,16 @@ Texte: Conservez les mots clairement lisibles de la source et leur langue, en ad
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
-Portée et limites: Le but est de montrer des éléments individuels. Une grille finie n’est pas automatiquement une répétition transparente et les éléments n’ont pas besoin d’être identiques.
+Portée et limites : le but est de montrer des éléments individuels. Une grille finie ne constitue pas automatiquement une répétition à raccords invisibles, et les éléments n’ont pas besoin d’être identiques.
 ```
 
 
-## Mise en page de collection gratuite
+## Disposition libre d’une collection
 
 Les éléments indépendants sont disposés de manière lâche et irrégulière tout en partageant un thème.
 
 ```text
-Orientation souhaitée: Par sujet → Sujets multiples → Collections → Mise en page de collection gratuite
+Orientation souhaitée : composition centrée sur le sujet → Sujets multiples → Collections → Disposition libre d’une collection
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -378,7 +378,7 @@ Orientation souhaitée: Axé sur le sujet → Texte et relations avec le sujet �
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Gardez le sujet visuel comme point focal principal. Placez le libellé comme couche secondaire grâce à une échelle plus petite, un contraste plus silencieux ou une position de support.
+Structure souhaitée : Conservez le sujet visuel comme point focal principal. Placez le texte au second plan par une taille plus petite, un contraste plus discret ou une position d’accompagnement.
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
@@ -403,7 +403,7 @@ Structure souhaitée: Utilisez le texte fourni ou créez une courte phrase liée
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez une copie concise liée au thème et faites du lettrage le point central de ce traitement. Conservez l’ordre et le sens de la lecture et vérifiez l’orthographe. Si une demande explicite sans texte entre en conflit avec cette instruction basée sur le texte, énoncez le conflit plutôt que d'ajouter des mots en silence.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un texte concis lié au thème et faites du lettrage le point focal de ce traitement. Conservez l’ordre de lecture et le sens, et vérifiez l’orthographe. Si une demande explicite d’absence de texte entre en conflit avec cette orientation typographique, signalez le conflit plutôt que d’ajouter des mots sans le dire.
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
@@ -411,7 +411,7 @@ Portée et limites: Le texte doit clairement guider. Le poids visuel égal entre
 ```
 
 
-## Expression de type uniquement
+## Expression purement typographique
 
 Les formes de lettres, l’échelle et la disposition portent le design.
 
@@ -422,9 +422,9 @@ Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si
 
 Structure souhaitée: Transformez le thème en une expression typographique concise. Si l'entrée est une image, traduisez son thème ou son ambiance en mots et supprimez le sujet pictural indépendant ; conserver le libellé fourni lorsqu’il est présent.
 
-Arrière-plan: Faites référence à la couleur de fond, à la palette ou au matériau existant. En cas d'absence, créez un support solide, dégradé ou à texture subtile approprié. Ne conservez pas un sujet d’image figuratif indépendant à l’arrière-plan d’un dessin typographique uniquement.
+Arrière-plan : prenez pour référence la couleur de fond, la palette ou la matière existantes. En leur absence, créez un fond uni, dégradé ou légèrement texturé approprié. Ne conservez pas de sujet figuratif indépendant dans l’arrière-plan d’un visuel composé uniquement de texte.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez une copie concise liée au thème et faites du lettrage le point central de ce traitement. Conservez l’ordre et le sens de la lecture et vérifiez l’orthographe. Si une demande explicite sans texte entre en conflit avec cette instruction basée sur le texte, énoncez le conflit plutôt que d'ajouter des mots en silence.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un texte concis lié au thème et faites du lettrage le point focal de ce traitement. Conservez l’ordre de lecture et le sens, et vérifiez l’orthographe. Si une demande explicite d’absence de texte entre en conflit avec cette orientation typographique, signalez le conflit plutôt que d’ajouter des mots sans le dire.
 
 Préserver et adapter: Conservez le thème, le texte source lisible, la langue et la palette tout en traduisant les informations de l'image en typographie. N’exigez pas non plus qu’un sujet pictural indépendant reste. Ne décrivez pas le contenu nouvellement créé comme étant présent dans la source. Énoncez un conflit entre les restrictions de saisie explicites et les conditions cibles nécessaires plutôt que de prétendre que les deux sont remplies.
 
@@ -437,11 +437,11 @@ Portée et limites: Une couleur de fond, une texture subtile ou un accent non fi
 L'image et le texte occupent les zones supérieures et inférieures, créant un ordre de lecture clair.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Texte et relations avec le sujet → Image et texte empilés
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Image et texte superposés verticalement
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Placez l'image et le texte dans deux zones verticales principales. Choisissez image ci-dessus ou texte ci-dessus en fonction du contenu, puis coordonnez l'alignement, la largeur et l'espacement.
+Structure souhaitée : Placez l’image et le texte dans deux zones superposées verticalement. Selon le contenu, choisissez de placer l’image ou le texte au-dessus, puis coordonnez l’alignement, la largeur et l’espacement.
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
@@ -521,7 +521,7 @@ Portée et limites: Une simple superposition de texte n’est pas nécessairemen
 Une image pertinente remplace ou devient une partie d’une lettre ou d’un trait.
 
 ```text
-Orientation souhaitée: Dirigé par le sujet → Texte et relations avec le sujet → Images dans une forme de lettre
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Images intégrées aux lettres
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -529,7 +529,7 @@ Structure souhaitée: Choisissez une position appropriée dans le libellé et in
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez une copie concise liée au thème et faites du lettrage le point central de ce traitement. Conservez l’ordre et le sens de la lecture et vérifiez l’orthographe. Si une demande explicite sans texte entre en conflit avec cette instruction basée sur le texte, énoncez le conflit plutôt que d'ajouter des mots en silence.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un texte concis lié au thème et faites du lettrage le point focal de ce traitement. Conservez l’ordre de lecture et le sens, et vérifiez l’orthographe. Si une demande explicite d’absence de texte entre en conflit avec cette orientation typographique, signalez le conflit plutôt que d’ajouter des mots sans le dire.
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
@@ -546,11 +546,11 @@ Orientation souhaitée: Axé sur le sujet → Relations texte et sujet → Mots 
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
-Structure souhaitée: Utilisez des mots liés au thème comme unités de construction de la forme du sujet original. Ajustez la longueur des lignes, l'échelle, la répétition et la densité ; réutilisez le libellé fourni lorsque cela est possible ou créez une courte copie pertinente.
+Structure souhaitée : Utilisez des mots liés au thème comme éléments constitutifs de la forme du sujet original. Ajustez la longueur des lignes, l’échelle, la répétition et la densité ; réutilisez le texte fourni si possible ou créez un court texte pertinent.
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez une copie concise liée au thème et faites du lettrage le point central de ce traitement. Conservez l’ordre et le sens de la lecture et vérifiez l’orthographe. Si une demande explicite sans texte entre en conflit avec cette instruction basée sur le texte, énoncez le conflit plutôt que d'ajouter des mots en silence.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un texte concis lié au thème et faites du lettrage le point focal de ce traitement. Conservez l’ordre de lecture et le sens, et vérifiez l’orthographe. Si une demande explicite d’absence de texte entre en conflit avec cette orientation typographique, signalez le conflit plutôt que d’ajouter des mots sans le dire.
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
@@ -571,20 +571,20 @@ Structure souhaitée: Construisez un contour clair le long des formes de lettres
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez une copie concise liée au thème et faites du lettrage le point central de ce traitement. Conservez l’ordre et le sens de la lecture et vérifiez l’orthographe. Si une demande explicite sans texte entre en conflit avec cette instruction basée sur le texte, énoncez le conflit plutôt que d'ajouter des mots en silence.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un texte concis lié au thème et faites du lettrage le point focal de ce traitement. Conservez l’ordre de lecture et le sens, et vérifiez l’orthographe. Si une demande explicite d’absence de texte entre en conflit avec cette orientation typographique, signalez le conflit plutôt que d’ajouter des mots sans le dire.
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
-Portée et limites: Le plan doit suivre les lettres plutôt que de former un cadre autour de la phrase entière. Revérifiez la lisibilité sur les petites tailles ou sur un arrière-plan chargé.
+Portée et limites : le contour doit suivre les lettres plutôt que former un cadre autour de toute la phrase. Revérifiez la lisibilité en petit format ou sur un fond chargé.
 ```
 
 
-## Type étiré ou compressé
+## Lettrage étiré ou comprimé
 
 Les proportions des lettres sont visiblement allongées, rétrécies ou élargies.
 
 ```text
-Orientation souhaitée: Axé sur le sujet → Texte et relations entre les sujets → Traitements de lettrage → Caractères étirés ou compressés
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Traitements du lettrage → Caractères étirés ou comprimés
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -592,7 +592,7 @@ Structure souhaitée: Modifiez les proportions horizontales ou verticales des le
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez une copie concise liée au thème et faites du lettrage le point central de ce traitement. Conservez l’ordre et le sens de la lecture et vérifiez l’orthographe. Si une demande explicite sans texte entre en conflit avec cette instruction basée sur le texte, énoncez le conflit plutôt que d'ajouter des mots en silence.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un texte concis lié au thème et faites du lettrage le point focal de ce traitement. Conservez l’ordre de lecture et le sens, et vérifiez l’orthographe. Si une demande explicite d’absence de texte entre en conflit avec cette orientation typographique, signalez le conflit plutôt que d’ajouter des mots sans le dire.
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
@@ -600,12 +600,12 @@ Portée et limites: Le changement proportionnel doit être visible, et pas simpl
 ```
 
 
-## Type courbé ou ondulé
+## Lettrage courbé ou ondulé
 
 Les lettres suivent une courbe ou une vague avec un rythme montant et descendant visible.
 
 ```text
-Orientation souhaitée: Axé sur le sujet → Texte et relations entre les sujets → Traitements de lettrage → Caractères courbes ou ondulés
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Traitements du lettrage → Caractères courbes ou ondulés
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -613,7 +613,7 @@ Structure souhaitée: Variez la ligne de base, la position des lettres ou la for
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez une copie concise liée au thème et faites du lettrage le point central de ce traitement. Conservez l’ordre et le sens de la lecture et vérifiez l’orthographe. Si une demande explicite sans texte entre en conflit avec cette instruction basée sur le texte, énoncez le conflit plutôt que d'ajouter des mots en silence.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un texte concis lié au thème et faites du lettrage le point focal de ce traitement. Conservez l’ordre de lecture et le sens, et vérifiez l’orthographe. Si une demande explicite d’absence de texte entre en conflit avec cette orientation typographique, signalez le conflit plutôt que d’ajouter des mots sans le dire.
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
@@ -621,12 +621,12 @@ Portée et limites: Un arrangement ondulé et des formes de lettres déformées 
 ```
 
 
-## Type de perspective inclinée
+## Lettrage en perspective oblique
 
 Le lettrage change l’échelle apparente sur toute sa largeur pour suggérer la profondeur.
 
 ```text
-Orientation souhaitée: Axé sur le sujet → Relations entre le texte et le sujet → Traitements de lettrage → Type de perspective inclinée
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Traitements du lettrage → Typographie en perspective oblique
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -634,7 +634,7 @@ Structure souhaitée: Appliquez un traitement de perspective cohérent afin que 
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez une copie concise liée au thème et faites du lettrage le point central de ce traitement. Conservez l’ordre et le sens de la lecture et vérifiez l’orthographe. Si une demande explicite sans texte entre en conflit avec cette instruction basée sur le texte, énoncez le conflit plutôt que d'ajouter des mots en silence.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un texte concis lié au thème et faites du lettrage le point focal de ce traitement. Conservez l’ordre de lecture et le sens, et vérifiez l’orthographe. Si une demande explicite d’absence de texte entre en conflit avec cette orientation typographique, signalez le conflit plutôt que d’ajouter des mots sans le dire.
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 
@@ -642,12 +642,12 @@ Portée et limites: La rotation ou un cisaillement uniforme à lui seul ne const
 ```
 
 
-## Type divisé et déplacé
+## Lettrage découpé et décalé
 
 Les formes de lettres sont découpées en parties décalées tandis que les mots originaux restent reconnaissables.
 
 ```text
-Orientation souhaitée: Axé sur le sujet → Texte et relations entre les sujets → Traitements de lettrage → Types divisés et déplacés
+Orientation souhaitée : Composition centrée sur le sujet → Relations entre texte et sujet → Traitements du lettrage → Caractères découpés et décalés
 
 Entrée et sortie: Si une image est fournie, adaptez-la à cette orientation. Si un prompt est fourni, réécrivez-le sous la forme d’un prompt complet, prêt pour la génération d’image.
 
@@ -655,7 +655,7 @@ Structure souhaitée: Choisissez des coupes délibérées dans le lettrage et d�
 
 Arrière-plan: Prenez pour référence le contenu, le traitement visuel et la palette de l’arrière-plan existant, puis adaptez-les à la structure souhaitée. En l’absence d’arrière-plan, ou s’il est simplement uni ou transparent, créez un traitement de fond lié au thème. Toute demande explicite de fond uni, transparent ou d’un autre type est prioritaire.
 
-Texte: Conservez le texte source et son langage clairement lisibles, en adaptant sa présentation. Ne prétendez pas avoir récupéré un texte illisible. Si aucun mot n’est fourni, créez une copie concise liée au thème et faites du lettrage le point central de ce traitement. Conservez l’ordre et le sens de la lecture et vérifiez l’orthographe. Si une demande explicite sans texte entre en conflit avec cette instruction basée sur le texte, énoncez le conflit plutôt que d'ajouter des mots en silence.
+Texte : Conservez les mots clairement lisibles de la source et leur langue, en adaptant leur présentation. Ne prétendez pas avoir reconstitué un texte illisible. Si aucun texte n’est fourni, créez un texte concis lié au thème et faites du lettrage le point focal de ce traitement. Conservez l’ordre de lecture et le sens, et vérifiez l’orthographe. Si une demande explicite d’absence de texte entre en conflit avec cette orientation typographique, signalez le conflit plutôt que d’ajouter des mots sans le dire.
 
 Préserver et adapter: Conservez le thème central et les caractéristiques permettant de reconnaître la source. Prenez son traitement visuel et sa palette comme point de départ, et ne les modifiez que si l’orientation choisie l’exige. Ne présentez pas de nouveaux éléments comme s’ils figuraient déjà dans la source. Signalez tout conflit entre les restrictions explicites de l’entrée et les conditions nécessaires au résultat, au lieu d’affirmer que les deux ont été respectées.
 

@@ -14,7 +14,7 @@
 
 # أنواع المواد المصدرية
 
-من عنصر واحد معزول إلى صورة كاملة، تدعو المصادر المختلفة إلى أنواع مختلفة من التصنيع. استكشف العناصر والصور، ثم اختر التخطيط أو السمة أو Skill الذي يناسبك.
+من عنصر معزول إلى صورة كاملة، يتيح كل مصدر طرقًا مختلفة للابتكار. استكشف العناصر والصور، ثم اختر تخطيطًا أو فكرة أو Skill ملائمة.
 
 <a id="elements"></a>
 
@@ -82,7 +82,7 @@
 
 <a id="watercolor-green-botanical-leaves"></a>
 
-![مونسترا ليف ألوان مائية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f703623b-c115-5ed6-b6ed-c8fdcbf66608.png)
+![ورقة مونستيرا بالألوان المائية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f703623b-c115-5ed6-b6ed-c8fdcbf66608.png)
 
 ![فرع الألوان المائية الخضراء](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/c90fdb55-f6a3-5ce1-b766-fcc3e911f1b5.png)
 
@@ -112,7 +112,7 @@
 
 الحيوانات والمخلوقات
 
-### القطط باردة ومرحة
+### قطط رائعة ومرحة
 
 أنشئ مجموعة رسومية أو شارة أو مجموعة مرحة بقيادة الشخصية.
 
@@ -124,7 +124,7 @@
 
 ![البطريق مع القبعة الصفراء والوشاح الأزرق](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d80dca9b-d4cb-56b5-a2d1-dd354124a753.png)
 
-![لطيف الزرافة المائية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/a2ab0e53-23ec-59bf-b12a-d80a3766a667.png)
+![زرافة لطيفة بالألوان المائية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/a2ab0e53-23ec-59bf-b12a-d80a3766a667.png)
 
 الحيوانات والمخلوقات
 
@@ -144,7 +144,7 @@
 
 الحيوانات والمخلوقات
 
-### الطيور في الرحلة وجثم
+### طيور طائرة وجاثمة
 
 أنشئ مجموعة رسومية أو شارة أو مجموعة مرحة بقيادة الشخصية.
 
@@ -152,9 +152,9 @@
 
 <a id="vibrant-ocean-marine-animals"></a>
 
-![كلوونفيش في شقائق النعمان](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd88ae90-b344-5c52-8363-66ad48bc2e17.png)
+![سمكة مهرج بين شقائق النعمان البحرية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd88ae90-b344-5c52-8363-66ad48bc2e17.png)
 
-![رصدت النسر راي](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d7f564f2-5ca4-56a8-bc17-f0901398ae0b.png)
+![شفنين عقابي مرقط](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d7f564f2-5ca4-56a8-bc17-f0901398ae0b.png)
 
 ![الحوت الأزرق مع رش الماء](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/98f3c5fa-f51f-5571-b607-17d7b2f6e4fc.png)
 
@@ -214,7 +214,7 @@
 
 العطلات والمواسم
 
-### كارتون عيد الميلاد عطلة Icons
+### أيقونات كرتونية لعيد الميلاد
 
 أضف نقطة محورية موسمية إلى الترحيبات أو الهدايا أو الرسومات ذات الطابع الخاص.
 
@@ -254,7 +254,7 @@
 
 ### الرجعية الكرتون الفواكه والخضروات
 
-اجمع بين الزخارف الصغيرة والنسخ القصيرة أو الملصقات أو التخطيطات المتكررة.
+اجمع بين زخارف صغيرة وعبارات قصيرة أو تسميات أو تخطيطات متكررة.
 
 [اكتشف المزيد في المكتبة](https://podplo.app/elements)
 
@@ -268,9 +268,9 @@
 
 الطعام والشراب
 
-### مقهى ومقهى فينتاج
+### قهوة ومقاهٍ بطابع قديم
 
-اجمع بين الزخارف الصغيرة والنسخ القصيرة أو الملصقات أو التخطيطات المتكررة.
+اجمع بين زخارف صغيرة وعبارات قصيرة أو تسميات أو تخطيطات متكررة.
 
 [اكتشف المزيد في المكتبة](https://podplo.app/elements)
 
@@ -286,7 +286,7 @@
 
 ### الألوان المائية للوجبات السريعة والمشروبات
 
-اجمع بين الزخارف الصغيرة والنسخ القصيرة أو الملصقات أو التخطيطات المتكررة.
+اجمع بين زخارف صغيرة وعبارات قصيرة أو تسميات أو تخطيطات متكررة.
 
 [اكتشف المزيد في المكتبة](https://podplo.app/elements)
 
@@ -302,7 +302,7 @@
 
 ![أيقونة موج الشمس والمحيط](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e12bdb88-52a6-5d6d-80c8-35d8c34ef08d.png)
 
-![سيرفر عند غروب الشمس](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/c214f5f3-76a3-51fb-aff0-30f21fb04878.png)
+![راكب أمواج عند الغروب](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/c214f5f3-76a3-51fb-aff0-30f21fb04878.png)
 
 الطبيعة والمناظر الطبيعية
 
@@ -352,7 +352,7 @@
 
 <a id="retro-computer-gameboy-radio-camera"></a>
 
-![سماعات خمر](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fce14a10-0b9a-5862-8b93-5b8d5e3c95d0.png)
+![سماعات رأس كلاسيكية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fce14a10-0b9a-5862-8b93-5b8d5e3c95d0.png)
 
 ![الكمبيوتر الشخصي الرجعية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ea9ed5dd-7253-5197-b32a-32ba3b0eef47.png)
 
@@ -360,7 +360,7 @@
 
 الكائنات والأدوات
 
-### كاميرا راديو Gameboy للكمبيوتر الرجعية
+### كمبيوتر وGameboy وراديو وكاميرا بأسلوب ريترو
 
 قم بتحويل الكائنات التي يمكن التعرف عليها إلى رسومات أو شارات أو مجموعات هواية.
 
@@ -368,15 +368,15 @@
 
 <a id="colorful-retro-vintage-vehicles"></a>
 
-![رسم دراجة نارية خمر](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc7c8f0b-893f-5724-809c-26b2ed3731ec.png)
+![رسم دراجة نارية كلاسيكية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc7c8f0b-893f-5724-809c-26b2ed3731ec.png)
 
-![سيارة حمراء خمر](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f7c9812e-2e7e-5d64-b462-57c036b0c76d.png)
+![سيارة حمراء كلاسيكية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f7c9812e-2e7e-5d64-b462-57c036b0c76d.png)
 
 ![سيارة حمراء كلاسيكية قابلة للتحويل](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d24124b6-0ea6-50ca-b034-87fd87c326c2.png)
 
 الكائنات والأدوات
 
-### المركبات خمر الرجعية الملونة
+### مركبات قديمة ملونة بأسلوب ريترو
 
 قم بتحويل الكائنات التي يمكن التعرف عليها إلى رسومات أو شارات أو مجموعات هواية.
 
@@ -406,7 +406,7 @@
 
 <a id="vintage-art-nouveau-decorative-panels"></a>
 
-![امرأة على طراز الفن الحديث مع الزهور](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f34849bc-3f5a-5c0a-9098-52306ce37777.png)
+![امرأة مع زهور بأسلوب آرت نوفو](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f34849bc-3f5a-5c0a-9098-52306ce37777.png)
 
 ![قطة سوداء مع زهور الزنبق على طراز فن الآرت نوفو](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/af0415a4-7e35-5ca1-967a-1b51203fcdf1.png)
 
@@ -426,13 +426,13 @@
 
 ![آرت ديكو الزمرد نمط شريط عمودي](https://images.podplo.app/official/elements/podplo-art-deco-split-20261031/a6c96bb5-4a84-5b4a-bd09-b247df5d9337.png)
 
-![آرت ديكو نمط الموجة السوداء على كريم](https://images.podplo.app/official/elements/podplo-art-deco-split-20261031/42c6d4da-a41d-5708-bfb3-2572d1b916c9.png)
+![نمط أمواج سوداء على خلفية كريمية بأسلوب آرت ديكو](https://images.podplo.app/official/elements/podplo-art-deco-split-20261031/42c6d4da-a41d-5708-bfb3-2572d1b916c9.png)
 
 الأنماط والإطارات
 
 ### أنماط آرت ديكو الهندسية السلسة
 
-جرّب أشكال المروحة أو الرافعة أو الأشكال الهندسية على ورق التغليف أو أغلفة دفاتر الملاحظات أو تصميمات الأكواب.
+جرّب زخارف المراوح أو طيور الكركي أو الأشكال الهندسية على ورق التغليف أو أغلفة دفاتر الملاحظات أو تصاميم الأكواب الحرارية.
 
 [اكتشف المزيد في المكتبة](https://podplo.app/elements)
 
@@ -452,7 +452,7 @@
 
 الرموز والأيقونات
 
-### لطيف مرسومة باليد رسومات الشعار المبتكرة
+### خربشات لطيفة مرسومة يدويًا بأقلام شمعية
 
 قم بدمج العديد من العلامات الصغيرة في مجموعة رسومات أو ملصقات مدمجة.
 
@@ -462,7 +462,7 @@
 
 ![دفقة السائل قزحي الألوان](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/dad3675c-9ccd-55fe-b890-09fcad3d4462.png)
 
-![التدرج العالمي السلكي](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/dab61aef-8478-5e25-814c-9a294e0fd6b9.png)
+![هيكل سلكي لكرة بتدرج لوني](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/dab61aef-8478-5e25-814c-9a294e0fd6b9.png)
 
 ![خواتم مجردة ملونة](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/469cec92-0517-5baa-9e48-b2b6c80c4f8c.png)
 
@@ -484,7 +484,7 @@
 
 ![صورة ظلية الملاكم](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd5c1e40-ae1e-5353-95fa-fe735e95d8b2.png)
 
-![لاعب كرة السلة سلام دنك صورة ظلية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f8be5cc0-1bd7-5bcb-9d67-956c01ce6461.png)
+![هيئة لاعب كرة سلة يؤدي تسديدة ساحقة](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f8be5cc0-1bd7-5bcb-9d67-956c01ce6461.png)
 
 ![صورة ظلية متسلق الصخور](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f84e41fe-23b1-5281-a6ca-643ef7b1a90e.png)
 
@@ -534,9 +534,9 @@
 
 الخيال والخيال العلمي
 
-### الفضاء الكوني المحفور خمر
+### فضاء كوني بنقوش عتيقة
 
-قم بإنشاء شخصية أو شعار أو رسم بياني بقيادة القصة.
+أنشئ رسمًا تعبيريًا تتصدره شخصية أو شعار أو قصة.
 
 [اكتشف المزيد في المكتبة](https://podplo.app/elements)
 
@@ -544,19 +544,19 @@
 
 12
 
-### مجردة وهندسية
+### تجريدي وهندسي
 
 <a id="bold-ink-brush-paint-textures"></a>
 
-![طلاء السكتة الدماغية بالتنقيط](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ffd036e3-bb6c-5515-b360-7b4aa8f71287.png)
+![تقطير ضربة طلاء](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ffd036e3-bb6c-5515-b360-7b4aa8f71287.png)
 
-![مجردة السكتة الدماغية الحبر والدوائر](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d7e80abc-b3c1-51a5-a97d-29383ae0e791.png)
+![ضربات حبر ودوائر تجريدية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d7e80abc-b3c1-51a5-a97d-29383ae0e791.png)
 
 ![ضربة فرشاة الطلاء](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/26b80cf5-b6fd-53b0-bbc6-0d4432ba880d.png)
 
-مجردة وهندسية
+تجريدي وهندسي
 
-### جريئة الحبر فرشاة الطلاء القوام
+### ملامس طلاء بضربات حبر جريئة
 
 استكشف التخطيطات الجريئة وأنظمة الخلفية والأنماط المتكررة.
 
@@ -566,11 +566,11 @@
 
 ![خطوط الضوء المتدرجة](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff1de82d-e95f-56af-8370-a8faa69d9088.png)
 
-![الحيد الهندسي المجرد](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc7b9139-7d9c-5006-bdc4-bf4af595f901.png)
+![حلقة مجوفة هندسية تجريدية](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc7b9139-7d9c-5006-bdc4-bf4af595f901.png)
 
 ![خطوط كفاف التدرج الموجي](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc533f5d-071b-546b-90eb-bd3526344e5f.png)
 
-مجردة وهندسية
+تجريدي وهندسي
 
 ### الأشكال الهندسية السلكية المتدرجة
 
@@ -590,7 +590,7 @@
 
 تحافظ الصور على التركيبة الكاملة، مما يجعلها مفيدة عندما تريد البناء من مشهد موجود. أعد صياغة التخطيط، أو أضف صياغة دقيقة، أو قدم موضوعًا موسميًا، أو استكشف معالجة بصرية جديدة باستخدام Photo to Art Skill.
 
-اختر صورًا ذات موضوع واضح، وموضوع يتوافق مع فكرتك، والتفاصيل المرئية التي تريد الاحتفاظ بها في الإصدار التالي.
+اختر صورًا بعنصر رئيسي واضح وفكرة تلائم تصورك وتفاصيل بصرية تريد الحفاظ عليها في النسخة التالية.
 
 [عرض المزيد](https://podplo.app/design-ideas)
 

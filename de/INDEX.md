@@ -50,11 +50,11 @@
 
 - [Zentraler Cluster](artwork-types/abstract/abstract-layout--abstract-layout-center.md)
 
-- [Zugeschnittene abstrakte Formen](artwork-types/abstract/abstract-layout--abstract-layout-crop.md)
+- [Angeschnittene abstrakte Formen](artwork-types/abstract/abstract-layout--abstract-layout-crop.md)
 
 - [Offset-Abstraktion](artwork-types/abstract/abstract-layout--abstract-layout-offset.md)
 
-- [Kostenlose Verteilung](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
+- [Freie Verteilung](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
 
 - [Überlappende Zonen](artwork-types/abstract/abstract-layout--abstract-layout-zones.md)
 
@@ -64,9 +64,9 @@
 
 - [Gemusterter Hintergrund: lokal](artwork-types/abstract/background--abstract--pattern-local.md)
 
-- [Umwelthintergrund](artwork-types/abstract/background--abstract--scene.md)
+- [Umgebungshintergrund](artwork-types/abstract/background--abstract--scene.md)
 
-- [Solider Hintergrund](artwork-types/abstract/background--abstract--solid.md)
+- [Einfarbiger Hintergrund](artwork-types/abstract/background--abstract--solid.md)
 
 - [Strukturierter Hintergrund](artwork-types/abstract/background--abstract--texture.md)
 
@@ -80,9 +80,9 @@
 
 - [Gemusterter Hintergrund: lokal](artwork-types/pattern/background--pattern--pattern-local.md)
 
-- [Umwelthintergrund](artwork-types/pattern/background--pattern--scene.md)
+- [Umgebungshintergrund](artwork-types/pattern/background--pattern--scene.md)
 
-- [Solider Hintergrund](artwork-types/pattern/background--pattern--solid.md)
+- [Einfarbiger Hintergrund](artwork-types/pattern/background--pattern--solid.md)
 
 - [Strukturierter Hintergrund](artwork-types/pattern/background--pattern--texture.md)
 
@@ -92,9 +92,9 @@
 
 - [Radiales Ornament](artwork-types/pattern/bounded--pattern-radial.md)
 
-- [Gerade wiederholen](artwork-types/pattern/seamless--pattern-grid.md)
+- [Gerader Rapport](artwork-types/pattern/seamless--pattern-grid.md)
 
-- [Vereinzelte Wiederholung](artwork-types/pattern/seamless--pattern-scatter.md)
+- [Streurapport](artwork-types/pattern/seamless--pattern-scatter.md)
 
 - [Versetzter Rapport](artwork-types/pattern/seamless--pattern-stagger.md)
 
@@ -106,9 +106,9 @@
 
 - [Gemusterter Hintergrund: lokal](artwork-types/scene/background--scene--pattern-local.md)
 
-- [Umwelthintergrund](artwork-types/scene/background--scene--scene.md)
+- [Umgebungshintergrund](artwork-types/scene/background--scene--scene.md)
 
-- [Solider Hintergrund](artwork-types/scene/background--scene--solid.md)
+- [Einfarbiger Hintergrund](artwork-types/scene/background--scene--solid.md)
 
 - [Strukturierter Hintergrund](artwork-types/scene/background--scene--texture.md)
 
@@ -116,7 +116,7 @@
 
 - [Alltagsvignette](artwork-types/scene/scene--scene-desk.md)
 
-- [Umweltumgebung](artwork-types/scene/scene--scene-environment.md)
+- [Umgebung als Schauplatz](artwork-types/scene/scene--scene-environment.md)
 
 - [Landschaft und Raum](artwork-types/scene/scene--scene-landscape.md)
 
@@ -140,9 +140,9 @@
 
 - [Gemusterter Hintergrund: lokal](artwork-types/subject/background--multiple--pattern-local.md)
 
-- [Umwelthintergrund](artwork-types/subject/background--multiple--scene.md)
+- [Umgebungshintergrund](artwork-types/subject/background--multiple--scene.md)
 
-- [Solider Hintergrund](artwork-types/subject/background--multiple--solid.md)
+- [Einfarbiger Hintergrund](artwork-types/subject/background--multiple--solid.md)
 
 - [Strukturierter Hintergrund](artwork-types/subject/background--multiple--texture.md)
 
@@ -154,9 +154,9 @@
 
 - [Gemusterter Hintergrund: lokal](artwork-types/subject/background--relationship--pattern-local.md)
 
-- [Umwelthintergrund](artwork-types/subject/background--relationship--scene.md)
+- [Umgebungshintergrund](artwork-types/subject/background--relationship--scene.md)
 
-- [Solider Hintergrund](artwork-types/subject/background--relationship--solid.md)
+- [Einfarbiger Hintergrund](artwork-types/subject/background--relationship--solid.md)
 
 - [Strukturierter Hintergrund](artwork-types/subject/background--relationship--texture.md)
 
@@ -168,15 +168,15 @@
 
 - [Gemusterter Hintergrund: lokal](artwork-types/subject/background--single--pattern-local.md)
 
-- [Umwelthintergrund](artwork-types/subject/background--single--scene.md)
+- [Umgebungshintergrund](artwork-types/subject/background--single--scene.md)
 
-- [Solider Hintergrund](artwork-types/subject/background--single--solid.md)
+- [Einfarbiger Hintergrund](artwork-types/subject/background--single--solid.md)
 
 - [Strukturierter Hintergrund](artwork-types/subject/background--single--texture.md)
 
 - [Transparenter Hintergrund](artwork-types/subject/background--single--transparent.md)
 
-- [Kostenloses Sammlungslayout](artwork-types/subject/collection--collection-free.md)
+- [Freies Sammlungslayout](artwork-types/subject/collection--collection-free.md)
 
 - [Regelmäßiges Sammlungslayout](artwork-types/subject/collection--collection-grid.md)
 
@@ -184,31 +184,31 @@
 
 - [Gerahmtes Motiv](artwork-types/subject/decoration--deco-frame.md)
 
-- [Interlaced-Dekoration](artwork-types/subject/decoration--deco-interlace.md)
+- [Verflochtene Dekoration](artwork-types/subject/decoration--deco-interlace.md)
 
 - [Strahlen und strahlende Akzente](artwork-types/subject/decoration--deco-rays.md)
 
 - [Umgebende Dekoration](artwork-types/subject/decoration--deco-wreath.md)
 
-- [Gespaltener und verschobener Typ](artwork-types/subject/letter-art--letter-fracture.md)
+- [Zerschnittene und versetzte Schrift](artwork-types/subject/letter-art--letter-fracture.md)
 
 - [Umrissschrift](artwork-types/subject/letter-art--letter-outline.md)
 
-- [Typ mit abgewinkelter Perspektive](artwork-types/subject/letter-art--letter-perspective.md)
+- [Perspektivisch geneigte Schrift](artwork-types/subject/letter-art--letter-perspective.md)
 
-- [Gestreckter oder komprimierter Typ](artwork-types/subject/letter-art--letter-stretch.md)
+- [Gestreckte oder gestauchte Schrift](artwork-types/subject/letter-art--letter-stretch.md)
 
-- [Bild- oder texturgefüllter Typ](artwork-types/subject/letter-art--letter-texture.md)
+- [Mit Bild oder Textur gefüllte Schrift](artwork-types/subject/letter-art--letter-texture.md)
 
-- [Gebogener oder gewellter Typ](artwork-types/subject/letter-art--letter-wave.md)
+- [Geschwungene oder gewellte Schrift](artwork-types/subject/letter-art--letter-wave.md)
 
-- [Haupt- und Nebenfächer](artwork-types/subject/multiple--multi-dominant.md)
+- [Haupt- und Nebenmotive](artwork-types/subject/multiple--multi-dominant.md)
 
 - [Gruppiert und überlappend](artwork-types/subject/multiple--multi-overlap.md)
 
-- [Nebeneinander liegende Themen](artwork-types/subject/multiple--multi-parallel.md)
+- [Motive nebeneinander](artwork-types/subject/multiple--multi-parallel.md)
 
-- [Themen um ein Zentrum](artwork-types/subject/multiple--multi-radial.md)
+- [Motive um einen Mittelpunkt](artwork-types/subject/multiple--multi-radial.md)
 
 - [Vertikale Gruppierung](artwork-types/subject/multiple--multi-stack.md)
 
@@ -216,13 +216,13 @@
 
 - [Bild und Text gestapelt](artwork-types/subject/relationship--relation-above.md)
 
-- [Text rund um das Thema](artwork-types/subject/relationship--relation-around.md)
+- [Text um das Motiv](artwork-types/subject/relationship--relation-around.md)
 
 - [Bildgesteuert, mit unterstützendem Text](artwork-types/subject/relationship--relation-image-led.md)
 
 - [Bild und Text verwoben](artwork-types/subject/relationship--relation-interlace.md)
 
-- [Nur-Typ-Ausdruck](artwork-types/subject/relationship--relation-plain-type.md)
+- [Rein typografische Gestaltung](artwork-types/subject/relationship--relation-plain-type.md)
 
 - [Bilder in einer Buchstabenform](artwork-types/subject/relationship--relation-replace.md)
 
@@ -260,9 +260,9 @@
 
 - [Gemusterter Hintergrund: lokal](artwork-types/texture/background--texture--pattern-local.md)
 
-- [Umwelthintergrund](artwork-types/texture/background--texture--scene.md)
+- [Umgebungshintergrund](artwork-types/texture/background--texture--scene.md)
 
-- [Solider Hintergrund](artwork-types/texture/background--texture--solid.md)
+- [Einfarbiger Hintergrund](artwork-types/texture/background--texture--solid.md)
 
 - [Strukturierter Hintergrund](artwork-types/texture/background--texture--texture.md)
 
@@ -302,7 +302,7 @@
 
 - [Poster und Kunstdrucke](products/art-prints.md)
 
-- [Rucksäcke und Lunchpakete](products/backpacks.md)
+- [Rucksäcke und Lunchtaschen](products/backpacks.md)
 
 - [Decken](products/blankets.md)
 
@@ -322,9 +322,9 @@
 
 - [Handyhüllen](products/phone-cases.md)
 
-- [Kissen und Kissen](products/pillows.md)
+- [Wohn- und Dekokissen](products/pillows.md)
 
-- [Rätsel](products/puzzles.md)
+- [Puzzles](products/puzzles.md)
 
 - [Aufkleber und Etiketten](products/stickers.md)
 
@@ -334,7 +334,7 @@
 
 - [Tragetaschen](products/tote-bags.md)
 
-- [Trinkgläser](products/tumblers.md)
+- [Trinkbecher](products/tumblers.md)
 
 - [Tapete](products/wallpaper.md)
 
@@ -346,7 +346,7 @@
 
 - [Lebensmeilensteine](gifts/life-milestones.md)
 
-- [Erinnerungen und Gedenkstätten](gifts/memories-and-memorials.md)
+- [Erinnerungen und Gedenken](gifts/memories-and-memorials.md)
 
 - [Persönlichkeit und Spaß](gifts/personality-and-fun.md)
 

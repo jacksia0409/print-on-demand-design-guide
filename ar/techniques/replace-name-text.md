@@ -24,7 +24,7 @@
 
 [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame) يضع اسمًا مثل ANDREA داخل إطار زهري متوازن بالألوان المائية. يتم ضبط التباعد حسب الاسم، مما يجعل نفس مفهوم الأزهار يبدو مخصصًا في كل مرة.
 
-[![إطار اسم شخصية الأزهار](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![إطار زهري باسم مخصص](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 إطار اسم الأزهار
 
@@ -40,21 +40,21 @@
 
 [![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="name-pattern"></a>
 
 ## بناء التصميم حول عبارة قصيرة
 
-[العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout) يبني تركيبة واضحة يقودها النص حول STAY WILD وعمل فني واحد.
+[تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout) يبني تركيبة واضحة يقودها النص حول STAY WILD وعمل فني واحد.
 
-[العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout) يجعل سطرًا مثل STAY WILD هو العنوان الرئيسي، ثم يرتب العمل الفني وخط الدعم الاختياري حوله. توضح الصورة التخطيط؛ فهو ليس استبدالًا تلقائيًا للنص.
+[تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout) يجعل سطرًا مثل STAY WILD هو العنوان الرئيسي، ثم يرتب العمل الفني وخط الدعم الاختياري حوله. توضح الصورة التخطيط؛ فهو ليس استبدالًا تلقائيًا للنص.
 
 [![مثال على العنوان والعنصر وتخطيط السطر الداعم](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-العنوان – العنصر – تخطيط الترجمة
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي
 
 **المزيد من Skills للاستكشاف**
 
@@ -106,6 +106,6 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
 </div>

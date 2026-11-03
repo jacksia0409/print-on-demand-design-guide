@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/texture/background--texture--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/texture/background--texture--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Texturen / KREATIVE RICHTUNG / Texturen
 
-# Solider Hintergrund
+# Einfarbiger Hintergrund
 
-Texturen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.
+Texturen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.
 
 <a id="understand"></a>
 
-![Einfarbiger Hintergrund: Texturen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+![Einfarbiger Hintergrund: Texturen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 Kompositionsskizze
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Fügen Sie dem Träger keine Muster, Farbverläufe, Texturen oder Szenen hinzu. Dadurch werden Farben und Details innerhalb des Vordergrundinhalts nicht eingeschränkt.
+Fügen Sie dem Hintergrund keine Muster, Farbverläufe, Texturen oder Szenen hinzu. Farben und Details im Vordergrundinhalt werden dadurch nicht eingeschränkt.
 
 [← Zurück zu Texturen](../texture.md)
 
@@ -34,13 +34,13 @@ Fügen Sie dem Träger keine Muster, Farbverläufe, Texturen oder Szenen hinzu. 
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Texturen → Hintergrund → Solider Hintergrund
+Texturen → Hintergrund → Einfarbiger Hintergrund
 
 **Eingabe und Ausgabe**
 
@@ -48,7 +48,7 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Halten Sie den materiellen Charakter im Vordergrund. Verwenden Sie ein lokales Texturfragment, wenn ein separater Boden sichtbar sein muss; Eine undurchsichtige Vollflächenstruktur und ihr Untergrund werden eins, so dass nicht auch eine andere Gesamtunterlage sichtbar bleiben kann.
+Stellen Sie den Materialcharakter in den Vordergrund. Verwenden Sie ein begrenztes Texturfragment, wenn ein separater Hintergrund sichtbar bleiben muss. Eine deckende vollflächige Textur verschmilzt mit ihrem Untergrund; ein anderer vollständiger Hintergrund kann daher nicht zugleich sichtbar bleiben.
 
 **Hintergrund**
 
@@ -64,21 +64,21 @@ Behalten Sie relevantes Material, Oberfläche, Farbpalette und Atmosphäre bei, 
 
 **Umfang und Grenzen**
 
-Fügen Sie dem Träger keine Muster, Farbverläufe, Texturen oder Szenen hinzu. Dadurch werden Farben und Details innerhalb des Vordergrundinhalts nicht eingeschränkt.
+Fügen Sie dem Hintergrund keine Muster, Farbverläufe, Texturen oder Szenen hinzu. Farben und Details im Vordergrundinhalt werden dadurch nicht eingeschränkt.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Transparenter Hintergrund: Texturen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
+[![Transparenter Hintergrund: Texturen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Texturen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--texture--transparent.md)[![Hintergrund mit Farbverlauf: Texturen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+Texturen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--texture--transparent.md)[![Hintergrund mit Farbverlauf: Texturen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Texturen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--texture--gradient.md)[![Gemusterter Hintergrund: lokal: Texturen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
+Texturen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--texture--gradient.md)[![Gemusterter Hintergrund, lokal: Texturen: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
@@ -88,4 +88,4 @@ Texturen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen
 
 Texturen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--texture--pattern-full.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

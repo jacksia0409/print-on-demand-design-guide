@@ -12,13 +12,13 @@
 
 Texturas / DIREÇÃO CRIATIVA / Texturas
 
-# Contexto ambiental
+# Cenário ao fundo
 
 Texturas: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.
 
 <a id="understand"></a>
 
-![Contexto ambiental: Texturas: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
+![Cenário ao fundo: Texturas: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
 
 Ilustração da composição
 
@@ -26,7 +26,7 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Nas categorias de elemento principal, padrão, textura ou abstração, o cenário permanece secundário. Reavalie a imagem como uma cena se o ambiente ou a narrativa se tornar a expressão principal.
 
 [← Voltar para texturas](../texture.md)
 
@@ -48,11 +48,11 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Mantenha o caráter material dominante. Use um fragmento de textura local quando um terreno separado precisar estar visível; uma textura opaca de área total e seu fundo tornam-se um, de modo que um suporte completo diferente também não pode permanecer visível.
+Mantenha as características do material dominantes. Use um fragmento de textura localizado quando um fundo separado precisar ficar visível; uma textura opaca em toda a área e seu fundo se tornam um só, por isso outro fundo completo não pode permanecer visível ao mesmo tempo.
 
 **Fundo**
 
-Referenciar a localização, os elementos ambientais e a atmosfera existentes, adaptando-os ao conteúdo principal. Se ausente ou apenas simples ou transparente, crie uma configuração relacionada e coordene escala, direção e profundidade.
+Use a localização, os elementos ambientais e a atmosfera existentes como referência, adaptando-os ao conteúdo principal. Se estiverem ausentes, ou se o fundo for apenas liso ou transparente, crie um cenário relacionado e coordene escala, direção e profundidade.
 
 **Texto**
 
@@ -64,17 +64,17 @@ Retenha materiais, superfícies, paletas e atmosfera relevantes sem exigir uma s
 
 **Escopo e limites**
 
-Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Nas categorias de elemento principal, padrão, textura ou abstração, o cenário permanece secundário. Reavalie a imagem como uma cena se o ambiente ou a narrativa se tornar a expressão principal.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Texturas: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
+[![Fundo transparente: texturas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Texturas: O chão fica transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--texture--transparent.md)[![Fundo sólido: Texturas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+Texturas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--texture--transparent.md)[![Fundo sólido: Texturas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 ### Fundo sólido↗
 
@@ -82,9 +82,9 @@ Texturas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.]
 
 ### Fundo gradiente↗
 
-Texturas: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--texture--gradient.md)[![Fundo padronizado: local: Texturas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
+Texturas: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--texture--gradient.md)[![Fundo estampado: local: Texturas: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
 Texturas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--texture--pattern-local.md)
 

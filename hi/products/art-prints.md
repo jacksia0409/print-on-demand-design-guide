@@ -20,7 +20,7 @@
 
 ### दीवार के लिए कला बनाएँ
 
-कला प्रिंट एक मजबूत विषय को प्रदर्शित कर सकते हैं, छवियों को प्रकार के साथ जोड़ सकते हैं, या एक अवधारणा को कई टुकड़ों में विस्तारित कर सकते हैं। एक एकल कथन छवि; एक संपादकीय छवि-और-प्रकार लेआउट; एक समन्वित दो या तीन टुकड़ों वाला सेट।
+आर्ट प्रिंट में एक प्रभावशाली मुख्य दृश्य तत्व दिखाया जा सकता है, छवियों को टाइपोग्राफी के साथ जोड़ा जा सकता है या एक विचार को कई चित्रों में फैलाया जा सकता है। एक प्रभावशाली प्रमुख छवि; संपादकीय शैली का छवि और टाइपोग्राफी लेआउट; दो या तीन हिस्सों का समन्वित सेट।
 
 [![पोस्टर और कला प्रिंट · दीवार कला 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100781713611.webp)](https://podplo.app/products/mockup-temu-601100781713611)
 
@@ -32,7 +32,7 @@
 
 ### अपनी कलाकृति को पोस्टर ट्रीटमेंट दें
 
-संपूर्ण पोस्टर लेआउट में मुख्य छवि और सहायक प्रकार को संयोजित करने के लिए चयनित Skill का उपयोग करें।
+पूरे पोस्टर लेआउट में मुख्य चित्र और सहायक अक्षरांकन जोड़ने के लिए चुना हुआ Skill लें।
 
 [पोस्टर निर्माता](https://podplo.app/skills/poster-maker)
 
@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-**अधिक लेआउट खोजें और Skills सेट करें**
+**लेआउट और सेट बनाने वाले अधिक Skills खोजें**
 
 <a id="_R_bf3k_-title"></a>
 
-#### अधिक लेआउट खोजें और Skills सेट करें
+#### लेआउट और सेट बनाने वाले अधिक Skills खोजें
 
 4 / 14
 
@@ -96,9 +96,9 @@
 
 <a id="_R_bn3k_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -112,7 +112,7 @@
 
 [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)
 
-एंड्रिया
+ANDREA
 
 नाम
 
@@ -136,7 +136,7 @@
 
 [![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 उत्तरी ध्रुव का नाम पोस्टर](https://podplo.app/skills/north-pole-name-poster)[![क्रेयॉन हार्ट्स नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/personality-and-fun?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/gifts/personality-and-fun?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -24,7 +24,7 @@
 
 [![Компактный подарочный дизайн с фразами](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
-Компактная центральная планировка
+Компактная композиция по центру
 
 **Еще больше Skills для изучения**
 
@@ -40,9 +40,9 @@
 
 Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)[![Пример макета круглого значка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Круглый макет значка](https://podplo.app/skills/circular-badge-layout)
 
@@ -52,7 +52,7 @@
 
 [Круглый макет значка](https://podplo.app/skills/circular-badge-layout) превращает хобби, роль или символ зодиака в личную эмблему.
 
-Выберите один конкретный символ из хобби, профессии, роли или темы зодиака для [Круглый макет значка](https://podplo.app/skills/circular-badge-layout). Четкая этикетка и содержательная визуальная подсказка создают личную эмблему, не полагаясь на стереотипы.
+Выберите один конкретный символ из хобби, профессии, роли или темы зодиака для [Круглый макет значка](https://podplo.app/skills/circular-badge-layout). Чёткая надпись и значимая визуальная деталь создают личную эмблему без опоры на стереотипы.
 
 [![Дизайн значка для хобби или роли](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)](https://podplo.app/skills/circular-badge-layout)
 
@@ -70,29 +70,29 @@
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="groups-and-sets"></a>
 
 ## Создайте скоординированный групповой набор
 
-4ПК и [Сетевой генератор 6ПК](https://podplo.app/skills/six-piece-grid) превратить один общий мотив в скоординированный набор с различными вариациями.
+4PC и [Генератор композиций из шести панелей (6PC)](https://podplo.app/skills/six-piece-grid) превратить один общий мотив в скоординированный набор с различными вариациями.
 
-Используйте один общий мотив для команды, клуба или сообщества, а затем меняйте имя, роль, цвет или номер для каждого участника. 4ПК и [Сетевой генератор 6ПК](https://podplo.app/skills/six-piece-grid) сохраняйте согласованность набора, не делая каждый дизайн идентичным.
+Используйте один общий мотив для команды, клуба или сообщества, затем меняйте имя, роль, цвет или номер для каждого участника. 4PC и [Генератор композиций из шести панелей (6PC)](https://podplo.app/skills/six-piece-grid) сохраняйте согласованность набора, не делая каждый дизайн идентичным.
 
 [![Четыре скоординированных дизайна для небольшого набора](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)](https://podplo.app/skills/four-piece-grid)
 
-4PC Сетевой генератор
+Генератор композиций из четырёх панелей (4PC)
 
 [![Шесть согласованных дизайнов для большего набора](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)](https://podplo.app/skills/six-piece-grid)
 
-Сетевой генератор 6ПК
+Генератор композиций из шести панелей (6PC)
 
 **Еще больше Skills для изучения**
 

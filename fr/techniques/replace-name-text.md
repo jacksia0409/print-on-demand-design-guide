@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/replace-name-text?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/techniques/replace-name-text?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -38,9 +38,9 @@ Cadre de nom floral
 
 [![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="name-pattern"></a>
 
@@ -48,7 +48,7 @@ Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-p
 
 [Disposition titre-sujet-sous-titre](https://podplo.app/skills/title-subject-subtitle-layout) construit une composition claire et textuelle autour de STAY WILD et d'une œuvre d'art.
 
-[Disposition titre-sujet-sous-titre](https://podplo.app/skills/title-subject-subtitle-layout) crée une ligne telle que STAY WILD comme titre, puis organise l'illustration et la ligne de support facultative autour d'elle. L'image montre la disposition ; il ne s'agit pas d'un remplacement automatique de texte.
+[Disposition titre-sujet-sous-titre](https://podplo.app/skills/title-subject-subtitle-layout) fait d’une phrase comme STAY WILD le titre principal, puis dispose autour d’elle l’illustration et une ligne d’accompagnement facultative. L’image montre la mise en page ; elle ne remplace pas automatiquement le texte.
 
 [![Exemple de mise en page d'un titre, d'un sujet et d'une ligne de support](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 

@@ -12,9 +12,9 @@
 
 <a id="guide-main"></a>
 
-# القبعات والقبعات
+# قبعات وطواقي
 
-قم بتحويل حرف أو رمز أو كلمة قصيرة إلى رسم قبعة مضغوط.
+حوّل شخصية أو رمزًا أو كلمة قصيرة إلى رسم مدمج للقبعة.
 
 <a id="product-overview"></a>
 
@@ -36,19 +36,19 @@
 
 اجمع بين عنوان قصير وعنصر واحد واضح وعنوان فرعي مختصر في تصميم صغير مركزي.
 
-[العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+[تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
-![العنوان – العنصر – تخطيط الترجمة · مصدر الصورة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
+![تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي · الصورة الأصلية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
 
 صورة المصدر
 
-[![العنوان – العنصر – تخطيط الترجمة · العمل الفني الذي تم إنشاؤه](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي · عمل فني مولّد](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 عمل فني تم إنشاؤه
 
-![القبعات والقبعات · العنوان – العنصر – تخطيط الترجمة · معاينة منتج الذكاء الاصطناعي](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
+![قبعات وطواقي · تخطيط عنوان–عنصر رئيسي–عنوان فرعي · معاينة منتج بالذكاء الاصطناعي](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
 ### تحويل الصورة إلى علامة ذات لون واحد
 
@@ -66,13 +66,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bn3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 4 / 4
 
@@ -84,7 +84,7 @@
 
 ملصق الحيوانات الأليفة خربش](https://podplo.app/skills/pet-sticker-doodle)[![مثال على العمل الفني لملصق سؤال الحيوانات الأليفة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-18.webp)
 
-ملصق سؤال الحيوانات الأليفة الفضولي](https://podplo.app/skills/curious-pet-question-sticker)[![مثال على العمل الفني لعائلة Stencil أحادية اللون](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
+ملصق سؤال الحيوانات الأليفة الفضولي](https://podplo.app/skills/curious-pet-question-sticker)[![مثال عمل فني لاستنسل عائلي أحادي اللون](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
 
 عائلة استنسل أحادية اللون](https://podplo.app/skills/monochrome-stencil-family)
 
@@ -94,7 +94,7 @@
 
 [اسم تاج الاميرة](https://podplo.app/skills/princess-crown-name)
 
-الاسم
+NAME
 
 الاسم
 
@@ -104,13 +104,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من الاسم والمناسبة Skills**
+**استكشف المزيد من Skills للأسماء والمناسبات**
 
 <a id="_R_bv3k_-title"></a>
 
-#### اكتشف المزيد من الاسم والمناسبة Skills
+#### استكشف المزيد من Skills للأسماء والمناسبات
 
 1 / 1
 

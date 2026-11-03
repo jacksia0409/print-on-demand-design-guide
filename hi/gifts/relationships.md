@@ -40,7 +40,7 @@
 
 डायनासोर के नाम का पैटर्न](https://podplo.app/skills/dinosaur-name-pattern)[![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="people-and-history"></a>
 
@@ -50,11 +50,11 @@
 
 दोस्ती या भाई-बहन की तस्वीर पहले से ही वर्षों का साझा इतिहास रखती है। [3डी पारिवारिक पोर्ट्रेट](https://podplo.app/skills/3d-family-portrait) हर किसी को पहचानने योग्य बनाए रखते हुए और केवल ग्राहक द्वारा प्रदान किए गए कैप्शन का उपयोग करते हुए गहराई और चरित्र जोड़ता है।
 
-![साझा इतिहास वाले लोगों की तस्वीर प्रदान की गई](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-before.webp)
+![आपसी साझा यादों वाले लोगों की दी गई तस्वीर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-before.webp)
 
 इनपुट
 
-[![आपूर्ति किए गए लोगों को संरक्षित करते हुए आयामी समूह चित्र](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![दी गई फ़ोटो के लोगों की पहचान बनाए रखने वाला गहराईयुक्त समूह-पोर्ट्रेट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 3डी पारिवारिक पोर्ट्रेट
 
@@ -68,9 +68,9 @@
 
 <a id="_R_2srk_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -104,8 +104,8 @@
 
 पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)[![3डी फैमिली पोर्ट्रेट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)
 
-3डी पारिवारिक पोर्ट्रेट](https://podplo.app/skills/3d-family-portrait)[![शीतल जल रंग पालतू पोर्ट्रेट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
+3डी पारिवारिक पोर्ट्रेट](https://podplo.app/skills/3d-family-portrait)[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)[![कॉम्पैक्ट सेंटर लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)[![कॉम्पैक्ट सेंटर लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)

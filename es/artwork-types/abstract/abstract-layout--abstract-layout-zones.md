@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/abstract-layout--abstract-layout-zones?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/abstract-layout--abstract-layout-zones?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -32,11 +32,11 @@ Las divisiones iguales y una cuadrícula regular son opcionales. Las fotografía
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -48,11 +48,11 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Organice la paleta de entrada y los formularios en algunas regiones principales. Construya relaciones a través de la partición, la superposición, el cruce de formas o la transparencia.
+Organiza la paleta y las formas de la imagen de entrada en unas pocas regiones principales. Crea relaciones mediante divisiones, superposiciones, formas que se cruzan o transparencias.
 
 **Fondo**
 
-Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Toma como referencia los colores, el ritmo y el ambiente del fondo. Si no existen, crea un fondo de apoyo o relaciones espaciales afines. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 **Texto**
 
@@ -70,13 +70,13 @@ Las divisiones iguales y una cuadrícula regular son opcionales. Las fotografía
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
 [![Fondo transparente: Obra de arte abstracta: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Obra de arte abstracta: el suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--abstract--transparent.md)[![Fondo sólido: Obra de arte abstracta: un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
+Arte abstracto: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--abstract--transparent.md)[![Fondo sólido: Obra de arte abstracta: un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
 ### Fondo sólido↗
 
@@ -84,7 +84,7 @@ Obra de arte abstracta: un color uniforme forma el fondo; El blanco también es 
 
 ### Fondo degradado↗
 
-Obra de arte abstracta: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--abstract--gradient.md)[![Fondo estampado: local: Obra de arte abstracta: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
+Arte abstracto: el fondo cambia gradualmente de color o luminosidad mientras el contenido principal permanece claro.](background--abstract--gradient.md)[![Fondo estampado: local: Obra de arte abstracta: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
 
 ### Fondo estampado: local↗
 
@@ -96,27 +96,27 @@ Obra de arte abstracta: un fondo estampado cubre la imagen detrás de un conteni
 
 ### Fondo texturizado↗
 
-Obra de arte abstracta: granos de papel, partículas u otros caracteres de la superficie respaldan el contenido del primer plano.](background--abstract--texture.md)[![Fondo ambiental: Obra de arte abstracta: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
+Arte abstracto: el grano del papel, las partículas u otra cualidad de superficie sirven de apoyo al contenido del primer plano.](background--abstract--texture.md)[![Fondo ambiental: Obra de arte abstracta: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
 Obra de arte abstracta: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](background--abstract--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Grupo central: las formas abstractas se reúnen cerca del centro, con un espacio circundante más tranquilo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-center-1.svg)
 
 ### Clúster central↗
 
-Las formas abstractas se reúnen cerca del centro, con un espacio circundante más tranquilo.](abstract-layout--abstract-layout-center.md)[![Abstracción compensada: los elementos abstractos se concentran en un lado, creando contraste con un área abierta.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-offset-1.svg)
+Las formas abstractas se reúnen cerca del centro, con un espacio circundante más tranquilo.](abstract-layout--abstract-layout-center.md)[![Abstracción desplazada: los elementos abstractos se concentran en un lado y crean contraste con una zona libre.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-offset-1.svg)
 
-### Abstracción compensada↗
+### Abstracción desplazada↗
 
 Los elementos abstractos se concentran en un lado, creando contraste con un área abierta.](abstract-layout--abstract-layout-offset.md)[![Distribución libre: Los elementos abstractos ocupan posiciones variadas sin repetición periódica.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-scatter-1.svg)
 
-### Distribución gratuita↗
+### Distribución libre↗
 
 Los elementos abstractos ocupan posiciones variadas sin repetición periódica.](abstract-layout--abstract-layout-scatter.md)[![Formas abstractas recortadas: las formas se extienden más allá de los bordes de la imagen, lo que sugiere una composición más amplia.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-crop-1.svg)
 
@@ -124,4 +124,4 @@ Los elementos abstractos ocupan posiciones variadas sin repetición periódica.]
 
 Las formas se extienden más allá de los bordes de la imagen, sugiriendo una composición más amplia.](abstract-layout--abstract-layout-crop.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

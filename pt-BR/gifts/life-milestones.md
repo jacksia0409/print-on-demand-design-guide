@@ -22,7 +22,7 @@ Um nome, data, idade ou detalhe de nascimento torna um layout compartilhado espe
 
 A hora de nascimento, a idade marcante ou a data de maioridade podem ancorar o design ao lado do nome da pessoa. Esses detalhes específicos tornam a obra de arte pessoal para aquele evento e pessoa.
 
-[![Quadro de nome de marco personalizado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![Moldura personalizada de nome para um marco da vida](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 Moldura floral com nome
 
@@ -38,9 +38,9 @@ Moldura floral com nome
 
 [![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="school-and-work"></a>
 
@@ -50,7 +50,7 @@ Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name
 
 O nome da escola, o ano de formatura, o cargo ou a promoção podem levar a uma composição limpa e confiante. [Layout central compacto](https://podplo.app/skills/compact-center-layout) dá a esses detalhes um tratamento forte e centrado.
 
-[![Composição compacta de marcos liderados por títulos](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![Composição comemorativa compacta com destaque para o título](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
 Layout central compacto
 
@@ -68,9 +68,9 @@ Layout central compacto
 
 Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -78,15 +78,15 @@ Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
 ## Crie um pôster de aposentadoria ou de nova casa
 
-[Criador de pôsteres](https://podplo.app/skills/poster-maker) organiza anos, lugares, fotos e uma linha pessoal em um cartaz comemorativo claro.
+[Criador de pôsteres](https://podplo.app/skills/poster-maker) organiza anos, lugares, fotos e uma frase pessoal em um pôster comemorativo claro.
 
-Os projetos de aposentadoria e inauguração de casa podem incluir anos, lugares, funções, endereços, fotos e uma linha pessoal. [Criador de pôsteres](https://podplo.app/skills/poster-maker) organiza esses elementos em um cartaz comemorativo claro.
+Designs de aposentadoria e de boas-vindas à casa nova podem incluir anos, lugares, funções, endereços, fotos e uma frase pessoal. [Criador de pôsteres](https://podplo.app/skills/poster-maker) organiza esses elementos em um cartaz comemorativo claro.
 
 ![Fatos e imagens aprovados para um marco](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
 Entrada
 
-[![Pôster marcante com uma hierarquia clara](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)](https://podplo.app/skills/poster-maker)
+[![Pôster de marco da vida com hierarquia clara](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)](https://podplo.app/skills/poster-maker)
 
 Criador de pôsteres
 
@@ -104,8 +104,8 @@ Criador de pôsteres
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)

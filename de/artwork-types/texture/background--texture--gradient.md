@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/texture/background--texture--gradient?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/texture/background--texture--gradient?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Zwei ebene Flächen mit harter Teilung stellen kein Gefälle dar. Vermeiden Sie, dass der Übergang den Hauptinhalt überfordert.
+Zwei einfarbige Flächen mit harter Trennkante bilden keinen Farbverlauf. Der Übergang sollte den Hauptinhalt nicht dominieren.
 
 [← Zurück zu Texturen](../texture.md)
 
@@ -34,9 +34,9 @@ Zwei ebene Flächen mit harter Teilung stellen kein Gefälle dar. Vermeiden Sie,
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -48,11 +48,11 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Halten Sie den materiellen Charakter im Vordergrund. Verwenden Sie ein lokales Texturfragment, wenn ein separater Boden sichtbar sein muss; Eine undurchsichtige Vollflächenstruktur und ihr Untergrund werden eins, so dass nicht auch eine andere Gesamtunterlage sichtbar bleiben kann.
+Stellen Sie den Materialcharakter in den Vordergrund. Verwenden Sie ein begrenztes Texturfragment, wenn ein separater Hintergrund sichtbar bleiben muss. Eine deckende vollflächige Textur verschmilzt mit ihrem Untergrund; ein anderer vollständiger Hintergrund kann daher nicht zugleich sichtbar bleiben.
 
 **Hintergrund**
 
-Verwenden Sie Farbe und Atmosphäre des Quellhintergrunds oder -themas, um einen kontinuierlichen Ton-, Farb- oder Deckkraftübergang zu erzeugen. Erstellen Sie bei Abwesenheit einen entsprechenden Farbverlauf und koordinieren Sie dessen Richtung und Stärke.
+Nutzen Sie Farbe und Atmosphäre des ursprünglichen Hintergrunds oder des Themas, um einen stufenlosen Übergang von Tonwert, Farbe oder Deckkraft zu erzeugen. Wenn entsprechende Anhaltspunkte fehlen, gestalten Sie einen passenden Verlauf und stimmen Sie seine Richtung und Stärke ab.
 
 **Textinhalt**
 
@@ -64,21 +64,21 @@ Behalten Sie relevantes Material, Oberfläche, Farbpalette und Atmosphäre bei, 
 
 **Umfang und Grenzen**
 
-Zwei ebene Flächen mit harter Teilung stellen kein Gefälle dar. Vermeiden Sie, dass der Übergang den Hauptinhalt überfordert.
+Zwei einfarbige Flächen mit harter Trennkante bilden keinen Farbverlauf. Der Übergang sollte den Hauptinhalt nicht dominieren.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Transparenter Hintergrund: Texturen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
+[![Transparenter Hintergrund: Texturen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Texturen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--texture--transparent.md)[![Einfarbiger Hintergrund: Texturen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+Texturen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--texture--transparent.md)[![Einfarbiger Hintergrund: Texturen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Texturen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--texture--solid.md)[![Gemusterter Hintergrund: lokal: Texturen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
+Texturen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--texture--solid.md)[![Gemusterter Hintergrund, lokal: Texturen: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
@@ -88,4 +88,4 @@ Texturen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen
 
 Texturen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--texture--pattern-full.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

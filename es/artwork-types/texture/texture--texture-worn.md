@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/texture/texture--texture-worn?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/texture/texture--texture-worn?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,7 +18,7 @@ Los desgastes, las marcas de cepillo y el desgaste desigual dan a la superficie 
 
 <a id="understand"></a>
 
-![Textura aplicada: desgaste: Los desgastes, las marcas de pincel y el desgaste desigual dan a la superficie un carácter usado o trabajado.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-worn-1.svg)
+![Textura aplicada de desgaste: los roces, las marcas de pincel y el desgaste irregular dan a la superficie un aspecto usado o trabajado.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-worn-1.svg)
 
 Ilustración de la composición
 
@@ -32,11 +32,11 @@ Los daños graves son opcionales. El ruido aleatorio no relacionado no reemplaza
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
@@ -52,7 +52,7 @@ Desarrolla abrasión variada, partículas, parches desgastados o marcas de cepil
 
 **Fondo**
 
-Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Toma como referencia el material, la paleta y el ambiente, y crea un tratamiento de superficie adecuado cuando falte. Una zona localizada puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un entorno narrativo.
 
 **Texto**
 
@@ -70,17 +70,17 @@ Los daños graves son opcionales. El ruido aleatorio no relacionado no reemplaza
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
 [![Fondo transparente: Texturas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Texturas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--texture--transparent.md)[![Fondo sólido: Texturas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+Texturas: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--texture--transparent.md)[![Fondo sólido: Texturas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 ### Fondo sólido↗
 
-Texturas: Un color uniforme forma el suelo; El blanco también es un fondo sólido.](background--texture--solid.md)[![Fondo degradado: Texturas: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+Texturas: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--texture--solid.md)[![Fondo degradado: Texturas: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### Fondo degradado↗
 
@@ -96,25 +96,25 @@ Texturas: un fondo estampado cubre la imagen detrás del contenido en primer pla
 
 ### Fondo texturizado↗
 
-Texturas: el grano de papel, las partículas u otros caracteres de la superficie respaldan el contenido del primer plano.](background--texture--texture.md)[![Fondo ambiental: Texturas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
+Texturas: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](background--texture--texture.md)[![Fondo ambiental: Texturas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
 Texturas: un entorno relacionado con el tema soporta el contenido principal desde detrás o alrededor de él.](background--texture--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Textura natural: agua: Las ondulaciones, el movimiento y los reflejos superficiales proporcionan el principal contenido visual.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-water-1.svg)
 
 ### Textura natural: agua↗
 
-Las ondulaciones, el movimiento y los reflejos superficiales proporcionan el contenido visual principal.](texture--texture-water.md)[![Textura natural: piedra: las vetas, las vetas, las grietas y la variación de la superficie sugieren un material parecido a la piedra.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-stone-1.svg)
+Las ondulaciones, el movimiento y los reflejos superficiales proporcionan el contenido visual principal.](texture--texture-water.md)[![Textura natural: piedra: el grano, las vetas, las grietas y la variación de superficie sugieren un material pétreo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-stone-1.svg)
 
 ### Textura natural: piedra↗
 
-Las vetas, las vetas, las grietas y las variaciones de la superficie sugieren un material parecido a la piedra.](texture--texture-stone.md)[![Estructura del material: papel: Las fibras finas, las vetas y las irregularidades sugieren una superficie de papel.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-paper-1.svg)
+Los granos, las vetas, las grietas y la variación de superficie sugieren un material pétreo.](texture--texture-stone.md)[![Textura del material: papel: las fibras finas, el grano y las irregularidades sugieren una superficie de papel.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-paper-1.svg)
 
 ### Textura del material: papel↗
 
@@ -124,4 +124,4 @@ Las fibras finas, las vetas y las irregularidades sugieren una superficie de pap
 
 Las líneas entrelazadas y los detalles de fibras sugieren una superficie tejida.](texture--texture-weave.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

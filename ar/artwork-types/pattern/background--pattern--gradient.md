@@ -20,7 +20,7 @@
 
 <a id="understand"></a>
 
-![خلفية متدرجة: الأنماط: يتغير الجزء الخلفي بشكل مستمر في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+![خلفية متدرجة: أنماط: يتغير لون الخلفية أو سطوعها باستمرار مع بقاء المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 رسم توضيحي للتكوين
 
@@ -28,7 +28,7 @@
 
 ## ما الذي يحدد هذا الاتجاه
 
-منطقتان مسطحتان بتقسيم صعب لا تعتبران متدرجتين. حافظ على الانتقال من غمر المحتوى الرئيسي.
+مساحتان بلون مسطح يفصل بينهما حد حاد لا تشكلان تدرجًا. لا تدع الانتقال يطغى على المحتوى الرئيسي.
 
 [← العودة إلى الأنماط](../pattern.md)
 
@@ -66,7 +66,7 @@
 
 **النطاق والحدود**
 
-منطقتان مسطحتان بتقسيم صعب لا تعتبران متدرجتين. حافظ على الانتقال من غمر المحتوى الرئيسي.
+مساحتان بلون مسطح يفصل بينهما حد حاد لا تشكلان تدرجًا. لا تدع الانتقال يطغى على المحتوى الرئيسي.
 
 <a id="related"></a>
 
@@ -76,11 +76,11 @@
 
 ### خلفية شفافة↗
 
-الأنماط: تبقى الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](background--pattern--transparent.md)[![خلفية صلبة: الأنماط: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+أنماط: تبقى الخلفية شفافة؛ ونمط المربعات مجرد وسيلة مساعدة للعرض.](background--pattern--transparent.md)[![خلفية أحادية اللون: أنماط: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
-### خلفية صلبة ↗
+### خلفية أحادية اللون↗
 
-الأنماط: لون موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](background--pattern--solid.md)[![الخلفية المنقوشة: محلية: الأنماط: توجد رقعة زخرفية خلف المحتوى، مع ترك مساحة خارج الرقعة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
+أنماط: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](background--pattern--solid.md)[![الخلفية المنقوشة: محلية: الأنماط: توجد رقعة زخرفية خلف المحتوى، مع ترك مساحة خارج الرقعة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
 
 ### الخلفية المنقوشة: محلية↗
 

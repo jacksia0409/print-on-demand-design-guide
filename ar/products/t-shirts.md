@@ -106,7 +106,7 @@
 
 [رسم مركزي](https://podplo.app/skills/compact-center-layout)
 
-اجمع بين الورود والنص في رسم واحد غامق.
+اجمع الورود والنص في رسم واحد بارز.
 
 [![شارة دائرية · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-circular-badge.webp)](https://podplo.app/skills/circular-badge-layout)
 
@@ -196,11 +196,11 @@
 
 [صورة زوجين ثلاثية الأبعاد](https://podplo.app/skills/3d-couple-portrait)
 
-تشارلي
+CHARLIE
 
 الاسم
 
-[![تصميم عيد الميلاد في القطب الشمالي مخصص مع تشارلي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)](https://podplo.app/skills/north-pole-name-poster)
+[![تصميم عيد ميلاد للقطب الشمالي مخصص باسم CHARLIE](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)](https://podplo.app/skills/north-pole-name-poster)
 
 عمل فني
 
@@ -224,11 +224,11 @@
 
 <a id="_R_ef3k_-cards"></a>
 
-[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لنمط اسم قلوب تلوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال عمل فني لنمط اسم وقلوب بأقلام شمعية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-تلوين قلوب اسم النمط](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+نمط اسم وقلوب بأقلام شمعية](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)[![مثال على العمل الفني لنمط اسم جنوم عيد الميلاد](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607445124489843-artwork.webp)
 
@@ -246,7 +246,7 @@
 
 ### تصميم صغير. شخصية كبيرة.
 
-قم بتحويل صورة قطة إلى رسم بسيط بنمط التطريز باستخدام التطريز Sketch. يمكن لبضعة أسطر وكتل من الألوان التقاط الكثير من الشخصية.
+حوّل صورة قطة إلى رسم بسيط بأسلوب التطريز باستخدام Embroidery Sketch. يمكن لبضعة خطوط وكتل لونية إبراز الكثير من طابعها.
 
 [رسم التطريز](https://podplo.app/skills/embroidery-sketch)
 
@@ -260,7 +260,7 @@
 
 عمل فني
 
-### تحويل عزر واحد إلى نمط
+### حوّل زخرفة واحدة إلى نمط
 
 استخدم النمط السلس لتحويل الزهور أو الحيوانات أو الأشكال الهندسية إلى تكرار. جرب مسافات وترتيبات مختلفة لتغيير المظهر.
 
@@ -290,7 +290,7 @@
 
 ![تم الانتهاء من العمل الفني لتي شيرت جولدن ريتريفر](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
 
-1 · الانتهاء من العمل الفني
+1 · العمل الفني النهائي
 
 ![تم استخدام تي شيرت عاجي فارغ كمرجع بالحجم الطبيعي](https://podplo.app/pod-guide/generated/tshirt-blank.webp)
 
@@ -298,7 +298,7 @@
 
 ![تصميم المسترد الذهبي موضوع على نموذج بالحجم الطبيعي للقميص](https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp)
 
-3 · رؤية المنتج
+3 · صورة المنتج
 
 ![نموذج تم إنشاؤه بواسطة الذكاء الاصطناعي يرتدي تي شيرت المسترد الذهبي](https://podplo.app/pod-guide/generated/tshirt-model.webp)
 

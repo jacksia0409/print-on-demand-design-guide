@@ -12,21 +12,21 @@
 
 <a id="overview"></a>
 
-FORMULÁRIO DE ARTE · 01/05
+FORMA DA ARTE · 01 / 05
 
-# Composição centrada no tema principal
+# Composição guiada pelo elemento principal
 
-Um objeto identificável, um grupo ou letras lideram o design. Explorar a composição, apoiando a decoração e as relações de texto.
+Um objeto identificável, um grupo ou o letreiramento conduz o design. Explore a composição, a decoração de apoio e as relações com o texto.
 
 <a id="subject-design"></a>
 
-## Composição e tratamentos do assunto
+## Composição e tratamentos do elemento principal
 
 <a id="transformation"></a>
 
 FORMAS VISUAIS · 144
 
-### Tratamentos artísticos do assunto
+### Tratamentos artísticos do elemento principal
 
 <a id="transformation-panel-word-g22"></a>
 
@@ -34,7 +34,7 @@ FORMAS VISUAIS · 144
 
 #### Contornos e linhas
 
-Compare como os contornos são extraídos, minimizados ou reduzidos a rabiscos enquanto o assunto subjacente permanece reconhecível.
+Compare como os contornos são extraídos, reduzidos ao mínimo ou soltos em rabiscos, enquanto o elemento principal permanece reconhecível.
 
 <a id="form-art-22-0"></a>
 
@@ -46,11 +46,11 @@ Isole as bordas externas do objeto em linhas decisivas, removendo detalhes da su
 
 <a id="form-art-22-2"></a>
 
-![Desenho de linha mínimo – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-22-2.svg)
+![Desenho minimalista ao traço — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-22-2.svg)
 
-##### Desenho de linha mínimo
+##### Desenho minimalista ao traço
 
-Descreva o assunto com apenas alguns traços econômicos, deixando espaço aberto para transportar a maior parte da forma.
+Descreva o elemento principal com poucos traços econômicos, deixando que o espaço livre componha a maior parte da forma.
 
 <a id="form-art-22-7"></a>
 
@@ -58,7 +58,7 @@ Descreva o assunto com apenas alguns traços econômicos, deixando espaço abert
 
 ##### Linhas rabiscadas
 
-Construa a imagem a partir de marcas inquietas e sobrepostas, cujo movimento irregular dá energia nervosa ao sujeito.
+Crie a imagem com marcas inquietas e sobrepostas cujo movimento irregular dê energia nervosa ao elemento principal.
 
 <a id="transformation-panel-word-g23"></a>
 
@@ -74,7 +74,7 @@ Compare estratégias para remover detalhes enquanto preserva a identidade, abran
 
 ##### Remover fundo
 
-Apague a configuração circundante para que o objeto pareça uma forma gráfica limpa e independente.
+Apague o cenário ao redor para que o elemento principal se apresente como uma forma gráfica limpa e independente.
 
 <a id="form-art-23-1"></a>
 
@@ -88,9 +88,9 @@ Suprime pequenas texturas e partes secundárias, permitindo que a estrutura esse
 
 ![Retenha características de identificação – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-23-2.svg)
 
-##### Retenha recursos de identificação
+##### Preserve as características de identificação
 
-Preserve as poucas proporções, marcações ou acessórios que tornam o tema inconfundivelmente ele mesmo.
+Preserve as poucas proporções, marcas ou acessórios que tornam o elemento principal inconfundível.
 
 <a id="form-art-23-3"></a>
 
@@ -102,9 +102,9 @@ Deixe intencionalmente as áreas escolhidas sem resolução, direcionando a aten
 
 <a id="form-art-23-4"></a>
 
-![Preenchimento de espaço negativo – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-23-4.svg)
+![Complementação pelo espaço negativo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-23-4.svg)
 
-##### Conclusão de espaço negativo
+##### Complementação pelo espaço negativo
 
 Deixe que áreas vazias impliquem bordas faltantes, para que os espectadores completem mentalmente uma forma que nunca é totalmente desenhada.
 
@@ -114,7 +114,7 @@ Deixe que áreas vazias impliquem bordas faltantes, para que os espectadores com
 
 ##### Redução de silhueta
 
-Comprima o assunto em um contorno sólido cuja pose e perfil sejam reconhecidos.
+Reduza o elemento principal a uma silhueta sólida cuja pose e perfil permitam todo o reconhecimento.
 
 <a id="form-art-23-6"></a>
 
@@ -122,7 +122,7 @@ Comprima o assunto em um contorno sólido cuja pose e perfil sejam reconhecidos.
 
 ##### Redução de ícone
 
-Reduza o assunto a um pictograma compacto com geometria arrojada e legibilidade instantânea em pequena escala.
+Reduza o elemento principal a um pictograma compacto com geometria marcante e legibilidade imediata em pequena escala.
 
 <a id="form-art-23-7"></a>
 
@@ -142,11 +142,11 @@ Substitua a modelagem gradual por algumas regiões amplas e interligadas de core
 
 <a id="form-art-23-9"></a>
 
-![Agrupamento de valores – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-23-9.svg)
+![Agrupamento de valores tonais — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-23-9.svg)
 
-##### Agrupamento de valores
+##### Agrupamento de valores tonais
 
-Organize claro e escuro em um pequeno número de massas tonais claras em vez de sombreamento contínuo.
+Organize claros e escuros em poucas massas tonais bem definidas, em vez de sombreamento contínuo.
 
 <a id="form-art-23-10"></a>
 
@@ -154,7 +154,7 @@ Organize claro e escuro em um pequeno número de massas tonais claras em vez de 
 
 ##### Contorno simplificado
 
-Suavize bordas irregulares em um contorno econômico que mantém a silhueta definidora do modelo.
+Suavize as bordas irregulares em um contorno econômico que preserve a silhueta característica do elemento principal.
 
 <a id="form-art-23-11"></a>
 
@@ -216,7 +216,7 @@ Reduza um recurso selecionado para criar contraste, vulnerabilidade ou uma propo
 
 ![Formas arredondadas — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-24-5.svg)
 
-##### Formulários arredondados
+##### Formas arredondadas
 
 Suavize cantos e juntas em curvas volumosas, dando a cada massa uma aparência amigável e almofadada.
 
@@ -226,21 +226,21 @@ Suavize cantos e juntas em curvas volumosas, dando a cada massa uma aparência a
 
 ##### Formas delgadas
 
-Larguras estreitas e formas cônicas para criar uma silhueta esbelta, delicada e ascendente.
+Estreite as larguras e afile as formas para criar uma silhueta esbelta, delicada e ascendente.
 
 <a id="form-art-24-7"></a>
 
 ![Formas achatadas – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-24-7.svg)
 
-##### Formulários achatados
+##### Formas achatadas
 
 Comprima a profundidade até que os volumes pareçam formas rasas e prensadas com amplas superfícies frontais.
 
 <a id="form-art-24-8"></a>
 
-![Formulários inflados – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-24-8.svg)
+![Formas infladas — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-24-8.svg)
 
-##### Formulários inflados
+##### Formas infladas
 
 Expanda os volumes para fora como se estivessem cheios de ar, arredondando as bordas e fortalecendo a silhueta.
 
@@ -248,7 +248,7 @@ Expanda os volumes para fora como se estivessem cheios de ar, arredondando as bo
 
 ![Formas achatadas – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-24-9.svg)
 
-##### Formulários esmagados
+##### Formas achatadas
 
 Pressione as formas para baixo ou lateralmente, criando proporções achatadas e compressão visível.
 
@@ -282,7 +282,7 @@ Ondule todo o contorno em curvas suaves e alternadas, substituindo a estrutura r
 
 ##### Perspectiva exagerada
 
-Empurre formas próximas dramaticamente maiores e formas distantes menores para intensificar a profundidade espacial.
+Amplie drasticamente as formas próximas e reduza as distantes para intensificar a profundidade espacial.
 
 <a id="form-art-24-14"></a>
 
@@ -298,7 +298,7 @@ Curve linhas retas em torno de um campo de visão arredondado, criando uma protu
 
 #### Caracterização
 
-Compare como os sujeitos se tornam personagens através do antropomorfismo, expressão, membros, roupas, ocupação, personalidade, heroísmo, monstruosidade ou vida mecânica.
+Compare como os elementos principais se tornam personagens por antropomorfismo, expressão, membros, roupas, ocupação, personalidade, heroísmo, monstruosidade ou vida mecânica.
 
 <a id="form-art-25-0"></a>
 
@@ -346,7 +346,7 @@ Adicione olhos, boca ou sobrancelhas que comuniquem claramente o humor escolhido
 
 ##### Membros adicionados
 
-Anexe braços ou pernas que permitam que um sujeito não humano pose, aja e interaja como um personagem.
+Acrescente braços ou pernas para que um elemento não humano possa fazer poses, agir e interagir como um personagem.
 
 <a id="form-art-25-6"></a>
 
@@ -358,15 +358,15 @@ Use roupas para sugerir função, época, status ou temperamento, mantendo a fig
 
 <a id="form-art-25-7"></a>
 
-![Caráter ocupacional - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-25-7.svg)
+![Personagem profissional — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-25-7.svg)
 
-##### Caráter ocupacional
+##### Personagem profissional
 
 Defina o personagem por meio de roupas, ferramentas, postura e comportamento de trabalho específicos da profissão.
 
 <a id="form-art-25-8"></a>
 
-![Caráter de personalidade - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-25-8.svg)
+![Personagem de personalidade — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-25-8.svg)
 
 ##### Personagem de personalidade
 
@@ -402,7 +402,7 @@ Combine máquinas com sinais de consciência, fazendo com que articulações, se
 
 #### Desconstrução e montagem
 
-Compare como um sujeito é dividido, deslocado, espelhado, modularizado e reconstruído enquanto sua lógica de montagem permanece visível.
+Compare como o elemento principal é dividido, deslocado, espelhado, modularizado e reconstruído, mantendo visível a lógica de montagem.
 
 <a id="form-art-26-0"></a>
 
@@ -410,7 +410,7 @@ Compare como um sujeito é dividido, deslocado, espelhado, modularizado e recons
 
 ##### Decomposição geométrica
 
-Divida o assunto em polígonos ou sólidos básicos que revelam uma geometria construída subjacente.
+Divida o elemento principal em polígonos ou sólidos básicos que revelem a geometria construída subjacente.
 
 <a id="form-art-26-1"></a>
 
@@ -418,7 +418,7 @@ Divida o assunto em polígonos ou sólidos básicos que revelam uma geometria co
 
 ##### Fatias em camadas
 
-Divida o formulário em seções transversais paralelas, separando-as ligeiramente para expor o volume em camadas.
+Divida a forma em seções transversais paralelas, afastando-as ligeiramente para expor o volume em camadas.
 
 <a id="form-art-26-2"></a>
 
@@ -432,9 +432,9 @@ Reconstrua um todo reconhecível a partir de fragmentos deslocados cujas costura
 
 ![Planos unidos – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-26-3.svg)
 
-##### Aviões unidos
+##### Planos unidos
 
-Conecte superfícies angulares de ponta a ponta, permitindo que as facetas planas definam o volume em vez de suavizar a modelagem.
+Conecte superfícies angulares de borda a borda, deixando que as facetas planas definam o volume em vez de uma modelagem suave.
 
 <a id="form-art-26-4"></a>
 
@@ -442,7 +442,7 @@ Conecte superfícies angulares de ponta a ponta, permitindo que as facetas plana
 
 ##### Deslocamento local
 
-Afaste uma região do seu alinhamento original enquanto o resto do assunto permanece estável.
+Desloque uma região de seu alinhamento original enquanto o restante do elemento principal permanece estável.
 
 <a id="form-art-26-5"></a>
 
@@ -458,7 +458,7 @@ Combine observações frontais, laterais e superiores em uma figura, em vez de o
 
 ##### Sobreposições repetidas
 
-Empilhe cópias translúcidas ou offset para que os contornos acumulados criem profundidade e vibração visual.
+Empilhe cópias translúcidas ou deslocadas para que os contornos acumulados criem profundidade e vibração visual.
 
 <a id="form-art-26-7"></a>
 
@@ -474,7 +474,7 @@ Junte metades refletidas ou unidades de espelho repetidas em um composto deliber
 
 ##### Reconstrução simétrica
 
-Reconstrua o tema em torno de um eixo central, equilibrando as partes correspondentes sem torná-las idênticas.
+Reconstrua o elemento principal em torno de um eixo central, equilibrando as partes correspondentes sem torná-las idênticas.
 
 <a id="form-art-26-9"></a>
 
@@ -512,7 +512,7 @@ Suspenda as peças separadas em torno de suas posições originais para revelar 
 
 <a id="transformation-group-word-g27"></a>
 
-#### Formulários híbridos
+#### Formas híbridas
 
 Compare híbridos formados entre espécies, objetos, paisagens e máquinas, incluindo metamorfose gradual e imagens de dupla leitura.
 
@@ -538,13 +538,13 @@ Misture a estrutura animal com folhas, raízes, cascas ou flores como uma anatom
 
 ##### Híbrido orgânico-mecânico
 
-Entrelace carne e maquinário por meio de articulações, superfícies e ritmos compartilhados, em vez de simples apegos.
+Entrelace carne e máquinas por articulações, superfícies e ritmos compartilhados, em vez de uma simples ligação externa.
 
 <a id="form-art-27-3"></a>
 
-![Híbrido de construção de objetos – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-27-3.svg)
+![Híbrido de objeto e edifício — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-27-3.svg)
 
-##### Híbrido de construção de objetos
+##### Híbrido de objeto e edifício
 
 Mescle um objeto familiar com massa arquitetônica, transformando aberturas e componentes em estruturas habitáveis.
 
@@ -562,7 +562,7 @@ Deixe que os contornos corporais se transformem em colinas, rios ou terrenos, pr
 
 ##### Formas locais enxertadas
 
-Anexe um recurso local estranho como se ele tivesse crescido naturalmente a partir do formulário hospedeiro.
+Acrescente uma característica local estranha, como se tivesse crescido naturalmente a partir da forma hospedeira.
 
 <a id="form-art-27-6"></a>
 
@@ -570,7 +570,7 @@ Anexe um recurso local estranho como se ele tivesse crescido naturalmente a part
 
 ##### Imagem dupla
 
-Construa uma imagem que resolva um assunto diferente quando a atenção mudar entre as formas.
+Construa uma imagem que revele um elemento principal diferente quando a atenção mudar entre as formas.
 
 <a id="form-art-27-7"></a>
 
@@ -602,7 +602,7 @@ Invente uma criatura de diversas espécies, unificando partes incompatíveis por
 
 #### Preenchimentos e superfícies interiores
 
-Compare imagens colocadas dentro, reveladas abaixo ou substituídas em um assunto, desde preenchimentos recortados até cortes e capas alternativas.
+Compare imagens inseridas no elemento principal, reveladas sob ele ou usadas para substituir partes dele, desde preenchimentos recortados até vistas em corte e revestimentos alternativos.
 
 <a id="form-art-28-0"></a>
 
@@ -610,7 +610,7 @@ Compare imagens colocadas dentro, reveladas abaixo ou substituídas em um assunt
 
 ##### Preenchimento de texto
 
-Preencha a silhueta do sujeito com letras que sigam seus contornos e preservem o reconhecimento geral.
+Preencha a silhueta do elemento principal com letras que acompanhem seus contornos e preservem o reconhecimento geral.
 
 <a id="form-art-28-1"></a>
 
@@ -654,11 +654,11 @@ Corte imagens fotográficas através da forma do objeto para que a imagem se tor
 
 <a id="form-art-28-6"></a>
 
-![Preenchimento Starfield – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-28-6.svg)
+![Preenchimento de campo estelar — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-28-6.svg)
 
 ##### Preenchimento de campo estelar
 
-Abra o formulário em um campo de estrelas, nebulosas e profundidade cósmica dentro de seus limites.
+Abra a forma para um campo de estrelas, nebulosas e profundidade cósmica contido em seus limites.
 
 <a id="form-art-28-7"></a>
 
@@ -698,7 +698,7 @@ Deixe o exterior opticamente claro para que os componentes internos sobrepostos 
 
 ##### Pele de material alternativo
 
-Renove o assunto com uma substância inesperada cuja textura muda seu caráter sem alterar sua forma.
+Revista o elemento principal com uma substância inesperada cuja textura altere seu caráter sem mudar sua forma.
 
 <a id="transformation-panel-word-g29"></a>
 
@@ -714,7 +714,7 @@ Compare limites ambíguos e paradoxos espaciais onde figura, fundo, profundidade
 
 ##### Troca positivo-negativo
 
-Deixemos os papéis de primeiro plano e de segundo plano, criando duas leituras igualmente plausíveis a partir das mesmas fronteiras.
+Deixe primeiro plano e fundo trocarem de papel, criando duas leituras igualmente plausíveis a partir dos mesmos limites.
 
 <a id="form-art-29-1"></a>
 
@@ -730,7 +730,7 @@ Defina a imagem como uma forma removida, permitindo que o campo circundante se t
 
 ##### Contorno compartilhado
 
-Faça com que um limite descreva dois assuntos adjacentes ao mesmo tempo, ligando seus perfis através de um alinhamento exato.
+Faça um único limite descrever dois elementos principais adjacentes ao mesmo tempo, ligando seus perfis por alinhamento exato.
 
 <a id="form-art-29-3"></a>
 
@@ -738,7 +738,7 @@ Faça com que um limite descreva dois assuntos adjacentes ao mesmo tempo, ligand
 
 ##### Inversão figura-fundo
 
-Organize formas positivas e negativas para que a atenção alterne repetidamente entre o assunto e o fundo.
+Organize formas positivas e negativas para que a atenção alterne repetidamente entre o elemento principal e o fundo.
 
 <a id="form-art-29-4"></a>
 
@@ -786,7 +786,7 @@ Deixe um desenho plano se projetar no volume modelado, mantendo a transição en
 
 ##### Deslocamento de escala
 
-Coloque os assuntos em tamanhos relativos incompatíveis para que a escala comum se torne surpreendente ou impossível.
+Coloque os elementos principais em tamanhos relativos incompatíveis para tornar a escala habitual surpreendente ou impossível.
 
 <a id="transformation-panel-word-g30"></a>
 
@@ -798,11 +798,11 @@ Compare a repetição rítmica alterando tamanho, direção, densidade, fase de 
 
 <a id="form-art-30-0"></a>
 
-![Assunto repetido - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-30-0.svg)
+![Elemento principal repetido — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-30-0.svg)
 
-##### Assunto repetido
+##### Elemento principal repetido
 
-Repita o mesmo assunto como uma sequência, padrão ou multidão, preservando uma identidade visual consistente.
+Repita o mesmo elemento principal como uma sequência, um padrão ou uma multidão, preservando uma identidade visual consistente.
 
 <a id="form-art-30-1"></a>
 
@@ -866,7 +866,7 @@ Separe uma ação em poses-chave sucessivas que expliquem seu caminho e tempo.
 
 ##### Ecos de movimento
 
-Rastreie silhuetas deslocadas atrás de um objeto em movimento para sugerir velocidade, vibração ou impulso persistente.
+Deixe silhuetas deslocadas como rastros atrás de um elemento em movimento para sugerir velocidade, vibração ou impulso persistente.
 
 <a id="form-art-30-9"></a>
 
@@ -946,7 +946,7 @@ Use tons vizinhos para criar harmonia suave e mudanças sutis sem conflito abrup
 
 ##### Cores não naturais
 
-Recolorir assuntos familiares com tons deliberadamente implausíveis para mudar o humor e o significado.
+Recolora elementos familiares com tons deliberadamente improváveis para mudar a atmosfera e o significado.
 
 <a id="form-art-31-7"></a>
 
@@ -978,7 +978,7 @@ Mapeie as faixas de brilho em uma rampa de cores projetada, substituindo o matiz
 
 ##### Valores posterizados
 
-Recolha o sombreamento contínuo em algumas etapas tonais abruptas com limites nítidos.
+Reduza o sombreamento contínuo a poucos degraus tonais abruptos com limites nítidos.
 
 <a id="form-art-31-11"></a>
 
@@ -1016,9 +1016,9 @@ Use tons sintéticos intensamente luminosos que parecem brilhar contra as cores 
 
 <a id="transformation-group-word-g32"></a>
 
-#### Luz e valor
+#### Luz e valor tonal
 
-Compare as transformações orientadas por valor, iluminação, brilho, cor da sombra, translucidez e divisão óptica, em vez de apenas pela paleta.
+Compare transformações baseadas em valor tonal, iluminação, brilho, cor das sombras, translucidez e decomposição óptica, em vez de apenas na paleta.
 
 <a id="form-art-32-0"></a>
 
@@ -1038,11 +1038,11 @@ Use iluminação uniforme quase sem sombra, mantendo as superfícies claras e le
 
 <a id="form-art-32-2"></a>
 
-![Valores bloqueados — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-2.svg)
+![Valores tonais em blocos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-2.svg)
 
-##### Valores bloqueados
+##### Valores tonais em blocos
 
-Divida o assunto em formas claras, médias e escuras distintas, em vez de modelagem gradual.
+Divida o elemento principal em formas claras, médias e escuras distintas, em vez de modelagem gradual.
 
 <a id="form-art-32-3"></a>
 
@@ -1054,9 +1054,9 @@ Coloque a fonte de luz atrás do objeto para que seu contorno se torne uma massa
 
 <a id="form-art-32-4"></a>
 
-![Luz de aro – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-4.svg)
+![Luz de contorno — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-4.svg)
 
-##### Luz de aro
+##### Luz de contorno
 
 Trace a borda sombreada com uma estreita faixa de luz que a separa do fundo.
 
@@ -1090,13 +1090,13 @@ Envolva linhas coloridas brilhantes com suave derramamento luminoso, sugerindo i
 
 ##### Brilho de foco suave
 
-Bloom realça em bordas nebulosas, dando à imagem um brilho suave e atmosférico.
+Expanda os brilhos em bordas difusas para dar à imagem uma luminosidade suave e atmosférica.
 
 <a id="form-art-32-9"></a>
 
-![Destaque local – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-9.svg)
+![Holofote localizado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-32-9.svg)
 
-##### Destaque local
+##### Holofote localizado
 
 Concentre a luz em uma pequena região enquanto as formas próximas caem rapidamente na escuridão.
 
@@ -1142,9 +1142,9 @@ Compare o desgaste da aparência física e a distorção digital, distinguindo a
 
 <a id="form-art-33-0"></a>
 
-![Desgaste desgastado – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-0.svg)
+![Desgaste intencional — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-0.svg)
 
-##### Desgaste desgastado
+##### Desgaste intencional
 
 Lixe bordas e superfícies de maneira desigual para que a imagem pareça manuseada, envelhecida ou impressa repetidamente em material desgastado.
 
@@ -1202,13 +1202,13 @@ Crie superfícies esburacadas e corroídas com mudanças irregulares de cores as
 
 ##### Manchas
 
-Adicione flores, anéis ou salpicos irregulares que penetrem na imagem, em vez de ficarem bem acima dela.
+Adicione manchas, anéis ou respingos irregulares que penetrem na imagem em vez de parecerem aplicados de forma nítida sobre ela.
 
 <a id="form-art-33-8"></a>
 
 ![Desbotamento – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-8.svg)
 
-##### Desaparecendo
+##### Desbotamento
 
 Reduza o contraste e a saturação seletivamente para que as partes pareçam desbotadas pelo tempo ou pela exposição.
 
@@ -1218,7 +1218,7 @@ Reduza o contraste e a saturação seletivamente para que as partes pareçam des
 
 ##### Imagem dupla
 
-Desloque uma duplicata tênue do assunto para criar fantasmas em vez de uma segunda figura independente.
+Desloque uma cópia tênue do elemento principal para criar um efeito fantasma, em vez de uma segunda figura independente.
 
 <a id="form-art-33-10"></a>
 
@@ -1226,15 +1226,15 @@ Desloque uma duplicata tênue do assunto para criar fantasmas em vez de uma segu
 
 ##### Registro incorreto
 
-Desloque a cor ou imprima camadas fora do alinhamento, produzindo franjas visíveis e sobreposições imperfeitas.
+Desalinhe as camadas de cor ou de impressão, produzindo franjas visíveis e sobreposições imperfeitas.
 
 <a id="form-art-33-11"></a>
 
 ![Trilhas de varredura – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-33-11.svg)
 
-##### Rastrear trilhas
+##### Rastros de varredura
 
-Arraste restos horizontais estreitos de recursos de imagem, evocando um scanner fora de sincronia.
+Arraste resíduos horizontais estreitos dos elementos da imagem, evocando um scanner fora de sincronia.
 
 <a id="form-art-33-12"></a>
 
@@ -1266,7 +1266,7 @@ Suavize uma área localizada até que sua estrutura caia, estique e pareça liqu
 
 ##### Gotejamento de líquido
 
-Puxe a cor e forme gotas alongadas para baixo, deixando rastros em forma de gravidade abaixo do objeto.
+Puxe a cor e a forma para baixo, formando gotas alongadas e deixando rastros moldados pela gravidade sob o elemento principal.
 
 <a id="form-art-33-16"></a>
 
@@ -1290,15 +1290,15 @@ FORMAS VISUAIS · 99
 
 <a id="layout-group-word-9-0"></a>
 
-#### Contagem de assuntos e combinações
+#### Quantidade de elementos principais e combinações
 
-Compare composições por número de assuntos e identidade, distinguindo singles, pares combinados ou mistos, conjuntos, coleções e multidões.
+Compare composições pelo número e pela identidade dos elementos principais, distinguindo elementos isolados, pares semelhantes ou mistos, conjuntos, coleções e multidões.
 
 <a id="form-exp-9-0-0"></a>
 
-![Assunto único isolado – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-0.svg)
+![Elemento principal único isolado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-0.svg)
 
-##### Assunto único isolado
+##### Elemento principal único isolado
 
 Mostre um objeto principal com uma silhueta completa e uma identidade visual totalmente independente.
 
@@ -1308,7 +1308,7 @@ Mostre um objeto principal com uma silhueta completa e uma identidade visual tot
 
 ##### Par correspondente
 
-Emparelhe dois objetos do mesmo tipo, ligando-os por meio de pose ou direção oposta.
+Combine dois objetos do mesmo tipo, ligando-os pela pose ou pela orientação.
 
 <a id="form-exp-9-0-2"></a>
 
@@ -1336,25 +1336,25 @@ Colete objetos diferentes em torno de um tema, preservando a identidade distinta
 
 <a id="form-exp-9-0-5"></a>
 
-![Assuntos principais e de apoio - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-5.svg)
+![Elementos principais e de apoio — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-5.svg)
 
-##### Assuntos principais e de apoio
+##### Elementos principais e de apoio
 
 Dê a um objeto o papel principal enquanto os outros fornecem companheirismo ou contexto.
 
 <a id="form-exp-9-0-6"></a>
 
-![Co-lideranças iguais – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-6.svg)
+![Protagonistas de igual peso — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-6.svg)
 
-##### Co-líderes iguais
+##### Protagonistas de igual peso
 
 Equilibre dois objetos principais com proeminência visual quase igual.
 
 <a id="form-exp-9-0-7"></a>
 
-![Conjunto igual - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-7.svg)
+![Conjunto com igual destaque — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-7.svg)
 
-##### Conjunto igual
+##### Conjunto com igual destaque
 
 Mantenha cada objeto em um conjunto maior claramente visível sem selecionar um centro dominante.
 
@@ -1392,11 +1392,11 @@ Repita o mesmo objeto em diversas versões para enfatizar a recorrência ou vari
 
 <a id="form-exp-9-0-12"></a>
 
-![Inclinação de assunto único – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-12.svg)
+![Inclinação de um elemento principal único — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-0-12.svg)
 
-##### Inclinação de assunto único
+##### Inclinação de um elemento principal único
 
-Mantenha um assunto centralizado e gire apenas seu ângulo, em vez de movê-lo em direção a um canto diagonal.
+Mantenha um elemento principal centralizado e altere apenas seu ângulo, em vez de movê-lo em direção a um canto diagonal.
 
 <a id="layout-panel-word-9-1"></a>
 
@@ -1412,7 +1412,7 @@ Compare onde um objeto se encontra no quadro e como seu posicionamento redistrib
 
 ##### Composição centrada
 
-Coloque o assunto no centro do quadro para obter um centro de gravidade visual estável.
+Coloque o elemento principal no centro do quadro para criar um centro de gravidade visual estável.
 
 <a id="form-exp-9-1-1"></a>
 
@@ -1420,7 +1420,7 @@ Coloque o assunto no centro do quadro para obter um centro de gravidade visual e
 
 ##### Deslocamento horizontal
 
-Mova o assunto para a esquerda ou para a direita, deixando um espaço aberto intencionalmente no lado oposto.
+Mova o elemento principal para a esquerda ou para a direita, deixando espaço livre intencional no lado oposto.
 
 <a id="form-exp-9-1-2"></a>
 
@@ -1428,7 +1428,7 @@ Mova o assunto para a esquerda ou para a direita, deixando um espaço aberto int
 
 ##### Deslocamento vertical
 
-Posicione o assunto alto ou baixo para alterar o peso da composição e a sensação de espaço.
+Posicione o elemento principal no alto ou embaixo para mudar o peso da composição e a sensação de espaço.
 
 <a id="form-exp-9-1-3"></a>
 
@@ -1436,7 +1436,7 @@ Posicione o assunto alto ou baixo para alterar o peso da composição e a sensa�
 
 ##### Colocação de canto
 
-Concentre o assunto em um canto enquanto mantém o resto do quadro aberto.
+Concentre o elemento principal em um canto, mantendo o restante do quadro livre.
 
 <a id="form-exp-9-1-6"></a>
 
@@ -1444,13 +1444,13 @@ Concentre o assunto em um canto enquanto mantém o resto do quadro aberto.
 
 ##### Ancoragem de borda
 
-Coloque o assunto próximo à borda do quadro para criar apego e tensão visual.
+Coloque o elemento principal próximo a uma borda do quadro para criar uma conexão com ela e tensão visual.
 
 <a id="form-exp-9-1-7"></a>
 
-![Aterrado na parte inferior – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-7.svg)
+![Apoiado na parte inferior — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-1-7.svg)
 
-##### Aterrado na parte inferior
+##### Apoiado na parte inferior
 
 Mantenha o peso do objeto próximo à borda inferior, como se ele estivesse no chão.
 
@@ -1458,17 +1458,17 @@ Mantenha o peso do objeto próximo à borda inferior, como se ele estivesse no c
 
 <a id="layout-group-word-9-2"></a>
 
-#### Escala de assunto e corte
+#### Escala e corte do elemento principal
 
-Compare a escala do assunto e o corte em relação aos limites da imagem, desde vistas abertas distantes até enquadramentos próximos intencionalmente cortados.
+Compare a escala e o recorte do elemento principal em relação ao limite da imagem, de vistas distantes e abertas a enquadramentos próximos intencionalmente cortados.
 
 <a id="form-exp-9-2-0"></a>
 
-![Assunto pequeno com espaço aberto — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-0.svg)
+![Elemento principal pequeno com espaço aberto — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-0.svg)
 
-##### Assunto pequeno com espaço aberto
+##### Elemento principal pequeno com espaço aberto
 
-Use um tema pequeno e um amplo espaço aberto para enfatizar a leveza ou o isolamento.
+Use um elemento principal pequeno e bastante espaço aberto para enfatizar leveza ou isolamento.
 
 <a id="form-exp-9-2-1"></a>
 
@@ -1476,7 +1476,7 @@ Use um tema pequeno e um amplo espaço aberto para enfatizar a leveza ou o isola
 
 ##### Visão completa balanceada
 
-Mostre o assunto completo em uma escala moderada com espaço equilibrado ao seu redor.
+Mostre o elemento principal completo em escala moderada, com espaço equilibrado ao redor.
 
 <a id="form-exp-9-2-2"></a>
 
@@ -1484,15 +1484,15 @@ Mostre o assunto completo em uma escala moderada com espaço equilibrado ao seu 
 
 ##### Grande visualização quase completa
 
-Deixe o assunto ocupar a maior parte do quadro, mantendo sua silhueta quase completa.
+Deixe o elemento principal ocupar a maior parte do quadro, mantendo sua silhueta quase completa.
 
 <a id="form-exp-9-2-3"></a>
 
-![Assunto de preenchimento de quadro - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-3.svg)
+![Elemento principal preenchendo o quadro — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-3.svg)
 
-##### Assunto de preenchimento de quadro
+##### Elemento principal preenchendo o quadro
 
-Aproxime o assunto das quatro bordas para criar uma pressão visual compacta.
+Aproxime o elemento principal das quatro bordas para criar uma sensação de pressão visual compacta.
 
 <a id="form-exp-9-2-4"></a>
 
@@ -1508,7 +1508,7 @@ Amplie o objeto completo até que a moldura corte parte de sua forma.
 
 ##### Close do rosto
 
-Faça do rosto ou cabeça a principal área visível do assunto.
+Faça do rosto ou da cabeça a principal área visível do elemento principal.
 
 <a id="form-exp-9-2-6"></a>
 
@@ -1540,7 +1540,7 @@ Mostre o corpo completo do personagem e o esboço completo de sua ação.
 
 ##### Além da borda da imagem
 
-Estenda o assunto através de uma ou mais bordas do quadro para implicar a continuação fora da imagem.
+Estenda o elemento principal além de uma ou mais bordas do quadro para sugerir continuidade fora da imagem.
 
 <a id="form-exp-9-2-10"></a>
 
@@ -1552,9 +1552,9 @@ Mantenha uma forma completa dentro de uma moldura interna, permitindo extensões
 
 <a id="form-exp-9-2-11"></a>
 
-![Contraste da escala próxima – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-11.svg)
+![Contraste de escala entre perto e longe — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-2-11.svg)
 
-##### Contraste da escala próxima
+##### Contraste de escala entre perto e longe
 
 Use diferentes tamanhos de objetos em um quadro para sugerir distância ou importância visual relativa.
 
@@ -1564,7 +1564,7 @@ Use diferentes tamanhos de objetos em um quadro para sugerir distância ou impor
 
 #### Linhas e caminhos
 
-Compare assuntos repetidos organizados como linhas, colunas, grades, arcos, anéis, leques, espirais, caminhos, silhuetas ou sequências zoneadas.
+Compare elementos principais repetidos organizados em linhas, colunas, grades, arcos, anéis, leques, espirais, trajetórias, silhuetas ou sequências por zonas.
 
 <a id="form-exp-9-3-0"></a>
 
@@ -1610,7 +1610,7 @@ Desloque linhas ou colunas vizinhas para criar um ritmo interligado.
 
 ![Arranjo livre – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-5.svg)
 
-##### Arranjo grátis
+##### Arranjo livre
 
 Varie as posições dos objetos livremente, mantendo o peso visual geral equilibrado.
 
@@ -1664,11 +1664,11 @@ Espalhe objetos em torno de um centro com orientações visivelmente radiais.
 
 <a id="form-exp-9-3-12"></a>
 
-![Propagação de fãs - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-12.svg)
+![Abertura em leque — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-3-12.svg)
 
-##### Propagação de fãs
+##### Abertura em leque
 
-Abra os objetos dentro de um ângulo limitado, como um ventilador portátil.
+Abra os objetos para fora dentro de um ângulo limitado, como um leque de mão.
 
 <a id="form-exp-9-3-13"></a>
 
@@ -1724,7 +1724,7 @@ Compare a hierarquia visual por meio de tamanho, posição, agrupamento, simetri
 
 ##### Um grande, muitos pequenos
 
-Use um assunto grande como centro e vários objetos pequenos como elementos de suporte.
+Use um elemento principal grande no centro e vários objetos pequenos como elementos de apoio.
 
 <a id="form-exp-9-4-1"></a>
 
@@ -1764,7 +1764,7 @@ Empilhe vários níveis que se estreitam para cima em um todo piramidal estável
 
 ##### Hierarquia centrada
 
-Centralize o assunto principal e distribua objetos de apoio ao seu redor.
+Centralize o elemento principal e distribua objetos de apoio ao redor.
 
 <a id="form-exp-9-4-6"></a>
 
@@ -1772,7 +1772,7 @@ Centralize o assunto principal e distribua objetos de apoio ao seu redor.
 
 ##### Hierarquia liderada lateralmente
 
-Desloque o assunto principal e equilibre-o com objetos de apoio no lado oposto.
+Desloque o elemento principal e equilibre-o com objetos de apoio no lado oposto.
 
 <a id="form-exp-9-4-7"></a>
 
@@ -1788,7 +1788,7 @@ Faça um cluster denso responder a um conjunto de objetos distribuídos de forma
 
 ##### Contraste forte-fraco
 
-Separe os assuntos principais e de apoio por meio de contraste em valor, cor ou detalhes.
+Separe os elementos principais e de apoio por meio do contraste de valor tonal, cor ou detalhes.
 
 <a id="form-exp-9-4-9"></a>
 
@@ -1848,9 +1848,9 @@ Deixe espaços claramente visíveis entre os objetos para que cada um permaneça
 
 <a id="form-exp-9-5-1"></a>
 
-![Contornos tocantes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-1.svg)
+![Contornos que se tocam — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-1.svg)
 
-##### Contornos tocantes
+##### Contornos que se tocam
 
 Deixe os objetos se encontrarem apenas nas bordas, preservando cada contorno completo.
 
@@ -1868,7 +1868,7 @@ Sobreponha apenas pequenas partes dos objetos para criar uma relação suave da 
 
 ##### Sobreposição frente-trás
 
-Use oclusão substancial para estabelecer assuntos inconfundíveis em primeiro e segundo plano.
+Use sobreposição substancial para estabelecer elementos principais claramente distintos em primeiro plano e no fundo.
 
 <a id="form-exp-9-5-4"></a>
 
@@ -1896,9 +1896,9 @@ Deixe diferentes objetos obscurecerem-se alternadamente em um padrão de camadas
 
 <a id="form-exp-9-5-7"></a>
 
-![Assuntos aninhados – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-7.svg)
+![Elementos principais aninhados — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-7.svg)
 
-##### Assuntos aninhados
+##### Elementos principais aninhados
 
 Coloque um objeto menor dentro de um espaço formado por outro objeto.
 
@@ -1936,11 +1936,11 @@ Defina todos os objetos na mesma linha de base visível ou implícita.
 
 <a id="form-exp-9-5-12"></a>
 
-![Assuntos de primeiro plano e meio de fundo - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-12.svg)
+![Elementos principais em primeiro plano, plano intermediário e fundo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-5-12.svg)
 
-##### Assuntos de primeiro plano e meio fundo
+##### Elementos principais em primeiro plano, plano intermediário e fundo
 
-Separe o grupo de assuntos em camadas distintas de primeiro plano, meio-termo e fundo.
+Separe o grupo de elementos principais em camadas distintas de primeiro plano, plano intermediário e fundo.
 
 <a id="form-exp-9-5-13"></a>
 
@@ -1956,7 +1956,7 @@ Coloque parte de um objeto dentro da moldura e deixe o restante cruzar seu limit
 
 #### Orientação e interação
 
-Compare como os sujeitos enfrentam, observam, perseguem, abraçam, se opõem ou coordenam ações por meio de pose, olhar e interação direcional.
+Compare como os elementos principais se voltam uns para os outros, observam, perseguem, abraçam, se opõem ou coordenam ações por meio da pose, do olhar e da interação direcional.
 
 <a id="form-exp-9-6-0"></a>
 
@@ -1970,7 +1970,7 @@ Mire todos os objetos aproximadamente na mesma direção para criar um movimento
 
 ![De frente um para o outro - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-6-1.svg)
 
-##### Enfrentando um ao outro
+##### De frente um para o outro
 
 Vire dois ou mais personagens um em direção ao outro para estabelecer comunicação.
 
@@ -2012,7 +2012,7 @@ Alterne objetos vizinhos da esquerda para a direita, de cima para baixo ou de fr
 
 ##### Olhares vinculados
 
-Use o olhar de cada objeto ou a direção voltada para o próximo.
+Use o olhar ou a orientação de cada objeto para conduzir ao próximo.
 
 <a id="form-exp-9-6-7"></a>
 
@@ -2040,9 +2040,9 @@ Organize os personagens um atrás do outro, seguindo na mesma direção.
 
 <a id="form-exp-9-6-10"></a>
 
-![Abraçando grupo – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-6-10.svg)
+![Grupo abraçado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-6-10.svg)
 
-##### Abraçando grupo
+##### Grupo abraçado
 
 Aproxime os personagens com contato corporal para formar um grupo íntimo.
 
@@ -2060,15 +2060,15 @@ Mostre dois sujeitos aplicando força ou movendo-se em direções opostas.
 
 #### Quadros e agrupamento
 
-Compare a organização de recipientes e formatos de coleção, incluindo molduras, painéis, grades de amostras, espaços agrupados e montagens modulares.
+Compare estruturas de organização e formatos de coleção, incluindo molduras, painéis, grades de espécimes, espaços entre grupos e montagens modulares.
 
 <a id="form-exp-9-7-0"></a>
 
-![Quadro de fechamento único — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-0.svg)
+![Uma única moldura envolvente — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-0.svg)
 
-##### Quadro de fechamento único
+##### Uma única moldura envolvente
 
-Cerque um grupo de assuntos em um quadro fechado compartilhado.
+Cerque um grupo de elementos principais com uma única moldura envolvente compartilhada.
 
 <a id="form-exp-9-7-1"></a>
 
@@ -2076,21 +2076,21 @@ Cerque um grupo de assuntos em um quadro fechado compartilhado.
 
 ##### Painéis separados
 
-Dê a cada assunto seu próprio painel e depois combine os painéis em uma composição.
+Dê a cada elemento principal seu próprio painel e depois combine os painéis em uma composição.
 
 <a id="form-exp-9-7-2"></a>
 
-![Coleta de amostras — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-2.svg)
+![Coleção de espécimes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-2.svg)
 
-##### Coleta de amostras
+##### Coleção de espécimes
 
 Disponha objetos completos como uma coleção de referência ilustrada para reconhecimento individual.
 
 <a id="form-exp-9-7-3"></a>
 
-![Display plano – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-3.svg)
+![Disposição vista de cima — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-3.svg)
 
-##### Display plano
+##### Disposição vista de cima
 
 Organize os objetos em um plano plano visto diretamente de cima.
 
@@ -2112,9 +2112,9 @@ Coloque vários pequenos objetos independentes em torno de um objeto central.
 
 <a id="form-exp-9-7-6"></a>
 
-![Grupos restritos abrem lacunas – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-6.svg)
+![Grupos compactos com espaços entre eles — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-9-7-6.svg)
 
-##### Grupos apertados abrem lacunas
+##### Grupos compactos com espaços entre eles
 
 Agrupe os objetos firmemente em pequenos grupos, deixando espaços abertos entre esses grupos.
 
@@ -2146,13 +2146,13 @@ Monte vários objetos independentes em uma silhueta maior e reconhecível.
 
 FORMAS VISUAIS · 48
 
-### Decoração de assunto
+### Decoração do elemento principal
 
 <a id="decoration-panel-word-g0"></a>
 
 <a id="decoration-group-word-g0"></a>
 
-#### Acentos externos
+#### Detalhes voltados para fora
 
 Compare os realces que irradiam de um motivo, desde halos suaves até rajadas nítidas, sem se transformarem em enquadramentos envolventes completos.
 
@@ -2162,7 +2162,7 @@ Compare os realces que irradiam de um motivo, desde halos suaves até rajadas n�
 
 ##### Raios irradiantes
 
-Alterne linhas longas e curtas estendendo-se de todos os lados do assunto.
+Alterne linhas longas e curtas que se estendam para fora por todos os lados do elemento principal.
 
 <a id="form-decoration-0-1"></a>
 
@@ -2178,7 +2178,7 @@ Coloque um halo suave, brilho ou vários anéis de luz difusa atrás do objeto.
 
 ##### Picos de explosão
 
-Use pontas irregulares, cantos afiados ou formas de explosão de histórias em quadrinhos para enfatizar o assunto.
+Use pontas irregulares, cantos agudos ou formas de explosão de quadrinhos para enfatizar o elemento principal.
 
 <a id="form-decoration-0-3"></a>
 
@@ -2200,15 +2200,15 @@ Envie círculos concêntricos, ondulações na água ou ondas sonoras para fora 
 
 <a id="decoration-group-word-g1"></a>
 
-#### Acentos circundantes
+#### Detalhes circundantes
 
 Compare como pequenos acentos ocupam espaço próximo por meio de dispersão, agrupamento, desvio direcional ou densidade deliberadamente desigual.
 
 <a id="form-decoration-1-0"></a>
 
-![Acentos esparsos – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-1-0.svg)
+![Detalhes esparsos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-1-0.svg)
 
-##### Acentos esparsos
+##### Detalhes esparsos
 
 Espalhe algumas flores, estrelas ou pequenos pontos ao redor da forma principal.
 
@@ -2216,9 +2216,9 @@ Espalhe algumas flores, estrelas ou pequenos pontos ao redor da forma principal.
 
 ![Espalhamento uniforme — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-1-1.svg)
 
-##### Mesmo espalhando
+##### Dispersão uniforme
 
-Cerque o assunto com pequenos elementos com uma densidade quase uniforme.
+Cerque o elemento principal com pequenos elementos distribuídos em densidade quase uniforme.
 
 <a id="form-decoration-1-2"></a>
 
@@ -2226,7 +2226,7 @@ Cerque o assunto com pequenos elementos com uma densidade quase uniforme.
 
 ##### Gradiente de densidade
 
-Mude de acentos densos perto do assunto para acentos esparsos fora ou inverta a progressão.
+Passe de detalhes densos perto do elemento principal para detalhes esparsos na parte externa, ou inverta a progressão.
 
 <a id="form-decoration-1-3"></a>
 
@@ -2242,7 +2242,7 @@ Reúna a decoração de um lado, de um canto ou de várias áreas compactas.
 
 ##### Ecos de tamanho
 
-Misture elementos de apoio grandes e pequenos para criar um ritmo que ecoe o tema.
+Misture elementos de apoio grandes e pequenos para criar um ritmo que ecoe o elemento principal.
 
 <a id="form-decoration-1-5"></a>
 
@@ -2254,11 +2254,11 @@ Organize formas complementares menores ao redor do personagem principal, como sa
 
 <a id="form-decoration-1-6"></a>
 
-![Acentos flutuantes – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-1-6.svg)
+![Detalhes flutuantes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-1-6.svg)
 
-##### Acentos flutuantes
+##### Detalhes flutuantes
 
-Suspenda os elementos circundantes com espaço aberto suficiente para sugerir leveza e leveza.
+Suspenda os elementos circundantes com espaço aberto suficiente para sugerir leveza e ausência de peso.
 
 <a id="decoration-panel-word-g2"></a>
 
@@ -2266,7 +2266,7 @@ Suspenda os elementos circundantes com espaço aberto suficiente para sugerir le
 
 #### Anéis e invólucros
 
-Compare guirlandas, órbitas, espirais e invólucros parciais que envolvem visivelmente um tema central.
+Compare guirlandas, órbitas, espirais e contornos parcialmente fechados que envolvem visivelmente um elemento principal central.
 
 <a id="form-decoration-2-0"></a>
 
@@ -2314,15 +2314,15 @@ Coloque vários anéis de diferentes tamanhos e materiais em torno de um centro.
 
 ##### Corte seguindo contorno
 
-Siga a silhueta do modelo com decoração para criar um acabamento externo justo.
+Acompanhe a silhueta do elemento principal com a decoração para criar um acabamento externo ajustado.
 
 <a id="form-decoration-2-6"></a>
 
-![Recinto em arco — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-2-6.svg)
+![Moldura envolvente em arco — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-2-6.svg)
 
-##### Gabinete em arco
+##### Moldura envolvente em arco
 
-Proteja o sujeito sob um arco, cúpula ou recinto em forma de ferradura.
+Abrigue o elemento principal sob um arco, cúpula ou estrutura em forma de ferradura.
 
 <a id="form-decoration-2-7"></a>
 
@@ -2330,7 +2330,7 @@ Proteja o sujeito sob um arco, cúpula ou recinto em forma de ferradura.
 
 ##### Coroa radiante
 
-Organize raios, pétalas ou detalhes pontiagudos como uma coroa ornamental completa ao redor do assunto.
+Organize raios, pétalas ou detalhes pontiagudos como uma coroa ornamental completa ao redor do elemento principal.
 
 <a id="decoration-panel-word-g3"></a>
 
@@ -2346,7 +2346,7 @@ Compare as decorações ancoradas no limite externo, incluindo molduras completa
 
 ##### Moldura geométrica
 
-Coloque o conteúdo com uma moldura circular, oval, quadrada, em losango ou poligonal.
+Envolva o conteúdo em uma moldura circular, oval, quadrada, em losango ou poligonal.
 
 <a id="form-decoration-3-1"></a>
 
@@ -2362,7 +2362,7 @@ Use um contorno irregular desenhado à mão, semelhante a uma nuvem ou líquido 
 
 ##### Moldura estampada
 
-Construa a borda com rendas, babados, nós, correntes ou perfurações semelhantes a carimbos.
+Construa a borda com renda, babados, nós, correntes ou perfurações semelhantes às de selos postais.
 
 <a id="form-decoration-3-3"></a>
 
@@ -2378,13 +2378,13 @@ Decore apenas os quatro cantos, um par diagonal ou um canto selecionado.
 
 ##### Enfeites laterais emparelhados
 
-Coloque folhas, asas ou arabescos correspondentes à esquerda e à direita do assunto.
+Coloque folhas, asas ou arabescos correspondentes à esquerda e à direita do elemento principal.
 
 <a id="form-decoration-3-5"></a>
 
-![Acentos superiores e inferiores – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-3-5.svg)
+![Detalhes superiores e inferiores — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-3-5.svg)
 
-##### Acentos superiores e inferiores
+##### Detalhes superiores e inferiores
 
 Equilibre um destaque em forma de coroa acima com um ornamento floral abaixo.
 
@@ -2402,7 +2402,7 @@ Deixe lacunas deliberadas no quadro para que objetos ou ornamentos possam se est
 
 ##### Além do quadro
 
-Deixe o tema atravessar o quadro enquanto a decoração conecta o interior e o exterior.
+Deixe o elemento principal atravessar a moldura enquanto a decoração conecta interior e exterior.
 
 <a id="decoration-panel-word-g4"></a>
 
@@ -2466,7 +2466,7 @@ Desloque vários papéis, etiquetas, tecidos ou folhas geométricas atrás do co
 
 #### Entrelaçamento e conexões
 
-Compare fitas, vinhas, linhas e conectores que cruzam, unem, ligam ou entrelaçam o assunto principal.
+Compare fitas, trepadeiras, linhas e conectores que cruzam, prendem, ligam ou se entrelaçam com o elemento principal.
 
 <a id="form-decoration-5-0"></a>
 
@@ -2474,7 +2474,7 @@ Compare fitas, vinhas, linhas e conectores que cruzam, unem, ligam ou entrelaça
 
 ##### Entrelaçamento frente-trás
 
-Coloque alguns enfeites na frente do tema e outros atrás dele para criar profundidade entrelaçada.
+Coloque alguns ornamentos à frente do elemento principal e outros atrás para criar profundidade de entrelaçamento.
 
 <a id="form-decoration-5-1"></a>
 
@@ -2506,13 +2506,13 @@ Envie um galho, faixa ou grupo de formas diagonalmente na composição.
 
 ##### Travessias tecidas
 
-Cruze vários fios decorativos uns sobre os outros e sugira o tema para tecer.
+Cruze vários fios decorativos entre si e sobre o elemento principal para sugerir entrelaçamento.
 
 <a id="form-decoration-5-5"></a>
 
-![Acentos pendurados – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-5-5.svg)
+![Detalhes pendentes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-5-5.svg)
 
-##### Acentos pendurados
+##### Detalhes pendentes
 
 Pendure miçangas, borlas, amuletos ou vinhas no objeto ou em sua moldura.
 
@@ -2522,7 +2522,7 @@ Pendure miçangas, borlas, amuletos ou vinhas no objeto ou em sua moldura.
 
 ##### Sequência vinculada
 
-Conecte vários assuntos com uma linha, corrente, ramificação ou outro elo contínuo.
+Conecte vários elementos principais com uma linha, corrente, galho ou outro elo contínuo.
 
 <a id="form-decoration-5-7"></a>
 
@@ -2550,9 +2550,9 @@ Guie a decoração ao redor do objeto ao longo de uma curva em forma de C ou S.
 
 <a id="form-decoration-6-1"></a>
 
-![Caminho de trilha - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-6-1.svg)
+![Trajetória de rastro — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-6-1.svg)
 
-##### Caminho final
+##### Trajetória de rastro
 
 Deixe um rastro de brilhos, fumaça ou linhas atrás do objeto em movimento.
 
@@ -2568,7 +2568,7 @@ Pulverize manchas, gotículas ou fragmentos de tinta para fora de um ponto local
 
 ![Formas transbordantes – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-6-3.svg)
 
-##### Formulários transbordando
+##### Formas transbordantes
 
 Deixe flores, fumaça ou estrelas saírem de dentro do objeto ou através de uma abertura.
 
@@ -2630,15 +2630,15 @@ Organize silhuetas variadas de folhas ao longo de caules, guirlandas ou campos p
 
 ![Ramos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-7-3.svg)
 
-##### Filiais
+##### Galhos
 
-Use linhas ramificadas para enquadrar o assunto, dividir o espaço ou transportar botões e folhas menores para fora.
+Use linhas ramificadas para emoldurar o elemento principal, dividir o espaço ou sustentar pequenos botões florais e folhas que se estendem para fora.
 
 <a id="form-decoration-7-4"></a>
 
-![Vinhas – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-7-4.svg)
+![Trepadeiras — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-7-4.svg)
 
-##### Vinhas
+##### Trepadeiras
 
 Deixe que as gavinhas onduladas se entrelaçam entre os elementos, ligando motivos separados com movimento contínuo de escalada.
 
@@ -2656,7 +2656,7 @@ Crie uma textura de solo macia a partir de lâminas delgadas, tufos e alturas qu
 
 ##### Samambaias
 
-Adicione folhas divididas cujos folhetos repetidos criam uma estrutura delicada e um caráter fresco de floresta.
+Adicione frondes divididas cujos folíolos repetidos criem uma estrutura delicada e uma aparência fresca de floresta.
 
 <a id="form-decoration-7-7"></a>
 
@@ -2664,7 +2664,7 @@ Adicione folhas divididas cujos folhetos repetidos criam uma estrutura delicada 
 
 ##### Espigas de trigo
 
-Reúna grãos cônicos em feixes verticais ou guirlandas que sugerem colheita, abundância e calor do final do verão.
+Reúna espigas afiladas em feixes verticais ou guirlandas que sugiram colheita, abundância e o calor do fim do verão.
 
 <a id="form-decoration-7-8"></a>
 
@@ -2680,7 +2680,7 @@ Use formas de frutas reconhecíveis como objetos focais coloridos, cachos sazona
 
 ##### Cogumelos
 
-Combine tampas arredondadas e hastes curtas em detalhes extravagantes da floresta com silhuetas fortes e facilmente variadas.
+Combine chapéus arredondados e pés curtos em detalhes lúdicos de floresta, com silhuetas fortes e fáceis de variar.
 
 <a id="form-decoration-7-10"></a>
 
@@ -2688,7 +2688,7 @@ Combine tampas arredondadas e hastes curtas em detalhes extravagantes da florest
 
 ##### Cactos
 
-Use formas verticais com nervuras e lombadas esparsas para trazer o caráter do clima seco e a ousada simplicidade escultural.
+Use formas verticais com nervuras e espinhos esparsos para evocar o clima seco e uma simplicidade escultórica marcante.
 
 <a id="materials-panel-word-g8"></a>
 
@@ -2816,7 +2816,7 @@ Prefira asas estampadas mais largas e cores noturnas suaves para uma contraparte
 
 ##### Abelhas
 
-Combine corpos listrados, asas translúcidas e pequenas trajetórias de voo para sugerir polinização, indústria e escala viva.
+Combine corpos listrados, asas translúcidas e pequenas trajetórias de voo para sugerir polinização, laboriosidade e uma escala cheia de vida.
 
 <a id="form-decoration-9-3"></a>
 
@@ -2908,17 +2908,17 @@ Organize formas pontiagudas de três lados para sugerir estabilidade, aviso, asc
 
 <a id="form-decoration-10-4"></a>
 
-![Diamantes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-4.svg)
+![Losangos — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-4.svg)
 
-##### Diamantes
+##### Losangos
 
 Use quadrados inclinados como facetas brilhantes, referências de naipes ou ornamentos angulares repetidos.
 
 <a id="form-decoration-10-5"></a>
 
-![Tabuleiro de damas – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-5.svg)
+![Quadriculado — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-10-5.svg)
 
-##### Tabuleiro de damas
+##### Quadriculado
 
 Alterne quadrados claros e escuros para produzir uma grade ousada com movimento imediato e contraste gráfico.
 
@@ -2976,7 +2976,7 @@ Adicione pequenas rajadas de quatro pontos ao redor dos destaques e bordas para 
 
 #### Têxteis e ornamentos
 
-Compare tecidos, cordões, joias e motivos de fixação usados como bordas, gravatas, detalhes pendurados ou detalhes ornamentais.
+Compare motivos de tecido, cordão, joias e fechos usados como bordas, amarrações, detalhes pendentes ou ornamentos.
 
 <a id="form-decoration-11-0"></a>
 
@@ -2988,9 +2988,9 @@ Curve tiras largas de tecido pela composição como banners, detalhes envolvente
 
 <a id="form-decoration-11-1"></a>
 
-![Arcos – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-11-1.svg)
+![Laços — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/decoration-11-1.svg)
 
-##### Arcos
+##### Laços
 
 Amarre laços simétricos em torno de um nó central para criar um toque compacto de presente com charme suave.
 
@@ -3064,7 +3064,7 @@ Pendure um amuleto simbólico em uma corrente ou cordão para que um pequeno obj
 
 #### Marcas de papel e impressas
 
-Compare pedaços de papel prontos para colagem e coisas efêmeras impressas, incluindo bordas, marcas de anexo, etiquetas e associações documentais.
+Compare pedaços de papel prontos para colagem e impressos efêmeros, incluindo bordas, marcas de fixação, etiquetas e associações documentais.
 
 <a id="form-decoration-12-0"></a>
 
@@ -3072,7 +3072,7 @@ Compare pedaços de papel prontos para colagem e coisas efêmeras impressas, inc
 
 ##### Pedaços de papel
 
-Camada de sobras irregulares com bordas visíveis, cores incompatíveis e impressão parcial para criar uma profundidade de colagem casual.
+Sobreponha retalhos irregulares com bordas visíveis, cores distintas e impressão parcial para criar profundidade casual de colagem.
 
 <a id="form-decoration-12-1"></a>
 
@@ -3096,7 +3096,7 @@ Use tags compactas com bordas para nomes, categorias, preços ou pequenas declar
 
 ##### Selos postais
 
-Adicione molduras em miniatura perfuradas com marcas de cancelamento para evocar correspondências, viagens, coleções e lugares distantes.
+Adicione pequenas molduras perfuradas com marcas semelhantes a carimbos postais para evocar correspondência, viagens, colecionismo e lugares distantes.
 
 <a id="form-decoration-12-4"></a>
 
@@ -3176,7 +3176,7 @@ Expanda finas curvas concêntricas a partir de um centro, transformando uma pert
 
 ##### Marcas de tinta
 
-Use pretos acumulados, bordas secas, respingos e flores acidentais como evidência expressiva de tinta líquida.
+Use massas de preto acumulado, bordas secas, respingos e manchas de expansão acidentais como evidências expressivas da tinta líquida.
 
 <a id="form-decoration-13-5"></a>
 
@@ -3184,7 +3184,7 @@ Use pretos acumulados, bordas secas, respingos e flores acidentais como evidênc
 
 ##### Pinceladas
 
-Deixe caminhos largos de cerdas e gestos cônicos visíveis para que o ato e a direção da pintura permaneçam claros.
+Deixe visíveis marcas largas das cerdas e gestos afilados para manter claros o ato e a direção da pintura.
 
 <a id="form-decoration-13-6"></a>
 
@@ -3210,7 +3210,7 @@ Espalhe pedaços angulares quebrados em torno de uma fonte interrompida, equilib
 
 Dissolva as bordas em muitas unidades minúsculas cuja densidade variável cria poeira, brilho ou transição atmosférica.
 
-**Use a direção geral orientada pelo assunto**
+**Use a direção geral de composição guiada pelo elemento principal**
 
 <a id="ai-directions"></a>
 
@@ -3222,7 +3222,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Composição centrada no tema principal
+Composição guiada pelo elemento principal
 
 **Entrada e saída**
 
@@ -3230,7 +3230,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Escolha o objeto ou texto principal e estabeleça uma hierarquia legível. Use um assunto, vários assuntos ou uma relação de texto e imagem, com o fundo apoiando o conteúdo focal.
+Escolha o objeto ou texto principal e estabeleça uma hierarquia legível. Use um elemento principal, vários elementos principais ou uma relação de texto e imagem, com o fundo apoiando o conteúdo focal.
 
 **Fundo**
 
@@ -3246,6 +3246,6 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-Não substitua o tema focal identificável por um ambiente, repetição decorativa, superfície material ou abstração não figurativa.
+Não substitua o elemento principal focal identificável por um ambiente, uma repetição decorativa, uma superfície de material ou uma abstração não figurativa.
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

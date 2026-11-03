@@ -20,7 +20,7 @@ Crie um conjunto coordenado de quatro ou seis peças com um design diferente em 
 
 [Gerador de grade 4PC](https://podplo.app/skills/four-piece-grid) desenvolve uma referência em quatro direções de design coordenadas.
 
-[Gerador de grade 4PC](https://podplo.app/skills/four-piece-grid) desenvolve uma referência em quatro composições relacionadas, mas distintas. O assunto permanece consistente enquanto o layout, os elementos de suporte e o ponto focal mudam de painel para painel.
+[Gerador de grade 4PC](https://podplo.app/skills/four-piece-grid) desenvolve uma referência em quatro composições relacionadas, mas distintas. O elemento principal permanece consistente enquanto o layout, os elementos de apoio e o ponto focal mudam de painel para painel.
 
 ![Referência para uma coleção de quatro peças](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16-before.webp)
 
@@ -52,7 +52,7 @@ Pacote de adesivos e clipart](https://podplo.app/skills/sticker-clipart-pack)
 
 [Gerador de grade 6PC](https://podplo.app/skills/six-piece-grid) expande uma referência em uma coleção coordenada de seis designs.
 
-[Gerador de grade 6PC](https://podplo.app/skills/six-piece-grid) expande uma referência em seis direções coordenadas. Um tema e uma paleta compartilhados mantêm o conjunto consistente, enquanto a pose, o enquadramento, o ornamento ou a composição tornam cada painel distinto.
+[Gerador de grade 6PC](https://podplo.app/skills/six-piece-grid) expande uma referência em seis direções coordenadas. Um elemento principal e uma paleta compartilhados mantêm o conjunto consistente, enquanto a pose, o enquadramento, a ornamentação ou a composição tornam cada painel distinto.
 
 ![Referência para uma coleção de seis peças](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17-before.webp)
 

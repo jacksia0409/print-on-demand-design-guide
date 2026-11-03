@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/personalization?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/personalization?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -48,9 +48,9 @@ Créateur d'affiches](https://podplo.app/skills/poster-maker)[![Exemple d'illust
 
 Disposition centrale compacte](https://podplo.app/skills/compact-center-layout)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple d'illustration de réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple de visuel « Réparation des détails »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Réparation détaillée](https://podplo.app/skills/detail-repair)
+Réparation des détails](https://podplo.app/skills/detail-repair)
 
 <a id="templates"></a>
 
@@ -60,7 +60,7 @@ Réparation détaillée](https://podplo.app/skills/detail-repair)
 
 [Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern) transforme le nom d’un client en une répétition ludique de dinosaure. L'espacement s'ajuste pour les noms courts et longs, de sorte que chaque version semble personnalisée tout en conservant le même design de base.
 
-[![Exemple de personnalisation du nom d'un dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
+[![Exemple de personnalisation d’un prénom sur le thème des dinosaures](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
 
 Modèle de nom de dinosaure
 
@@ -76,9 +76,9 @@ Modèle de nom de dinosaure
 
 [![Exemple d'illustration de cadre de nom floral](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-Cadre de nom floral](https://podplo.app/skills/floral-name-frame)[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Cadre de nom floral](https://podplo.app/skills/floral-name-frame)[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="proofing"></a>
 
@@ -112,13 +112,13 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration Sil
 
 Créateur de silhouettes](https://podplo.app/skills/silhouette-maker)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 
 <a id="exceptions"></a>
 
-## Use clear photos and confirmed details
+## Utilisez des photos nettes et des détails confirmés
 
 Des photos claires et des détails confirmés produisent des illustrations personnalisées plus spécifiques et crédibles.
 
@@ -150,6 +150,6 @@ Créateur d'affiches](https://podplo.app/skills/poster-maker)[![Exemple d'illust
 
 Disposition centrale compacte](https://podplo.app/skills/compact-center-layout)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple d'illustration de réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple de visuel « Réparation des détails »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Réparation détaillée](https://podplo.app/skills/detail-repair)
+Réparation des détails](https://podplo.app/skills/detail-repair)

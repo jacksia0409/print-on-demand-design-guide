@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/techniques/holiday-versions?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/techniques/holiday-versions?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Dale a tu diseño un toque navideño
+# Dale a tu diseño un toque festivo
 
 Tome un diseño que le guste y agréguele luces navideñas, detalles de Halloween o un toque romántico del Día de San Valentín.
 
@@ -18,9 +18,9 @@ Tome un diseño que le guste y agréguele luces navideñas, detalles de Hallowee
 
 ## Crea una variación navideña
 
-[Hazlo Navidad](https://podplo.app/skills/make-it-christmas) añade detalles coordinados de vacaciones conservando el tema original.
+[Versión navideña](https://podplo.app/skills/make-it-christmas) añade detalles festivos coordinados y conserva el motivo principal original.
 
-[Hazlo Navidad](https://podplo.app/skills/make-it-christmas) agrega luces, vegetación, nieve y otros detalles festivos coordinados en torno al tema original. La persona, la mascota, la obra de arte y el texto siguen siendo reconocibles.
+[Versión navideña](https://podplo.app/skills/make-it-christmas) agrega luces, vegetación, nieve y otros detalles festivos coordinados en torno al tema original. La persona, la mascota, la obra de arte y el texto siguen siendo reconocibles.
 
 ![Referencia antes de agregar un tema navideño](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
@@ -28,7 +28,7 @@ Entrada
 
 [![Versión navideña conservando la identidad de origen.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
-Hazlo Navidad
+Versión navideña
 
 **Más Skills para explorar**
 
@@ -42,21 +42,21 @@ Hazlo Navidad
 
 [![Ejemplo de obra de arte de Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Hazlo Halloween](https://podplo.app/skills/make-it-halloween)[![Ejemplo de obra de arte de Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Versión de Halloween](https://podplo.app/skills/make-it-halloween)[![Ejemplo de obra de arte de Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Hazlo San Valentín](https://podplo.app/skills/make-it-valentines)[![Ejemplo de obra de arte de Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Versión de San Valentín](https://podplo.app/skills/make-it-valentines)[![Ejemplo de obra de arte de Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Hazlo Pascua](https://podplo.app/skills/make-it-easter)[![Ejemplo de obra de arte de Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Versión de Pascua](https://podplo.app/skills/make-it-easter)[![Ejemplo de obra de arte de Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Hazlo Acción de Gracias](https://podplo.app/skills/make-it-thanksgiving)
+Versión de Acción de Gracias](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="valentines-version"></a>
 
 ## Crea una variación de San Valentín
 
-[Hazlo San Valentín](https://podplo.app/skills/make-it-valentines) agrega detalles románticos a las personas, mascotas o obras de arte ya mostradas.
+[Versión de San Valentín](https://podplo.app/skills/make-it-valentines) agrega detalles románticos a las personas, mascotas o obras de arte ya mostradas.
 
-[Hazlo San Valentín](https://podplo.app/skills/make-it-valentines) agrega corazones, flores, colores cálidos o un mensaje corto sobre una persona, pareja, mascota o obra de arte existente. Se basa en la relación ya mostrada en lugar de inventarla.
+[Versión de San Valentín](https://podplo.app/skills/make-it-valentines) agrega corazones, flores, colores cálidos o un mensaje corto sobre una persona, pareja, mascota o obra de arte existente. Se basa en la relación ya mostrada en lugar de inventarla.
 
 ![Referencia antes de agregar un tema de San Valentín](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3-before.webp)
 
@@ -64,7 +64,7 @@ Entrada
 
 [![Versión de San Valentín con sobrios detalles románticos](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)](https://podplo.app/skills/make-it-valentines)
 
-Hazlo San Valentín
+Versión de San Valentín
 
 **Más Skills para explorar**
 
@@ -78,21 +78,21 @@ Hazlo San Valentín
 
 [![Ejemplo de obra de arte de Make It Christmas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-Hazlo Navidad](https://podplo.app/skills/make-it-christmas)[![Ejemplo de obra de arte de Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+Versión navideña](https://podplo.app/skills/make-it-christmas)[![Ejemplo de obra de arte de Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Hazlo Halloween](https://podplo.app/skills/make-it-halloween)[![Ejemplo de obra de arte de Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Versión de Halloween](https://podplo.app/skills/make-it-halloween)[![Ejemplo de obra de arte de Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Hazlo Pascua](https://podplo.app/skills/make-it-easter)[![Ejemplo de obra de arte de Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Versión de Pascua](https://podplo.app/skills/make-it-easter)[![Ejemplo de obra de arte de Make It Thanksgiving](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Hazlo Acción de Gracias](https://podplo.app/skills/make-it-thanksgiving)
+Versión de Acción de Gracias](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="mothers-day-version"></a>
 
 ## Crea una variación para el Día de la Madre
 
-[Hazlo el día de la madre](https://podplo.app/skills/make-it-mothers-day) Agrega flores y un mensaje personal manteniendo a los mismos miembros de la familia.
+[Versión para el Día de la Madre](https://podplo.app/skills/make-it-mothers-day) Agrega flores y un mensaje personal manteniendo a los mismos miembros de la familia.
 
-[Hazlo el día de la madre](https://podplo.app/skills/make-it-mothers-day) Agrega flores, colores cálidos y un mensaje al cliente sobre las personas en la imagen original. Mantiene a cada miembro de la familia en su lugar sin agregar ni reemplazar a nadie.
+[Versión para el Día de la Madre](https://podplo.app/skills/make-it-mothers-day) añade flores, colores cálidos y un mensaje del cliente alrededor de las personas de la imagen original. Mantiene a todos los familiares en su sitio sin añadir ni sustituir a nadie.
 
 ![Referencia familiar antes de agregar un tema del Día de la Madre](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6-before.webp)
 
@@ -100,7 +100,7 @@ Entrada
 
 [![Versión del Día de la Madre preservando a las personas suministradas.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6.webp)](https://podplo.app/skills/make-it-mothers-day)
 
-Hazlo el día de la madre
+Versión para el Día de la Madre
 
 **Más Skills para explorar**
 
@@ -114,10 +114,10 @@ Hazlo el día de la madre
 
 [![Ejemplo de obra de arte de Make It Christmas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-Hazlo Navidad](https://podplo.app/skills/make-it-christmas)[![Ejemplo de obra de arte de Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+Versión navideña](https://podplo.app/skills/make-it-christmas)[![Ejemplo de obra de arte de Make It Halloween](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Hazlo Halloween](https://podplo.app/skills/make-it-halloween)[![Ejemplo de obra de arte de Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Versión de Halloween](https://podplo.app/skills/make-it-halloween)[![Ejemplo de obra de arte de Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Hazlo San Valentín](https://podplo.app/skills/make-it-valentines)[![Ejemplo de obra de arte de Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Versión de San Valentín](https://podplo.app/skills/make-it-valentines)[![Ejemplo de obra de arte de Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Hazlo Pascua](https://podplo.app/skills/make-it-easter)
+Versión de Pascua](https://podplo.app/skills/make-it-easter)

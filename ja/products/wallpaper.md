@@ -22,7 +22,7 @@
 
 密集した小さなモチーフは微妙な背景を作成し、間隔をあけた大きなモチーフは壁全体で目立ち、垂直または斜めの繰り返しが部屋を通して目を誘導します。微妙な背景の小さな繰り返し。ステートメントウォール用の大きな間隔をあけたモチーフ。垂直または斜めの繰り返し。
 
-![壁紙・空白の製品ビジュアル](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
+![壁紙 · 無地の商品イメージ](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
 
 <a id="product-create"></a>
 
@@ -60,6 +60,6 @@ AI ルームのプレビューを使用して、小さなリピート、大き�
 
 - 大きなモチーフが壁の主役に
 
-- 方向を繰り返すと、部屋の高さや幅が変化します。
+- 方向性のあるリピート柄は、部屋の高さや幅の見え方を変えます
 
-![壁紙・AI製品証明](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
+![壁紙 · AIによる仕上がり確認](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)

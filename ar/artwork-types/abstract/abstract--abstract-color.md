@@ -42,7 +42,7 @@
 
 **الاتجاه المطلوب**
 
-عمل فني تجريدي → النماذج → حقول الألوان
+الفن التجريدي → الأشكال → مساحات لونية
 
 **المدخلات والمخرجات**
 
@@ -72,17 +72,17 @@
 
 ## استكشاف الخلفية
 
-تقارن هذه الأمثلة الأسباب ضمن عائلة المحتوى نفسها. احتفظ بالتركيبة الحالية عند تطبيق المعالجة؛ فتح مثال لتوجيهاته الكاملة.
+تقارن هذه الأمثلة الخلفيات ضمن فئة المحتوى نفسها. احتفظ بالتكوين الحالي عند تطبيق المعالجة؛ وافتح مثالًا لقراءة تعليماته الكاملة.
 
 [![خلفية شفافة: عمل فني تجريدي: تظل الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### خلفية شفافة↗
 
-عمل فني تجريدي: تظل الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](background--abstract--transparent.md)[![خلفية صلبة: عمل فني تجريدي: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
+الفن التجريدي: تبقى الخلفية شفافة؛ ونمط المربعات مجرد وسيلة توضيحية لعرض الشفافية.](background--abstract--transparent.md)[![خلفية أحادية اللون: عمل تجريدي: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
-### خلفية صلبة ↗
+### خلفية أحادية اللون↗
 
-العمل الفني التجريدي: لون موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](background--abstract--solid.md)[![خلفية متدرجة: عمل فني تجريدي: يتغير الجزء الخلفي بشكل مستمر في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
+الفن التجريدي: تشكل الخلفية بلون موحد واحد؛ ويُعد الأبيض خلفية بلون واحد أيضًا.](background--abstract--solid.md)[![خلفية متدرجة: عمل تجريدي: يتغير لون الخلفية أو سطوعها باستمرار مع بقاء المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
 ### خلفية متدرجة ↗
 
@@ -94,11 +94,11 @@
 
 ### خلفية منقوشة: منطقة كاملة↗
 
-عمل فني تجريدي: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--abstract--pattern-full.md)[![خلفية مزخرفة: عمل فني تجريدي: حبيبات الورق أو الجزيئات أو أي شخصية سطحية أخرى تدعم محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--texture-1.svg)
+عمل فني تجريدي: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--abstract--pattern-full.md)[![خلفية ذات ملمس: عمل تجريدي: تدعم حبيبات الورق أو الجزيئات أو غيرها من سمات السطح محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--texture-1.svg)
 
-### خلفية محكم↗
+### خلفية ذات ملمس↗
 
-عمل فني تجريدي: حبيبات الورق أو الجزيئات أو أي شخصية سطحية أخرى تدعم محتوى المقدمة.](background--abstract--texture.md)[![الخلفية البيئية: العمل الفني التجريدي: تدعم البيئة المرتبطة بالموضوع المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
+الفن التجريدي: تدعم حبيبات الورق أو الجزيئات أو أي خصائص سطحية أخرى المحتوى الأمامي.](background--abstract--texture.md)[![الخلفية البيئية: العمل الفني التجريدي: تدعم البيئة المرتبطة بالموضوع المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
 
 ### الخلفية البيئية↗
 

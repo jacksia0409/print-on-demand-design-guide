@@ -10,9 +10,9 @@
 
 <a id="guide-main"></a>
 
-# टोपी और टोपी
+# हैट और कैप
 
-किसी वर्ण, प्रतीक या संक्षिप्त शब्द को एक कॉम्पैक्ट हैट ग्राफ़िक में बदलें।
+किसी पात्र, प्रतीक या छोटे शब्द को छोटा टोपी ग्राफ़िक बनाएँ।
 
 <a id="product-overview"></a>
 
@@ -22,7 +22,7 @@
 
 स्पष्ट सिल्हूट, कॉम्पैक्ट बैज और छोटे अक्षर टोपी के छोटे घुमावदार मोर्चे पर सबसे अच्छा काम करते हैं। एक केन्द्रित शुभंकर बैज; विशिष्ट अक्षरों वाला एक छोटा शब्द; एक मजबूत रूपरेखा वाला एक सरल प्रतीक।
 
-[![टोपियाँ और टोपियाँ · ट्रक वाला टोपी 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)](https://podplo.app/products/mockup-zazzle-256114317380662744)
+[![हैट और कैप · ट्रकर कैप 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)](https://podplo.app/products/mockup-zazzle-256114317380662744)
 
 <a id="product-create"></a>
 
@@ -32,7 +32,7 @@
 
 ### एक कॉम्पैक्ट टोपी बैज बनाएं
 
-एक संक्षिप्त शीर्षक, एक स्पष्ट विषय और एक संक्षिप्त उपशीर्षक को एक छोटे, केन्द्रित लेआउट में संयोजित करें।
+छोटे केंद्रित लेआउट में संक्षिप्त शीर्षक, एक स्पष्ट मुख्य दृश्य तत्व और छोटा उपशीर्षक मिलाएँ।
 
 [शीर्षक-विषय-उपशीर्षक लेआउट](https://podplo.app/skills/title-subject-subtitle-layout)
 
@@ -44,7 +44,7 @@
 
 उत्पन्न कलाकृति
 
-![सलाम और टोपी · शीर्षक-विषय-उपशीर्षक लेआउट · एआई उत्पाद पूर्वावलोकन](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
+![हैट और कैप · शीर्षक–मुख्य आकृति–उपशीर्षक लेआउट · AI उत्पाद पूर्वावलोकन](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
 
 एआई उत्पाद पूर्वावलोकन
 
@@ -76,9 +76,9 @@
 
 <a id="_R_bn3k_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![पालतू स्टीकर डूडल कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-05.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![पालतू स्टीकर डूडल कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-05.webp)
 
 पालतू स्टीकर डूडल](https://podplo.app/skills/pet-sticker-doodle)[![जिज्ञासु पालतू प्रश्न स्टीकर कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-18.webp)
 
@@ -90,13 +90,13 @@
 
 एक संक्षिप्त, वैयक्तिकृत टोपी ग्राफ़िक बनाने के लिए ताज के नीचे एक नाम रखें।
 
-[राजकुमारी मुकुट का नाम](https://podplo.app/skills/princess-crown-name)
+[राजकुमारी के मुकुट के साथ नाम](https://podplo.app/skills/princess-crown-name)
+
+NAME
 
 नाम
 
-नाम
-
-[![राजकुमारी मुकुट का नाम · उत्पन्न कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
+[![राजकुमारी के मुकुट के साथ नाम · जनरेट की गई कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
 
 उत्पन्न कलाकृति
 
@@ -114,9 +114,9 @@
 
 <a id="_R_bv3k_-cards"></a>
 
-[![बोल्ड येलो कोट पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606868223170088-artwork.webp)
+[![प्रभावशाली पीले उद्धरण-पोस्टर की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606868223170088-artwork.webp)
 
-बोल्ड येलो कोट पोस्टर](https://podplo.app/skills/bold-yellow-quote-poster)
+प्रभावशाली पीला उद्धरण-पोस्टर](https://podplo.app/skills/bold-yellow-quote-poster)
 
 <a id="product-mockup"></a>
 
@@ -130,8 +130,8 @@
 
 - बैज में एक संक्षिप्त नाम बनाया जा सकता है
 
-- टोपी का रंग उसी ग्राफ़िक को बोल्ड या कम महत्व वाला बना सकता है
+- टोपी का रंग उसी ग्राफ़िक को उभरा हुआ या संयमित दिखा सकता है
 
-[![टोपियाँ और टोपियाँ · ट्रक वाला टोपी 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)](https://podplo.app/products/mockup-zazzle-256114317380662744)
+[![हैट और कैप · ट्रकर कैप 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)](https://podplo.app/products/mockup-zazzle-256114317380662744)
 
-[![टोपियाँ और टोपियाँ · ट्रक वाला टोपी 02](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256949692967857555.webp)](https://podplo.app/products/mockup-zazzle-256949692967857555)
+[![हैट और कैप · ट्रकर कैप 02](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256949692967857555.webp)](https://podplo.app/products/mockup-zazzle-256949692967857555)

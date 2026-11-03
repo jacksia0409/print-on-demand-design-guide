@@ -51,6 +51,11 @@ strings to their translations; missing translations cause the build to fail
 instead of silently inserting English. Context-sensitive corrections may also
 require adjusting how the source paragraph is segmented.
 
+`data/ai-review-overrides.json` stores explicit full AI-reviewed translations.
+These apply after terminology, editorial and derived-label processing so a
+contextual correction survives rebuilding. See `AI_TRANSLATION_REVIEW.md` for
+scope and verification; this review does not certify native human fluency.
+
 ## Updating translations
 
 After an explicitly authorized content update, these commands submit only

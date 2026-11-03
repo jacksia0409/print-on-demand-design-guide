@@ -12,7 +12,7 @@
 
 # Copos
 
-Adapte uma imagem em uma peça central alta, uma repetição completa ou um envoltório completo para um copo.
+Adapte uma imagem a uma composição central vertical, a uma estampa repetitiva em toda a área ou a uma arte que contorne todo o copo.
 
 <a id="product-overview"></a>
 
@@ -32,27 +32,27 @@ Use Skills diferentes para transformar a mesma imagem em novos layouts, arte bas
 
 ### Crie um padrão de copo completo
 
-Pegue os detalhes da sua imagem e organize-os em uma repetição contínua em todo o envoltório.
+Extraia detalhes da sua imagem e organize-os em uma repetição sem emendas por toda a superfície envolvente.
 
 [Padrão sem emendas](https://podplo.app/skills/seamless-pattern)
 
-![Padrão sem costura · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Padrão sem emendas · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Imagem de origem
 
-[![Padrão sem costura · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Padrão sem emendas · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Arte gerada
 
-![Copos · Padrão sem costura · Visualização de produto de IA](https://podplo.app/pod-guide/generated/tumblers-seamless-pattern-proof.webp)
+![Copos · Padrão sem emendas · Prévia de produto com IA](https://podplo.app/pod-guide/generated/tumblers-seamless-pattern-proof.webp)
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais layout e defina Skills**
+**Explore mais Skills de layout e de conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore mais layout e defina Skills
+#### Explore mais Skills de layout e de conjuntos
 
 4 / 11
 
@@ -62,9 +62,9 @@ Visualização do produto de IA
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -84,13 +84,13 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 4 / 91
 
@@ -112,7 +112,7 @@ Faça do nome o ponto focal e organize as flores para se ajustarem ao formato ve
 
 [Moldura floral com nome](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉIA
+ANDREA
 
 Nome
 
@@ -122,23 +122,23 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais nome e ocasião Skills**
+**Explore mais Skills de nomes e ocasiões**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explore mais nome e ocasião Skills
+#### Explore mais Skills de nomes e ocasiões
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Póster Nome do Pólo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte do padrão de nome Crayon Hearts](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Pôster de nome do Polo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte de padrão de nome com corações em giz de cera](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Padrão de nome de corações de giz de cera](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -146,7 +146,7 @@ Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize o design completo do copo
 
@@ -154,8 +154,8 @@ A visualização da IA mostra o ponto focal principal e os detalhes que aparecem
 
 - A arte vertical enfatiza a altura do copo
 
-- Motivos dispersos criam um design uniforme e completo
+- Motivos dispersos criam um design uniforme em toda a superfície
 
-- Uma cena panorâmica usa todo o envoltório
+- Uma cena panorâmica usa todo o contorno do produto
 
 ![Copos · Prova de produto de IA](https://podplo.app/pod-guide/generated/tumblers-proof.webp)

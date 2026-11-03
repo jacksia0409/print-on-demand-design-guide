@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/hats?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/hats?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Chapeaux et casquettes
 
-Transformez un caractère, un symbole ou un mot court en un graphique de chapeau compact.
+Transformez un personnage, un symbole ou un mot court en un visuel compact pour chapeau.
 
 <a id="product-overview"></a>
 
@@ -46,31 +46,31 @@ Oeuvre générée
 
 ![Chapeaux et casquettes · Disposition titre-sujet-sous-titre · Aperçu du produit IA](https://podplo.app/pod-guide/generated/hats-title-subject-subtitle-layout-proof.webp)
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
 ### Convertir une photo en une marque monochrome
 
 Utilisez un sujet clair de la photo pour créer un graphique de tampon simple avec un contour fort.
 
-[Timbre monochrome](https://podplo.app/skills/monochrome-stamp)
+[Tampon monochrome](https://podplo.app/skills/monochrome-stamp)
 
-![Timbre monochrome · Photo source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12-before.webp)
+![Tampon monochrome · Photo source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12-before.webp)
 
 Photo d’origine
 
-[![Timbre monochrome · Oeuvre générée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)](https://podplo.app/skills/monochrome-stamp)
+[![Tampon monochrome · Visuel généré](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)](https://podplo.app/skills/monochrome-stamp)
 
 Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de photos et d'images Skills**
+**Explorez davantage de Skills photo et image**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explorez plus de photos et d'images Skills
+#### Explorez davantage de Skills photo et image
 
 4 / 4
 
@@ -82,39 +82,39 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration de 
 
 Autocollant pour animaux de compagnie, griffonnage](https://podplo.app/skills/pet-sticker-doodle)[![Exemple d'illustration d'autocollant de question d'animal curieux](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/pet-skill-results/result-18.webp)
 
-Question curieuse sur les animaux de compagnie Sticker](https://podplo.app/skills/curious-pet-question-sticker)[![Exemple d'illustration de la famille de pochoirs monochromes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
+Autocollant d’animal curieux avec question](https://podplo.app/skills/curious-pet-question-sticker)[![Exemple de visuel « Portrait de famille au pochoir monochrome »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-20-after.webp)
 
-Famille de pochoirs monochromes](https://podplo.app/skills/monochrome-stencil-family)
+Portrait de famille au pochoir monochrome](https://podplo.app/skills/monochrome-stencil-family)
 
 ### Ajoutez un nom sous une couronne ornée de bijoux
 
 Placez un nom sous la couronne pour créer un graphique de chapeau compact et personnalisé.
 
-[Nom de la couronne de princesse](https://podplo.app/skills/princess-crown-name)
+[Prénom avec couronne de princesse](https://podplo.app/skills/princess-crown-name)
 
 NOM
 
 Nom
 
-[![Nom de la couronne de princesse · Illustration générée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
+[![Prénom avec couronne de princesse · Visuel généré](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607375566176979-artwork.webp)](https://podplo.app/skills/princess-crown-name)
 
 Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Découvrez plus de noms et d'occasions Skills**
+**Découvrez davantage de Skills pour les noms et les occasions**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Découvrez plus de noms et d'occasions Skills
+#### Découvrez davantage de Skills pour les noms et les occasions
 
 1 / 1
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemple d'illustration d'affiche de citation jaune en gras](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606868223170088-artwork.webp)
+[![Exemple de visuel « Affiche jaune à citation affirmée »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606868223170088-artwork.webp)
 
 Citation jaune audacieuse Poster](https://podplo.app/skills/bold-yellow-quote-poster)
 

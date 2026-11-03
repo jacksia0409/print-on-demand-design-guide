@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/techniques/compose-anything?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Ein Bild. Unendliche Möglichkeiten.
 
-Remix Ihre Bilder und Texte mit verschiedenen Skills. Probieren Sie neue Layouts aus und verwandeln Sie eine Idee in eine Reihe von Designs.
+Kombinieren Sie Ihre Bilder und Texte mit verschiedenen Skills neu. Probieren Sie neue Layouts aus und entwickeln Sie aus einer Idee mehrere Designs.
 
 <a id="material-is-the-start"></a>
 
@@ -24,23 +24,23 @@ Remix Ihre Bilder und Texte mit verschiedenen Skills. Probieren Sie neue Layouts
 
 <a id="opaque-artwork"></a>
 
-[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) kombiniert ein erkennbares Motiv und eine Kopie in einer fett zentrierten Grafik.
+[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) kombiniert ein erkennbares Motiv und Text zu einer markanten zentrierten Grafik.
 
 Beginnen Sie mit einem hochgeladenen Bild oder einem PodPlo-Asset. [Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) kombiniert Motiv und Text in einer ausgewogenen, zentrierten Grafik, wobei die Quelle erkennbar bleibt.
 
 ### Erstellen Sie eine stark zentrierte Grafik
 
-[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) vereint Motiv und Kopie in einer dichten, ausgewogenen Form. Aus einem losen Quellbild wird eine stark zentrierte Grafik mit einem klaren Schwerpunkt.
+[Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout) verbindet Motiv und Text zu einer dichten, ausgewogenen Form. Ein locker angeordnetes Ausgangsbild wird zu einer markanten zentrierten Grafik mit klarem Blickpunkt.
 
-### Stapeln Sie ein hohes Motiv und kopieren Sie es
+### Ordnen Sie ein hohes Motiv und Text übereinander an.
 
-[Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout) Ordnet ein großes Thema und eine Kopie von oben nach unten in einer klaren Lesereihenfolge an. Die offene Komposition lässt den Hintergrund rund um das Kunstwerk sichtbar.
+[Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout) ordnet ein hohes Motiv und Text von oben nach unten in klarer Lesereihenfolge an. Die offene Komposition lässt den Hintergrund um das Motiv herum sichtbar.
 
 ### Behalten Sie die gesamte Szene bei
 
 [Plakatmacher](https://podplo.app/skills/poster-maker) kann eine vollständige Szene, einen vollständigen Rahmen oder eine vollständige Textur beibehalten, wenn die Umgebung Teil des Designs ist. Das Ergebnis liest sich eher wie ein fertiges Poster als wie ein isoliertes Motiv.
 
-![Quellenangabe und genauer Wortlaut](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
+![Ausgangselement und genauer Wortlaut](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
 Eingabe
 
@@ -62,9 +62,9 @@ Kompaktes Center-Layout
 
 Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout)
 
@@ -74,15 +74,15 @@ Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout
 
 <a id="choose-fewer-skills"></a>
 
-[Nahtloses Muster](https://podplo.app/skills/seamless-pattern) verwandelt ein kleines Motiv in eine fortlaufende Wiederholung.
+[Nahtloses Muster](https://podplo.app/skills/seamless-pattern) verwandelt ein kleines Motiv in einen durchgehenden Rapport.
 
 [Nahtloses Muster](https://podplo.app/skills/seamless-pattern) wiederholt ein Motiv mit unterschiedlichem Abstand, Maßstab und Richtung. Eine Blume, ein Symbol oder ein Zeichen wird zu einem durchgehenden Muster, während die ursprüngliche Form erkennbar bleibt.
 
 ### Vergleichen Sie ein Emblem mit einem offenen Layout
 
-[Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout) umschließt das Bildmaterial und die Kopie in einem vollständigen Emblem, während das kompakte Center-Layout eine dichtere, offene Form erzeugt. Die gleiche Quelle kann klassisch und zurückhaltend oder energiegeladener und informeller wirken.
+[Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout) fasst Bild und Text in einem vollständigen Emblem zusammen, während Compact Center Layout eine dichtere offene Form erzeugt. Dieselbe Vorlage kann klassisch und geschlossen oder energischer und informeller wirken.
 
-![Motiv aus einer Hand](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Ein einzelnes Ausgangsmotiv](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Eingabe
 
@@ -106,9 +106,9 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-changes-the-result"></a>
 
@@ -122,7 +122,7 @@ Entwickeln Sie eine Figur oder ein Fest zu einer passenden Kollektion, wobei jed
 
 ### Vorschau des Designs im Kontext
 
-Platzieren Sie die ausgewählte Grafik in einer einfachen Produktszene, um zu sehen, wie sich Farbe, Objektform und Umgebung darauf auswirken. Das gleiche Design kann in verschiedenen Umgebungen mutig, zurückhaltend, verspielt oder nostalgisch wirken.
+Setzen Sie die gewählte Grafik in eine einfache Produktszene, um den Einfluss von Farbe, Produktform und Umgebung zu sehen. Dasselbe Design kann je nach Umgebung markant, dezent, verspielt oder nostalgisch wirken.
 
 ![Ein Quellthema vor der Set-Generierung](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18-before.webp)
 
@@ -152,13 +152,13 @@ Aufkleber- und Clipart-Paket
 
 ## Speichern Sie ein wiederholbares Creative-Setup
 
-Speichern Sie die Quelle Skill und das stärkste Ergebnis, damit das Setup einfach wiederverwendet werden kann.
+Speichern Sie die Vorlage, den Skill und das beste Ergebnis, damit Sie diese Kombination leicht wiederverwenden können.
 
-Halten Sie die Quelle Skill und das stärkste Ergebnis zusammen. Dies macht es einfach, dasselbe Setup für ein neues Layout, ein Wiederholungsmuster, eine saisonale Variation oder eine neue Kollektion wiederzuverwenden.
+Bewahren Sie Ausgangsmaterial, Skill und stärkstes Ergebnis zusammen auf. So lässt sich derselbe Aufbau leicht für ein neues Layout, einen Rapport, eine saisonale Variante oder eine Kollektion wiederverwenden.
 
 Workflow-Darstellung mit Beispieleingaben und -werten.
 
-![Quelle, gewähltes Skill und Lieblingsergebnis](https://podplo.app/pod-guide/generated/records-result.webp)
+![Ausgangsmaterial, gewählter Skill und Lieblingsergebnis](https://podplo.app/pod-guide/generated/records-result.webp)
 
 Beispiel
 

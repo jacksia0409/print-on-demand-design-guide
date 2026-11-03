@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/gifts/gratitude?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/gifts/gratitude?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,13 +18,13 @@ Personalice un agradecimiento con nombres, roles, fotografías y mensajes que lo
 
 ## Crea un retrato familiar de agradecimiento
 
-[Retrato de familia 3D](https://podplo.app/skills/3d-family-portrait) combina una foto familiar y un mensaje compartido en una imagen personal de agradecimiento.
+[Retrato de familia en 3D](https://podplo.app/skills/3d-family-portrait) combina una foto familiar y un mensaje compartido en una imagen personal de agradecimiento.
 
-Una foto familiar, una frase compartida o una lista de nombres hacen que un agradecimiento sea más personal que un mensaje genérico. [Retrato de familia 3D](https://podplo.app/skills/3d-family-portrait) Crea un retrato de grupo animado al tiempo que preserva las personas y las relaciones en la foto.
+Una foto familiar, una frase compartida o una lista de nombres hacen que un agradecimiento sea más personal que un mensaje genérico. [Retrato de familia en 3D](https://podplo.app/skills/3d-family-portrait) Crea un retrato de grupo animado al tiempo que preserva las personas y las relaciones en la foto.
 
 [![Retrato dimensional de agradecimiento familiar.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
-Retrato de familia 3D
+Retrato de familia en 3D
 
 **Más Skills para explorar**
 
@@ -50,11 +50,11 @@ Creador de plantillas](https://podplo.app/skills/stencil-maker)
 
 ## Personaliza un diseño de agradecimiento
 
-Un nombre, función, asunto o mensaje corto hacen que un diseño compacto de agradecimiento sea personal.
+Un nombre, un cargo, una asignatura o un mensaje breve personalizan un diseño compacto de agradecimiento.
 
-Un nombre, función, equipo, asunto o mensaje corto pueden personalizar un diseño compacto de agradecimiento para un maestro, entrenador, mentor, colega o equipo de atención. El detalle específico evita que parezca genérico.
+Un nombre, cargo, equipo, asignatura o mensaje breve pueden personalizar un diseño compacto de agradecimiento para un profesor, entrenador, mentor, compañero o equipo de cuidados. Ese detalle concreto evita que resulte genérico.
 
-[![Diseño de apreciación compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
+[![Diseño compacto de agradecimiento](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
 Diseño central compacto
 
@@ -72,9 +72,9 @@ Diseño central compacto
 
 Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Ejemplo de diseño de insignia circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Ejemplo de diseño de insignia circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -86,7 +86,7 @@ Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout)
 
 [Creador de carteles](https://podplo.app/skills/poster-maker) combina una foto de grupo, fechas, nombre del proyecto y mensaje firmado en un cartel de despedida. Una jerarquía clara da suficiente espacio a cada persona y a cada detalle compartido.
 
-![Fotografía del equipo aprobada y copia de despedida.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
+![Fotografía de equipo aprobada y texto de despedida](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
 Entrada
 
@@ -104,12 +104,12 @@ Creador de carteles
 
 <a id="_R_2urk_-cards"></a>
 
-[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Ejemplo de diseño de insignia circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Ejemplo de diseño de insignia circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout)

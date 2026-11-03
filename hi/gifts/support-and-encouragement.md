@@ -16,7 +16,7 @@
 
 <a id="courage"></a>
 
-## एक उत्साहजनक रेखा के चारों ओर डिज़ाइन बनाएं
+## हौसला बढ़ाने वाले वाक्य के आसपास डिज़ाइन बनाएँ
 
 [कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout) एक उत्साहजनक लघु वाक्यांश को एक स्पष्ट, स्थिर उपस्थिति देता है।
 
@@ -72,9 +72,9 @@
 
 पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)[![3डी फैमिली पोर्ट्रेट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)
 
-3डी पारिवारिक पोर्ट्रेट](https://podplo.app/skills/3d-family-portrait)[![शीतल जल रंग पालतू पोर्ट्रेट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
+3डी पारिवारिक पोर्ट्रेट](https://podplo.app/skills/3d-family-portrait)[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)[![कॉम्पैक्ट सेंटर लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)[![कॉम्पैक्ट सेंटर लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)
 
@@ -84,9 +84,9 @@
 
 [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame) एक नाम को सीधे, व्यक्तिगत संदेश के साथ जोड़ता है।
 
-एक नाम और एक सीधी रेखा जैसे 'तुम्हारे बारे में सोचना' एक व्यक्तिगत पुष्प डिजाइन बन सकता है। [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame) संदेश को उसके पीछे की बातचीत को बदलने की कोशिश किए बिना सावधानी से प्रस्तुत करता है।
+एक नाम और “तुम्हारे बारे में सोच रहा हूँ” जैसा सीधा संदेश एक व्यक्तिगत फूलों वाला डिज़ाइन बन सकता है। [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame) संदेश को उसके पीछे की बातचीत को बदलने की कोशिश किए बिना सावधानी से प्रस्तुत करता है।
 
-[![आपके बारे में व्यक्तिगत सोच वाला नाम डिज़ाइन](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![आपकी याद में बनाया गया वैयक्तिकृत नाम-डिज़ाइन](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 पुष्प नाम फ़्रेम
 
@@ -104,4 +104,4 @@
 
 डायनासोर के नाम का पैटर्न](https://podplo.app/skills/dinosaur-name-pattern)[![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)

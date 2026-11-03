@@ -14,7 +14,7 @@ Estas son instrucciones de la Guía pública, no reglas privadas de Skill. Los e
 
 ## 1 Composición centrada en el motivo principal
 
-Un objeto identificable, un grupo o una letra encabeza la composición.
+Un objeto identificable, un grupo o una composición de letras protagoniza la imagen.
 
 ```text
 Dirección deseada: Composición centrada en el motivo principal
@@ -29,7 +29,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: No reemplace el tema focal identificable con un entorno, repetición decorativa, superficie material o abstracción no figurativa.
+Alcance y límites: no sustituyas el motivo focal identificable por un entorno, una repetición decorativa, una superficie material o una abstracción no figurativa.
 ```
 
 
@@ -42,7 +42,7 @@ Dirección deseada: Escenas
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Organice los temas, el entorno y el espacio en torno al tema original. El resultado puede ser un acontecimiento, un entorno tranquilo, un paisaje o una viñeta cotidiana; crear entornos relacionados si están ausentes.
+Estructura deseada: organiza los motivos principales, el entorno y el espacio alrededor del tema original. El resultado puede ser un acontecimiento, un entorno tranquilo, un paisaje o una escena cotidiana; crea un entorno relacionado si falta.
 
 Fondo: Utilice la ubicación existente, las señales ambientales y atmosféricas para desarrollar un entorno coherente. Si no existe ningún fondo o solo se proporciona un respaldo sólido o transparente, cree un entorno relacionado. Un patrón decorativo por sí solo no debe reemplazar el contexto esencial.
 
@@ -71,7 +71,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Una cuadrícula de activos normal no es automáticamente un patrón, y un resultado fluido reclamado requiere una verificación de salida en mosaico por separado.
+Alcance y límites: una cuadrícula regular de elementos no es automáticamente un patrón. Para afirmar que un resultado se repite sin juntas hace falta una comprobación independiente del resultado en mosaico.
 ```
 
 
@@ -86,19 +86,19 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Traduzca la paleta, el material y la atmósfera relevantes en obras de arte basadas en superficies. Utilice cobertura total, fragmentos o capas locales, reduciendo objetos no relacionados que se convertirían en sujetos focales independientes.
 
-Fondo: Material de referencia, paleta y atmósfera, creando un tratamiento superficial relevante cuando falta. Un parche local puede tener un respaldo independiente; una textura de área completa se fusiona con su suelo. Evite agregar un objeto dominante o un entorno narrativo.
+Fondo: toma como referencia el material, la paleta y la atmósfera; si faltan, crea un acabado de superficie relacionado. Un parche localizado puede tener un fondo propio; una textura integral se fusiona con su fondo. Evita añadir un objeto dominante o un escenario narrativo.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el material, la superficie, la paleta y la atmósfera relevantes sin requerir una silueta de objeto o una escena completa. Cree el efecto solicitado cuando no haya señales materiales, sin pretender haber identificado el material real de la fuente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: En cambio, la silueta de un objeto o un entorno completo puede ser una obra de arte de tema o escena. No todas las imágenes sin un objeto claro son una textura.
+Alcance y límites: la silueta de un objeto o un entorno completo pueden corresponder a diseños de motivos principales o escenas. No toda imagen sin un objeto claro es una textura.
 ```
 
 
 ## 5 Arte abstracto
 
-Formas, líneas, marcas y colores conducen sin una referencia objetiva definida.
+Las formas, líneas, marcas y colores protagonizan el diseño sin representar un objeto definido.
 
 ```text
 Dirección deseada: Arte abstracto
@@ -107,13 +107,13 @@ Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si 
 
 Estructura deseada: Traduce la paleta, el ritmo, la dirección o el estado de ánimo en formas geométricas, flujo orgánico, marcas o campos de color. Reorganizar las relaciones y el espacio en lugar de preservar un objeto concreto como objetivo principal.
 
-Fondo: Colores de fondo de referencia, ritmo y estado de ánimo. Si está ausente, cree relaciones terrestres o espaciales de apoyo relacionadas. El entorno de la fuente figurativa se puede simplificar para convertirlo en señales de apoyo sin reemplazar la composición no figurativa.
+Fondo: toma como referencia los colores, el ritmo y la atmósfera del fondo. Si no hay ninguno, crea un fondo de apoyo o relaciones espaciales acordes con el tema. El entorno figurativo del original puede simplificarse en indicios de apoyo sin sustituir la composición no figurativa.
 
 Texto: Conserva las palabras claramente legibles del original y su idioma, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporciona texto, crea una frase breve relacionada con el tema como apoyo, sin ocultar los motivos principales, la acción ni la estructura. Adapta el texto existente a la jerarquía deseada y respeta cualquier petición explícita de no incluir texto.
 
 Conservar y adaptar: Conserve el tema, la atmósfera, la paleta, el ritmo o la dirección mientras permite reducir o eliminar la identidad del objeto concreto. No exija simultáneamente que la silueta del objeto original permanezca intacta. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
 
-Alcance y límites: Un objeto estilizado identificable sigue siendo un tema de tratamiento. El carácter de la superficie del material pertenece a las texturas cuando es la expresión principal.
+Alcance y límites: un objeto estilizado identificable sigue siendo un tratamiento del motivo principal. Las cualidades de superficie material corresponden a texturas cuando son la expresión principal.
 ```
 
 
@@ -122,7 +122,7 @@ Alcance y límites: Un objeto estilizado identificable sigue siendo un tema de t
 Un sujeto principal se encuentra cerca del centro, con espacio a su alrededor.
 
 ```text
-Dirección deseada: Dirigido por materia → Materia única → Materia centrada
+Dirección deseada: Motivo principal → Motivo único → Motivo centrado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -134,16 +134,16 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: El centrado no requiere simetría especular. Evite distribuir varios temas independientes con igual énfasis.
+Alcance y límites: centrar no exige simetría especular. Evita repartir el mismo protagonismo entre varios motivos independientes.
 ```
 
 
-## Compensado con espacio abierto
+## Desplazado con espacio libre
 
-El sujeto principal se sienta a un lado, dejando un área notablemente más tranquila en el resto.
+El motivo principal se sitúa a un lado y deja una zona notablemente más despejada en el resto.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Asunto único → Compensado con espacio abierto
+Dirección deseada: Motivo principal → Motivo único → Desplazado con espacio libre
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -164,11 +164,11 @@ Alcance y límites: Un diseño desplazado debe preservar características recono
 Una vista ampliada y recortada enfoca una parte reconocible del sujeto.
 
 ```text
-Dirección deseada: Dirigido por tema → Tema único → Detalle ampliado
+Dirección deseada: Motivo principal → Motivo único → Detalle ampliado
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Seleccione una parte distintiva del tema de entrada y amplíela más allá de uno o más bordes. Conserve suficiente contorno, estructura o detalle para identificar el objeto.
+Estructura deseada: selecciona una parte distintiva del motivo original y amplíala más allá de uno o varios bordes. Conserva suficiente contorno, estructura o detalle para identificar el objeto.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -176,7 +176,7 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: Esto recorta un tema individual. Un entorno recortado o un momento con relaciones contextuales pertenecen a un primer plano de escena.
+Alcance y límites: aquí se recorta un motivo individual. Un entorno recortado o un momento con relaciones contextuales corresponde a un primer plano de escena.
 ```
 
 
@@ -185,7 +185,7 @@ Alcance y límites: Esto recorta un tema individual. Un entorno recortado o un m
 El sujeto se extiende a lo largo de una diagonal, dando a la imagen una dirección clara.
 
 ```text
-Dirección deseada: Dirigido por sujeto → Asunto único → Composición diagonal
+Dirección deseada: Motivo principal → Motivo único → Composición diagonal
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -201,12 +201,12 @@ Alcance y límites: Inclinar sólo el fondo o las letras no convierte al sujeto 
 ```
 
 
-## Temas uno al lado del otro
+## Motivos uno al lado del otro
 
 Varios sujetos reconocibles están dispuestos horizontalmente y se muestran juntos.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples sujetos → Sujetos uno al lado del otro
+Dirección deseada: Motivo principal → Varios motivos → Motivos uno al lado del otro
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -222,12 +222,12 @@ Alcance y límites: Los objetos no necesitan ser idénticos en tamaño ni igualm
 ```
 
 
-## Materias primarias y secundarias.
+## Motivo principal y motivos de apoyo
 
 Un sujeto lidera la composición mientras otros objetos la sostienen.
 
 ```text
-Dirección deseada: Dirigido por materias → Materias múltiples → Materias primarias y de apoyo
+Dirección deseada: Motivo principal → Varios motivos → Motivo principal y motivos de apoyo
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -245,14 +245,14 @@ Alcance y límites: La jerarquía debe ser visible. Si un entorno o evento se co
 
 ## Agrupación vertical
 
-Varios temas forman una composición que se lee de arriba a abajo.
+Varios motivos forman una composición que se lee de arriba abajo.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples sujetos → Agrupación vertical
+Dirección deseada: Motivo principal → Varios motivos → Agrupación vertical
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Organice temas relacionados en dirección vertical. Permita desplazamientos o superposiciones limitadas mientras mantiene una relación clara de arriba a abajo y un peso visual equilibrado.
+Estructura deseada: organiza los motivos relacionados en dirección vertical. Permite desplazamientos o superposiciones limitadas y conserva una relación clara de arriba abajo y un peso visual equilibrado.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -269,7 +269,7 @@ Alcance y límites: Los objetos no tienen por qué sostenerse físicamente unos 
 Los sujetos se corresponden a lo largo de un eje para crear una composición equilibrada.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples sujetos → Agrupación simétrica
+Dirección deseada: Motivo principal → Varios motivos → Agrupación simétrica
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -285,16 +285,16 @@ Alcance y límites: Los detalles pueden diferir; No se requiere duplicación de 
 ```
 
 
-## Temas alrededor de un centro
+## Motivos alrededor de un centro
 
 Varios sujetos forman un grupo finito circular o radial.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples sujetos → Sujetos alrededor de un centro
+Dirección deseada: Motivo principal → Varios motivos → Motivos alrededor de un centro
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Organizar temas relacionados alrededor de un centro compartido, coordinando su orientación, escala y espaciado. El centro puede permanecer abierto o contener un objeto principal o palabras de apoyo.
+Estructura deseada: organiza los motivos relacionados alrededor de un centro compartido y coordina su orientación, escala y separación. El centro puede quedar libre o contener un objeto principal o texto de apoyo.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -311,7 +311,7 @@ Alcance y límites: Mantenga los objetos reconocibles de forma independiente. Si
 Los sujetos se reúnen en una composición compacta con un orden claro de adelante hacia atrás.
 
 ```text
-Dirección deseada: Dirigido por sujetos → Múltiples temas → Agrupados y superpuestos
+Dirección deseada: Motivo principal → Varios motivos → Agrupados y superpuestos
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -332,7 +332,7 @@ Alcance y límites: La superposición no debe ocultar todas las características
 Los elementos independientes se muestran en filas, columnas o en una cuadrícula consistente.
 
 ```text
-Dirección deseada: Dirigido por materias → Materias múltiples → Colecciones → Diseño de colección regular
+Dirección deseada: Motivo principal → Varios motivos → Colecciones → Colección en distribución regular
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -344,16 +344,16 @@ Texto: Conserva las palabras claramente legibles del original y su idioma, adapt
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: El objetivo es mostrar elementos individuales. Una cuadrícula finita no es automáticamente una repetición perfecta y los elementos no tienen por qué ser idénticos.
+Alcance y límites: el propósito es mostrar elementos individuales. Una cuadrícula finita no es automáticamente una repetición sin juntas y los elementos no tienen que ser idénticos.
 ```
 
 
-## Diseño de colección gratuito
+## Composición libre de colección
 
 Los elementos independientes se ubican en una disposición suelta e irregular mientras comparten un tema.
 
 ```text
-Dirección deseada: Dirigido por materias → Materias múltiples → Colecciones → Diseño de colección gratuito
+Dirección deseada: Motivo principal → Varios motivos → Colecciones → Colección en distribución libre
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -374,7 +374,7 @@ Alcance y límites: Evite una unidad repetitiva obvia. Si un entorno o interacci
 La imagen llama primero la atención; las palabras añaden significado o contexto.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Dirigido por imagen, con texto de apoyo
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imagen protagonista con texto de apoyo
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -395,7 +395,7 @@ Alcance y límites: El texto de apoyo debe seguir siendo legible sin convertirse
 Las palabras transmiten el mensaje principal, con una pequeña imagen que respalda su significado.
 
 ```text
-Dirección deseada: Dirigido por el sujeto → Texto y relaciones entre el sujeto → Dirigido por el texto, con imágenes de apoyo
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Texto protagonista con imágenes de apoyo
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -407,26 +407,26 @@ Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptand
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: El texto debe indicar claramente. El peso visual igual entre texto e imagen es una composición compartida y no basada en texto.
+Alcance y límites: el texto debe dominar claramente. Si texto e imagen tienen el mismo peso visual, la composición comparte el protagonismo en vez de estar centrada en el texto.
 ```
 
 
-## Expresión de solo tipo
+## Expresión solo tipográfica
 
 Las formas de las letras, la escala y la disposición llevan el diseño.
 
 ```text
-Dirección deseada: Dirigido por asunto → Relaciones entre texto y asunto → Expresión de solo tipo
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Expresión solo tipográfica
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Convierte el tema en una expresión tipográfica concisa. Si la entrada es una imagen, traduzca su tema o estado de ánimo en palabras y elimine el tema pictórico independiente; conserve el texto suministrado cuando esté presente.
+Estructura deseada: convierte el tema en una expresión tipográfica concisa. Si la entrada es una imagen, transforma su tema o ambiente en palabras y elimina el motivo gráfico independiente; conserva el texto proporcionado cuando lo haya.
 
-Fondo: Haga referencia al color de fondo, la paleta o el material existente. Cuando no esté presente, cree un respaldo sólido, degradado o con textura sutil adecuado. No retenga un tema de imagen figurativa independiente en el fondo de un diseño tipográfico únicamente.
+Fondo: toma como referencia el color de base, la paleta o el material existentes. Si no los hay, crea un fondo adecuado de color uniforme, degradado o textura sutil. En un diseño compuesto solo por letras, no conserves una figura independiente en el fondo.
 
 Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptando su presentación. No afirmes haber recuperado texto ilegible. Si no se proporcionan palabras, cree un texto conciso relacionado con el tema y haga que las letras sean el foco de este tratamiento. Conservar el orden y el significado de la lectura y revisar la ortografía. Si una solicitud explícita sin texto entra en conflicto con esta instrucción basada en texto, indique el conflicto en lugar de agregar palabras en silencio.
 
-Conservar y adaptar: Conserve el tema, el texto fuente legible, el idioma y la paleta mientras traduce la información de la imagen a tipografía. Tampoco es necesario que permanezca un tema pictórico independiente. No describa el contenido recién creado como presente en la fuente. Plantee un conflicto entre las restricciones explícitas de entrada y las condiciones objetivo necesarias en lugar de afirmar que se cumplieron ambas.
+Conservar y adaptar: conserva el tema, el texto legible del original, su idioma y su paleta al convertir la información de la imagen en tipografía. No exijas que también se conserve un motivo gráfico independiente. No describas el contenido recién creado como si ya estuviera en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala el conflicto en lugar de afirmar que se han cumplido ambas.
 
 Alcance y límites: Se permite un color de fondo, una textura sutil o un acento no figurativo. No introduzca una persona u objeto independiente como sujeto competidor.
 ```
@@ -437,7 +437,7 @@ Alcance y límites: Se permite un color de fondo, una textura sutil o un acento 
 La imagen y el texto ocupan las áreas superior e inferior, creando un orden de lectura claro.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Imagen y texto apilados
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imagen y texto apilados
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -458,11 +458,11 @@ Alcance y límites: No es necesario que ningún elemento esté encima ni tenga e
 Imagen y texto ocupan lados opuestos y se responden entre sí.
 
 ```text
-Dirección deseada: Dirigido por tema → Texto y relaciones entre tema → Imagen y texto uno al lado del otro
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imagen y texto uno al lado del otro
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Divida la imagen principal y el texto entre las áreas izquierda y derecha. Establezca la alineación y el espaciado según la dirección del tema, el orden de lectura y el equilibrio visual.
+Estructura deseada: reparte la imagen principal y el texto entre las zonas izquierda y derecha. Ajusta la alineación y la separación según la orientación del motivo principal, el orden de lectura y el equilibrio visual.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -474,12 +474,12 @@ Alcance y límites: No es necesario que las áreas sean del mismo tamaño. Una l
 ```
 
 
-## Texto sobre el tema
+## Texto alrededor del motivo principal
 
 Las palabras siguen un arco o camino exterior alrededor de la imagen.
 
 ```text
-Dirección deseada: Dirigido por tema → Texto y relaciones entre el tema → Texto alrededor del tema
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Texto alrededor del motivo principal
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -500,11 +500,11 @@ Alcance y límites: Un círculo completo es opcional. Mantenga una trayectoria c
 Partes de la imagen y las letras pasan una delante o detrás de la otra.
 
 ```text
-Dirección deseada: Dirigido por el sujeto → Texto y relaciones entre el sujeto → Imagen y texto entrelazados
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imagen y texto entrelazados
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Lleve la redacción y el tema a un solo área de diseño. Coloque partes de la imagen seleccionada delante de las letras y otras detrás de ellas, o utilice espacios en las letras para establecer un entrelazado.
+Estructura deseada: reúne el texto y el motivo principal en una misma zona de diseño. Coloca determinadas partes de la imagen delante de las letras y otras detrás, o usa huecos de las letras para crear un entrelazado.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -521,7 +521,7 @@ Alcance y límites: Una simple superposición de texto no necesariamente está e
 Una imagen relevante reemplaza o pasa a formar parte de una letra o trazo.
 
 ```text
-Dirección deseada: Dirigido por materia → Texto y relaciones entre materia → Imágenes dentro de una letra
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Imágenes dentro de una letra
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -542,11 +542,11 @@ Alcance y límites: Mantenga la redacción y el significado previstos. No reempl
 La disposición y densidad de las palabras construyen un contorno reconocible.
 
 ```text
-Dirección deseada: Dirigido por materia → Texto y relaciones entre materia → Palabras que forman una forma
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Palabras que forman una figura
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
-Estructura deseada: Utilice palabras relacionadas con el tema como unidades de construcción de la forma del tema original. Ajuste la longitud, escala, repetición y densidad de las líneas; reutilice la redacción proporcionada cuando sea posible o cree una copia breve relevante.
+Estructura deseada: usa palabras relacionadas con el tema como unidades para construir la forma del motivo principal original. Ajusta la longitud de las líneas, la escala, la repetición y la densidad; reutiliza el texto proporcionado cuando sea posible o crea un texto breve relacionado.
 
 Fondo: Toma como referencia el contenido, el tratamiento visual y la paleta del fondo existente, y adáptalos a la estructura deseada. Si no hay fondo, o si es simplemente liso o transparente, crea un tratamiento de fondo relacionado con el tema. Cualquier requisito explícito de fondo de un solo color, transparente o de otro tipo tiene prioridad.
 
@@ -563,7 +563,7 @@ Alcance y límites: La forma debe provenir principalmente de la disposición de 
 Los contornos de las letras llevan el diseño mientras que la mayoría de sus interiores permanecen abiertos.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Letras de contorno
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Letras de contorno
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -575,16 +575,16 @@ Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptand
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: El esquema debe seguir las letras en lugar de formar un marco alrededor de toda la frase. Vuelva a comprobar la legibilidad en tamaños pequeños o en un fondo ajetreado.
+Alcance y límites: el contorno debe seguir las letras, en lugar de formar un marco alrededor de toda la frase. Comprueba de nuevo la legibilidad a tamaños pequeños o sobre un fondo recargado.
 ```
 
 
-## Tipo estirado o comprimido
+## Tipografía estirada o comprimida
 
 Las proporciones de las letras se alargan, estrechan o ensanchan visiblemente.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Texto estirado o comprimido
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía estirada o comprimida
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -600,12 +600,12 @@ Alcance y límites: El cambio proporcional debe ser visible, no simplemente un t
 ```
 
 
-## Tipo curvo u ondulado
+## Letras curvas u onduladas
 
 Las letras siguen una curva u onda con un ritmo visible de subida y bajada.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Texto curvo u ondulado
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía curva u ondulada
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -621,12 +621,12 @@ Alcance y límites: Es posible tanto una disposición ondulada como formas de le
 ```
 
 
-## Tipo de perspectiva en ángulo
+## Letras en perspectiva oblicua
 
 Las letras cambian la escala aparente a lo ancho para sugerir profundidad.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Tipo de perspectiva en ángulo
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía en perspectiva oblicua
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -638,16 +638,16 @@ Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptand
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: La rotación o un corte uniforme por sí solo no es necesariamente perspectiva. Muestre un cambio en la escala relativa manteniendo una redacción reconocible.
+Alcance y límites: una rotación o una cizalla uniforme por sí solas no implican necesariamente perspectiva. Muestra un cambio de escala relativa y conserva el texto reconocible.
 ```
 
 
-## Tipo dividido y desplazado
+## Tipografía cortada y desplazada
 
 Las formas de las letras se cortan en partes desplazadas mientras las palabras originales siguen siendo reconocibles.
 
 ```text
-Dirección deseada: Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Tipos divididos y desplazados
+Dirección deseada: Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía cortada y desplazada
 
 Entrada y salida: Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un prompt, reescríbelo como un prompt completo, listo para generar la imagen.
 
@@ -659,5 +659,5 @@ Texto: Mantener la redacción fuente y su lenguaje claramente legibles, adaptand
 
 Conservar y adaptar: Conserva el tema central y los rasgos que permiten reconocer el original. Usa su tratamiento visual y su paleta como punto de partida, y cámbialos solo cuando lo exija la dirección elegida. No describas elementos recién creados como si ya estuvieran en el original. Si las restricciones explícitas de la entrada entran en conflicto con las condiciones necesarias del resultado, señala ese conflicto en lugar de afirmar que se han cumplido ambas.
 
-Alcance y límites: No esparzas fragmentos hasta que las palabras pierdan su significado. Los cortes y compensaciones pueden variar en lugar de repetirse de manera idéntica en cada letra.
+Alcance y límites: no disperses los fragmentos hasta que las palabras pierdan su significado. Los cortes y desplazamientos pueden variar, sin repetirse de forma idéntica en cada letra.
 ```

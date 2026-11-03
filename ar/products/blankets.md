@@ -14,7 +14,7 @@
 
 # البطانيات
 
-قم بقياس صورة شخصية أو نمط متكرر أو صورة مجمعة عبر بطانية.
+اضبط حجم بورتريه أو نمط متكرر أو كولاج صور ليغطي بطانية.
 
 <a id="product-overview"></a>
 
@@ -48,13 +48,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من التخطيط وقم بتعيين Skills**
+**استكشف المزيد من Skills للتخطيطات والمجموعات**
 
 <a id="_R_bf3k_-title"></a>
 
-#### اكتشف المزيد من التخطيط وقم بتعيين Skills
+#### استكشف المزيد من Skills للتخطيطات والمجموعات
 
 4 / 14
 
@@ -68,9 +68,9 @@
 
 تخطيط المكدس العمودي](https://podplo.app/skills/vertical-stack-layout)[![مثال على العمل الفني لتخطيط العنوان – العنصر – العنوان الفرعي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
-### تحويل صورة عائلية إلى عمل فني شامل
+### حوّل صورة عائلية إلى تصميم لبطانية
 
 قم بإنشاء صورة عائلية ثلاثية الأبعاد مع الحفاظ على إمكانية التعرف على كل شخص.
 
@@ -86,13 +86,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bn3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 4 / 97
 
@@ -108,13 +108,13 @@
 
 ختم أحادية اللون](https://podplo.app/skills/monochrome-stamp)
 
-### إنشاء تصميم اسم الأزهار الكبيرة
+### أنشئ تصميمًا كبيرًا لاسم وزهور
 
 اجعل الاسم هو النقطة المحورية وقم بقياس الإطار الزهري للبطانية.
 
 [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)
 
-أندريا
+ANDREA
 
 الاسم
 
@@ -124,25 +124,25 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من الاسم والمناسبة Skills**
+**استكشف المزيد من Skills للأسماء والمناسبات**
 
 <a id="_R_bv3k_-title"></a>
 
-#### اكتشف المزيد من الاسم والمناسبة Skills
+#### استكشف المزيد من Skills للأسماء والمناسبات
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال على العمل الفني لنمط اسم قلوب تلوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال عمل فني لنمط اسم وقلوب بأقلام شمعية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-تلوين قلوب اسم النمط](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+نمط اسم وقلوب بأقلام شمعية](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -154,7 +154,7 @@
 
 تُظهر معاينة الذكاء الاصطناعي كيف تتغير الصورة الكبيرة أو التكرار أو الصورة المجمعة عند نشر البطانية أو طيها أو وضعها في الغرفة.
 
-- الهدف الكبير يخلق نقطة محورية واضحة
+- العنصر الرئيسي الكبير يصنع نقطة تركيز واضحة
 
 - يتغير التكرار مع طي البطانية
 

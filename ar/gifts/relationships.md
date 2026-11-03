@@ -24,7 +24,7 @@
 
 يمكن أن يؤدي الاسم أو التاريخ أو المكان أو العبارة المشتركة إلى ترسيخ ذكرى سنوية أو حفل زفاف أو خطوبة أو تذكار لمسافات طويلة. [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame) يرتب تلك التفاصيل في تصميم زهري متوازن بالألوان المائية.
 
-[![إطار اسم الأزهار شخصية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![إطار زهري باسم مخصص](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 إطار اسم الأزهار
 
@@ -40,9 +40,9 @@
 
 [![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="people-and-history"></a>
 
@@ -56,7 +56,7 @@
 
 الإدخال
 
-[![صورة جماعية ذات أبعاد تحافظ على الأشخاص المزودين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![بورتريه جماعي مجسم يحافظ على الأشخاص في الصور المقدمة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 صورة عائلية ثلاثية الأبعاد
 

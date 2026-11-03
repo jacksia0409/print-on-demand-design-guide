@@ -10,7 +10,7 @@
 
 <a id="guide-main"></a>
 
-# बैग ले जाना
+# टोट बैग
 
 बोल्ड केंद्रित ग्राफ़िक, लघु संदेश या दोहराव पैटर्न के लिए टोट के सामने वाले भाग का उपयोग करें।
 
@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-**अधिक लेआउट खोजें और Skills सेट करें**
+**लेआउट और सेट बनाने वाले अधिक Skills खोजें**
 
 <a id="_R_bf3k_-title"></a>
 
-#### अधिक लेआउट खोजें और Skills सेट करें
+#### लेआउट और सेट बनाने वाले अधिक Skills खोजें
 
 4 / 14
 
@@ -70,15 +70,15 @@
 
 ### किसी पालतू जानवर की तस्वीर को टोट कलाकृति में बदलें
 
-एक स्पष्ट पालतू जानवर की तस्वीर टोटे के लिए एक जलरंग चित्र बन जाती है।
+पालतू जानवर की स्पष्ट फ़ोटो कपड़े के बैग के लिए जलरंग चित्र बन जाती है।
 
-[शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
-![शीतल जलरंग पालतू चित्र · स्रोत फोटो](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
+![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट · मूल फ़ोटो](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
 
 मूल फ़ोटो
 
-[![शीतल जलरंग पालतू चित्र · उत्पन्न कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट · बनाई गई कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
 उत्पन्न कलाकृति
 
@@ -96,9 +96,9 @@
 
 <a id="_R_bn3k_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -110,9 +110,9 @@
 
 किसी पालतू जानवर के नाम को लाल और काले प्लेड पंजा और हृदय विवरण के साथ जोड़ें।
 
-[भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)
+[बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)
 
-बेलन
+Bellan
 
 नाम
 
@@ -142,7 +142,7 @@
 
 डायनासोर के नाम का पैटर्न](https://podplo.app/skills/dinosaur-name-pattern)[![क्रिसमस गनोम नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607445124489843-artwork.webp)
 
-क्रिसमस सूक्ति नाम पैटर्न](https://podplo.app/skills/christmas-gnome-name-pattern)
+क्रिसमस ग्नोम और नाम वाला पैटर्न](https://podplo.app/skills/christmas-gnome-name-pattern)
 
 <a id="product-mockup"></a>
 
@@ -154,7 +154,7 @@
 
 - एक केन्द्रित छवि एक संतुलित लेआउट बनाती है
 
-- बड़े प्रकार से संदेश को पढ़ना आसान हो जाता है
+- बड़े अक्षर संदेश पढ़ना आसान बनाते हैं
 
 - एक छोटे मोटिफ को अलग-अलग पोशाकों के साथ जोड़ना आसान होता है
 

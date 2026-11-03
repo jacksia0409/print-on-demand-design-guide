@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-**अधिक लेआउट खोजें और Skills सेट करें**
+**लेआउट और सेट बनाने वाले अधिक Skills खोजें**
 
 <a id="_R_bf3k_-title"></a>
 
-#### अधिक लेआउट खोजें और Skills सेट करें
+#### लेआउट और सेट बनाने वाले अधिक Skills खोजें
 
 4 / 9
 
@@ -72,13 +72,13 @@
 
 एक स्पष्ट पालतू जानवर की तस्वीर स्वेटशर्ट के लिए एक केंद्रित जलरंग चित्र बन जाती है।
 
-[शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
-![शीतल जलरंग पालतू चित्र · स्रोत फोटो](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
+![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट · मूल फ़ोटो](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
 
 मूल फ़ोटो
 
-[![शीतल जलरंग पालतू चित्र · उत्पन्न कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट · बनाई गई कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
 उत्पन्न कलाकृति
 
@@ -102,9 +102,9 @@
 
 रॉयल पेट पोर्ट्रेट](https://podplo.app/skills/royal-pet-portrait)[![3डी युगल पोर्ट्रेट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607443916525351-after.webp)
 
-3डी युगल पोर्ट्रेट](https://podplo.app/skills/3d-couple-portrait)[![क्रिसमस युगल आभूषण कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607648296616502-after.webp)
+3डी युगल पोर्ट्रेट](https://podplo.app/skills/3d-couple-portrait)[![क्रिसमस युगल सजावटी लटकन की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607648296616502-after.webp)
 
-क्रिसमस युगल आभूषण](https://podplo.app/skills/christmas-couple-ornament)
+क्रिसमस युगल सजावटी लटकन](https://podplo.app/skills/christmas-couple-ornament)
 
 ### फूलों के साथ एक नाम फ़्रेम करें
 
@@ -112,7 +112,7 @@
 
 [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)
 
-एंड्रिया
+ANDREA
 
 नाम
 
@@ -136,7 +136,7 @@
 
 [![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 उत्तरी ध्रुव का नाम पोस्टर](https://podplo.app/skills/north-pole-name-poster)[![क्रेयॉन हार्ट्स नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -154,8 +154,8 @@
 
 - बड़े ग्राफ़िक्स तत्काल केंद्र बिंदु बनाते हैं
 
-- छाती पर एक निशान लुक को कमतर रखता है
+- छाती पर छोटा चिह्न डिज़ाइन को सादा और संयत रखता है
 
 - स्वेटशर्ट के हल्के और गहरे रंग पैलेट के प्रभाव को बदल सकते हैं
 
-![स्वेटशर्ट और हुडी · एआई उत्पाद प्रमाण](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)
+![स्वेटशर्ट और हुडी · AI से बनाया गया उत्पाद नमूना](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)

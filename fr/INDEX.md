@@ -34,7 +34,7 @@
 
 - [Faites plus avec vos images](skills-and-asset-library.md)
 
-- [Créer avec Skills](techniques.md)
+- [Créer avec les Skills](techniques.md)
 
 ## Types d’œuvres d’art et orientations
 
@@ -54,7 +54,7 @@
 
 - [Abstraction décalée](artwork-types/abstract/abstract-layout--abstract-layout-offset.md)
 
-- [Distribution gratuite](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
+- [Répartition libre](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
 
 - [Zones superposées](artwork-types/abstract/abstract-layout--abstract-layout-zones.md)
 
@@ -66,7 +66,7 @@
 
 - [Contexte environnemental](artwork-types/abstract/background--abstract--scene.md)
 
-- [Fond solide](artwork-types/abstract/background--abstract--solid.md)
+- [Fond uni](artwork-types/abstract/background--abstract--solid.md)
 
 - [Fond texturé](artwork-types/abstract/background--abstract--texture.md)
 
@@ -82,7 +82,7 @@
 
 - [Contexte environnemental](artwork-types/pattern/background--pattern--scene.md)
 
-- [Fond solide](artwork-types/pattern/background--pattern--solid.md)
+- [Fond uni](artwork-types/pattern/background--pattern--solid.md)
 
 - [Fond texturé](artwork-types/pattern/background--pattern--texture.md)
 
@@ -108,7 +108,7 @@
 
 - [Contexte environnemental](artwork-types/scene/background--scene--scene.md)
 
-- [Fond solide](artwork-types/scene/background--scene--solid.md)
+- [Fond uni](artwork-types/scene/background--scene--solid.md)
 
 - [Fond texturé](artwork-types/scene/background--scene--texture.md)
 
@@ -142,7 +142,7 @@
 
 - [Contexte environnemental](artwork-types/subject/background--multiple--scene.md)
 
-- [Fond solide](artwork-types/subject/background--multiple--solid.md)
+- [Fond uni](artwork-types/subject/background--multiple--solid.md)
 
 - [Fond texturé](artwork-types/subject/background--multiple--texture.md)
 
@@ -156,7 +156,7 @@
 
 - [Contexte environnemental](artwork-types/subject/background--relationship--scene.md)
 
-- [Fond solide](artwork-types/subject/background--relationship--solid.md)
+- [Fond uni](artwork-types/subject/background--relationship--solid.md)
 
 - [Fond texturé](artwork-types/subject/background--relationship--texture.md)
 
@@ -170,13 +170,13 @@
 
 - [Contexte environnemental](artwork-types/subject/background--single--scene.md)
 
-- [Fond solide](artwork-types/subject/background--single--solid.md)
+- [Fond uni](artwork-types/subject/background--single--solid.md)
 
 - [Fond texturé](artwork-types/subject/background--single--texture.md)
 
 - [Fond transparent](artwork-types/subject/background--single--transparent.md)
 
-- [Mise en page de collection gratuite](artwork-types/subject/collection--collection-free.md)
+- [Disposition libre d’une collection](artwork-types/subject/collection--collection-free.md)
 
 - [Disposition régulière de la collection](artwork-types/subject/collection--collection-grid.md)
 
@@ -190,19 +190,19 @@
 
 - [Décoration environnante](artwork-types/subject/decoration--deco-wreath.md)
 
-- [Type divisé et déplacé](artwork-types/subject/letter-art--letter-fracture.md)
+- [Lettrage découpé et décalé](artwork-types/subject/letter-art--letter-fracture.md)
 
 - [Lettrage de contour](artwork-types/subject/letter-art--letter-outline.md)
 
-- [Type de perspective inclinée](artwork-types/subject/letter-art--letter-perspective.md)
+- [Lettrage en perspective oblique](artwork-types/subject/letter-art--letter-perspective.md)
 
-- [Type étiré ou compressé](artwork-types/subject/letter-art--letter-stretch.md)
+- [Lettrage étiré ou comprimé](artwork-types/subject/letter-art--letter-stretch.md)
 
-- [Type rempli d’image ou de texture](artwork-types/subject/letter-art--letter-texture.md)
+- [Lettrage rempli d’images ou de textures](artwork-types/subject/letter-art--letter-texture.md)
 
-- [Type courbé ou ondulé](artwork-types/subject/letter-art--letter-wave.md)
+- [Lettrage courbé ou ondulé](artwork-types/subject/letter-art--letter-wave.md)
 
-- [Matières principales et secondaires](artwork-types/subject/multiple--multi-dominant.md)
+- [Sujets principaux et secondaires](artwork-types/subject/multiple--multi-dominant.md)
 
 - [Regroupés et superposés](artwork-types/subject/multiple--multi-overlap.md)
 
@@ -222,7 +222,7 @@
 
 - [Image et texte entrelacés](artwork-types/subject/relationship--relation-interlace.md)
 
-- [Expression de type uniquement](artwork-types/subject/relationship--relation-plain-type.md)
+- [Expression purement typographique](artwork-types/subject/relationship--relation-plain-type.md)
 
 - [Images dans une forme de lettre](artwork-types/subject/relationship--relation-replace.md)
 
@@ -262,7 +262,7 @@
 
 - [Contexte environnemental](artwork-types/texture/background--texture--scene.md)
 
-- [Fond solide](artwork-types/texture/background--texture--solid.md)
+- [Fond uni](artwork-types/texture/background--texture--solid.md)
 
 - [Fond texturé](artwork-types/texture/background--texture--texture.md)
 
@@ -290,7 +290,7 @@
 
 - [Une image. Des possibilités infinies.](techniques/compose-anything.md)
 
-- [Donnez à votre design une touche de vacances](techniques/holiday-versions.md)
+- [Donnez à votre visuel une touche de fête](techniques/holiday-versions.md)
 
 - [Photo to Art : une nouvelle vision de vos photos préférées](techniques/photo-to-art.md)
 
@@ -324,7 +324,7 @@
 
 - [Oreillers et coussins](products/pillows.md)
 
-- [Des énigmes](products/puzzles.md)
+- [Puzzles](products/puzzles.md)
 
 - [Autocollants et étiquettes](products/stickers.md)
 
@@ -336,7 +336,7 @@
 
 - [Gobelets](products/tumblers.md)
 
-- [Fond d'écran](products/wallpaper.md)
+- [Papier peint](products/wallpaper.md)
 
 - [Papier d'emballage](products/wrapping-paper.md)
 

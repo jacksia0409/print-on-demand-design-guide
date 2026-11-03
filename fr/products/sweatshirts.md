@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/sweatshirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/sweatshirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -46,13 +46,13 @@ Oeuvre générée
 
 ![Sweat-shirts et sweats à capuche · Compact Center Layout · Aperçu du produit IA](https://podplo.app/pod-guide/generated/sweatshirts-compact-center-layout-proof.webp)
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de mise en page et définissez Skills**
+**Explorez davantage de Skills de mise en page et de création d’ensembles**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explorez plus de mise en page et définissez Skills
+#### Explorez davantage de Skills de mise en page et de création d’ensembles
 
 4 / 9
 
@@ -84,13 +84,13 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de photos et d'images Skills**
+**Explorez davantage de Skills photo et image**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explorez plus de photos et d'images Skills
+#### Explorez davantage de Skills photo et image
 
 4 / 14
 
@@ -112,7 +112,7 @@ Placez un nom dans un cadre floral pour créer un graphisme de sweat-shirt perso
 
 [Cadre de nom floral](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉA
+ANDREA
 
 Nom
 
@@ -122,25 +122,25 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Découvrez plus de noms et d'occasions Skills**
+**Découvrez davantage de Skills pour les noms et les occasions**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Découvrez plus de noms et d'occasions Skills
+#### Découvrez davantage de Skills pour les noms et les occasions
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple d'illustration d'affiche de nom du pôle Nord](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple d'illustration d'affiche de nom du pôle Nord](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Nom du pôle Nord Poster](https://podplo.app/skills/north-pole-name-poster)[![Exemple d'illustration de motif de nom de crayon coeurs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Affiche du pôle Nord avec prénom](https://podplo.app/skills/north-pole-name-poster)[![Exemple de visuel « Motif de cœurs au crayon avec prénom »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Modèle de nom de coeurs de crayon](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Motif de cœurs au crayon avec prénom](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)
 

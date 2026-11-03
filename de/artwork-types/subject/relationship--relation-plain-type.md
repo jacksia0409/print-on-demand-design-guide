@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/relationship--relation-plain-type?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/relationship--relation-plain-type?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Motivorientierte Gestaltung / GESTALTUNGSRICHTUNG
 
-# Nur-Typ-Ausdruck
+# Rein typografische Gestaltung
 
 Buchstabenformen, Maßstab und Anordnung bestimmen das Design.
 
 <a id="understand"></a>
 
-![Typischer Ausdruck: Buchstabenformen, Maßstab und Anordnung bestimmen das Design.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-plain-type-1.svg)
+![Rein typografische Gestaltung: Buchstabenformen, Größe und Anordnung tragen das Design.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-plain-type-1.svg)
 
 Kompositionsskizze
 
@@ -26,21 +26,21 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Eine Hintergrundfarbe, eine subtile Textur oder ein nicht-figurativer Akzent sind zulässig. Stellen Sie keine unabhängige Person oder ein unabhängiges Objekt als konkurrierendes Subjekt vor.
+Eine Hintergrundfarbe, eine dezente Textur oder ein nichtgegenständlicher Akzent sind erlaubt. Fügen Sie keine eigenständige Person und keinen eigenständigen Gegenstand als konkurrierendes Motiv hinzu.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Betreffgesteuert → Text- und Betreffbeziehungen → Nur-Typ-Ausdruck
+Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Rein typografische Gestaltung
 
 **Eingabe und Ausgabe**
 
@@ -48,7 +48,7 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Verwandeln Sie das Thema in einen prägnanten typografischen Ausdruck. Wenn es sich bei der Eingabe um ein Bild handelt, übersetzen Sie dessen Thema oder Stimmung in Worte und entfernen Sie das unabhängige Bildthema. Behalten Sie den bereitgestellten Wortlaut bei, sofern vorhanden.
+Übertragen Sie das Thema in eine knappe typografische Gestaltung. Ist die Eingabe ein Bild, übertragen Sie dessen Thema oder Stimmung in Wörter und entfernen Sie das eigenständige Bildmotiv; bewahren Sie vorgegebenen Text, wenn er vorhanden ist.
 
 **Hintergrund**
 
@@ -56,39 +56,39 @@ Verweisen Sie auf die vorhandene Grundfarbe, Palette oder das vorhandene Materia
 
 **Textinhalt**
 
-Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Behalten Sie eindeutig lesbaren Text aus der Vorlage und dessen Sprache bei und passen Sie die Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Ist kein Text vorgegeben, ergänzen Sie einen knappen thematisch passenden Text und stellen Sie die Schriftgestaltung in den Mittelpunkt. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht eine ausdrückliche Vorgabe ohne Text dieser textbasierten Richtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 **Beibehalten und anpassen**
 
-Behalten Sie das Thema, den lesbaren Quelltext, die Sprache und die Farbpalette bei, während Sie Bildinformationen in Typografie übersetzen. Es ist auch nicht erforderlich, dass ein eigenständiges Bildthema erhalten bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Bewahren Sie Thema, lesbaren Originaltext, Sprache und Farbpalette, während Sie Bildinformationen in Typografie übertragen. Verlangen Sie nicht zusätzlich, dass ein eigenständiges Bildmotiv erhalten bleibt. Beschreiben Sie neu erzeugte Inhalte nicht als bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Einschränkungen der Eingabe und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
 **Umfang und Grenzen**
 
-Eine Hintergrundfarbe, eine subtile Textur oder ein nicht-figurativer Akzent sind zulässig. Stellen Sie keine unabhängige Person oder ein unabhängiges Objekt als konkurrierendes Subjekt vor.
+Eine Hintergrundfarbe, eine dezente Textur oder ein nichtgegenständlicher Akzent sind erlaubt. Fügen Sie keine eigenständige Person und keinen eigenständigen Gegenstand als konkurrierendes Motiv hinzu.
 
 <a id="backgrounds"></a>
 
 ## Erkunden Sie den Hintergrund
 
-Diese Beispiele vergleichen Gründe innerhalb derselben Inhaltsfamilie. Behalten Sie die aktuelle Zusammensetzung bei, wenn Sie eine Behandlung anwenden. Öffnen Sie ein Beispiel für die vollständige Anleitung.
+Diese Beispiele vergleichen Hintergründe innerhalb derselben Inhaltsgruppe. Bewahren Sie beim Anwenden einer Gestaltung die aktuelle Komposition; öffnen Sie ein Beispiel, um die vollständige Anleitung zu lesen.
 
-[![Transparenter Hintergrund: Text- und Sujetbeziehungen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
+[![Transparenter Hintergrund: Text-Motiv-Beziehungen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Text- und Sujetbeziehungen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--relationship--transparent.md)[![Einfarbiger Hintergrund: Text- und Sujet-Beziehungen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+Text-Motiv-Beziehungen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--relationship--transparent.md)[![Einfarbiger Hintergrund: Text-Motiv-Beziehungen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Text- und Sujetbeziehungen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--relationship--solid.md)[![Hintergrund mit Farbverlauf: Text- und Motivbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+Text-Motiv-Beziehungen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--relationship--solid.md)[![Hintergrund mit Farbverlauf: Text- und Motivbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Text- und Sujetbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--relationship--gradient.md)[![Gemusterter Hintergrund: lokal: Text- und Themenbeziehungen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+Text- und Sujetbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--relationship--gradient.md)[![Gemusterter Hintergrund, lokal: Text-Motiv-Beziehungen: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Text- und Themenbeziehungen: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--relationship--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Text- und Motivbeziehungen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
+Text-Motiv-Beziehungen: Eine dekorative Fläche liegt hinter dem Inhalt; außerhalb dieser Fläche bleibt ein Bereich frei.](background--relationship--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Text- und Motivbeziehungen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
@@ -96,21 +96,21 @@ Text- und Motivbeziehungen: Ein gemusterter Hintergrund bedeckt das Bild hinter 
 
 ### Strukturierter Hintergrund↗
 
-Text- und Motivbeziehungen: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--relationship--texture.md)[![Umgebungshintergrund: Text- und Themenbeziehungen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um sie herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
+Text- und Motivbeziehungen: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--relationship--texture.md)[![Umgebungshintergrund: Text-Motiv-Beziehungen: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
 
-### Umwelthintergrund↗
+### Umgebungshintergrund↗
 
-Text- und Themenbeziehungen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--relationship--scene.md)
+Text-Motiv-Beziehungen: Eine zum Thema passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](background--relationship--scene.md)
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Bildgesteuert, mit unterstützendem Text: Das Bild erregt zuerst die Aufmerksamkeit; Wörter fügen Bedeutung oder Kontext hinzu.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-image-led-1.svg)
 
 ### Bildgesteuert, mit unterstützendem Text↗
 
-Das Bild erregt zunächst Aufmerksamkeit; Wörter fügen Bedeutung oder Kontext hinzu.](relationship--relation-image-led.md)[![Textgestützt, mit unterstützenden Bildern: Wörter tragen die Hauptbotschaft, wobei ein kleines Bild ihre Bedeutung unterstützt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-text-led-1.svg)
+Das Bild erregt zunächst Aufmerksamkeit; Wörter fügen Bedeutung oder Kontext hinzu.](relationship--relation-image-led.md)[![Textbetont, mit ergänzenden Bildern: Wörter tragen die Hauptbotschaft, ein kleines Bild unterstützt ihre Bedeutung.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-text-led-1.svg)
 
 ### Textgeführt, mit unterstützenden Bildern↗
 
@@ -124,4 +124,4 @@ Bild und Text belegen obere und untere Bereiche und sorgen so für eine klare Le
 
 Bild und Text nehmen entgegengesetzte Seiten ein und reagieren aufeinander.](relationship--relation-side.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/letter-art--letter-wave?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/letter-art--letter-wave?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Composición centrada en el motivo principal / DIRECCIÓN CREATIVA
 
-# Tipo curvo u ondulado
+# Letras curvas u onduladas
 
 Las letras siguen una curva u onda con un ritmo visible de subida y bajada.
 
 <a id="understand"></a>
 
-![Tipo curvo u ondulado: las letras siguen una curva u onda con un ritmo visible de subida y bajada.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-wave-1.svg)
+![Letras curvas u onduladas: las letras siguen una curva o una onda con un ritmo visible de subidas y bajadas.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-wave-1.svg)
 
 Ilustración de la composición
 
@@ -26,21 +26,21 @@ CÓMO RECONOCERLO
 
 ## ¿Qué define esta dirección?
 
-Es posible tanto una disposición ondulada como formas de letras deformadas; ninguno de los dos es obligatorio en combinación. Cambiar solo la fuente no crea una ola.
+Tanto una disposición ondulada como las letras deformadas son posibles; no es obligatorio combinarlas. Cambiar solo la fuente no crea una onda.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por tema → Relaciones entre texto y tema → Tratamientos de letras → Texto curvo u ondulado
+Motivo principal → Relaciones entre texto y motivo principal → Tratamientos de letras → Tipografía curva u ondulada
 
 **Entrada y salida**
 
@@ -64,47 +64,47 @@ Conserva el tema central y los rasgos que permiten reconocer el original. Usa su
 
 **Alcance y límites**
 
-Es posible tanto una disposición ondulada como formas de letras deformadas; ninguno de los dos es obligatorio en combinación. Cambiar solo la fuente no crea una ola.
+Tanto una disposición ondulada como las letras deformadas son posibles; no es obligatorio combinarlas. Cambiar solo la fuente no crea una onda.
 
 <a id="backgrounds"></a>
 
 ## Explora el fondo
 
-Estos ejemplos comparan motivos dentro de la misma familia de contenido. Mantener la composición actual al aplicar un tratamiento; Abra un ejemplo para conocer sus instrucciones completas.
+Estos ejemplos comparan fondos dentro de la misma familia de contenido. Conserva la composición actual al aplicar un tratamiento; abre un ejemplo para ver las instrucciones completas.
 
-[![Fondo transparente: Relaciones entre texto y tema: El fondo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
+[![Fondo transparente: relaciones entre texto y motivo principal: el fondo permanece transparente; el damero solo es una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Relaciones entre texto y tema: el fondo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--relationship--transparent.md)[![Fondo sólido: Relaciones entre texto y tema: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+Relaciones entre texto y motivo principal: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--relationship--transparent.md)[![Fondo de un solo color: relaciones entre texto y motivo principal: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
 ### Fondo sólido↗
 
-Relaciones entre texto y tema: un color uniforme forma el fondo; El blanco también es un fondo sólido.](background--relationship--solid.md)[![Fondo degradado: relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+Relaciones entre texto y motivo principal: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--relationship--solid.md)[![Fondo degradado: relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### Fondo degradado↗
 
-Relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--relationship--gradient.md)[![Fondo estampado: local: Relaciones entre texto y tema: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+Relaciones entre texto y motivo principal: el fondo cambia de color o brillo de forma continua y el contenido principal sigue distinguiéndose.](background--relationship--gradient.md)[![Fondo estampado localizado: relaciones entre texto y motivo principal: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
 ### Fondo estampado: local↗
 
-Relaciones entre texto y tema: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--relationship--pattern-local.md)[![Fondo estampado: área completa: Relaciones entre texto y tema: un fondo estampado cubre la imagen detrás del contenido en primer plano claramente legible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
+Relaciones entre texto y motivo principal: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](background--relationship--pattern-local.md)[![Fondo estampado integral: relaciones entre texto y motivo principal: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
 
 ### Fondo estampado: área completa↗
 
-Relaciones entre texto y tema: un fondo estampado cubre la imagen detrás del contenido en primer plano claramente legible.](background--relationship--pattern-full.md)[![Fondo texturizado: relaciones entre el texto y el tema: el grano del papel, las partículas u otros caracteres de la superficie respaldan el contenido del primer plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--texture-1.svg)
+Relaciones entre texto y motivo principal: un fondo estampado cubre la imagen detrás del contenido de primer plano, que sigue distinguiéndose con claridad.](background--relationship--pattern-full.md)[![Fondo texturizado: relaciones entre texto y motivo principal: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--texture-1.svg)
 
 ### Fondo texturizado↗
 
-Relaciones entre texto y tema: el grano del papel, las partículas u otros caracteres superficiales respaldan el contenido en primer plano.](background--relationship--texture.md)[![Antecedentes ambientales: relaciones entre texto y tema: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
+Relaciones entre texto y motivo principal: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](background--relationship--texture.md)[![Fondo ambiental: relaciones entre texto y motivo principal: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
 
-### Antecedentes medioambientales↗
+### Fondo ambiental↗
 
-Relaciones entre texto y tema: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.](background--relationship--scene.md)
+Relaciones entre texto y motivo principal: un entorno relacionado con el tema apoya el contenido principal desde detrás o alrededor.](background--relationship--scene.md)
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Letras de contorno: los contornos de las letras llevan el diseño mientras que la mayoría de sus interiores permanecen abiertos.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-outline-1.svg)
 
@@ -114,14 +114,14 @@ Los contornos de las letras llevan el diseño mientras que la mayoría de sus in
 
 ### Tipo estirado o comprimido↗
 
-Las proporciones de las letras se alargan, estrechan o ensanchan visiblemente.](letter-art--letter-stretch.md)[![Tipo de perspectiva en ángulo: las letras cambian la escala aparente en todo su ancho para sugerir profundidad.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-perspective-1.svg)
+Las proporciones de las letras se alargan, estrechan o ensanchan visiblemente.](letter-art--letter-stretch.md)[![Letras en perspectiva oblicua: la escala aparente de las letras cambia a lo ancho del texto para sugerir profundidad.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-perspective-1.svg)
 
-### Tipo de perspectiva en ángulo↗
+### Letras en perspectiva oblicua↗
 
-Las letras cambian la escala aparente a lo ancho para sugerir profundidad.](letter-art--letter-perspective.md)[![Tipo dividido y desplazado: las formas de las letras se cortan en partes desplazadas mientras las palabras originales siguen siendo reconocibles.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-fracture-1.svg)
+Las letras cambian la escala aparente a lo ancho para sugerir profundidad.](letter-art--letter-perspective.md)[![Tipografía cortada y desplazada: las letras se cortan en partes desplazadas y las palabras originales siguen siendo reconocibles.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-fracture-1.svg)
 
-### Tipo partido y desplazado↗
+### Tipografía cortada y desplazada↗
 
 Las formas de las letras se cortan en partes desplazadas mientras las palabras originales siguen siendo reconocibles.](letter-art--letter-fracture.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

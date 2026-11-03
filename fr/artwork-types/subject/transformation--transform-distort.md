@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-distort?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-distort?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -30,7 +30,7 @@ Cela change la forme de l'objet plutôt que simplement sa position. Si l’ident
 
 Le traitement s'articule autour d'un sujet ou d'un groupe identifiable.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -70,7 +70,7 @@ Cela change la forme de l'objet plutôt que simplement sa position. Si l’ident
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Forme de base reconnaissable : le sujet a une forme familière et lisible qui fournit une référence pour d'autres traitements.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
 

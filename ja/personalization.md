@@ -48,9 +48,9 @@
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![背景リムーバーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-背景除去剤](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+背景除去](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)
+細部修復](https://podplo.app/skills/detail-repair)
 
 <a id="templates"></a>
 
@@ -74,11 +74,11 @@
 
 <a id="_R_5krk_-cards"></a>
 
-[![花名フレームアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
+[![花のネームフレームの作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-花のネームフレーム](https://podplo.app/skills/floral-name-frame)[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+花のネームフレーム](https://podplo.app/skills/floral-name-frame)[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="proofing"></a>
 
@@ -88,7 +88,7 @@
 
 [フォトメモリアルカード](https://podplo.app/skills/photo-memorial-card) 選んだ写真と名前、日付、メッセージを組み合わせた、控えめなメモリアルデザインです。人物や伝記の詳細は変更されません。
 
-![承認された記念写真](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606669413176818-before.webp)
+![使用許可を得た追悼用写真](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606669413176818-before.webp)
 
 入力
 
@@ -150,6 +150,6 @@
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![背景リムーバーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-背景除去剤](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+背景除去](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)
+細部修復](https://podplo.app/skills/detail-repair)

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/scene/background--scene--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/scene/background--scene--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,7 +18,7 @@ Szenen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen B
 
 <a id="understand"></a>
 
-![Gemusterter Hintergrund: lokal: Szenen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+![Gemusterter Hintergrund, lokal: Szenen: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
 Kompositionsskizze
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 
 [← Zurück zu den Szenen](../scene.md)
 
@@ -34,9 +34,9 @@ Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Lei
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -52,7 +52,7 @@ Bewahren Sie den wesentlichen Raum, die Umgebung und jedes vorhandene Ereignis d
 
 **Hintergrund**
 
-Verwenden Sie Hintergrundelemente, Behandlung und Palette als Referenzen und reorganisieren Sie sie in einen lokalen dekorativen Hintergrund. Wenn keine vorhanden ist oder die Quelle nur einen glatten oder transparenten Grund hat, erstellen Sie verwandte Motive. Behalten Sie die Transparenz, die ursprüngliche Grundfarbe oder einen explizit gewünschten Grund außerhalb des Pflasters bei.
+Verwenden Sie Hintergrundelemente, Gestaltung und Farbpalette als Referenzen und ordnen Sie diese zu einer örtlich begrenzten dekorativen Hintergrundfläche neu an. Ist keine vorhanden oder hat die Vorlage nur einen einfarbigen oder transparenten Hintergrund, schaffen Sie passende Motive. Bewahren Sie außerhalb der Fläche die Transparenz, ursprüngliche Grundfarbe oder einen ausdrücklich gewünschten Hintergrund.
 
 **Textinhalt**
 
@@ -64,21 +64,21 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Transparenter Hintergrund: Szenen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![Transparenter Hintergrund: Szenen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Szenen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--scene--transparent.md)[![Einfarbiger Hintergrund: Szenen: Eine einheitliche Farbe bildet den Boden; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Szenen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--scene--transparent.md)[![Einfarbiger Hintergrund: Szenen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Szenen: Eine einheitliche Farbe bildet den Boden; Weiß ist auch ein solider Hintergrund.](background--scene--solid.md)[![Hintergrund mit Farbverlauf: Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Szenen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--scene--solid.md)[![Hintergrund mit Farbverlauf: Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
@@ -88,4 +88,4 @@ Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, w�
 
 Szenen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--scene--pattern-full.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

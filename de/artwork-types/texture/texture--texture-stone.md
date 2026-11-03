@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/texture/texture--texture-stone?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/texture/texture--texture-stone?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Behaupten Sie nicht ohne Beweise eine genaue Steinart oder geologische Identität. Ein kompletter Stein, der als Objekt präsentiert wird, ist ein subjektorientiertes Kunstwerk.
+Behaupten Sie ohne Belege keine genaue Gesteinsart oder geologische Identität. Ein vollständiger Stein, der als Gegenstand dargestellt wird, gehört zur motivbetonten Gestaltung.
 
 [← Zurück zu Texturen](../texture.md)
 
@@ -34,9 +34,9 @@ Behaupten Sie nicht ohne Beweise eine genaue Steinart oder geologische Identitä
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -52,7 +52,7 @@ Entwickeln Sie steinähnliche Oberflächenmerkmale anhand relevanter Farb-, Mate
 
 **Hintergrund**
 
-Referenzmaterial, Farbpalette und Atmosphäre, um bei Fehlen eine relevante Oberflächenbehandlung zu schaffen. Ein lokaler Patch kann eine separate Unterstützung haben; eine vollflächige Textur verschmilzt mit dem Untergrund. Vermeiden Sie das Hinzufügen eines dominanten Objekts oder einer narrativen Umgebung.
+Orientieren Sie sich an Material, Farbpalette und Atmosphäre und gestalten Sie bei fehlender Vorlage eine passende Oberfläche. Eine örtlich begrenzte Texturfläche kann einen eigenen Hintergrund haben; eine vollflächige Textur verschmilzt mit ihrem Untergrund. Fügen Sie keinen dominanten Gegenstand und keinen erzählerischen Schauplatz hinzu.
 
 **Textinhalt**
 
@@ -64,27 +64,27 @@ Behalten Sie relevantes Material, Oberfläche, Farbpalette und Atmosphäre bei, 
 
 **Umfang und Grenzen**
 
-Behaupten Sie nicht ohne Beweise eine genaue Steinart oder geologische Identität. Ein kompletter Stein, der als Objekt präsentiert wird, ist ein subjektorientiertes Kunstwerk.
+Behaupten Sie ohne Belege keine genaue Gesteinsart oder geologische Identität. Ein vollständiger Stein, der als Gegenstand dargestellt wird, gehört zur motivbetonten Gestaltung.
 
 <a id="backgrounds"></a>
 
 ## Erkunden Sie den Hintergrund
 
-Diese Beispiele vergleichen Gründe innerhalb derselben Inhaltsfamilie. Behalten Sie die aktuelle Zusammensetzung bei, wenn Sie eine Behandlung anwenden. Öffnen Sie ein Beispiel für die vollständige Anleitung.
+Diese Beispiele vergleichen Hintergründe innerhalb derselben Inhaltsgruppe. Bewahren Sie beim Anwenden einer Gestaltung die aktuelle Komposition; öffnen Sie ein Beispiel, um die vollständige Anleitung zu lesen.
 
-[![Transparenter Hintergrund: Texturen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
+[![Transparenter Hintergrund: Texturen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Texturen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--texture--transparent.md)[![Einfarbiger Hintergrund: Texturen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+Texturen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--texture--transparent.md)[![Einfarbiger Hintergrund: Texturen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Texturen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--texture--solid.md)[![Hintergrund mit Farbverlauf: Texturen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+Texturen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--texture--solid.md)[![Hintergrund mit Farbverlauf: Texturen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Texturen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--texture--gradient.md)[![Gemusterter Hintergrund: lokal: Texturen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
+Texturen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--texture--gradient.md)[![Gemusterter Hintergrund, lokal: Texturen: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
@@ -98,13 +98,13 @@ Texturen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren 
 
 Texturen: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--texture--texture.md)[![Umgebungshintergrund: Texturen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um sie herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
 
-### Umwelthintergrund↗
+### Umgebungshintergrund↗
 
 Texturen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--texture--scene.md)
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Natürliche Textur: Wasser: Wellen, Bewegung und Oberflächenreflexionen bilden den Hauptbildinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-water-1.svg)
 
@@ -120,8 +120,8 @@ Feine Fasern, Maserung und Unebenheiten lassen auf eine Papieroberfläche schlie
 
 Verwobene Linien und Faserdetails lassen auf eine gewebte Oberfläche schließen.](texture--texture-weave.md)[![Aufgetragene Textur: Abnutzung: Kratzer, Pinselspuren und ungleichmäßige Abnutzung verleihen einer Oberfläche einen gebrauchten oder bearbeiteten Charakter.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-worn-1.svg)
 
-### Aufgetragene Textur: wear↗
+### Aufgetragene Textur: Abnutzung↗
 
 Abrieb, Bürstenspuren und ungleichmäßige Abnutzung verleihen einer Oberfläche einen gebrauchten oder bearbeiteten Charakter.](texture--texture-worn.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

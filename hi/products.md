@@ -46,9 +46,9 @@
 
 कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)[![पुष्प नाम फ़्रेम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)[![शीतल जल रंग पालतू पोर्ट्रेट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
+पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
+हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
 ## अपना अगला उत्पाद चुनें
 
@@ -60,9 +60,9 @@
 
 **स्वेटशर्ट और हुडी**
 
-व्यक्तित्व के साथ आरामदायक परतें](products/sweatshirts.md)[![टोपी और टोपी](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)
+व्यक्तित्व के साथ आरामदायक परतें](products/sweatshirts.md)[![हैट और कैप](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)
 
-**टोपी और टोपी**
+**हैट और कैप**
 
 छोटे डिज़ाइन जो अलग दिखते हैं](products/hats.md)[![मग](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601105306992710.webp)
 
@@ -84,21 +84,21 @@
 
 **स्टिकर और लेबल**
 
-बहुत कुछ कहने वाली छोटी छवियां](products/stickers.md)[![बैग ले जाना](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-149520694559925464.webp)
+बहुत कुछ कहने वाली छोटी छवियां](products/stickers.md)[![टोट बैग](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-149520694559925464.webp)
 
-**बैग ले जाना**
+**टोट बैग**
 
 अपना पसंदीदा डिज़ाइन ले जाएं](products/tote-bags.md)[![बैकपैक और लंच बैग](https://podplo.app/pod-guide/generated/backpacks-proof.webp)
 
 **बैकपैक और लंच बैग**
 
-एक बैग जो निश्चित रूप से आपका है](products/backpacks.md)[![फ़ोन के मामले](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100560723646.webp)
+एक बैग जो निश्चित रूप से आपका है](products/backpacks.md)[![फ़ोन केस](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100560723646.webp)
 
-**फ़ोन के मामले**
+**फ़ोन केस**
 
-कोई पसंदीदा छवि पास रखें](products/phone-cases.md)[![नोटबुक और योजनाकार](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
+कोई पसंदीदा छवि पास रखें](products/phone-cases.md)[![नोटबुक और प्लानर](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
 
-**नोटबुक और योजनाकार**
+**नोटबुक और प्लानर**
 
 आपके अगले अध्याय के लिए एक आवरण](products/notebooks.md)[![ग्रीटिंग कार्ड और निमंत्रण](https://podplo.app/pod-guide/generated/greeting-cards-proof.webp)
 
@@ -108,13 +108,13 @@
 
 **कम्बल**
 
-किसी पसंदीदा स्मृति में लपेटें](products/blankets.md)[![तकिए और गद्दे](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
+किसी पसंदीदा स्मृति में लपेटें](products/blankets.md)[![तकिए और कुशन](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
 
-**तकिए और गद्दे**
+**तकिए और कुशन**
 
-किसी भी कमरे में व्यक्तिगत स्पर्श जोड़ें](products/pillows.md)[![आभूषण और सनकैचर](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)
+किसी भी कमरे में व्यक्तिगत स्पर्श जोड़ें](products/pillows.md)[![लटकाने वाली सजावट और सनकैचर](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)
 
-**आभूषण और सनकैचर**
+**लटकाने वाली सजावट और सनकैचर**
 
 बड़े पलों के लिए छोटी-छोटी निशानियाँ](products/ornaments.md)[![पहेलियाँ](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)
 

@@ -26,7 +26,7 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-O foco é o caráter superficial, não necessariamente um cenário completo à beira-mar. Quando as margens, a arquitetura e o espaço dominarem, use a categoria cena.
+O foco é o caráter da superfície, e não necessariamente um cenário completo à beira d’água. Quando margens, arquitetura e espaço dominarem, use a categoria de cenas.
 
 [← Voltar para texturas](../texture.md)
 
@@ -52,7 +52,7 @@ Use sugestões de cor, luz, atmosfera ou água da entrada para desenvolver uma t
 
 **Fundo**
 
-Material de referência, paleta e atmosfera, criando um tratamento de superfície relevante quando falta. Um patch local pode ter um suporte separado; uma textura de área inteira se funde com seu solo. Evite adicionar um objeto dominante ou cenário narrativo.
+Use o material, a paleta e a atmosfera como referência, criando um tratamento de superfície pertinente quando estiver ausente. Uma área localizada pode ter uma base separada; uma textura que cobre toda a área se funde com o fundo. Evite adicionar um objeto dominante ou um cenário narrativo.
 
 **Texto**
 
@@ -64,19 +64,19 @@ Retenha materiais, superfícies, paletas e atmosfera relevantes sem exigir uma s
 
 **Escopo e limites**
 
-O foco é o caráter superficial, não necessariamente um cenário completo à beira-mar. Quando as margens, a arquitetura e o espaço dominarem, use a categoria cena.
+O foco é o caráter da superfície, e não necessariamente um cenário completo à beira d’água. Quando margens, arquitetura e espaço dominarem, use a categoria de cenas.
 
 <a id="backgrounds"></a>
 
 ## Explorar o plano de fundo
 
-Esses exemplos comparam motivos dentro da mesma família de conteúdo. Manter a composição atual ao aplicar um tratamento; abra um exemplo para obter instruções completas.
+Esses exemplos comparam fundos dentro da mesma família de conteúdo. Preserve a composição atual ao aplicar um tratamento visual; abra um exemplo para ver as instruções completas.
 
-[![Fundo transparente: Texturas: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
+[![Fundo transparente: texturas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Texturas: O chão fica transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--texture--transparent.md)[![Fundo sólido: Texturas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+Texturas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--texture--transparent.md)[![Fundo sólido: Texturas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
 ### Fundo sólido↗
 
@@ -84,27 +84,27 @@ Texturas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.]
 
 ### Fundo gradiente↗
 
-Texturas: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--texture--gradient.md)[![Fundo padronizado: local: Texturas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
+Texturas: O suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--texture--gradient.md)[![Fundo estampado: local: Texturas: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Texturas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--texture--pattern-local.md)[![Fundo padronizado: área completa: Texturas: Um fundo padronizado cobre a imagem atrás de um conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
+Texturas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--texture--pattern-local.md)[![Fundo estampado: área completa: Texturas: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
 Texturas: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--texture--pattern-full.md)[![Plano de fundo texturizado: Texturas: granulação do papel, partículas ou outro caráter de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--texture-1.svg)
 
 ### Fundo texturizado↗
 
-Texturas: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--texture--texture.md)[![Contexto ambiental: Texturas: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
+Texturas: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--texture--texture.md)[![Cenário ao fundo: Texturas: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
 
-### Contexto ambiental↗
+### Cenário ao fundo↗
 
 Texturas: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](background--texture--scene.md)
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
 [![Textura natural: pedra: Grão, veios, fissuras e variação de superfície sugerem um material semelhante a pedra.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture--texture-stone-1.svg)
 

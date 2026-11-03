@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/memories-and-memorials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/gifts/memories-and-memorials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,9 +18,9 @@ Restaurez une vieille photo ou créez un souvenir personnel autour d'une personn
 
 ## Restaurer une photo mémoire endommagée
 
-[Réparation détaillée](https://podplo.app/skills/detail-repair) corrige les dommages sur une vieille photo tout en préservant les personnes et les objets familiers.
+[Réparation des détails](https://podplo.app/skills/detail-repair) corrige les dommages sur une vieille photo tout en préservant les personnes et les objets familiers.
 
-Une photo fanée de famille, de voyage, de mariage ou d’archives peut être le seul souvenir d’un moment important. [Réparation détaillée](https://podplo.app/skills/detail-repair) peut réparer les rayures, les zones floues ou les objets endommagés tout en préservant les visages familiers et les détails clés.
+Une photo fanée de famille, de voyage, de mariage ou d’archives peut être le seul souvenir d’un moment important. [Réparation des détails](https://podplo.app/skills/detail-repair) peut réparer les rayures, les zones floues ou les objets endommagés tout en préservant les visages familiers et les détails clés.
 
 ![Photographie de mémoire endommagée ou fanée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1-before.webp)
 
@@ -28,7 +28,7 @@ Entrée
 
 [![Photographie renouvelée préservant les détails familiers](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)](https://podplo.app/skills/detail-repair)
 
-Réparation détaillée
+Réparation des détails
 
 **Plus de Skills à explorer**
 
@@ -40,13 +40,13 @@ Réparation détaillée
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Exemple d'illustration HD haut de gamme](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+[![Exemple de visuel « Agrandissement HD »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD haut de gamme](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Agrandissement HD](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple d'illustration Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Peinture intelligente](https://podplo.app/skills/smart-outpaint)
+Extension d’image intelligente](https://podplo.app/skills/smart-outpaint)
 
 <a id="pet-memories"></a>
 
@@ -80,7 +80,7 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration Sil
 
 Créateur de silhouettes](https://podplo.app/skills/silhouette-maker)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 
@@ -116,6 +116,6 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration Sil
 
 Créateur de silhouettes](https://podplo.app/skills/silhouette-maker)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)

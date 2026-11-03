@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/design-product-print-fit?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/design-product-print-fit?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,9 +18,9 @@ Essayez un graphisme de T-shirt audacieux, un petit emblème ou un motif envelop
 
 ## Créez un design centré et compact
 
-[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) combine des illustrations et des copies dans une forme centrale audacieuse.
+[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) combine l’illustration et le texte en une forme centrée affirmée.
 
-[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) rassemble un sujet et une copie dans une forme dense et équilibrée. Une œuvre d’art qui semblait autrefois dispersée devient un graphique fort et centré avec un point focal clair.
+[Disposition centrale compacte](https://podplo.app/skills/compact-center-layout) rassemble un sujet et du texte en une forme dense et équilibrée. Une illustration auparavant dispersée devient un visuel centré affirmé avec un point focal clair.
 
 ![Illustration et formulation exacte avant la mise en page](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
@@ -54,9 +54,9 @@ Disposition des badges circulaires](https://podplo.app/skills/circular-badge-lay
 
 ## Créez un concept d'aspect cousu
 
-[Croquis de broderie](https://podplo.app/skills/embroidery-sketch) simplifie une image détaillée en un concept épuré et cousu.
+[Croquis de broderie](https://podplo.app/skills/embroidery-sketch) simplifie une image détaillée en un concept épuré à l’aspect brodé.
 
-[Croquis de broderie](https://podplo.app/skills/embroidery-sketch) simplifie une photo ou une illustration en des formes plus grandes et des lignes d'aspect cousu. Le résultat est une image conceptuelle de broderie, pas un fichier de points.
+[Croquis de broderie](https://podplo.app/skills/embroidery-sketch) simplifie une photo ou une illustration en formes plus grandes et en lignes évoquant la broderie. Le résultat est une image conceptuelle de broderie, pas un fichier de points de broderie.
 
 ![Image de référence avant simplification de la broderie](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-15-before.webp)
 
@@ -82,7 +82,7 @@ Style vectoriel](https://podplo.app/skills/vector-style)[![Exemple d'illustratio
 
 Style de papier découpé](https://podplo.app/skills/paper-cut-style)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 
@@ -98,7 +98,7 @@ Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 
 Entrée
 
-[![Autocollant séparé et feuille de cliparts](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)](https://podplo.app/skills/sticker-clipart-pack)
+[![Planche d’autocollants et de cliparts séparés](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)](https://podplo.app/skills/sticker-clipart-pack)
 
 Pack d’autocollants et de cliparts
 
@@ -122,9 +122,9 @@ Générateur de grille 6PC](https://podplo.app/skills/six-piece-grid)
 
 ## Prévisualiser la conception dans son contexte
 
-Une maquette montre comment la forme, la couleur et le réglage du produit modifient l'ambiance d'un design.
+Une maquette montre comment la forme du produit, sa couleur et sa mise en scène changent l’impression donnée par un visuel.
 
-Une maquette montre comment la couleur, la forme du produit et le réglage affectent la même illustration. Un motif centré peut paraître audacieux sur une chemise et discret sur un cahier. L'aperçu est une image conceptuelle et non un échantillon physique.
+Une maquette montre comment la couleur, la forme du produit et sa mise en scène modifient le même visuel. Un motif centré peut sembler affirmé sur un t-shirt et discret sur un carnet. L’aperçu est une image de concept, pas un échantillon physique.
 
 ![Oeuvre exacte à vérifier](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
 
@@ -150,6 +150,6 @@ Créateur d'affiches](https://podplo.app/skills/poster-maker)[![Exemple d'illust
 
 Disposition centrale compacte](https://podplo.app/skills/compact-center-layout)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple d'illustration de réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple de visuel « Réparation des détails »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Réparation détaillée](https://podplo.app/skills/detail-repair)
+Réparation des détails](https://podplo.app/skills/detail-repair)

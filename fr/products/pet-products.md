@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/pet-products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/pet-products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Concevez un tapis d'alimentation pour animaux de compagnie autour d'un portrait,
 
 ### Faire de l'animal le sujet principal
 
-Placez le portrait à côté des bols, répétez un symbole familier ou intégrez le nom de l'animal dans le motif. Un portrait mis de côté ; Un nom associé à des pattes et des objets préférés ; Une répétition disposée autour de la zone du bol.
+Placez le portrait à côté des gamelles, répétez un symbole familier ou intégrez le nom de l’animal au visuel. Un portrait placé sur un côté ; un nom accompagné de pattes et d’objets préférés ; un motif répété disposé autour de la zone des gamelles.
 
 [![Tapis d'alimentation pour animaux · Tapis d'alimentation pour animaux](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606560394791670.webp)](https://podplo.app/products/mockup-temu-606560394791670)
 
@@ -46,13 +46,13 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de photos et d'images Skills**
+**Explorez davantage de Skills photo et image**
 
 <a id="_R_5v3k_-title"></a>
 
-#### Explorez plus de photos et d'images Skills
+#### Explorez davantage de Skills photo et image
 
 4 / 44
 
@@ -64,7 +64,7 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration Sil
 
 Créateur de silhouettes](https://podplo.app/skills/silhouette-maker)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 

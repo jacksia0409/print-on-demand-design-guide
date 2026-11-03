@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/abstract--abstract-geometry?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/abstract--abstract-geometry?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -70,15 +70,15 @@ La géométrie qui représente encore clairement un objet est un traitement de s
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
-[![Fond transparent : Oeuvre abstraite : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
+[![Fond transparent : création abstraite : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Fond transparent↗
 
-Oeuvre abstraite : le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--abstract--transparent.md)[![Fond uni : illustration abstraite : une couleur uniforme forme le sol ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
+Art abstrait : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--abstract--transparent.md)[![Fond uni : art abstrait : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Oeuvre abstraite : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--abstract--solid.md)[![Fond dégradé : Oeuvre abstraite : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
@@ -104,7 +104,7 @@ Illustration abstraite : un environnement lié à un thème prend en charge le 
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Flux organique : les courbes, les rubans et les formes libres créent du mouvement sans représenter un objet spécifique.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract--abstract-flow-1.svg)
 

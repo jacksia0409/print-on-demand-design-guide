@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/t-shirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/t-shirts?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -66,7 +66,7 @@ Verwandeln Sie Blumen, Tiere oder geometrische Formen in ein sich wiederholendes
 
 Beginnen Sie mit einem einzelnen Motiv. Wiederholen Sie es auf dem Hemd.
 
-KI-generierte Produktmodelle.
+KI-generierte Produktmockups.
 
 <a id="tshirt-create"></a>
 
@@ -90,13 +90,13 @@ Kombinieren Sie Ihre Fotos, Grafiken und Texte. Sehen Sie, was Sie machen könne
 
 Verwenden Sie verschiedene Skills, um dasselbe Bild und denselben Text neu zu mischen. Entdecken Sie neue Layouts und erstellen Sie weiter.
 
-![Originale Rosenkunstwerke, die in allen drei Designs verwendet wurden](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/skill-categories/source/layout/tshirt-one--title-subject-subtitle-layout.jpg)
+![Ursprüngliches Rosenmotiv, das in allen drei Designs verwendet wird](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/skill-categories/source/layout/tshirt-one--title-subject-subtitle-layout.jpg)
 
 Originalkunstwerk
 
-[![Titel–Thema–Untertitel · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Titel–Motiv–Untertitel · ETERNAL BLOOM](https://podplo.app/pod-guide/generated/rose-title-subject-subtitle.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-[Titel–Thema–Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
+[Titel–Motiv–Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
 Stapeln Sie Überschrift, Rosen und Untertitel für ein klares Layout von oben nach unten.
 
@@ -156,7 +156,7 @@ Verwandeln Sie ein Haustierfoto in ein Porträt und fügen Sie dann mit einem La
 
 [![Aquarell-Tierporträt vor dem Hinzufügen von Text](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
-[Porträt](https://podplo.app/skills/soft-watercolor-pet-portrait) → [Beschriftung und Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+[Porträt](https://podplo.app/skills/soft-watercolor-pet-portrait) → [Schriftgestaltung und Layout](https://podplo.app/skills/title-subject-subtitle-layout)
 
 **Weitere Ideen für Ihre Fotos**
 
@@ -168,7 +168,7 @@ Verwandeln Sie ein Haustierfoto in ein Porträt und fügen Sie dann mit einem La
 
 <a id="_R_df3k_-cards"></a>
 
-[![Lustiges Big-Belly-Cartoon-Kunstwerksbeispiel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
+[![Designbeispiel eines lustigen Dickbauch-Cartoons](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607532701567803-after.webp)
 
 Lustiger Dickbauch-Cartoon](https://podplo.app/skills/funny-big-belly-cartoon)[![Beispiel für ein königliches Haustierporträt](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)
 
@@ -222,7 +222,7 @@ Stellen Sie ihren Namen in den Mittelpunkt eines Weihnachtsdesigns. Probieren Si
 
 <a id="_R_ef3k_-cards"></a>
 
-[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Crayon Hearts-Namensmuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -242,15 +242,15 @@ Eingabe
 
 Kunstwerk
 
-### Kleine Bauform. Große Persönlichkeit.
+### Kleines Design. Große Persönlichkeit.
 
-Verwandeln Sie ein Katzenfoto mit Stickerei-Skizze in eine einfache Grafik im Stickstil. Ein paar Linien und Farbblöcke können viel Charakter einfangen.
+Verwandeln Sie ein Katzenfoto mit Embroidery Sketch in eine einfache Grafik im Stickstil. Wenige Linien und Farbblöcke können viel Charakter einfangen.
 
 [Stickskizze](https://podplo.app/skills/embroidery-sketch)
 
 <a id="tshirt-pattern-route"></a>
 
-![Nahtlose Musterquelle](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Ausgangsbild für Seamless Pattern](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Eingabe
 
@@ -264,7 +264,7 @@ Verwenden Sie „Nahtlose Muster“, um Blumen, Tiere oder geometrische Formen i
 
 [Nahtloses Muster](https://podplo.app/skills/seamless-pattern)
 
-T-Shirt-Bilder sind KI-generierte Modelle.
+T-Shirt-Bilder sind KI-generierte Mockups.
 
 <a id="tshirt-deliver"></a>
 
@@ -282,19 +282,19 @@ T-Shirt-Bilder sind KI-generierte Modelle.
 
 Sehen Sie sich Ihr Kunstwerk auf einem leeren T-Shirt oder einem Modell in der Vorschau an. Probieren Sie verschiedene Hemdfarben und -einstellungen aus, um den Look zu finden, der Ihnen gefällt.
 
-KI-generierte Modelle.
+KI-generierte Mockups.
 
-[Durchsuchen Sie T-Shirt-Modelle](https://podplo.app/products/mockup-zazzle-256566384936571224)
+[T-Shirt-Mockups durchsuchen](https://podplo.app/products/mockup-zazzle-256566384936571224)
 
 ![Fertiges Golden Retriever-T-Shirt-Artwork](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
 
 1 · Fertiges Kunstwerk
 
-![Leeres elfenbeinfarbenes T-Shirt als Modellreferenz](https://podplo.app/pod-guide/generated/tshirt-blank.webp)
+![Unbedrucktes elfenbeinfarbenes T-Shirt als Mockup-Referenz](https://podplo.app/pod-guide/generated/tshirt-blank.webp)
 
-Leeres elfenbeinfarbenes T-Shirt
+Unbedrucktes elfenbeinfarbenes T-Shirt
 
-![Golden Retriever-Design auf einem T-Shirt-Modell platziert](https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp)
+![Golden-Retriever-Design auf einem T-Shirt-Mockup](https://podplo.app/pod-guide/t-shirts/golden-retriever-shirt.webp)
 
 3 · Produktvisualisierung
 

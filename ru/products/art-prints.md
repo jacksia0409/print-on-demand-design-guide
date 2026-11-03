@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/art-prints?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/art-prints?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Плакаты и репродукции
 
-Превратите одно изображение в рекламный плакат, макет шрифта и изображения или скоординированный набор для печати.
+Превратите одно изображение в выразительный плакат, композицию из текста и изображения или согласованный набор принтов.
 
 <a id="product-overview"></a>
 
@@ -20,7 +20,7 @@
 
 ### Создайте произведение искусства на стене
 
-Художественные репродукции могут изображать один яркий сюжет, сочетать изображения со шрифтом или распространять одну концепцию на несколько произведений. Одно изображение заявления; Редакционный имиджевый и шрифтовой макет; Гармоничный комплект из двух или трех предметов.
+Художественные принты могут выделять один выразительный главный объект, сочетать изображения с надписями или развивать одну концепцию в нескольких работах. Одно выразительное изображение; Редакционная композиция из изображения и текста; Согласованный комплект из двух или трёх работ.
 
 [![Постеры и репродукции · Wall Art 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100781713611.webp)](https://podplo.app/products/mockup-temu-601100781713611)
 
@@ -32,7 +32,7 @@
 
 ### Придайте своему произведению вид плаката
 
-Используйте выбранный Skill, чтобы объединить основное изображение и вспомогательный тип в полный макет плаката.
+Используйте выбранный Skill для объединения главного изображения и вспомогательной надписи в полноценную плакатную композицию.
 
 [Создатель Плакатов](https://podplo.app/skills/poster-maker)
 
@@ -48,11 +48,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Изучите больше макета и установите Skills**
+**Изучите другие Skill для композиций и наборов**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Изучите больше макета и установите Skills
+#### Изучите другие Skill для композиций и наборов
 
 4 / 14
 
@@ -60,15 +60,15 @@
 
 [![Пример иллюстрации бесшовного рисунка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
-Бесшовный узор](https://podplo.app/skills/seamless-pattern)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Бесшовный узор](https://podplo.app/skills/seamless-pattern)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)
 
-### Превратите пару фотографий в акварельное настенное искусство
+### Превратите фотографию пары в акварельную настенную композицию
 
 Четкая фотография пары становится акварельным портретом для художественной печати.
 
@@ -86,11 +86,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Исследуйте больше фотографий и изображений Skills**
+**Изучите другие Skill для фотографий и изображений**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Исследуйте больше фотографий и изображений Skills
+#### Изучите другие Skill для фотографий и изображений
 
 4 / 97
 
@@ -104,7 +104,7 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 ### Создайте цветочный принт с именем
 
@@ -112,11 +112,11 @@
 
 [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)
 
-АНДРЕА
+ANDREA
 
 Имя
 
-[![Цветочная рамка для имени · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![Цветочная рамка для имени · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 Созданное произведение искусства
 
@@ -124,25 +124,25 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Узнайте больше об имени и случае Skills**
+**Изучите другие Skill для имён и особых поводов**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Узнайте больше об имени и случае Skills
+#### Изучите другие Skill для имён и особых поводов
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример изображения плаката с названием Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример именного постера Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Плакат с названием Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример изображения узора в виде сердечек из карандашей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Именной постер Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример узора с именем и сердечками, нарисованными мелками](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Образец имени в виде сердечек из карандашей](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Узор с именем и сердечками, нарисованными мелками](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/scene/scene-layout--scene-layout-depth?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/scene/scene-layout--scene-layout-depth?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -14,7 +14,7 @@ Szenen / GESTALTUNGSRICHTUNG
 
 # Schichten voller Tiefe
 
-Vordergrund, Mittelgrund und Abstand erzeugen ein lesbares Raumgefühl.
+Vordergrund, Mittelgrund und Ferne erzeugen ein klar erkennbares Raumgefühl.
 
 <a id="understand"></a>
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Eine realistische Perspektive und genau drei Ebenen sind optional. Überlappende, nicht zusammenhängende Ausschnitte allein schaffen noch kein zusammenhängendes Bild.
+Realistische Perspektive und genau drei Ebenen sind optional. Die bloße Überlagerung unzusammenhängender Ausschnitte ergibt noch keinen stimmigen Schauplatz.
 
 [← Zurück zu den Szenen](../scene.md)
 
@@ -34,13 +34,13 @@ Eine realistische Perspektive und genau drei Ebenen sind optional. Überlappende
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Szenen → Zusammensetzung → Schichten voller Tiefe
+Szenen → Komposition → Tiefenstaffelung
 
 **Eingabe und Ausgabe**
 
@@ -52,7 +52,7 @@ Ordnen Sie die Szene mithilfe von Skalierung, Überlappung, Platzierung, Klarhei
 
 **Hintergrund**
 
-Nutzen Sie vorhandene Standort-, Umgebungs- und Atmosphärenmerkmale, um eine kohärente Umgebung zu schaffen. Wenn kein Hintergrund vorhanden ist oder nur eine feste oder transparente Unterlage bereitgestellt wird, erstellen Sie eine entsprechende Umgebung. Ein dekoratives Muster allein darf den wesentlichen Kontext nicht ersetzen.
+Nutzen Sie vorhandene Hinweise auf Ort, Umgebung und Atmosphäre, um einen stimmigen Schauplatz zu entwickeln. Fehlt der Hintergrund oder ist nur ein einfarbiger oder transparenter Hintergrund vorgegeben, schaffen Sie eine passende Umgebung. Ein dekoratives Muster allein darf wesentlichen Kontext nicht ersetzen.
 
 **Textinhalt**
 
@@ -64,27 +64,27 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Eine realistische Perspektive und genau drei Ebenen sind optional. Überlappende, nicht zusammenhängende Ausschnitte allein schaffen noch kein zusammenhängendes Bild.
+Realistische Perspektive und genau drei Ebenen sind optional. Die bloße Überlagerung unzusammenhängender Ausschnitte ergibt noch keinen stimmigen Schauplatz.
 
 <a id="backgrounds"></a>
 
 ## Erkunden Sie den Hintergrund
 
-Diese Beispiele vergleichen Gründe innerhalb derselben Inhaltsfamilie. Behalten Sie die aktuelle Zusammensetzung bei, wenn Sie eine Behandlung anwenden. Öffnen Sie ein Beispiel für die vollständige Anleitung.
+Diese Beispiele vergleichen Hintergründe innerhalb derselben Inhaltsgruppe. Bewahren Sie beim Anwenden einer Gestaltung die aktuelle Komposition; öffnen Sie ein Beispiel, um die vollständige Anleitung zu lesen.
 
-[![Transparenter Hintergrund: Szenen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![Transparenter Hintergrund: Szenen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Szenen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--scene--transparent.md)[![Einfarbiger Hintergrund: Szenen: Eine einheitliche Farbe bildet den Boden; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Szenen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--scene--transparent.md)[![Einfarbiger Hintergrund: Szenen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Szenen: Eine einheitliche Farbe bildet den Boden; Weiß ist auch ein solider Hintergrund.](background--scene--solid.md)[![Hintergrund mit Farbverlauf: Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Szenen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--scene--solid.md)[![Hintergrund mit Farbverlauf: Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--scene--gradient.md)[![Gemusterter Hintergrund: lokal: Szenen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+Szenen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--scene--gradient.md)[![Gemusterter Hintergrund, lokal: Szenen: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
@@ -98,13 +98,13 @@ Szenen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vo
 
 Szenen: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--scene--texture.md)[![Umgebungshintergrund: Szenen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um sie herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
 
-### Umwelthintergrund↗
+### Umgebungshintergrund↗
 
 Szenen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--scene--scene.md)
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Horizontale Szene: Die Umgebung erstreckt sich über das Bild mit horizontaler Leserichtung.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene-layout--scene-layout-panorama-1.svg)
 
@@ -124,4 +124,4 @@ Ein zugeschnittener Teil einer Szene behält genügend Beziehungen bei, um auf s
 
 Verwandte Frames zeigen eine Änderung, einen Prozess oder eine Abfolge von Ereignissen.](scene-layout--scene-layout-panels.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

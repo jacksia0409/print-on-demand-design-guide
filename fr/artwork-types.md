@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-GUIDE DE DOMAINE DES ŒUVRES D'ART
+GUIDE PRATIQUE DES VISUELS
 
 # Quels types de conceptions fonctionnent bien pour l’impression à la demande ?
 
 Commencez par ce qui mène l’image, puis explorez comment elle est organisée. Cinq formes d'œuvres d'art, des premières impressions à votre prochaine création.
 
-[![1 Sujet dirigé : Un objet identifiable, un groupe ou un lettrage mène la composition.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-overview--single-center-1.svg)
+[![1 Composition centrée sur le sujet : un objet identifiable, un groupe ou un lettrage guide la composition.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-overview--single-center-1.svg)
 
-01 / FORME OEUVRE
+01 / FORME DU VISUEL
 
 ## Composition centrée sur le sujet
 
@@ -26,7 +26,7 @@ Un objet identifiable, un groupe ou un lettrage mène la composition.
 
 Explorez 361 directions créatives↗](artwork-types/subject.md)[![3 motifs : Les motifs forment un design décoratif global grâce à la répétition ou à une disposition claire.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-overview--pattern-grid-1.svg)
 
-02 / FORME OEUVRE
+02 / FORME DU VISUEL
 
 ## Motifs
 
@@ -34,7 +34,7 @@ Les motifs forment un design décoratif global grâce à leur répétition ou à
 
 Explorez 136 directions créatives↗](artwork-types/pattern.md)[![2 Scènes : Les sujets, l'environnement et les relations spatiales ou narratives établissent une situation.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-overview--scene-story-1.svg)
 
-03 / FORME OEUVRE
+03 / FORME DU VISUEL
 
 ## Scènes
 
@@ -42,7 +42,7 @@ Les sujets, l'environnement et les relations spatiales ou narratives établissen
 
 Explorez 141 directions créatives↗](artwork-types/scene.md)[![4 Textures : Le caractère de la surface et du matériau constitue le principal intérêt visuel.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-overview--texture-paper-1.svg)
 
-04 / FORME OEUVRE
+04 / FORME DU VISUEL
 
 ## Textures
 
@@ -50,7 +50,7 @@ Le caractère de la surface et du matériau constitue le principal intérêt vis
 
 Explorez 176 directions créatives↗](artwork-types/texture.md)[![5 Œuvre d'art abstraite : Les formes, les lignes, les marques et les couleurs mènent sans référence à un objet défini.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-overview--abstract-flow-1.svg)
 
-05 / FORME OEUVRE
+05 / FORME DU VISUEL
 
 ## Art abstrait
 
@@ -60,7 +60,7 @@ Explorez 121 directions créatives↗](artwork-types/abstract.md)
 
 ## Choisissez ce qui mène l'image
 
-Un sujet important peut avoir un fondement structuré et rester dirigé par le sujet. Les sujets géométriques ou stylisés reconnaissables restent également dans cette famille ; les compositions non figuratives appartiennent à l'abstraction. Explorez le texte, le lettrage et la conception d’arrière-plan des cinq formes d’œuvres d’art ci-dessous.
+Un sujet bien présent peut être placé sur un fond à motifs tout en restant au centre de la composition. Les sujets géométriques ou stylisés reconnaissables relèvent aussi de cette famille ; les compositions non figuratives appartiennent à l’abstraction. Explorez ci-dessous le texte, le lettrage et la conception des arrière-plans pour les cinq formes de visuels.
 
 <a id="text-application"></a>
 
@@ -74,7 +74,7 @@ FORMES VISUELLES · 8
 
 <a id="text-role-group-word-g20"></a>
 
-Comparez le rôle visuel attribué au texte, des étiquettes et de la parole au son, en passant par les badges, les images de titre, les arrière-plans, les accents et les co-responsables.
+Comparez le rôle visuel du texte : étiquette, parole, son, écusson, image-titre, arrière-plan, accent ou élément principal au même titre que l’image.
 
 <a id="form-lettering-20-0"></a>
 
@@ -134,9 +134,9 @@ Faites en sorte que le lettrage occupe la majeure partie du design et utilisez l
 
 <a id="form-lettering-20-9"></a>
 
-![Conduits texte-image égaux - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-20-9.svg)
+![Texte et image de même importance — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-20-9.svg)
 
-##### Leads texte-image égaux
+##### Texte et image de même importance
 
 Donnez une importance égale au texte et au sujet illustré afin qu'ils transmettent le message ensemble.
 
@@ -220,7 +220,7 @@ Laissez l’image et le texte fournir chacun des informations qui n’ont de sen
 
 ##### Commémoration personnelle
 
-Ajoutez un nom personnel, une date, des coordonnées, une phrase commémorative ou un formulaire d'adresse dédié.
+Ajoutez un nom, une date, des coordonnées géographiques, une phrase commémorative ou une appellation personnelle destinée au bénéficiaire.
 
 <a id="form-lettering-21-9"></a>
 
@@ -238,7 +238,7 @@ Associez différents sujets avec différents mots pour former une série coordon
 
 ![Expression typographique uniquement : les formes de lettres, l'échelle et la disposition portent le dessin.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-plain-type-1.svg)
 
-#### Expression de type uniquement
+#### Expression purement typographique
 
 Les formes de lettres, l’échelle et la disposition portent le design.
 
@@ -254,23 +254,23 @@ Les contours des lettres portent le motif tandis que la plupart de leurs intéri
 
 ![Caractères étirés ou compressés : les proportions des lettres sont visiblement allongées, rétrécies ou élargies.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-stretch-1.svg)
 
-#### Type étiré ou compressé
+#### Lettrage étiré ou comprimé
 
 Les proportions des lettres sont visiblement allongées, rétrécies ou élargies.
 
 <a id="form-letter-art--letter-wave"></a>
 
-![Type courbé ou ondulé : les lettres suivent une courbe ou une vague avec un rythme montant et descendant visible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-wave-1.svg)
+![Lettrage courbé ou ondulé : les lettres suivent une courbe ou une vague avec un rythme ascendant et descendant visible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-wave-1.svg)
 
-#### Type courbé ou ondulé
+#### Lettrage courbé ou ondulé
 
 Les lettres suivent une courbe ou une vague avec un rythme montant et descendant visible.
 
 <a id="form-letter-art--letter-perspective"></a>
 
-![Type de perspective inclinée : le lettrage modifie l'échelle apparente sur toute sa largeur pour suggérer la profondeur.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-perspective-1.svg)
+![Lettrage en perspective oblique : la taille apparente des lettres varie sur la largeur du texte pour suggérer la profondeur.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-perspective-1.svg)
 
-#### Type de perspective inclinée
+#### Lettrage en perspective oblique
 
 Le lettrage change l’échelle apparente sur toute sa largeur pour suggérer la profondeur.
 
@@ -278,15 +278,15 @@ Le lettrage change l’échelle apparente sur toute sa largeur pour suggérer la
 
 ![Caractères divisés et déplacés : les formes de lettres sont découpées en parties décalées tandis que les mots originaux restent reconnaissables.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-fracture-1.svg)
 
-#### Type divisé et déplacé
+#### Lettrage découpé et décalé
 
 Les formes de lettres sont découpées en parties décalées tandis que les mots originaux restent reconnaissables.
 
 <a id="form-letter-art--letter-texture"></a>
 
-![Types remplis d’images ou de textures : des motifs, des images ou des détails matériels remplissent l’intérieur des lettres.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-texture-1.svg)
+![Lettrage rempli d’images ou de textures : des motifs, des images ou des détails de matière remplissent l’intérieur des lettres.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-texture-1.svg)
 
-#### Type rempli d’image ou de texture
+#### Lettrage rempli d’images ou de textures
 
 Des motifs, des images ou des détails matériels remplissent l’intérieur des lettres.
 
@@ -306,9 +306,9 @@ Comparez l'emplacement du texte par rapport au sujet, à l'exclusion des chemins
 
 <a id="form-lettering-14-0"></a>
 
-![Titre ci-dessus – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-0.svg)
+![Titre au-dessus — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-0.svg)
 
-##### Titre ci-dessus
+##### Titre au-dessus
 
 Placez le texte au-dessus du sujet, en laissant l'image dans la partie inférieure de la composition.
 
@@ -330,15 +330,15 @@ Donnez au libellé et au sujet des positions distinctes sur les côtés opposés
 
 <a id="form-lettering-14-3"></a>
 
-![Texte ci-dessus et ci-dessous – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-3.svg)
+![Texte au-dessus et au-dessous — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-3.svg)
 
-##### Texte ci-dessus et ci-dessous
+##### Texte au-dessus et au-dessous
 
 Placez une ligne au-dessus et une autre en dessous, en gardant le sujet entre elles.
 
 <a id="form-lettering-14-4"></a>
 
-![Texte recto-verso — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-4.svg)
+![Texte des deux côtés — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-4.svg)
 
 ##### Texte des deux côtés
 
@@ -354,9 +354,9 @@ Conservez de petits mots dans un coin comme signature, date, origine ou numéro 
 
 <a id="form-lettering-14-6"></a>
 
-![Fermer l'annotation - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-6.svg)
+![Annotation rapprochée — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-14-6.svg)
 
-##### Fermer l'annotation
+##### Annotation rapprochée
 
 Placez une courte étiquette à côté d’une caractéristique spécifique du sujet pour établir la correspondance.
 
@@ -498,7 +498,7 @@ Insérez le sujet dans l'espace entre deux mots ou deux lettres individuelles.
 
 <a id="form-lettering-16-4"></a>
 
-![Texte dans les lacunes du sujet — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-16-4.svg)
+![Texte dans les espaces vides du sujet — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-16-4.svg)
 
 ##### Texte dans les espaces vides du sujet
 
@@ -510,7 +510,7 @@ Insérez le texte dans des espaces ouverts formés par des bras, des branches, d
 
 ##### Anneau texte-image alterné
 
-Formulation alternative et petits sujets illustrés pour compléter un anneau partagé.
+Alternez texte et petits sujets illustrés pour former un même anneau.
 
 <a id="form-lettering-16-6"></a>
 
@@ -566,7 +566,7 @@ Alternez différentes parties d'une même formulation entre le premier plan et l
 
 ##### Le texte passe par le sujet
 
-Faire entrer, traverser et ressortir la parole du sujet comme un ruban.
+Faites entrer le texte dans le sujet, le traverser et en ressortir comme un ruban.
 
 <a id="form-lettering-17-4"></a>
 
@@ -606,7 +606,7 @@ Projetez l’ombre du sujet sur le texte ou l’ombre du texte sur l’image.
 
 #### Fusionner des formes de texte et d'image
 
-Comparez les fusions structurelles où le texte remplace, remplit, décrit ou devient physiquement partie intégrante du sujet représenté.
+Comparez les fusions structurelles où le texte remplace, remplit, dessine le contour du sujet représenté ou devient physiquement partie intégrante de celui-ci.
 
 <a id="form-lettering-18-0"></a>
 
@@ -634,9 +634,9 @@ Développez des oreilles, des ailes, des membres ou d'autres caractéristiques �
 
 <a id="form-lettering-18-3"></a>
 
-![Le sujet devient un accident vasculaire cérébral – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-18-3.svg)
+![Le sujet devient un trait — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-18-3.svg)
 
-##### Le sujet devient un accident vasculaire cérébral
+##### Le sujet devient un trait
 
 Utilisez une branche, une corde ou un corps d'animal comme trait structurel d'une lettre.
 
@@ -682,9 +682,9 @@ Faites en sorte qu'une ligne serve simultanément de trait de lettre et de bord 
 
 <a id="form-lettering-18-9"></a>
 
-![Texte sur une surface de sujet — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-18-9.svg)
+![Texte sur la surface d’un sujet — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-18-9.svg)
 
-##### Texte sur une surface de sujet
+##### Texte sur la surface d’un sujet
 
 Imprimez le texte naturellement sur un vêtement, une bouteille, une couverture de livre, une pancarte ou toute autre surface visible.
 
@@ -738,9 +738,9 @@ Demandez au sujet de ramper, de grimper ou de se suspendre aux formes de lettres
 
 <a id="form-lettering-19-5"></a>
 
-![Extraire du texte – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-19-5.svg)
+![Tirer le texte — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-19-5.svg)
 
-##### Extraire du texte
+##### Tirer le texte
 
 Affichez le texte traîné, étiré ou plié par le sujet.
 
@@ -756,15 +756,15 @@ Laissez le sujet tenir une lettre dans sa bouche, mordre un coin ou avaler un mo
 
 ![Souffler du texte - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-19-7.svg)
 
-##### Faire exploser le texte
+##### Souffler du texte
 
 Libérez les mots du sujet comme la respiration, la fumée ou la chanson.
 
 <a id="form-lettering-19-8"></a>
 
-![Texte de rupture – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-19-8.svg)
+![Briser le texte — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/lettering-19-8.svg)
 
-##### Texte de rupture
+##### Briser le texte
 
 Utilisez l’impact du sujet pour disperser, incliner ou fracturer les formes de lettres.
 
@@ -808,7 +808,7 @@ FORMES VISUELLES · 100
 
 <a id="background-group-word-11-0"></a>
 
-### Sol transparent et solide
+### Fonds transparents et unis
 
 Comparez les fonds transparents et de couleur unie en fonction de leur neutralité, de leur obscurité, de leur contraste et de la présence visible d'une couleur d'arrière-plan.
 
@@ -854,11 +854,11 @@ Maintenez tout l’arrière-plan sur une couleur clairement définie.
 
 <a id="form-exp-11-0-5"></a>
 
-![Sol pâle et doux – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-0-5.svg)
+![Fond pâle et doux — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-0-5.svg)
 
-#### Sol pâle et doux
+#### Fond pâle et doux
 
-Soutenez le contenu avec une couleur claire, de grande valeur et douce au toucher.
+Soutenez le contenu avec une couleur claire et douce, de valeur élevée.
 
 <a id="form-exp-11-0-6"></a>
 
@@ -878,17 +878,17 @@ Choisissez un fond proche de la couleur du sujet, en les séparant par valeur ou
 
 <a id="form-exp-11-0-8"></a>
 
-![Terrain complémentaire — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-0-8.svg)
+![Fond complémentaire — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-0-8.svg)
 
-#### Terrain complémentaire
+#### Fond complémentaire
 
-Poser le terrain dans une relation forte de complémentarité avec les couleurs du sujet.
+Choisissez pour le fond une couleur fortement complémentaire des couleurs du sujet.
 
 <a id="form-exp-11-0-9"></a>
 
-![Un solide appui sur la transparence – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-0-9.svg)
+![Fond uni sur transparence — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-0-9.svg)
 
-#### Un soutien solide à la transparence
+#### Fond uni sur transparence
 
 Gardez un support de couleur unie près du sujet tandis que la zone environnante reste véritablement transparente.
 
@@ -974,9 +974,9 @@ Structurez l'arrière-plan avec un petit nombre de larges zones de couleurs.
 
 <a id="form-exp-11-1-9"></a>
 
-![Bassin de lumière locale – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-1-9.svg)
+![Zone de lumière localisée — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-1-9.svg)
 
-#### Piscine de lumière locale
+#### Zone de lumière localisée
 
 Créez une zone de lumière douce et localisée à proximité du sujet.
 
@@ -990,7 +990,7 @@ Assombrir davantage les bords que le centre pour concentrer l’attention sur le
 
 <a id="form-exp-11-1-11"></a>
 
-![Bords clairs au centre sombre – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-1-11.svg)
+![Centre sombre, bords clairs — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-1-11.svg)
 
 #### Centre sombre, bords clairs
 
@@ -1062,17 +1062,17 @@ Développez le support vers l'extérieur tout en suivant le contour extérieur d
 
 <a id="form-exp-11-2-7"></a>
 
-![Support en bande de brosse – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-2-7.svg)
+![Fond en bandeau de coups de pinceau — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-2-7.svg)
 
-#### Support en bande de brosse
+#### Fond en bandeau de coups de pinceau
 
 Utilisez une large bande de pinceau comme support pour l’image ou le texte.
 
 <a id="form-exp-11-2-8"></a>
 
-![Support éclaté – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-2-8.svg)
+![Fond rayonnant — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-2-8.svg)
 
-#### Support éclaté
+#### Fond rayonnant
 
 Insistez sur l'impact avec une forme de support irrégulière ou pointue.
 
@@ -1094,17 +1094,17 @@ Décalez et superposez plusieurs feuilles de support derrière le contenu.
 
 <a id="form-exp-11-2-11"></a>
 
-![Dos de fenêtre – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-2-11.svg)
+![Fond révélé par une fenêtre — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-2-11.svg)
 
-#### Support de fenêtre
+#### Fond révélé par une fenêtre
 
-Révélez un terrain différent à travers une zone de fenêtre clairement délimitée.
+Révélez un fond différent à travers une zone-fenêtre clairement délimitée.
 
 <a id="background-panel-word-11-3"></a>
 
 <a id="background-group-word-11-3"></a>
 
-### Milieux de motifs
+### Arrière-plans des motifs
 
 Comparez les motifs d'arrière-plan réguliers, dispersés, directionnels et basés sur des motifs par espacement, ordre, échelle et activité visuelle.
 
@@ -1130,15 +1130,15 @@ Organisez des points réguliers régulièrement espacés sur l’arrière-plan.
 
 #### Fond de grille carrée
 
-Construisez un sol régulier à partir de lignes horizontales et verticales ou de cellules carrées de couleur.
+Créez un fond régulier à partir de lignes horizontales et verticales ou de cases de couleur carrées.
 
 <a id="form-exp-11-3-3"></a>
 
-![Fond de grille de diamant — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-3-3.svg)
+![Fond quadrillé de losanges — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-3-3.svg)
 
-#### Fond de grille de diamant
+#### Fond quadrillé de losanges
 
-Utilisez un treillis diagonal pour créer un rythme de diamant derrière le contenu.
+Utilisez un treillis diagonal pour créer un rythme de losanges derrière le contenu.
 
 <a id="form-exp-11-3-4"></a>
 
@@ -1154,7 +1154,7 @@ Répétez les unités géométriques selon une règle de fond cohérente.
 
 #### Fond d'icône thématique
 
-Répétez les petites icônes liées au thème du sujet sur le sol.
+Répétez de petites icônes liées au thème du sujet sur le fond.
 
 <a id="form-exp-11-3-6"></a>
 
@@ -1162,7 +1162,7 @@ Répétez les petites icônes liées au thème du sujet sur le sol.
 
 #### Fond de répétition florale
 
-Créez un sol décoratif continu à partir de fleurs, de feuilles ou de branches.
+Créez un fond décoratif continu avec des fleurs, des feuilles ou des branches.
 
 <a id="form-exp-11-3-7"></a>
 
@@ -1190,9 +1190,9 @@ Limitez le motif à la zone proche du sujet ou à une autre zone limitée.
 
 <a id="form-exp-11-3-10"></a>
 
-![Sol à motifs complets – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-3-10.svg)
+![Fond entièrement à motifs — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-3-10.svg)
 
-#### Sol entièrement à motifs
+#### Fond entièrement à motifs
 
 Couvrez tout le cadre avec un motif et placez le sujet au-dessus.
 
@@ -1208,7 +1208,7 @@ Gardez les motifs proches de la couleur de fond afin qu'ils ajoutent des détail
 
 <a id="background-group-word-11-4"></a>
 
-### Milieux de textures
+### Arrière-plans des textures
 
 Comparez les textures d'arrière-plan plates qui suggèrent du papier, du tissu, du bois, de la pierre, des impressions, des rayures, des taches ou des variations de surface faites à la main.
 
@@ -1216,7 +1216,7 @@ Comparez les textures d'arrière-plan plates qui suggèrent du papier, du tissu,
 
 ![Fond de texture de papier — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-0.svg)
 
-#### Sol de texture de papier
+#### Fond à texture de papier
 
 Suggérez du papier à travers des fibres visibles, un grain fin ou une surface en relief.
 
@@ -1224,55 +1224,55 @@ Suggérez du papier à travers des fibres visibles, un grain fin ou une surface 
 
 ![Fond de texture de tissu — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-1.svg)
 
-#### Sol de texture de tissu
+#### Fond à texture de tissu
 
 Soutenez le contenu avec de la chaîne, de la trame, une texture tissée ou des fibres textiles douces.
 
 <a id="form-exp-11-4-2"></a>
 
-![Sol de texture de bois — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-2.svg)
+![Fond à texture de bois — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-2.svg)
 
-#### Sol de texture bois
+#### Fond à texture de bois
 
 Utilisez le grain du bois et les cernes de croissance comme surface de fond.
 
 <a id="form-exp-11-4-3"></a>
 
-![Sol de texture de pierre — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-3.svg)
+![Fond à texture de pierre — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-3.svg)
 
-#### Sol de texture de pierre
+#### Fond à texture de pierre
 
 Construisez l'arrière-plan à partir de veines de pierre, de formes minérales ou de particules grossières.
 
 <a id="form-exp-11-4-4"></a>
 
-![Sol de mur en plâtre — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-4.svg)
+![Fond de mur en plâtre — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-4.svg)
 
-#### Sol pour mur en plâtre
+#### Fond de mur en plâtre
 
 Créez une surface architecturale à partir de plâtre, de marques de truelle et de petits pores.
 
 <a id="form-exp-11-4-5"></a>
 
-![Surface métallique rectifiée — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-5.svg)
+![Fond à surface métallique — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-5.svg)
 
-#### Surface métallique rectifiée
+#### Fond à surface métallique
 
-Construisez le sol à partir de marques brossées, de reflets ou de traces d'oxydation du métal.
+Créez le fond à partir de traces brossées, de reflets ou de marques d’oxydation du métal.
 
 <a id="form-exp-11-4-6"></a>
 
-![Sol en surface d'argile — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-6.svg)
+![Fond à texture d’argile — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-6.svg)
 
-#### Surface d'argile moulue
+#### Fond à texture d’argile
 
-Utilisez des grains de terre, des variations de glaçage ou de fines fissures pour suggérer de l'argile.
+Utilisez le grain de la terre, des variations d’émail ou de fines craquelures pour évoquer l’argile.
 
 <a id="form-exp-11-4-7"></a>
 
-![Film grain broyé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-7.svg)
+![Fond au grain de pellicule — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-7.svg)
 
-#### Film grain moulu
+#### Fond au grain de pellicule
 
 Répartissez uniformément le grain fin pour donner à l'arrière-plan un caractère de film photographique.
 
@@ -1282,31 +1282,31 @@ Répartissez uniformément le grain fin pour donner à l'arrière-plan un caract
 
 #### Fond en demi-teinte
 
-Utilisez un écran à points atténués ou des demi-teintes comme calque d’arrière-plan imprimé.
+Utilisez une trame de points discrète ou une trame en demi-teintes comme couche d’arrière-plan imprimée.
 
 <a id="form-exp-11-4-9"></a>
 
-![Sol usé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-9.svg)
+![Fond usé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-9.svg)
 
-#### Sol usé
+#### Fond usé
 
 Soutenez le contenu principal avec l’abrasion, la décoloration et l’encre manquante.
 
 <a id="form-exp-11-4-10"></a>
 
-![Fond de lavage à l'aquarelle — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-10.svg)
+![Fond de lavis d’aquarelle — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-10.svg)
 
 #### Fond de lavis aquarelle
 
-Créez un sol doux à partir de couches de couleurs transparentes, de fleurs et de bords aqueux.
+Créez un fond doux avec des couches de couleur transparentes, des auréoles et des bords diffus.
 
 <a id="form-exp-11-4-11"></a>
 
-![Sol à larges broussailles — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-11.svg)
+![Fond à larges coups de pinceau — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-4-11.svg)
 
-#### Sol en brosse large
+#### Fond à larges coups de pinceau
 
-Faites de larges traits directionnels et des changements de couverture visibles définissent le sol.
+Faites définir le fond par de larges traits directionnels et des variations visibles de couverture.
 
 <a id="background-panel-word-11-5"></a>
 
@@ -1326,11 +1326,11 @@ Placez un doux halo lumineux directement derrière le sujet.
 
 <a id="form-exp-11-5-1"></a>
 
-![Projecteur dur - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-5-1.svg)
+![Éclairage ponctuel dur — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-5-1.svg)
 
-#### Pleins feux sur les projecteurs
+#### Éclairage ponctuel dur
 
-Séparez le sujet du sol avec une zone de lumière nettement délimitée.
+Séparez le sujet du fond par une zone de lumière nettement délimitée.
 
 <a id="form-exp-11-5-2"></a>
 
@@ -1390,9 +1390,9 @@ Variez les minuscules particules lumineuses en profondeur et en concentration da
 
 <a id="form-exp-11-5-9"></a>
 
-![Terrain photographique défocalisé – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-5-9.svg)
+![Fond photographique défocalisé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-5-9.svg)
 
-#### Terrain photographique défocalisé
+#### Fond photographique défocalisé
 
 Gardez le sujet net tout en rendant flou un environnement photographique reconnaissable.
 
@@ -1402,7 +1402,7 @@ Gardez le sujet net tout en rendant flou un environnement photographique reconna
 
 ### Arrière-plans de scène
 
-Comparez les environnements de support qui ancrent un sujet à travers les horizons, les avions, les intérieurs, l'architecture, les paysages, les plantes, l'eau, les cieux, le cosmos ou les scènes.
+Comparez les décors qui ancrent un sujet grâce aux horizons, aux plans, aux intérieurs, à l’architecture, aux paysages, aux plantes, à l’eau, au ciel, au cosmos ou aux scènes de spectacle.
 
 <a id="form-exp-11-6-0"></a>
 
@@ -1416,7 +1416,7 @@ Comparez les environnements de support qui ancrent un sujet à travers les horiz
 
 ![Plan de sol — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-6-1.svg)
 
-#### Plan de masse
+#### Plan du sol
 
 Conservez uniquement la surface du sol directement sous le sujet.
 
@@ -1470,9 +1470,9 @@ Entourez le contenu principal d’une couche environnementale de plantes.
 
 <a id="form-exp-11-6-8"></a>
 
-![Eau et réflexion – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-6-8.svg)
+![Eau et reflets — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-6-8.svg)
 
-#### Eau et réflexion
+#### Eau et reflets
 
 Soutenir le sujet à travers la relation entre l'eau et son reflet.
 
@@ -1510,9 +1510,9 @@ Comparez des fonds porteurs d'images assemblés à partir de photographies, de t
 
 <a id="form-exp-11-7-0"></a>
 
-![Terrain en photo complète — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-0.svg)
+![Fond photographique intégral — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-0.svg)
 
-#### Terrain photo complet
+#### Fond photographique intégral
 
 Utilisez une photographie sur tout le cadre comme fond sous le texte et les images.
 
@@ -1526,9 +1526,9 @@ Montrez la photo uniquement à l’intérieur d’une zone de fenêtre désigné
 
 <a id="form-exp-11-7-2"></a>
 
-![Terrain de collage — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-2.svg)
+![Fond en collage — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-2.svg)
 
-#### Terrain de collage
+#### Fond en collage
 
 Assemblez l'arrière-plan à partir de plusieurs images ou de fragments de papier superposés.
 
@@ -1542,17 +1542,17 @@ Utilisez des phrases répétées ou un large champ de formulations sobres comme 
 
 <a id="form-exp-11-7-4"></a>
 
-![Terrain de ligne de diagramme - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-4.svg)
+![Fond de lignes de schéma — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-4.svg)
 
-#### Mise à la terre de la ligne de diagramme
+#### Fond de lignes de schéma
 
 Placez des cartes, des diagrammes, des graphiques ou des dessins techniques derrière l'objet principal.
 
 <a id="form-exp-11-7-5"></a>
 
-![Terrain cartographique — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-5.svg)
+![Fond cartographique — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-5.svg)
 
-#### Terrain de la carte
+#### Fond cartographique
 
 Utilisez les itinéraires, le terrain ou les relations avec les rues pour fournir des indices de localisation pour le thème.
 
@@ -1566,9 +1566,9 @@ Superposez plusieurs formes translucides pour créer une profondeur superposée 
 
 <a id="form-exp-11-7-7"></a>
 
-![Terrain à deux profondeurs — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-7.svg)
+![Fond à deux niveaux de profondeur — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-7.svg)
 
-#### Sol à deux profondeurs
+#### Fond à deux niveaux de profondeur
 
 Laissez une couche distante et une couche plus proche fournir différents types d’informations de support.
 
@@ -1582,9 +1582,9 @@ Attribuez différents traitements d’arrière-plan à des zones distinctes du m
 
 <a id="form-exp-11-7-9"></a>
 
-![Sol réfléchi — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-9.svg)
+![Fond en reflet — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-7-9.svg)
 
-#### Sol réfléchi
+#### Fond en reflet
 
 Utilisez une image miroir ou un reflet répété derrière ou sous le sujet.
 
@@ -1614,9 +1614,9 @@ Laissez une marge blanche clairement définie entre le contenu de l'arrière-pla
 
 <a id="form-exp-11-8-2"></a>
 
-![Culture dure — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-8-2.svg)
+![Recadrage net — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-8-2.svg)
 
-#### Récolte dure
+#### Recadrage net
 
 Terminez brusquement l’arrière-plan à une limite géométrique nette.
 
@@ -1654,9 +1654,9 @@ Brisez progressivement l'arrière-plan en fragments ou particules près de sa li
 
 <a id="form-exp-11-8-7"></a>
 
-![Lacunes ouvertes — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-8-7.svg)
+![Espaces ouverts — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-11-8-7.svg)
 
-#### Des lacunes ouvertes
+#### Espaces ouverts
 
 Laissez des espaces découverts ou des ouvertures en forme de fenêtre en arrière-plan.
 
@@ -1676,7 +1676,7 @@ Masquez la majeure partie de l’arrière-plan et ne le révélez que dans les z
 
 Combinez une bordure intérieure propre avec un bord extérieur irrégulier séparé.
 
-Les médias, les matériaux et les styles artistiques fonctionnent sous les cinq formes. Retrouvez-les sous Apprendre à créer → Traitements visuels.
+Les techniques, les matériaux et les styles artistiques s’appliquent aux cinq formes. Retrouvez-les dans Apprendre à créer → Traitements visuels.
 
 <a id="media"></a>
 
@@ -1688,7 +1688,7 @@ FORMES VISUELLES · 141
 
 <a id="media-group-word-g34"></a>
 
-### Crayons et supports secs
+### Crayons et techniques sèches
 
 Comparez les apparences des dessins secs en fonction du grain, de la pression, du mélange, de l'opacité et de la qualité des bords caractéristique de chaque support.
 
@@ -1712,17 +1712,17 @@ Superposez de fins traits colorés pour que les teintes individuelles se mélang
 
 ![Fusain — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-34-2.svg)
 
-#### Charbon de bois
+#### Fusain
 
 Créez de larges noirs veloutés et des transitions poussiéreuses, avec des particules libres adoucissant les bords des formes.
 
 <a id="form-art-34-3"></a>
 
-![Charbon de bois comprimé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-34-3.svg)
+![Fusain comprimé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-34-3.svg)
 
-#### Charbon comprimé
+#### Fusain comprimé
 
-Privilégiez les marques denses, presque noires, et les changements brusques de pression qui ressemblent à des bâtons de charbon comprimé fermes.
+Privilégiez des marques denses presque noires et des changements de pression brusques évoquant des bâtons fermes de fusain comprimé.
 
 <a id="form-art-34-4"></a>
 
@@ -1754,7 +1754,7 @@ Utilisez une couleur épaisse et cireuse avec des chevauchements crémeux et des
 
 #### Crayon de cire
 
-Gardez les traits audacieux, inégaux et résistants, avec des couleurs simples et la traînée familière du crayon.
+Gardez les traits épais, irréguliers et semblables à une réserve, avec des couleurs simples et la traînée caractéristique du crayon de cire.
 
 <a id="form-art-34-8"></a>
 
@@ -1766,9 +1766,9 @@ Dessinez avec de fines lignes gris métallisé dont l'éclat sobre et le terniss
 
 <a id="form-art-34-9"></a>
 
-![Dessin taché — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-34-9.svg)
+![Dessin estompé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-34-9.svg)
 
-#### Dessin taché
+#### Dessin estompé
 
 Estompez les marques sèches avec un frottement visible, laissant les tons fumés s'étendre au-delà de leurs limites de ligne d'origine.
 
@@ -1778,7 +1778,7 @@ Estompez les marques sèches avec un frottement visible, laissant les tons fumé
 
 ### Plume et encre
 
-Comparez les langages de trait à base d'encre par variation de trait, contrôle, hachures, lavage, caractère d'outil et utilisation graphique prévue.
+Comparez les langages de trait à l’encre selon la variation et la maîtrise des traits, les hachures, les lavis, le caractère de l’outil et l’usage graphique prévu.
 
 <a id="form-art-35-0"></a>
 
@@ -1786,13 +1786,13 @@ Comparez les langages de trait à base d'encre par variation de trait, contrôle
 
 #### Croquis au stylo
 
-Utilisez des lignes variables rapides, des ombres abrégées et des marques de recherche visibles pour suggérer une étude immédiate du stylo.
+Utilisez des lignes rapides et variées, des ombrages esquissés et des traits de recherche visibles pour évoquer une étude spontanée à la plume.
 
 <a id="form-art-35-1"></a>
 
-![Stylo plongeur — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-35-1.svg)
+![Plume à tremper — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-35-1.svg)
 
-#### Stylo plongeur
+#### Plume à tremper
 
 Créez des traits élastiques qui gonflent et s'effilent brusquement, avec une accumulation d'encre occasionnelle aux virages et aux arrêts.
 
@@ -1802,7 +1802,7 @@ Créez des traits élastiques qui gonflent et s'effilent brusquement, avec une a
 
 #### Dessin au trait au pinceau
 
-Laissez la pression du pinceau passer de la pointe des cheveux à de larges balayages noirs en un seul geste continu.
+Laissez la pression du pinceau passer de pointes extrêmement fines à de larges balayages noirs dans un même geste continu.
 
 <a id="form-art-35-3"></a>
 
@@ -1818,7 +1818,7 @@ Décrivez les formes à travers des contours contrôlés et sans ombre, en metta
 
 #### Lavis d'encre avec couleur
 
-Combinez des lavis foncés fluides avec des couleurs sobres, permettant aux bords transparents et aux fleurs tonales de rester visibles.
+Combinez des lavis sombres et fluides avec des couleurs sobres, en laissant visibles les bords transparents et les auréoles tonales.
 
 <a id="form-art-35-5"></a>
 
@@ -1846,9 +1846,9 @@ Inversez le dessin en lignes pâles incisées découpées dans un champ noir den
 
 <a id="form-art-35-8"></a>
 
-![Éclosion dense – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-35-8.svg)
+![Hachures denses — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-35-8.svg)
 
-#### Éclosion dense
+#### Hachures denses
 
 Accumulez des traits directionnels étroitement espacés jusqu'à ce que la valeur et le volume émergent d'un maillage linéaire complexe.
 
@@ -1864,7 +1864,7 @@ Créez un ton à partir de boucles et de hachures bleues ou noires persistantes,
 
 <a id="media-group-word-g36"></a>
 
-### Peindre et laver
+### Peinture et lavis
 
 Comparez les apparences peintes en termes de transparence, d'humidité, d'opacité, de corps, de texture du pinceau, de comportement des bords et d'accumulation de surface visible.
 
@@ -1882,7 +1882,7 @@ Superposez des lavis transparents et lumineux pour que le fond blanc brille à t
 
 #### Aquarelle mouillé sur mouillé
 
-Permettez aux couleurs de se propager et de fusionner dans les zones humides, produisant des fleurs douces et des limites de plumes imprévisibles.
+Laissez les couleurs se diffuser et se mêler dans les zones humides, en produisant des auréoles douces et des contours diffus imprévisibles.
 
 <a id="form-art-36-2"></a>
 
@@ -1914,7 +1914,7 @@ Combinez des zones plates saturées avec des textures de pinceau flexibles et un
 
 #### Peinture à l'huile
 
-Le modèle se forme grâce à des couleurs mélangées profondes, des glaçures translucides et des transitions lentes avec une riche surface peinte.
+Modelez les formes avec des couleurs profondes et fondues, des glacis translucides et des transitions lentes pour obtenir une riche surface peinte.
 
 <a id="form-art-36-6"></a>
 
@@ -2002,7 +2002,7 @@ Utilisez des contours sculptés avec force, des rainures noires et des masses si
 
 #### Gravure sur bois multicolore
 
-Séparez les couches de couleurs sculptées en chevauchements légèrement imparfaits, en préservant les bords gras et l'enregistrement visible.
+Séparez les couches de couleur gravées en superpositions légèrement imparfaites, en préservant les contours affirmés et les repères de calage visibles.
 
 <a id="form-art-37-2"></a>
 
@@ -2034,7 +2034,7 @@ Créez une profondeur tonale polie à partir de coupes parallèles disciplinées
 
 #### Lithographie
 
-Utilisez des crayons toniques granuleux, des lavis doux et des contours dessinés qui semblent transférés d'une surface de pierre plate.
+Utilisez des crayons granuleux pour les valeurs, des lavis doux et des contours dessinés évoquant un transfert depuis une pierre lithographique plane.
 
 <a id="form-art-37-6"></a>
 
@@ -2070,9 +2070,9 @@ Centrez l'image sur une impression unique avec des changements de pression pictu
 
 <a id="form-art-37-10"></a>
 
-![Frottement — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-37-10.svg)
+![Frottage — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-37-10.svg)
 
-#### Frotter
+#### Frottage
 
 Révélez les textures en relief sous forme de marques inversées, capturant les crêtes, le grain ou les inscriptions par contact direct avec la surface.
 
@@ -2080,7 +2080,7 @@ Révélez les textures en relief sous forme de marques inversées, capturant les
 
 ![Tampon en caoutchouc — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-37-11.svg)
 
-#### Timbre en caoutchouc
+#### Tampon en caoutchouc
 
 Répétez des motifs compacts avec des bords émoussés, une pression inégale et de petits espaces caractéristiques de l'estampage à la main.
 
@@ -2186,7 +2186,7 @@ Combinez des titres, des colonnes et des fragments d'impression anciens afin que
 
 #### Collage de photos
 
-Juxtaposez des fragments photographiques provenant de différentes sources, en préservant les bords nets des cultures et les changements d'échelle.
+Juxtaposez des fragments photographiques de différentes sources en conservant les bords de recadrage nets et les changements d’échelle.
 
 <a id="form-art-38-9"></a>
 
@@ -2202,7 +2202,7 @@ Répétez des fragments copiés à contraste élevé avec un grain de toner, des
 
 #### Collage d'albums
 
-Superposez des papiers souvenirs, des légendes, des autocollants et de petits éphémères dans un arrangement informel collecté.
+Superposez des papiers souvenirs, des légendes, des autocollants et de petits documents éphémères dans un assemblage informel.
 
 <a id="form-art-38-11"></a>
 
@@ -2226,7 +2226,7 @@ Utilisez des plans articulés et des supports pliés qui semblent sortir de la p
 
 ### Textile et couture
 
-Comparez les langages d'images textiles à travers le point, la boucle, le tissage, le velours, l'applique, le perlage, la teinture résistante et le contour défini par le fil.
+Comparez les langages visuels textiles : points, boucles, tissage, velours, appliqué, broderie de perles, teinture à réserve et contours dessinés par le fil.
 
 <a id="form-art-39-0"></a>
 
@@ -2256,7 +2256,7 @@ Construisez des surfaces à partir de boucles de fil imbriquées, de nervures et
 
 ![Crochet — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-39-3.svg)
 
-#### Crocheter
+#### Crochet
 
 Utilisez des boucles crochetées plus épaisses et des espaces ouverts pour créer une structure de fil faite à la main, semblable à de la dentelle.
 
@@ -2330,7 +2330,7 @@ Remplacez les contours dessinés par des lignes cousues continues, y compris des
 
 #### Broderie de perles
 
-Décrivez ou remplissez les motifs avec de minuscules perles réfléchissantes dont les reflets répétés forment une surface texturée.
+Dessinez les contours des motifs ou remplissez-les de minuscules perles réfléchissantes dont les reflets répétés créent une surface texturée.
 
 <a id="form-art-39-13"></a>
 
@@ -2338,7 +2338,7 @@ Décrivez ou remplissez les motifs avec de minuscules perles réfléchissantes d
 
 #### Broderie de paillettes
 
-Utilisez des paillettes superposées comme échelles de lumière, créant des flashs directionnels lumineux sur les formes brodées.
+Utilisez des sequins superposés comme des écailles lumineuses, créant des éclats directionnels vifs sur les formes brodées.
 
 <a id="form-art-39-14"></a>
 
@@ -2346,7 +2346,7 @@ Utilisez des paillettes superposées comme échelles de lumière, créant des fl
 
 #### Batik
 
-Concevez des fissures résistantes à la cire et des teintures en couches dans le cadre d'un motif semblable à un tissu plat.
+Concevez des craquelures de réserve à la cire et des couches de teinture dans un motif plat évoquant un tissu.
 
 <a id="form-art-39-15"></a>
 
@@ -2354,7 +2354,7 @@ Concevez des fissures résistantes à la cire et des teintures en couches dans l
 
 #### Teinture par nœuds
 
-Laissez la couleur rayonner, en spirale ou en bande à partir des points liés, en préservant les fleurs de teinture douces et les plis pâles résistants.
+Laissez la couleur rayonner, former des spirales ou des bandes depuis les points noués, en préservant les douces auréoles de teinture et les plis pâles laissés en réserve.
 
 <a id="media-panel-word-g40"></a>
 
@@ -2378,7 +2378,7 @@ Donnez des formes aux plans doucement pressés, aux transitions en forme de doig
 
 #### Mastic à modeler
 
-Utilisez des volumes lisses et légèrement pliables avec des joints pincés et des marques d'outils qui suggèrent un mastic en forme de main.
+Utilisez des volumes lisses et légèrement souples, des raccords pincés et des marques d’outils évoquant une pâte modelée à la main.
 
 <a id="form-art-40-2"></a>
 
@@ -2386,7 +2386,7 @@ Utilisez des volumes lisses et légèrement pliables avec des joints pincés et 
 
 #### Céramique
 
-Combinez un volume moulé arrondi avec une surface cuite, une variation subtile de glaçage et des bords sculptés nets.
+Combinez un volume moulé arrondi avec une surface cuite, de subtiles variations de glaçure et des bords sculptés nets.
 
 <a id="form-art-40-3"></a>
 
@@ -2408,7 +2408,7 @@ Utilisez une couleur d'argile chaude, des grains grossiers et des formes simplif
 
 ![Relief — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-40-5.svg)
 
-#### Soulagement
+#### Relief
 
 Soulevez le sujet légèrement à partir d'un support plat pour que l'éclairage latéral révèle une profondeur modélisée et des bordures nettes.
 
@@ -2422,7 +2422,7 @@ Créez un volume blanc crayeux avec des joints moulés, de petits éclats et des
 
 <a id="form-art-40-7"></a>
 
-![Pâte à papier — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-40-7.svg)
+![Argile à papier — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-40-7.svg)
 
 #### Argile à papier
 
@@ -2450,7 +2450,7 @@ Exposez le grain sculpté, les facettes gougeées et les coupes directionnelles 
 
 #### Sculpture sur pierre
 
-Utilisez des plans de burin nets, un volume simplifié et des surfaces granuleuses qui impliquent de la pierre sculptée.
+Utilisez des facettes nettes taillées au ciseau, un volume simplifié et massif et des surfaces granuleuses évoquant la pierre sculptée.
 
 <a id="form-art-40-11"></a>
 
@@ -2482,7 +2482,7 @@ Comparez l'apparence du verre, du métal, de la résine, de l'émail, des incrus
 
 #### Verre peint
 
-Utilisez une couleur translucide délimitée par des contours peints, permettant à de légères stries de surface de transparaître.
+Utilisez une couleur translucide délimitée par des contours peints, laissant transparaître la lumière et de légères stries de surface.
 
 <a id="form-art-41-1"></a>
 
@@ -2490,7 +2490,7 @@ Utilisez une couleur translucide délimitée par des contours peints, permettant
 
 #### Vitrail
 
-Divisez les couleurs lumineuses des bijoux avec des lignes sombres, transformant chaque pièce de verre fermée en une forme rayonnante.
+Séparez des couleurs lumineuses de pierres précieuses par des baguettes de plomb sombres, pour transformer chaque pièce de verre délimitée en une forme rayonnante.
 
 <a id="form-art-41-2"></a>
 
@@ -2590,11 +2590,11 @@ Comparez les langages numériques bidimensionnels natifs, des vecteurs et pixels
 
 <a id="form-art-42-0"></a>
 
-![Vecteur plat — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-42-0.svg)
+![Illustration vectorielle en aplats — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-42-0.svg)
 
-#### Vecteur plat
+#### Illustration vectorielle en aplats
 
-Utilisez des contours de Bézier nets, des remplissages solides et des formes mathématiquement lisses sans grain de surface simulé.
+Utilisez des contours de Bézier nets, des aplats et des formes mathématiquement lisses, sans grain de surface simulé.
 
 <a id="form-art-42-1"></a>
 
@@ -2602,7 +2602,7 @@ Utilisez des contours de Bézier nets, des remplissages solides et des formes ma
 
 #### Pixel art
 
-Créez des formulaires sur une grille carrée visible, en utilisant des bords délibérément irréguliers et un jeu de couleurs étroitement restreint.
+Construisez des formes sur une grille carrée visible, avec des contours crénelés délibérés et une palette très limitée.
 
 <a id="form-art-42-2"></a>
 
@@ -2630,9 +2630,9 @@ Simulez une peinture épaisse grâce à des traits numériques en relief, des cr
 
 <a id="form-art-42-5"></a>
 
-![Filet de dégradé — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-42-5.svg)
+![Filet de dégradés — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-42-5.svg)
 
-#### Filet de dégradé
+#### Filet de dégradés
 
 Modélisez la couleur avec des points vectoriels entrelacés, produisant des transitions lumineuses complexes à l'intérieur de formes contrôlées avec précision.
 
@@ -2702,9 +2702,9 @@ Assemblez des objets à partir d'unités cubiques, en préservant les contours �
 
 <a id="form-art-43-2"></a>
 
-![Enduit à l'argile — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-43-2.svg)
+![Rendu en argile — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-43-2.svg)
 
-#### Enduit à l'argile
+#### Rendu en argile
 
 Créez des formes modélisées arrondies avec des surfaces mates, une lumière de studio douce et des empreintes digitales ou des empreintes d'outils subtiles.
 
@@ -2778,7 +2778,7 @@ Mettez en scène un petit monde construit avec des repères d'échelle, des acce
 
 #### Rendu papier 3D
 
-Simulez des cartes superposées et du papier plié en trois dimensions, avec des bords coupés nets et des ombres portées restreintes.
+Simulez du papier cartonné superposé et du papier plié en trois dimensions, avec des bords découpés nets et des ombres portées sobres.
 
 <a id="media-panel-word-g44"></a>
 
@@ -2864,7 +2864,7 @@ Superposez des moments ou des points de vue distincts dans une seule image, perm
 
 ![Miniature Tilt-Shift — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-44-9.svg)
 
-#### Miniature inclinable et décalée
+#### Effet miniature par bascule et décentrement
 
 Flouez le premier plan et l’arrière-plan autour d’une bande de mise au point étroite pour que la scène réelle ressemble à une miniature de table.
 
@@ -2874,7 +2874,7 @@ Flouez le premier plan et l’arrière-plan autour d’une bande de mise au poin
 
 #### Photographie au sténopé
 
-Utilisez un atténuation des bords doux, une exposition prolongée et une perspective imparfaite associées à un appareil photo à petite ouverture.
+Utilisez un adoucissement vers les bords, une exposition prolongée et une perspective imparfaite caractéristiques d’un appareil à minuscule ouverture.
 
 <a id="form-art-44-11"></a>
 
@@ -2940,9 +2940,9 @@ Reproduisez les reflets, les pores, les fibres et les petites imperfections si p
 
 <a id="form-art-45-3"></a>
 
-![Plaque scientifique — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-45-3.svg)
+![Planche scientifique — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-45-3.svg)
 
-#### Plaque scientifique
+#### Planche scientifique
 
 Isolez les échantillons avec des étiquettes claires, des détails mesurés et une présentation neutre conçue pour une comparaison systématique.
 
@@ -2998,7 +2998,7 @@ Enregistrez des événements ou des environnements réels avec des marques direc
 
 <a id="styles-group-word-g46"></a>
 
-### Langues d'illustration
+### Langages d’illustration
 
 Comparez les langages d'illustration par simplification, public, fonction narrative, clarté technique, décoration, geste de mode et concept éditorial.
 
@@ -3012,9 +3012,9 @@ Réduisez les scènes à des formes essentielles, des couleurs clairsemées et u
 
 <a id="form-art-46-1"></a>
 
-![Illustration éditoriale plate — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-46-1.svg)
+![Illustration éditoriale en aplats — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-46-1.svg)
 
-#### Illustration éditoriale plate
+#### Illustration éditoriale en aplats
 
 Utilisez des formes plates et nettes, des métaphores conceptuelles et des palettes sobres adaptées à l’explication de l’argument d’un article.
 
@@ -3112,7 +3112,7 @@ Comprimez le corps sous une tête surdimensionnée, en utilisant des membres min
 
 #### Style de personnage mignon
 
-Formes rondes, éclaircissent les expressions et simplifient les détails pour que le personnage se sente immédiatement convivial et collectionnable.
+Arrondissez les formes, égayez les expressions et simplifiez les détails pour rendre le personnage immédiatement sympathique et collectionnable.
 
 <a id="form-art-47-2"></a>
 
@@ -3136,15 +3136,15 @@ Proposez une blague visuelle concise avec un dessin au trait économique, un con
 
 #### Bande dessinée à quatre panneaux
 
-Structurez une courte configuration et un gain sur quatre images au rythme régulier avec des transitions claires et des caractères répétés.
+Construisez une courte mise en situation et sa chute en quatre cases au rythme régulier, avec des transitions claires et des personnages récurrents.
 
 <a id="form-art-47-5"></a>
 
-![Animation de tuyaux en caoutchouc — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-47-5.svg)
+![Animation aux membres souples de style rubber hose — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-47-5.svg)
 
-#### Animation de tuyaux en caoutchouc
+#### Animation aux membres souples de style rubber hose
 
-Utilisez des membres en boucle, des yeux en forme de tarte, des gants blancs et des contours noirs élastiques associés aux premières animations de l’ère sonore.
+Utilisez des membres souples formant des boucles, des yeux circulaires échancrés en part de tarte, des gants blancs et des contours noirs élastiques associés aux débuts du dessin animé sonore.
 
 <a id="form-art-47-6"></a>
 
@@ -3168,7 +3168,7 @@ Combinez des lignes expressives, un cadrage cinématographique et un rythme rich
 
 #### Manga Shojo
 
-Utilisez des figures élégantes, des effets décoratifs, des gros plans émotionnels et des rythmes de panneaux aériens centrés sur les relations.
+Utilisez des personnages élégants, des effets décoratifs, des gros plans chargés d’émotion et un rythme de cases aéré centré sur les relations.
 
 <a id="form-art-47-9"></a>
 
@@ -3192,7 +3192,7 @@ Présentez une puissance idéalisée à travers une anatomie musculaire, un racc
 
 #### BD underground
 
-Utilisez des marques abrasives en noir et blanc, de l’humour tabou et des récits contestataires en dehors du style comique traditionnel.
+Utilisez des traits bruts en noir et blanc, de l’humour tabou et des récits contestataires, en dehors de l’esthétique lissée de la bande dessinée grand public.
 
 <a id="form-art-47-12"></a>
 
@@ -3204,9 +3204,9 @@ Permettez au dessin personnel, au rythme inhabituel et aux sujets intimes de dé
 
 <a id="form-art-47-13"></a>
 
-![Caractère autocollant — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-47-13.svg)
+![Personnage en autocollant — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-47-13.svg)
 
-#### Caractère autocollant
+#### Personnage en autocollant
 
 Créez un personnage compact à partir d'une silhouette audacieuse, d'un contour épais et d'une expression lisible à l'échelle de l'autocollant.
 
@@ -3278,7 +3278,7 @@ Multipliez les diagonales, les lignes de vitesse et les formes répétées pour 
 
 ![Dada – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-48-6.svg)
 
-#### Papa
+#### Dada
 
 Combinez objets absurdes, gestes anti-art, hasard et perturbation typographique pour saper le sens conventionnel.
 
@@ -3408,7 +3408,7 @@ Créez de la force grâce aux diagonales, au déséquilibre, aux courbes directi
 
 #### Abstraction fluide
 
-Laissez les couleurs coulées ou marbrées s'écouler dans des courants ramifiés, des limites douces et des piscines évoluant naturellement.
+Laissez les couleurs coulées ou marbrées former des courants ramifiés, des contours doux et des nappes évoluant naturellement.
 
 <a id="form-art-49-8"></a>
 
@@ -3468,9 +3468,9 @@ Privilégiez la géométrie étagée, les rayons de soleil, la symétrie et les 
 
 <a id="form-art-50-2"></a>
 
-![Arts et artisanat – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-50-2.svg)
+![Mouvement Arts and Crafts — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-50-2.svg)
 
-#### Arts et artisanat
+#### Mouvement Arts and Crafts
 
 Associez une construction honnête à l’artisanat, des motifs naturels denses et un motif aplati d’inspiration médiévale.
 
@@ -3550,7 +3550,7 @@ Créez un mouvement dramatique grâce à des courbes gonflées, un contraste pro
 
 <a id="styles-group-word-g51"></a>
 
-### Langues traditionnelles et folkloriques
+### Langages visuels traditionnels et folkloriques
 
 Comparez les langages visuels traditionnels et folkloriques par motif régional, discipline linéaire, convention spatiale, processus artisanal et structure de narration.
 
@@ -3604,11 +3604,11 @@ Rendre les oiseaux et les fleurs avec des contours fins et contrôlés, des coul
 
 <a id="form-art-51-6"></a>
 
-![Peinture à l'encre littéraire - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-51-6.svg)
+![Peinture de lettrés à l’encre — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-51-6.svg)
 
-#### Peinture à l'encre littéraire
+#### Peinture de lettrés à l’encre
 
-Équilibrez les lavis d’encre clairsemés, le pinceau calligraphique, le papier ouvert et l’atmosphère poétique sur une finition littérale.
+Équilibrez lavis d’encre légers, coups de pinceau calligraphiques, réserves de papier et atmosphère poétique plutôt que de rechercher une finition littérale.
 
 <a id="form-art-51-7"></a>
 
@@ -3670,15 +3670,15 @@ Construisez des animaux, des plantes et des symboles en miroir à partir de form
 
 <a id="styles-group-word-g52"></a>
 
-### Langues d'époque et rétro
+### Langages d’époque et rétro
 
 Comparez les langages rétro spécifiques à une période à travers les limites d'impression, la typographie, la palette, l'imagerie commerciale, la technologie et les indices culturels liés à la décennie.
 
 <a id="form-art-52-0"></a>
 
-![Plaque d'histoire naturelle victorienne — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-52-0.svg)
+![Planche d’histoire naturelle victorienne — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-52-0.svg)
 
-#### Assiette d'histoire naturelle victorienne
+#### Planche d’histoire naturelle victorienne
 
 Présentez la flore ou la faune sous forme de spécimens soigneusement étiquetés avec des contours gravés, des lavis sourds et une retenue en papier vieilli.
 
@@ -3712,7 +3712,7 @@ Encadrez une destination idéalisée avec des paysages monumentaux, des encres l
 
 #### Illustration commerciale d'après-guerre
 
-Utilisez des figures joyeuses et polies, des formes de pinceaux épurées et un optimisme domestique convaincant issu de l’art des magazines d’après-guerre.
+Utilisez des personnages joyeux au rendu soigné, des formes nettes au pinceau et un optimisme domestique persuasif issu des illustrations de magazines d’après-guerre.
 
 <a id="form-art-52-5"></a>
 
@@ -3748,9 +3748,9 @@ Mélangez des dégradés de chrome, des reflets pulvérisés, des horizons néon
 
 <a id="form-art-52-9"></a>
 
-![Rue des années 1990 – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-52-9.svg)
+![Style urbain des années 1990 — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-52-9.svg)
 
-#### rue des années 1990
+#### Style urbain des années 1990
 
 Combinez des lettres vieillies, des marques de graffitis lâches, des textures photocopiées et des blocs de couleurs audacieux de la culture jeune.
 
@@ -3808,7 +3808,7 @@ Utilisez des masques découpés rapidement, des pulvérisations nettes et des ic
 
 #### Collage punk
 
-Entrez en collision des types de demandes de rançon, des photographies déchirées, du ruban adhésif et des slogans abrasifs dans une composition intentionnellement instable.
+Faites se heurter un lettrage de lettres découpées façon lettre de rançon, des photos déchirées, du ruban adhésif et des slogans abrasifs dans une composition volontairement instable.
 
 <a id="form-art-53-3"></a>
 
@@ -3820,19 +3820,19 @@ Combinez une texture érodée, des neutres sales, une typographie rugueuse et de
 
 <a id="form-art-53-4"></a>
 
-![Flyer souterrain — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-53-4.svg)
+![Flyer underground — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-53-4.svg)
 
-#### Dépliant souterrain
+#### Flyer underground
 
-Privilégiez l’impression monochrome bon marché, les détails d’événements urgents, les images découpées à la main et l’énergie souterraine encombrée.
+Privilégiez une impression monochrome bon marché, des informations d’événement pressantes, des images découpées à la main et une énergie underground foisonnante.
 
 <a id="form-art-53-5"></a>
 
 ![Graphiques de skate — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-53-5.svg)
 
-#### Graphiques de patins
+#### Graphismes de skateboard
 
-Utilisez des mascottes agressives, des silhouettes audacieuses prêtes à être utilisées, des lettres déformées et des graphismes rebelles à contraste élevé.
+Utilisez des mascottes agressives, des silhouettes marquées adaptées aux planches de skate, du lettrage déformé et des visuels rebelles très contrastés.
 
 <a id="form-art-53-6"></a>
 
@@ -3990,7 +3990,7 @@ Comparez les sensibilités globales exprimées à travers le poli, la densité, 
 
 ![Naïf et brut – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-55-0.svg)
 
-#### Naïf et impoli
+#### Naïf et brut
 
 Gardez les marques maladroites, les proportions non préparées et les décisions visiblement sincères, donnant à l'image une franchise émotionnelle directe.
 
@@ -4028,9 +4028,9 @@ Adoucissez le contraste et les bords avec des couleurs pâles, de la brume et de
 
 <a id="form-art-55-5"></a>
 
-![Contention cool – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-55-5.svg)
+![Sobriété froide — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/art-55-5.svg)
 
-#### Une retenue cool
+#### Sobriété froide
 
 Limitez les gestes, les couleurs et les ornements afin que la distance émotionnelle et le contrôle exact façonnent l’image.
 

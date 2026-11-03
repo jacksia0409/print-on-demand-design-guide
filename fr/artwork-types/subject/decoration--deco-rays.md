@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-rays?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-rays?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -30,7 +30,7 @@ La lumière émise littéralement est facultative, tout comme un anneau complet.
 
 Le traitement s'articule autour d'un sujet ou d'un groupe identifiable.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -42,7 +42,7 @@ Utilisez-le avec une image ou demandez à l'IA de réécrire votre invite d'imag
 
 **Orientation souhaitée**
 
-Sujet → Décoration partagée → Rayons et accents rayonnants
+Composition centrée sur le sujet → Décoration commune → Rayons et accents rayonnants
 
 **Entrée et sortie**
 
@@ -70,7 +70,7 @@ La lumière émise littéralement est facultative, tout comme un anneau complet.
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Petits accents environnants : Quelques petits éléments enrichissent l'espace autour du sujet principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-dots-1.svg)
 

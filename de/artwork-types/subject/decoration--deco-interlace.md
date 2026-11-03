@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-interlace?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-interlace?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Motivorientierte Gestaltung / GESTALTUNGSRICHTUNG
 
-# Interlaced-Dekoration
+# Verflochtene Dekoration
 
 Dekorative Elemente weben vor und hinter dem Motiv.
 
 <a id="understand"></a>
 
-![Interlaced-Dekoration: Dekorative Elemente weben vor und hinter dem Motiv.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-interlace-1.svg)
+![Verflochtene Dekoration: Dekorative Elemente verlaufen abwechselnd vor und hinter dem Motiv.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-interlace-1.svg)
 
 Kompositionsskizze
 
@@ -28,21 +28,21 @@ WIE MAN ES ERKENNT
 
 Das Anbringen der gesamten Dekoration oben ist keine Verflechtung. Bewahren Sie Erkennungsmerkmale und halten Sie die Dekoration zweitrangig.
 
-Die Behandlung konzentriert sich auf ein Thema oder eine identifizierbare Gruppe.
+Die Gestaltung funktioniert um ein Einzelmotiv oder eine erkennbare Gruppe herum.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Betreffgesteuert → Gemeinsame Dekoration → Interlaced-Dekoration
+Motiv im Mittelpunkt → Gemeinsame Dekoration → Verflochtene Dekoration
 
 **Eingabe und Ausgabe**
 
@@ -50,7 +50,7 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Behalten Sie das Schwerpunktthema oder die Schwerpunktgruppe bei und weben Sie verwandte Zweige, Linien oder Bänder durch sie hindurch. Platzieren Sie einige Teile hinten und andere vorne, um eine verständliche Überlappung zu erzielen.
+Bewahren Sie das Hauptmotiv oder die Gruppe und verweben Sie dazu passende Zweige, Linien oder Bänder damit. Platzieren Sie einige Teile dahinter und andere davor, damit die Überlagerung nachvollziehbar bleibt.
 
 **Hintergrund**
 
@@ -70,7 +70,7 @@ Das Anbringen der gesamten Dekoration oben ist keine Verflechtung. Bewahren Sie 
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Strahlen und strahlende Akzente: Linien oder strahlende Formen erstrecken sich vom Motiv nach außen.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-rays-1.svg)
 
@@ -80,7 +80,7 @@ Linien oder strahlende Formen erstrecken sich vom Motiv nach außen.](decoration
 
 ### Kleine umlaufende Akzente↗
 
-Ein paar kleine Elemente bereichern den Raum um das Hauptthema.](decoration--deco-dots.md)[![Umgebende Dekoration: Dekorative Elemente bilden eine teilweise oder vollständige Umhüllung des Motivs.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
+Einige kleine Elemente bereichern den Raum um das Hauptmotiv.](decoration--deco-dots.md)[![Umgebende Dekoration: Dekorative Elemente bilden eine teilweise oder vollständige Umhüllung des Motivs.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
 
 ### Umlaufende Dekoration↗
 
@@ -90,4 +90,4 @@ Dekorative Elemente bilden eine teilweise oder vollständige Umhüllung des Moti
 
 Ein definierter Rahmen, eine Plakette oder eine umschließende Struktur hält das Motiv.](decoration--deco-frame.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

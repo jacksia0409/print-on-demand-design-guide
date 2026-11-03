@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -22,11 +22,11 @@ Sehen Sie, wie das gleiche Blumenmuster auf einem T-Shirt und einem Becher aussi
 
 Kunstwerk
 
-![AI-T-Shirt-Vorschau des floralen Rapports](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
+![KI-T-Shirt-Vorschau des floralen Rapports](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
 
 T-Shirt-Vorschau
 
-![AI-Tumbler-Vorschau des gleichen floralen Rapports](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![KI-Vorschau desselben floralen Rapports auf einem Trinkbecher](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
 Tumbler-Vorschau
 
@@ -68,9 +68,9 @@ Kleine Designs, die auffallen](products/hats.md)[![Tassen](https://images.podplo
 
 **Tassen**
 
-Gestalten Sie ein tägliches Ritual persönlich](products/mugs.md)[![Trinkgläser](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+Gestalten Sie ein tägliches Ritual persönlich](products/mugs.md)[![Trinkbecher](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
-**Trinkgläser**
+**Trinkbecher**
 
 Nehmen Sie Ihr Lieblingsdesign mit](products/tumblers.md)[![Poster und Kunstdrucke](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100781713611.webp)
 
@@ -88,9 +88,9 @@ Kleine Bilder, die viel zu sagen haben](products/stickers.md)[![Tragetaschen](ht
 
 **Tragetaschen**
 
-Tragen Sie Ihr Lieblingsdesign](products/tote-bags.md)[![Rucksäcke und Lunchpakete](https://podplo.app/pod-guide/generated/backpacks-proof.webp)
+Tragen Sie Ihr Lieblingsdesign](products/tote-bags.md)[![Rucksäcke und Lunchtaschen](https://podplo.app/pod-guide/generated/backpacks-proof.webp)
 
-**Rucksäcke und Lunchpakete**
+**Rucksäcke und Lunchtaschen**
 
 Eine Tasche, die unverkennbar zu Ihnen gehört](products/backpacks.md)[![Handyhüllen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100560723646.webp)
 
@@ -108,23 +108,23 @@ Sagen Sie es mit einer individuellen Karte](products/greeting-cards.md)[![Decken
 
 **Decken**
 
-Lassen Sie Ihre Lieblingserinnerung auf sich wirken](products/blankets.md)[![Kissen und Kissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
+Hüllen Sie sich in eine Lieblingserinnerung.](products/blankets.md)[![Wohn- und Dekokissen](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
 
-**Kissen und Kissen**
+**Wohn- und Dekokissen**
 
 Verleihen Sie jedem Raum eine persönliche Note](products/pillows.md)[![Ornamente und Sonnenfänger](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)
 
 **Ornamente und Sonnenfänger**
 
-Kleine Andenken für große Momente](products/ornaments.md)[![Rätsel](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)
+Kleine Andenken für große Momente](products/ornaments.md)[![Puzzles](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)
 
-**Rätsel**
+**Puzzles**
 
 Eine Erinnerung, Stück für Stück](products/puzzles.md)[![Futtermatten für Haustiere](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606560394791670.webp)
 
 **Futtermatten für Haustiere**
 
-Machen Sie die Essenszeit zu Ihrer eigenen](products/pet-products.md)[![Geschenkpapier](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)
+Eine ganz persönliche Futterzeit für Ihr Haustier](products/pet-products.md)[![Geschenkpapier](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)
 
 **Geschenkpapier**
 

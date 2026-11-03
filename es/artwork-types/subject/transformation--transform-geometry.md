@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-geometry?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-geometry?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -28,21 +28,21 @@ CÓMO RECONOCERLO
 
 Las formas geométricas todavía describen el objeto. Las formas sin una referencia clara a un objeto pertenecen a la abstracción geométrica no figurativa.
 
-El tratamiento gira en torno a un tema o un grupo identificable.
+El tratamiento se aplica alrededor de un motivo principal o un grupo identificable.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por sujetos → Tratamientos temáticos compartidos → Simplificación geométrica
+Motivo principal → Tratamientos compartidos del motivo principal → Simplificación geométrica
 
 **Entrada y salida**
 
@@ -70,13 +70,13 @@ Las formas geométricas todavía describen el objeto. Las formas sin una referen
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
-[![Forma base reconocible: el tema tiene una forma familiar y legible que proporciona una referencia para otros tratamientos.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
+[![Forma base reconocible: el motivo principal tiene una forma familiar y reconocible que sirve de referencia para otros tratamientos.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-original-1.svg)
 
 ### Forma base reconocible↗
 
-El tema tiene una forma familiar y legible que proporciona una referencia para otros tratamientos.](transformation--transform-original.md)[![Proporciones exageradas: partes del sujeto se alargan, comprimen o amplían mientras sigue siendo identificable.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-distort-1.svg)
+El motivo principal tiene una forma familiar y reconocible que sirve de referencia para otros tratamientos.](transformation--transform-original.md)[![Proporciones exageradas: partes del sujeto se alargan, comprimen o amplían mientras sigue siendo identificable.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-distort-1.svg)
 
 ### Proporciones exageradas↗
 
@@ -90,4 +90,4 @@ Un pequeño número de líneas conservan los contornos esenciales del sujeto.](t
 
 Un sujeto reconocible se reconstruye a partir de una pequeña cantidad de áreas de color.](transformation--transform-blocks.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

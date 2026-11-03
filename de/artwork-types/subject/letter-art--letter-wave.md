@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/letter-art--letter-wave?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/letter-art--letter-wave?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Motivorientierte Gestaltung / GESTALTUNGSRICHTUNG
 
-# Gebogener oder gewellter Typ
+# Geschwungene oder gewellte Schrift
 
 Buchstaben folgen einer Kurve oder Welle mit einem sichtbaren steigenden und fallenden Rhythmus.
 
@@ -28,19 +28,19 @@ WIE MAN ES ERKENNT
 
 Sowohl eine wellenförmige Anordnung als auch verzogene Buchstabenformen sind möglich; Beides ist in Kombination nicht zwingend erforderlich. Wenn Sie nur die Schriftart ändern, entsteht keine Welle.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Betreffgesteuert → Text- und Betreffbeziehungen → Beschriftungsbehandlungen → Geschwungene oder gewellte Schrift
+Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Schriftgestaltung → Gebogene oder gewellte Schrift
 
 **Eingabe und Ausgabe**
 
@@ -56,7 +56,7 @@ Orientieren Sie sich an Inhalt, visueller Gestaltung und Farbpalette des vorhand
 
 **Textinhalt**
 
-Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie einen prägnanten, themenbezogenen Text und stellen Sie die Beschriftung in den Mittelpunkt dieser Behandlung. Behalten Sie die Lesereihenfolge und Bedeutung bei und überprüfen Sie die Rechtschreibung. Wenn eine explizite Anforderung ohne Text im Widerspruch zu dieser textbasierten Richtung steht, geben Sie den Konflikt an, anstatt stillschweigend Wörter hinzuzufügen.
+Behalten Sie eindeutig lesbaren Text aus der Vorlage und dessen Sprache bei und passen Sie die Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Ist kein Text vorgegeben, ergänzen Sie einen knappen thematisch passenden Text und stellen Sie die Schriftgestaltung in den Mittelpunkt. Bewahren Sie Lesereihenfolge und Bedeutung und prüfen Sie die Rechtschreibung. Widerspricht eine ausdrückliche Vorgabe ohne Text dieser textbasierten Richtung, benennen Sie den Konflikt, statt stillschweigend Wörter hinzuzufügen.
 
 **Beibehalten und anpassen**
 
@@ -70,25 +70,25 @@ Sowohl eine wellenförmige Anordnung als auch verzogene Buchstabenformen sind m�
 
 ## Erkunden Sie den Hintergrund
 
-Diese Beispiele vergleichen Gründe innerhalb derselben Inhaltsfamilie. Behalten Sie die aktuelle Zusammensetzung bei, wenn Sie eine Behandlung anwenden. Öffnen Sie ein Beispiel für die vollständige Anleitung.
+Diese Beispiele vergleichen Hintergründe innerhalb derselben Inhaltsgruppe. Bewahren Sie beim Anwenden einer Gestaltung die aktuelle Komposition; öffnen Sie ein Beispiel, um die vollständige Anleitung zu lesen.
 
-[![Transparenter Hintergrund: Text- und Sujetbeziehungen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
+[![Transparenter Hintergrund: Text-Motiv-Beziehungen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Text- und Sujetbeziehungen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--relationship--transparent.md)[![Einfarbiger Hintergrund: Text- und Sujet-Beziehungen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+Text-Motiv-Beziehungen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--relationship--transparent.md)[![Einfarbiger Hintergrund: Text-Motiv-Beziehungen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Text- und Sujetbeziehungen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--relationship--solid.md)[![Hintergrund mit Farbverlauf: Text- und Motivbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+Text-Motiv-Beziehungen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--relationship--solid.md)[![Hintergrund mit Farbverlauf: Text- und Motivbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Text- und Sujetbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--relationship--gradient.md)[![Gemusterter Hintergrund: lokal: Text- und Themenbeziehungen: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+Text- und Sujetbeziehungen: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--relationship--gradient.md)[![Gemusterter Hintergrund, lokal: Text-Motiv-Beziehungen: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Text- und Themenbeziehungen: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--relationship--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Text- und Motivbeziehungen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
+Text-Motiv-Beziehungen: Eine dekorative Fläche liegt hinter dem Inhalt; außerhalb dieser Fläche bleibt ein Bereich frei.](background--relationship--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Text- und Motivbeziehungen: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
@@ -96,32 +96,32 @@ Text- und Motivbeziehungen: Ein gemusterter Hintergrund bedeckt das Bild hinter 
 
 ### Strukturierter Hintergrund↗
 
-Text- und Motivbeziehungen: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--relationship--texture.md)[![Umgebungshintergrund: Text- und Themenbeziehungen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um sie herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
+Text- und Motivbeziehungen: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--relationship--texture.md)[![Umgebungshintergrund: Text-Motiv-Beziehungen: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--scene-1.svg)
 
-### Umwelthintergrund↗
+### Umgebungshintergrund↗
 
-Text- und Themenbeziehungen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--relationship--scene.md)
+Text-Motiv-Beziehungen: Eine zum Thema passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](background--relationship--scene.md)
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Umrissbeschriftung: Buchstabenumrisse tragen das Design, während die meisten ihrer Innenräume offen bleiben.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-outline-1.svg)
 
 ### Umrissschrift↗
 
-Die Buchstabenumrisse tragen das Design, während die meisten Innenräume offen bleiben.](letter-art--letter-outline.md)[![Gestreckter oder gestauchter Typ: Die Buchstabenproportionen werden sichtbar verlängert, verengt oder verbreitert.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-stretch-1.svg)
+Die Buchstabenumrisse tragen das Design, während die meisten Innenräume offen bleiben.](letter-art--letter-outline.md)[![Gestreckte oder gestauchte Schrift: Die Buchstabenproportionen sind sichtbar verlängert, verengt oder verbreitert.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-stretch-1.svg)
 
-### Gestreckter oder komprimierter Typ↗
+### Gestreckte oder gestauchte Schrift↗
 
-Die Buchstabenproportionen werden sichtbar verlängert, verengt oder verbreitert.](letter-art--letter-stretch.md)[![Abgewinkelter perspektivischer Typ: Die Schrift verändert den scheinbaren Maßstab über ihre Breite, um Tiefe zu suggerieren.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-perspective-1.svg)
+Die Buchstabenproportionen werden sichtbar verlängert, verengt oder verbreitert.](letter-art--letter-stretch.md)[![Perspektivisch geneigte Schrift: Die Buchstaben wirken über die Breite hinweg unterschiedlich groß und erzeugen so Tiefe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-perspective-1.svg)
 
-### Typ mit abgewinkelter Perspektive↗
+### Perspektivisch geneigte Schrift↗
 
-Der Schriftzug verändert seine scheinbare Skalierung über seine Breite, um Tiefe zu suggerieren.](letter-art--letter-perspective.md)[![Geteilter und verschobener Typ: Buchstabenformen werden in verschobene Teile geschnitten, während die ursprünglichen Wörter erkennbar bleiben.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-fracture-1.svg)
+Der Schriftzug verändert seine scheinbare Skalierung über seine Breite, um Tiefe zu suggerieren.](letter-art--letter-perspective.md)[![Zerschnittene und versetzte Schrift: Buchstaben werden in gegeneinander verschobene Teile geschnitten, während die ursprünglichen Wörter erkennbar bleiben.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-letter-art--letter-fracture-1.svg)
 
-### Geteilter und verschobener Typ↗
+### Zerschnittene und versetzte Schrift↗
 
 Buchstabenformen werden in verschobene Teile zerschnitten, während die ursprünglichen Wörter erkennbar bleiben.](letter-art--letter-fracture.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

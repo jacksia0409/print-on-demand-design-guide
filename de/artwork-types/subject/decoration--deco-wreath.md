@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-wreath?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-wreath?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -28,21 +28,21 @@ WIE MAN ES ERKENNT
 
 Symmetrie und ein geschlossener Ring sind optional. Ein Fleck, der sich hauptsächlich hinter dem Motiv befindet, ist ein lokal gemusterter Hintergrund; Die beiden Ansätze können kombiniert werden.
 
-Die Behandlung konzentriert sich auf ein Thema oder eine identifizierbare Gruppe.
+Die Gestaltung funktioniert um ein Einzelmotiv oder eine erkennbare Gruppe herum.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Betreffgesteuert → Gemeinsame Dekoration → Umgebende Dekoration
+Motiv im Mittelpunkt → Gemeinsame Dekoration → Umgebende Dekoration
 
 **Eingabe und Ausgabe**
 
@@ -70,7 +70,7 @@ Symmetrie und ein geschlossener Ring sind optional. Ein Fleck, der sich hauptsä
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Strahlen und strahlende Akzente: Linien oder strahlende Formen erstrecken sich vom Motiv nach außen.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-rays-1.svg)
 
@@ -80,14 +80,14 @@ Linien oder strahlende Formen erstrecken sich vom Motiv nach außen.](decoration
 
 ### Kleine umlaufende Akzente↗
 
-Ein paar kleine Elemente bereichern den Raum um das Hauptthema.](decoration--deco-dots.md)[![Gerahmtes Motiv: Ein definierter Rahmen, ein Schild oder eine umschließende Struktur hält das Motiv.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-frame-1.svg)
+Einige kleine Elemente bereichern den Raum um das Hauptmotiv.](decoration--deco-dots.md)[![Gerahmtes Motiv: Ein definierter Rahmen, ein Schild oder eine umschließende Struktur hält das Motiv.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-frame-1.svg)
 
 ### Gerahmtes Motiv↗
 
-Ein definierter Rahmen, eine Plakette oder eine umschließende Struktur hält das Motiv.](decoration--deco-frame.md)[![Interlaced-Dekoration: Dekorative Elemente weben vor und hinter dem Motiv.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-interlace-1.svg)
+Ein definierter Rahmen, eine Plakette oder eine umschließende Struktur hält das Motiv.](decoration--deco-frame.md)[![Verflochtene Dekoration: Dekorative Elemente verlaufen abwechselnd vor und hinter dem Motiv.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-interlace-1.svg)
 
-### Interlaced-Dekoration↗
+### Verflochtene Dekoration↗
 
 Dekorative Elemente weben vor und hinter dem Motiv.](decoration--deco-interlace.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

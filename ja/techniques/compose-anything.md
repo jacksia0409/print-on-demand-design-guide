@@ -12,7 +12,7 @@
 
 # ひとつの画像から、無限の可能性。
 
-Remix の画像とテキストを異なる Skills で作成します。新しいレイアウトを試して、1 つのアイデアをさまざまなデザインに変えてください。
+画像と文字をさまざまなSkillでRemixしましょう。新しいレイアウトを試し、一つのアイデアを幅広いデザインに展開できます。
 
 <a id="material-is-the-start"></a>
 
@@ -24,7 +24,7 @@ Remix の画像とテキストを異なる Skills で作成します。新しい
 
 <a id="opaque-artwork"></a>
 
-[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 認識可能な件名とコピーを 1 つの太字の中央に配置したグラフィックに組み合わせます。
+[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 見分けられるモチーフと文言を、中央の印象的な1つの図案に組み合わせます。
 
 アップロードされた画像または PodPlo アセットから始めます。 [コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) ソースを認識可能な状態に保ちながら、主役とコピーをバランスの取れた中央に配置されたグラフィックに組み合わせます。
 
@@ -32,9 +32,9 @@ Remix の画像とテキストを異なる Skills で作成します。新しい
 
 [コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 主役とコピーを緻密でバランスのとれた形で組み合わせます。緩やかなソース画像は、明確な焦点を備えた強力な中央のグラフィックになります。
 
-### 背の高い被写体を重ねてコピーする
+### 縦長のモチーフと文字を上下に配置する
 
-[垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout) 背の高い主役を配置し、上から下へ明確な読み順でコピーします。オープンコンポジションでは、アートワークの周囲に背景が見えるままになります。
+[垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout) 縦長のモチーフと文言を、上から下へ明確な読む順序で配置します。開いた構図により、図案の周囲には背景が見えます。
 
 ### シーン全体をそのまま維持する
 
@@ -62,9 +62,9 @@ Remix の画像とテキストを異なる Skills で作成します。新しい
 
 ポスターメーカー](https://podplo.app/skills/poster-maker)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)
 
@@ -106,9 +106,9 @@ Remix の画像とテキストを異なる Skills で作成します。新しい
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-changes-the-result"></a>
 
@@ -152,9 +152,9 @@ Remix の画像とテキストを異なる Skills で作成します。新しい
 
 ## 繰り返し可能なクリエイティブ設定を保存する
 
-セットアップを簡単に再利用できるように、ソース Skill と最も強い結果を保存します。
+元の素材、使ったSkill、最もよい生成結果を保存し、同じ設定を再利用しやすくします。
 
-ソース Skill と最も強い結果を一緒に保管してください。これにより、新しいレイアウト、繰り返しパターン、季節変動、またはコレクションに同じセットアップを簡単に再利用できます。
+元の素材、使ったSkill、最もよい生成結果を一緒に保存しましょう。同じ設定を、新しいレイアウト、リピート柄、季節のバリエーション、コレクションに再利用しやすくなります。
 
 入力と値の例を含むワークフローの図。
 

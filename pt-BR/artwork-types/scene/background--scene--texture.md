@@ -48,7 +48,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Preserve o espaço essencial da cena, o cenário e qualquer evento existente. Mude o terreno atrás dele, a camada do céu ou o suporte ao redor, em vez de remover o contexto que o torna uma cena.
+Preserve o espaço essencial da cena, seu cenário e qualquer acontecimento existente. Mude o fundo atrás dela, a camada do céu ou o fundo ao redor, em vez de remover o contexto que a torna uma cena.
 
 **Fundo**
 
@@ -68,23 +68,23 @@ Um suporte texturizado não deve se tornar automaticamente um objeto independent
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Cenas: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![Fundo transparente: cenas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Cenas: O chão fica transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--scene--transparent.md)[![Fundo sólido: Cenas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Cenas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--scene--transparent.md)[![Fundo sólido: Cenas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### Fundo sólido↗
 
-Cenas: Uma cor uniforme forma o solo; o branco também é um fundo sólido.](background--scene--solid.md)[![Fundo gradiente: Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Cenas: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--scene--solid.md)[![Fundo gradiente: Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--scene--gradient.md)[![Fundo padronizado: local: Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--scene--gradient.md)[![Fundo estampado: local: Cenas: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
 Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--scene--pattern-local.md)
 

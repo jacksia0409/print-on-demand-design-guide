@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/print-ready-files?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/print-ready-files?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Schärfen Sie Details, entfernen Sie einen Hintergrund oder erweitern Sie eine S
 
 [HD-Upscale](https://podplo.app/skills/hd-upscale) Schärft Textur und kleine Details und bewahrt gleichzeitig die Komposition.
 
-[HD-Upscale](https://podplo.app/skills/hd-upscale) kann feine Kanten, Texturen und kleine Formen in einem ausgewählten Bild schärfen. Es sorgt für Klarheit, ohne das Thema oder die Komposition zu ändern.
+[HD-Upscale](https://podplo.app/skills/hd-upscale) kann feine Kanten, Texturen und kleine Formen in einem gewählten Bild schärfen. Es erhöht die Klarheit, ohne Motiv oder Komposition zu verändern.
 
 ![Ausgewähltes Bild vor der Detailanreicherung](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2-before.webp)
 
@@ -40,7 +40,7 @@ HD-Upscale
 
 <a id="_R_5irk_-cards"></a>
 
-[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 Detailreparatur](https://podplo.app/skills/detail-repair)[![Beispiel für ein Hintergrundentferner-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
@@ -60,7 +60,7 @@ Smart Outpaint](https://podplo.app/skills/smart-outpaint)
 
 Eingabe
 
-[![Transparentes Motiv, bereit für neue Kompositionen](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
+[![Freigestelltes Motiv, bereit für neue Kompositionen](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)](https://podplo.app/skills/background-remover)
 
 Hintergrundentferner
 
@@ -74,9 +74,9 @@ Hintergrundentferner
 
 <a id="_R_5krk_-cards"></a>
 
-[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Detailreparatur](https://podplo.app/skills/detail-repair)[![Beispiel für ein hochwertiges HD-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Detailreparatur](https://podplo.app/skills/detail-repair)[![Designbeispiel mit HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 HD-Upscale](https://podplo.app/skills/hd-upscale)[![Beispiel für ein Smart Outpaint-Artwork](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
@@ -108,9 +108,9 @@ Smart Outpaint
 
 <a id="_R_5mrk_-cards"></a>
 
-[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Detailreparatur](https://podplo.app/skills/detail-repair)[![Beispiel für ein hochwertiges HD-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Detailreparatur](https://podplo.app/skills/detail-repair)[![Designbeispiel mit HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 HD-Upscale](https://podplo.app/skills/hd-upscale)[![Beispiel für ein Hintergrundentferner-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
@@ -122,11 +122,11 @@ Hintergrundentferner](https://podplo.app/skills/background-remover)
 
 Side-by-Side-Varianten erleichtern die Entscheidung, was als Nächstes entwickelt werden soll.
 
-Behalten Sie das Original bei, abgesehen von ein paar starken Variationen. Der Vergleich nebeneinander erleichtert die Auswahl des besten Motivs, der besten Kopie oder der besten Komposition für die nächste Runde.
+Bewahren Sie das Original neben einigen starken Varianten auf. Der direkte Vergleich erleichtert die Wahl von Motiv, Text oder Komposition für die nächste Runde.
 
 KI-generierte Layout-Erkundungen unter Verwendung derselben Rosenreferenz.
 
-![Rose- und ETERNAL BLOOM-Schriftzug in einem kompakten, zentrierten Layout](https://podplo.app/pod-guide/generated/rose-compact-center.webp)
+![Eine Rose und der Schriftzug ETERNAL BLOOM in einem kompakten, zentrierten Layout](https://podplo.app/pod-guide/generated/rose-compact-center.webp)
 
 Kompakte Komposition
 
@@ -150,6 +150,6 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein Hintergrundentferner-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Hintergrundentferner](https://podplo.app/skills/background-remover)[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Hintergrundentferner](https://podplo.app/skills/background-remover)[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 Detailreparatur](https://podplo.app/skills/detail-repair)

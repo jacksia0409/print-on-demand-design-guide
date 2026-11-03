@@ -8,20 +8,20 @@
 
 # Orientações criativas públicas para IA
 
-Estas são instruções públicas do Guia, não regras Skill privadas. Os estudos visuais são conceituais; os resultados devem ser revistos.
+Estas são instruções públicas do Guide, e não regras privadas de Skill. Os estudos visuais são conceituais; os resultados devem ser conferidos.
 
 [← Leia as 123 orientações em quatro partes. Cada uma inclui um bloco de instruções pronto para copiar.](INDEX.md)
 
-## 1 Composição centrada no tema principal
+## 1 Composição centrada no elemento principal
 
 Um objeto identificável, um grupo ou uma inscrição conduz a composição.
 
 ```text
-Direção desejada: Composição centrada no tema principal
+Direção desejada: Composição guiada pelo elemento principal
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Escolha o objeto ou texto principal e estabeleça uma hierarquia legível. Use um assunto, vários assuntos ou uma relação de texto e imagem, com o fundo apoiando o conteúdo focal.
+Estrutura desejada: escolha o objeto ou o texto principal e estabeleça uma hierarquia legível. Use um elemento principal, vários elementos principais ou uma relação entre texto e imagem, com o fundo apoiando o conteúdo focal.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -29,28 +29,28 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Não substitua o tema focal identificável por um ambiente, repetição decorativa, superfície material ou abstração não figurativa.
+Escopo e limites: não substitua o elemento focal identificável por um ambiente, repetição decorativa, superfície de material ou abstração não figurativa.
 ```
 
 
 ## 2 Cenas
 
-Sujeitos, entorno e relações espaciais ou narrativas estabelecem uma situação.
+Os elementos principais, o entorno e as relações espaciais ou narrativas estabelecem uma situação.
 
 ```text
 Direção desejada: Cenas
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Organize assuntos, ambiente e espaço em torno do tema original. O resultado pode ser um evento, um ambiente tranquilo, uma paisagem ou uma vinheta do quotidiano; criar ambientes relacionados se eles estiverem ausentes.
+Estrutura desejada: organize os elementos principais, o cenário e o espaço em torno do tema original. O resultado pode ser um evento, um ambiente tranquilo, uma paisagem ou uma vinheta do cotidiano; crie um entorno relacionado se ele estiver ausente.
 
-Fundo: Use a localização existente, sugestões ambientais e atmosféricas para desenvolver um ambiente coerente. Se não existir nenhum plano de fundo ou apenas um suporte sólido ou transparente for fornecido, crie um ambiente relacionado. Um padrão decorativo por si só não deve substituir o contexto essencial.
+Fundo: Use as pistas de local, ambiente e atmosfera existentes para desenvolver um cenário coerente. Se não houver fundo, ou se apenas um fundo de cor uniforme ou transparente for fornecido, crie um ambiente relacionado. Um padrão decorativo sozinho não deve substituir o contexto essencial.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A ação não é necessária. A decoração atrás de um objeto isolado, sem relações contextuais, está mais próxima de uma obra de arte centrada no assunto.
+Escopo e limites: a ação não é obrigatória. A decoração atrás de um objeto isolado, sem relações contextuais, se aproxima mais de uma arte guiada pelo elemento principal.
 ```
 
 
@@ -71,7 +71,7 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Uma grade de ativos regular não é automaticamente um padrão, e um resultado perfeito reivindicado requer uma verificação separada da saída lado a lado.
+Escopo e limites: uma grade regular de recursos não é automaticamente um padrão, e qualquer alegação de resultado sem emendas exige uma verificação separada da imagem repetida lado a lado.
 ```
 
 
@@ -84,15 +84,15 @@ Direção desejada: Texturas
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Traduza paleta, material e atmosfera relevantes em obras de arte de superfície. Use cobertura total, fragmentos locais ou camadas, reduzindo objetos não relacionados que se tornariam assuntos focais independentes.
+Estrutura desejada: converta a paleta, o material e a atmosfera relevantes em arte guiada pela superfície. Use cobertura total, fragmentos localizados ou camadas, reduzindo objetos sem relação que se tornariam elementos focais independentes.
 
-Fundo: Material de referência, paleta e atmosfera, criando um tratamento de superfície relevante quando falta. Um patch local pode ter um suporte separado; uma textura de área inteira se funde com seu solo. Evite adicionar um objeto dominante ou cenário narrativo.
+Fundo: Use o material, a paleta e a atmosfera como referência, criando uma aparência de superfície pertinente quando ela não existir. Uma área localizada pode ter um fundo separado; uma textura de área total se funde com seu fundo. Evite acrescentar um objeto dominante ou um cenário narrativo.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha materiais, superfícies, paletas e atmosfera relevantes sem exigir uma silhueta de objeto ou uma cena completa. Crie o efeito solicitado quando as pistas materiais estiverem ausentes, sem alegar ter identificado o material real da fonte. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A silhueta de um objeto ou de todo um ambiente pode ser uma obra de arte de tema ou cena. Nem toda imagem sem um objeto claro é uma textura.
+Escopo e limites: uma silhueta de objeto ou um ambiente completo pode pertencer às artes de elementos principais ou de cenas. Nem toda imagem sem um objeto claro é uma textura.
 ```
 
 
@@ -105,28 +105,28 @@ Direção desejada: Arte abstrata
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Traduza paleta, ritmo, direção ou humor em formas geométricas, fluxo orgânico, marcas ou campos de cores. Reorganizar as relações e o espaço em vez de preservar um objeto concreto como objetivo principal.
+Estrutura desejada: traduza a paleta, o ritmo, a direção ou a atmosfera em formas geométricas, fluxo orgânico, marcas ou campos de cor. Reorganize as relações e o espaço, em vez de ter como objetivo principal preservar um objeto concreto.
 
-Fundo: Faça referência a cores de fundo, ritmo e humor. Se ausente, crie relações espaciais ou de apoio relacionadas. O entorno da fonte figurativa pode ser simplificado em pistas de apoio sem substituir a composição não figurativa.
+Fundo: Use as cores, o ritmo e a atmosfera do fundo como referência. Se não houver fundo, crie um fundo de apoio ou relações espaciais relacionados. Os elementos figurativos ao redor na imagem original podem ser simplificados em pistas de apoio sem substituir a composição não figurativa.
 
 Texto: Preserve o texto claramente legível da imagem original e o idioma em que está escrito, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhum texto for fornecido, crie uma frase curta relacionada ao tema como apoio, sem encobrir os elementos principais, a ação ou a estrutura. Adapte o texto existente à hierarquia desejada e respeite um pedido explícito de não incluir texto.
 
 Preservar e adaptar: Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite que a identidade do objeto concreto seja reduzida ou removida. Não exija simultaneamente que a silhueta original do objeto permaneça intacta. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Um objeto estilizado identificável permanece um tratamento de assunto. O caráter da superfície do material pertence às texturas quando é a expressão principal.
+Escopo e limites: um objeto estilizado identificável continua sendo um tratamento visual do elemento principal. O caráter da superfície de um material pertence às texturas quando constitui a expressão principal.
 ```
 
 
-## Tema principal centralizado
+## Elemento principal centralizado
 
-Um assunto principal fica próximo ao centro, com espaço ao seu redor.
+Um elemento principal fica próximo do centro, com espaço ao redor.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Assunto centralizado
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Elemento principal centralizado
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Escolha um assunto focal coerente e coloque seu centro visual próximo ao meio. Ajuste a escala e o espaço circundante para que a composição tenha um ponto focal estável.
+Estrutura desejada: escolha um único elemento focal coerente e posicione seu centro visual perto do meio. Ajuste sua escala e o espaço ao redor para que a composição tenha um ponto focal estável.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -134,20 +134,20 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A centralização não requer simetria de espelho. Evite distribuir vários assuntos independentes com igual ênfase.
+Escopo e limites: centralizar não exige simetria de espelho. Evite distribuir vários elementos independentes com a mesma ênfase.
 ```
 
 
 ## Deslocamento com espaço aberto
 
-O assunto principal fica de lado, deixando uma área visivelmente mais silenciosa em outro lugar.
+O elemento principal fica de um lado, deixando uma área visivelmente mais discreta em outra parte.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Compensação com espaço aberto
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Deslocamento com espaço aberto
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mova um assunto central para uma posição lateral ou descentralizada. Estabeleça uma diferença clara no peso visual; a área mais silenciosa pode conter texto de apoio ou permanecer aberta.
+Estrutura desejada: mova um elemento central para uma lateral ou posição fora do centro. Estabeleça uma diferença clara de peso visual; a área mais discreta pode conter texto de apoio ou permanecer aberta.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -155,20 +155,20 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Um layout offset deve preservar características reconhecíveis. Não é necessário cortar o assunto ou adicionar objetos para preencher a área aberta.
+Escopo e limites: um layout deslocado deve preservar características reconhecíveis. Ele não exige cortar o elemento principal nem adicionar objetos para preencher a área aberta.
 ```
 
 
 ## Detalhe ampliado
 
-Uma visualização ampliada e recortada coloca em foco uma parte reconhecível do assunto.
+Uma vista ampliada e recortada coloca em foco uma parte reconhecível do elemento principal.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Detalhe ampliado
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Detalhe ampliado
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Selecione uma parte distinta do assunto de entrada e amplie-a além de uma ou mais bordas. Retenha contorno, estrutura ou detalhes suficientes para identificar o objeto.
+Estrutura desejada: selecione uma parte distintiva do elemento principal da entrada e amplie-a para além de uma ou mais bordas. Preserve contorno, estrutura ou detalhes suficientes para identificar o objeto.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -176,20 +176,20 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Isso corta um assunto individual. Um ambiente recortado ou um momento com relações contextuais pertence a uma cena em close.
+Escopo e limites: este tratamento recorta um elemento individual. Um ambiente recortado ou um momento com relações contextuais pertence a um close de cena.
 ```
 
 
 ## Composição diagonal
 
-O assunto se estende ao longo de uma diagonal, dando à imagem uma direção clara.
+O elemento principal se estende ao longo de uma diagonal, dando à imagem uma direção clara.
 
 ```text
-Direção desejada: Orientado por assunto → Assunto único → Composição diagonal
+Direção desejada: Composição guiada pelo elemento principal → Elemento principal único → Composição diagonal
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Organize o eixo principal ou o gesto geral do assunto na diagonal. Use posição, pose ou rotação e equilibre as áreas abertas em suas extremidades.
+Estrutura desejada: organize o eixo principal ou o gesto geral do elemento principal na diagonal. Use posição, pose ou rotação e equilibre as áreas abertas em suas extremidades.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -197,16 +197,16 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Inclinar apenas o fundo ou as letras não torna o assunto diagonal. Preserve uma estrutura de objeto verossímil ou intencionalmente estilizada.
+Escopo e limites: inclinar apenas o fundo ou as letras não torna o elemento principal diagonal. Preserve uma estrutura de objeto verossímil ou intencionalmente estilizada.
 ```
 
 
-## Assuntos lado a lado
+## Elementos principais lado a lado
 
-Vários assuntos reconhecíveis são organizados horizontalmente e mostrados juntos.
+Vários elementos reconhecíveis são organizados horizontalmente e exibidos juntos.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Assuntos lado a lado
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Elementos lado a lado
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -222,12 +222,12 @@ Escopo e limites: Os objetos não precisam ser idênticos em tamanho ou igualmen
 ```
 
 
-## Disciplinas primárias e de apoio
+## Elementos principais e de apoio
 
-Um sujeito conduz a composição enquanto outros objetos a apoiam.
+Um elemento principal conduz a composição enquanto outros objetos lhe dão apoio.
 
 ```text
-Direção desejada: Liderado por assunto → Assuntos múltiplos → Assuntos primários e de apoio
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Elementos principais e de apoio
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -245,14 +245,14 @@ Escopo e limites: A hierarquia deve estar visível. Se um ambiente ou evento se 
 
 ## Agrupamento vertical
 
-Vários assuntos formam uma composição que se lê de cima para baixo.
+Vários elementos principais formam uma composição cuja leitura vai de cima para baixo.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Agrupamento vertical
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Agrupamento vertical
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Organize assuntos relacionados em uma direção vertical. Permita deslocamentos ou sobreposições limitadas, mantendo uma relação clara de cima para baixo e um peso visual equilibrado.
+Estrutura desejada: organize elementos principais relacionados ao longo de uma direção vertical. Permita deslocamentos ou sobreposição limitada, mantendo uma relação clara de cima para baixo e um peso visual equilibrado.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -266,14 +266,14 @@ Escopo e limites: Os objetos não precisam apoiar-se fisicamente uns aos outros.
 
 ## Agrupamento simétrico
 
-Os assuntos correspondem ao longo de um eixo para criar uma composição equilibrada.
+Os elementos principais se correspondem em lados opostos de um eixo para criar uma composição equilibrada.
 
 ```text
-Direção desejada: Liderado por assunto → Vários assuntos → Agrupamento simétrico
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Agrupamento simétrico
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Organize os objetos em torno de um eixo claro. Use versões espelhadas de um objeto ou de objetos diferentes cujas posições, tamanhos e formas se equilibrem.
+Estrutura desejada: organize os objetos em torno de um eixo claro. Use versões espelhadas de um mesmo objeto ou objetos diferentes cujas posições, tamanhos e formas se equilibrem.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -285,16 +285,16 @@ Escopo e limites: Os detalhes podem ser diferentes; o espelhamento perfeito de p
 ```
 
 
-## Assuntos em torno de um centro
+## Elementos principais ao redor de um centro
 
-Vários assuntos formam um grupo circular ou radial finito.
+Vários elementos principais formam um grupo circular ou radial finito.
 
 ```text
-Direção desejada: Liderado por assunto → Vários assuntos → Assuntos em torno de um centro
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Elementos ao redor de um centro
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Organize assuntos relacionados em torno de um centro compartilhado, coordenando sua orientação, escala e espaçamento. O centro pode permanecer aberto ou conter um objeto principal ou palavras de apoio.
+Estrutura desejada: organize elementos principais relacionados ao redor de um centro compartilhado, coordenando a orientação, a escala e o espaçamento. O centro pode ficar aberto ou conter um objeto principal ou palavras de apoio.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -306,12 +306,12 @@ Escopo e limites: Mantenha os objetos reconhecíveis de forma independente. Se p
 ```
 
 
-## Clusterizado e sobreposto
+## Agrupados e sobrepostos
 
-Os assuntos são reunidos em uma composição compacta com uma ordem clara da frente para trás.
+Os elementos principais se reúnem em uma composição compacta com uma ordem clara da frente para trás.
 
 ```text
-Direção desejada: Liderado por assunto → Vários assuntos → Agrupados e sobrepostos
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Agrupados e sobrepostos
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -323,7 +323,7 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A sobreposição não deve ocultar todas as características distintivas. Uma configuração realista é opcional; o objetivo principal continua sendo um agrupamento de objetos.
+Escopo e limites: a sobreposição não deve ocultar todas as características distintivas. Um cenário realista é opcional; o objetivo principal continua sendo um agrupamento de objetos.
 ```
 
 
@@ -332,7 +332,7 @@ Escopo e limites: A sobreposição não deve ocultar todas as características d
 Os elementos independentes são mostrados em linhas, colunas ou em uma grade consistente.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Coleções → Layout de coleção regular
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Coleções → Layout regular de coleção
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -348,12 +348,12 @@ Escopo e limites: O objetivo é mostrar elementos individuais. Uma grade finita 
 ```
 
 
-## Layout de coleção grátis
+## Layout livre de coleção
 
 Elementos independentes ficam em um arranjo solto e irregular enquanto compartilham um tema.
 
 ```text
-Direção desejada: Orientado por assunto → Vários assuntos → Coleções → Layout de coleção gratuito
+Direção desejada: Composição guiada pelo elemento principal → Vários elementos principais → Coleções → Layout livre de coleção
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -369,16 +369,16 @@ Escopo e limites: Evite uma unidade repetida óbvia. Se um ambiente ou interaç�
 ```
 
 
-## Led de imagem, com texto de apoio
+## Imagem em destaque, com texto de apoio
 
 A imagem chama a atenção primeiro; palavras adicionam significado ou contexto.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Orientado por imagem, com texto de apoio
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Imagem em destaque, com texto de apoio
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mantenha o assunto visual como o ponto focal principal. Coloque o texto como camada secundária através de escala menor, contraste mais silencioso ou posição de apoio.
+Estrutura desejada: mantenha o elemento visual principal como ponto focal. Posicione o texto como camada secundária por meio de escala menor, contraste mais discreto ou posição de apoio.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -395,7 +395,7 @@ Escopo e limites: O texto de apoio deve permanecer legível sem se tornar o visu
 As palavras transmitem a mensagem principal, com uma pequena imagem apoiando o seu significado.
 
 ```text
-Direção desejada: Orientado por assunto → Texto e relações de assunto → Orientado por texto, com imagens de apoio
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Texto em destaque, com imagens de apoio
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -403,7 +403,7 @@ Estrutura desejada: Use o texto fornecido ou crie uma frase curta relacionada ao
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
-Texto: Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma cópia concisa relacionada ao tema e faça das letras o foco deste tratamento. Mantenha a ordem e o significado da leitura e verifique a ortografia. Se uma solicitação explícita sem texto entrar em conflito com esta orientação baseada em texto, declare o conflito em vez de adicionar palavras silenciosamente.
+Texto: preserve o texto claramente legível da origem e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie um texto conciso relacionado ao tema e faça das letras o foco deste tratamento. Preserve a ordem de leitura e o significado e confira a ortografia. Se um pedido explícito de ausência de texto entrar em conflito com esta direção baseada em texto, indique o conflito em vez de adicionar palavras silenciosamente.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
@@ -411,24 +411,24 @@ Escopo e limites: O texto deve liderar claramente. O peso visual igual entre tex
 ```
 
 
-## Expressão somente de tipo
+## Expressão apenas tipográfica
 
 As formas das letras, a escala e a disposição conduzem o design.
 
 ```text
-Direção desejada: Orientado por assunto → Relacionamentos de texto e assunto → Expressão somente de tipo
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Expressão apenas tipográfica
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Transforme o tema em uma expressão tipográfica concisa. Se a entrada for uma imagem, traduza seu tema ou humor em palavras e remova o assunto pictórico independente; manter o texto fornecido quando presente.
+Estrutura desejada: transforme o tema em uma expressão tipográfica concisa. Se a entrada for uma imagem, converta seu tema ou sua atmosfera em palavras e remova o elemento pictórico independente; preserve o texto fornecido quando houver.
 
-Fundo: Faça referência à cor de fundo, paleta ou material existente. Quando ausente, crie um suporte adequado com textura sólida, gradiente ou sutil. Não mantenha um tema de imagem figurativa independente no fundo de um desenho apenas tipográfico.
+Fundo: Use a cor de fundo, a paleta ou o material existentes como referência. Se não houver fundo, crie um fundo adequado de cor uniforme, em degradê ou com textura sutil. Não mantenha um elemento figurativo independente no fundo de um design somente tipográfico.
 
-Texto: Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma cópia concisa relacionada ao tema e faça das letras o foco deste tratamento. Mantenha a ordem e o significado da leitura e verifique a ortografia. Se uma solicitação explícita sem texto entrar em conflito com esta orientação baseada em texto, declare o conflito em vez de adicionar palavras silenciosamente.
+Texto: preserve o texto claramente legível da origem e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie um texto conciso relacionado ao tema e faça das letras o foco deste tratamento. Preserve a ordem de leitura e o significado e confira a ortografia. Se um pedido explícito de ausência de texto entrar em conflito com esta direção baseada em texto, indique o conflito em vez de adicionar palavras silenciosamente.
 
-Preservar e adaptar: Mantenha o tema, o texto da fonte legível, o idioma e a paleta enquanto traduz as informações da imagem em tipografia. Também não exige que um tema pictórico independente permaneça. Não descreva o conteúdo recém-criado como presente na fonte. Indique um conflito entre restrições explícitas de insumos e condições-alvo necessárias, em vez de afirmar que ambas foram atendidas.
+Preservar e adaptar: Preserve o tema, o texto legível da fonte, seu idioma e a paleta ao transformar informações da imagem em tipografia. Não exija também que permaneça um elemento figurativo independente. Não descreva conteúdo recém-criado como se estivesse na fonte. Declare conflitos entre restrições explícitas da entrada e condições necessárias ao resultado, em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: É permitida uma cor de fundo, textura sutil ou sotaque não figurativo. Não apresente uma pessoa ou objeto independente como sujeito concorrente.
+Escopo e limites: uma cor de fundo, textura sutil ou detalhe não figurativo é permitido. Não introduza uma pessoa ou objeto independente como elemento concorrente.
 ```
 
 
@@ -437,7 +437,7 @@ Escopo e limites: É permitida uma cor de fundo, textura sutil ou sotaque não f
 A imagem e o texto ocupam as áreas superior e inferior, criando uma ordem de leitura clara.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Imagem e texto empilhados
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Imagem e texto empilhados
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -458,11 +458,11 @@ Escopo e limites: Nenhum dos elementos precisa estar no topo ou ter peso igual. 
 Imagem e texto ocupam lados opostos e respondem um ao outro.
 
 ```text
-Direção desejada: Orientado por assunto → Texto e relações de assunto → Imagem e texto lado a lado
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Imagem e texto lado a lado
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Divida a imagem principal e o texto entre as áreas esquerda e direita. Defina o alinhamento e o espaçamento de acordo com a direção do assunto, ordem de leitura e equilíbrio visual.
+Estrutura desejada: distribua a imagem principal e o texto entre as áreas esquerda e direita. Defina o alinhamento e o espaçamento de acordo com a direção do elemento principal, a ordem de leitura e o equilíbrio visual.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -474,16 +474,16 @@ Escopo e limites: As áreas não precisam ser iguais em tamanho. Uma linha horiz
 ```
 
 
-## Texto sobre o assunto
+## Texto ao redor do elemento principal
 
 As palavras seguem um arco ou caminho externo ao redor da imagem.
 
 ```text
-Direção desejada: Orientado por assunto → Texto e relações de assunto → Texto sobre o assunto
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Texto ao redor do elemento principal
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Mantenha as características de identificação do assunto e organize o texto ao longo de um arco, anel parcial ou anel completo em torno dele. Coordene o espaçamento, orientação e distância do assunto.
+Estrutura desejada: preserve as características de identificação do elemento principal e organize o texto em um arco, anel parcial ou anel completo ao redor dele. Coordene o espaçamento, a orientação e a distância em relação ao elemento principal.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -500,11 +500,11 @@ Escopo e limites: Um círculo completo é opcional. Mantenha uma trajetória cla
 Partes da imagem e das letras passam uma na frente ou atrás da outra.
 
 ```text
-Direção desejada: Orientado por assunto → Texto e relações de assunto → Imagem e texto entrelaçados
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Imagem e texto entrelaçados
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Traga o texto e o assunto para uma área de design. Coloque partes selecionadas da imagem na frente das letras e outras atrás delas, ou use espaços nas letras para estabelecer entrelaçamento.
+Estrutura desejada: reúna o texto e o elemento principal em uma área de design. Coloque partes selecionadas da imagem à frente das letras e outras atrás, ou use aberturas nas letras para estabelecer o entrelaçamento.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
@@ -512,16 +512,16 @@ Texto: Preserve o texto claramente legível da imagem original e o idioma em que
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: Uma simples sobreposição de texto não é necessariamente entrelaçada. Mantenha detalhes essenciais do assunto e estrutura de letras suficiente para ler as palavras.
+Escopo e limites: uma simples sobreposição de texto não constitui necessariamente entrelaçamento. Preserve os detalhes essenciais do elemento principal e uma estrutura de letras suficiente para ler as palavras.
 ```
 
 
-## Imagens em formato de letra
+## Imagem integrada à forma da letra
 
 Uma imagem relevante substitui ou torna-se parte de uma letra ou traço.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Imagens em formato de letra
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Imagem dentro da forma de uma letra
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -529,7 +529,7 @@ Estrutura desejada: Escolha uma posição adequada no texto e integre uma imagem
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
-Texto: Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma cópia concisa relacionada ao tema e faça das letras o foco deste tratamento. Mantenha a ordem e o significado da leitura e verifique a ortografia. Se uma solicitação explícita sem texto entrar em conflito com esta orientação baseada em texto, declare o conflito em vez de adicionar palavras silenciosamente.
+Texto: preserve o texto claramente legível da origem e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie um texto conciso relacionado ao tema e faça das letras o foco deste tratamento. Preserve a ordem de leitura e o significado e confira a ortografia. Se um pedido explícito de ausência de texto entrar em conflito com esta direção baseada em texto, indique o conflito em vez de adicionar palavras silenciosamente.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
@@ -542,15 +542,15 @@ Escopo e limites: Mantenha o texto e o significado pretendidos. Não substitua l
 A disposição e a densidade das palavras constroem um contorno reconhecível.
 
 ```text
-Direção desejada: Orientado pelo assunto → Relações entre texto e assunto → Palavras formando uma forma
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Palavras formando uma figura
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Use palavras relacionadas ao tema como unidades de construção da forma original do assunto. Ajuste comprimentos de linha, escala, repetição e densidade; reutilize o texto fornecido sempre que possível ou crie uma cópia curta relevante.
+Estrutura desejada: use palavras relacionadas ao tema como unidades de construção da forma do elemento principal original. Ajuste o comprimento das linhas, a escala, a repetição e a densidade; reutilize o texto fornecido sempre que possível ou crie um texto curto pertinente.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
-Texto: Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma cópia concisa relacionada ao tema e faça das letras o foco deste tratamento. Mantenha a ordem e o significado da leitura e verifique a ortografia. Se uma solicitação explícita sem texto entrar em conflito com esta orientação baseada em texto, declare o conflito em vez de adicionar palavras silenciosamente.
+Texto: preserve o texto claramente legível da origem e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie um texto conciso relacionado ao tema e faça das letras o foco deste tratamento. Preserve a ordem de leitura e o significado e confira a ortografia. Se um pedido explícito de ausência de texto entrar em conflito com esta direção baseada em texto, indique o conflito em vez de adicionar palavras silenciosamente.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
@@ -563,7 +563,7 @@ Escopo e limites: A forma deve vir principalmente da disposição das letras, se
 Os contornos das letras carregam o design enquanto a maior parte de seus interiores permanece aberta.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Tratamentos de letras → Letras de contorno
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Tratamentos tipográficos → Letras com contorno
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -571,20 +571,20 @@ Estrutura desejada: Crie um contorno claro ao longo das letras. Coordene a espes
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
-Texto: Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma cópia concisa relacionada ao tema e faça das letras o foco deste tratamento. Mantenha a ordem e o significado da leitura e verifique a ortografia. Se uma solicitação explícita sem texto entrar em conflito com esta orientação baseada em texto, declare o conflito em vez de adicionar palavras silenciosamente.
+Texto: preserve o texto claramente legível da origem e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie um texto conciso relacionado ao tema e faça das letras o foco deste tratamento. Preserve a ordem de leitura e o significado e confira a ortografia. Se um pedido explícito de ausência de texto entrar em conflito com esta direção baseada em texto, indique o conflito em vez de adicionar palavras silenciosamente.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: O esboço deve seguir as letras em vez de formar uma moldura ao redor de toda a frase. Verifique novamente a legibilidade em tamanhos pequenos ou em um fundo movimentado.
+Escopo e limites: o contorno deve seguir as letras, em vez de formar uma moldura ao redor da frase inteira. Confira novamente a legibilidade em tamanhos pequenos ou sobre um fundo visualmente carregado.
 ```
 
 
-## Tipo esticado ou comprimido
+## Tipografia esticada ou comprimida
 
 As proporções das letras são visivelmente alongadas, estreitadas ou alargadas.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Tratamentos de letras → Tipo esticado ou compactado
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Tratamentos tipográficos → Tipografia esticada ou comprimida
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -592,20 +592,20 @@ Estrutura desejada: Altere as proporções horizontais ou verticais das letras, 
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
-Texto: Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma cópia concisa relacionada ao tema e faça das letras o foco deste tratamento. Mantenha a ordem e o significado da leitura e verifique a ortografia. Se uma solicitação explícita sem texto entrar em conflito com esta orientação baseada em texto, declare o conflito em vez de adicionar palavras silenciosamente.
+Texto: preserve o texto claramente legível da origem e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie um texto conciso relacionado ao tema e faça das letras o foco deste tratamento. Preserve a ordem de leitura e o significado e confira a ortografia. Se um pedido explícito de ausência de texto entrar em conflito com esta direção baseada em texto, indique o conflito em vez de adicionar palavras silenciosamente.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
-Escopo e limites: A mudança proporcional deve ser visível, e não apenas um tamanho de fonte maior. Evite compactar cartas até que suas identidades se tornem ambíguas.
+Escopo e limites: a mudança de proporção deve ser visível, e não apenas um aumento no tamanho da fonte. Evite comprimir as letras a ponto de suas identidades se tornarem ambíguas.
 ```
 
 
-## Tipo curvo ou ondulado
+## Tipografia curva ou ondulada
 
 As letras seguem uma curva ou onda com um ritmo visível de subida e descida.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Tratamentos de letras → Tipo curvo ou ondulado
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Tratamentos tipográficos → Tipografia curva ou ondulada
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -613,7 +613,7 @@ Estrutura desejada: Varie a linha de base, as posições das letras ou os format
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
-Texto: Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma cópia concisa relacionada ao tema e faça das letras o foco deste tratamento. Mantenha a ordem e o significado da leitura e verifique a ortografia. Se uma solicitação explícita sem texto entrar em conflito com esta orientação baseada em texto, declare o conflito em vez de adicionar palavras silenciosamente.
+Texto: preserve o texto claramente legível da origem e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie um texto conciso relacionado ao tema e faça das letras o foco deste tratamento. Preserve a ordem de leitura e o significado e confira a ortografia. Se um pedido explícito de ausência de texto entrar em conflito com esta direção baseada em texto, indique o conflito em vez de adicionar palavras silenciosamente.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
@@ -621,12 +621,12 @@ Escopo e limites: Um arranjo ondulado e letras distorcidas são possíveis; nenh
 ```
 
 
-## Tipo de perspectiva angular
+## Tipografia em perspectiva inclinada
 
 As letras mudam a escala aparente em toda a sua largura para sugerir profundidade.
 
 ```text
-Direção desejada: Orientado por assunto → Relações entre texto e assunto → Tratamentos de letras → Tipo de perspectiva angular
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Tratamentos tipográficos → Tipografia em perspectiva inclinada
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
@@ -634,7 +634,7 @@ Estrutura desejada: Aplique um tratamento de perspectiva consistente para que as
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
-Texto: Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma cópia concisa relacionada ao tema e faça das letras o foco deste tratamento. Mantenha a ordem e o significado da leitura e verifique a ortografia. Se uma solicitação explícita sem texto entrar em conflito com esta orientação baseada em texto, declare o conflito em vez de adicionar palavras silenciosamente.
+Texto: preserve o texto claramente legível da origem e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie um texto conciso relacionado ao tema e faça das letras o foco deste tratamento. Preserve a ordem de leitura e o significado e confira a ortografia. Se um pedido explícito de ausência de texto entrar em conflito com esta direção baseada em texto, indique o conflito em vez de adicionar palavras silenciosamente.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 
@@ -642,20 +642,20 @@ Escopo e limites: A rotação ou o cisalhamento uniforme por si só não são ne
 ```
 
 
-## Tipo dividido e deslocado
+## Tipografia dividida e deslocada
 
 As letras são cortadas em partes deslocadas enquanto as palavras originais permanecem reconhecíveis.
 
 ```text
-Direção desejada: Orientado por assunto → Relacionamentos de texto e assunto → Tratamentos de letras → Tipo dividido e deslocado
+Direção desejada: Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Tratamentos tipográficos → Tipografia dividida e deslocada
 
 Entrada e saída: Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, reescreva-o como um prompt completo, pronto para gerar a imagem.
 
-Estrutura desejada: Escolha cortes deliberados nas letras e no deslocamento, separe ou recolora as peças selecionadas. Mantenha estruturas gerais de letras suficientes para preservar o texto.
+Estrutura desejada: escolha cortes deliberados nas letras e desloque, separe ou recolora as partes selecionadas. Preserve o suficiente da estrutura geral das letras para manter o texto.
 
 Fundo: Use o conteúdo, o tratamento visual e a paleta do fundo existente como referência, adaptando-os à estrutura desejada. Se não houver fundo, ou se ele for apenas liso ou transparente, crie um tratamento de fundo relacionado ao tema. Uma exigência explícita de fundo de cor única, transparente ou de outro tipo tem prioridade.
 
-Texto: Manter a redação da fonte e sua linguagem claramente legíveis, adaptando sua apresentação. Não alegue ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie uma cópia concisa relacionada ao tema e faça das letras o foco deste tratamento. Mantenha a ordem e o significado da leitura e verifique a ortografia. Se uma solicitação explícita sem texto entrar em conflito com esta orientação baseada em texto, declare o conflito em vez de adicionar palavras silenciosamente.
+Texto: preserve o texto claramente legível da origem e seu idioma, adaptando sua apresentação. Não afirme ter recuperado texto ilegível. Se nenhuma palavra for fornecida, crie um texto conciso relacionado ao tema e faça das letras o foco deste tratamento. Preserve a ordem de leitura e o significado e confira a ortografia. Se um pedido explícito de ausência de texto entrar em conflito com esta direção baseada em texto, indique o conflito em vez de adicionar palavras silenciosamente.
 
 Preservar e adaptar: Preserve o tema central e as características que permitem reconhecer o original. Use o tratamento visual e a paleta de origem como ponto de partida, alterando-os apenas quando a direção escolhida exigir. Não descreva elementos recém-criados como se já estivessem no original. Se houver conflito entre as restrições explícitas da entrada e as condições necessárias ao resultado, explique esse conflito em vez de afirmar que ambas foram atendidas.
 

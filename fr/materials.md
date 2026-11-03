@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/materials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/materials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -112,7 +112,7 @@ Animaux et créatures
 
 ### Chats cool et joueurs
 
-Créez une collection graphique, un badge ou une collection ludique dirigée par un personnage.
+Créez un graphisme, un écusson ou une collection ludique autour d’un personnage.
 
 [Explorez davantage dans la bibliothèque](https://podplo.app/elements)
 
@@ -126,9 +126,9 @@ Créez une collection graphique, un badge ou une collection ludique dirigée par
 
 Animaux et créatures
 
-### Animaux mignons de pépinière d’aquarelle
+### Animaux mignons à l’aquarelle pour chambre d’enfant
 
-Créez une collection graphique, un badge ou une collection ludique dirigée par un personnage.
+Créez un graphisme, un écusson ou une collection ludique autour d’un personnage.
 
 [Explorez davantage dans la bibliothèque](https://podplo.app/elements)
 
@@ -144,7 +144,7 @@ Animaux et créatures
 
 ### Oiseaux en vol et perchés
 
-Créez une collection graphique, un badge ou une collection ludique dirigée par un personnage.
+Créez un graphisme, un écusson ou une collection ludique autour d’un personnage.
 
 [Explorez davantage dans la bibliothèque](https://podplo.app/elements)
 
@@ -158,9 +158,9 @@ Créez une collection graphique, un badge ou une collection ludique dirigée par
 
 Animaux et créatures
 
-### Animaux marins vibrants
+### Animaux marins aux couleurs vives
 
-Créez une collection graphique, un badge ou une collection ludique dirigée par un personnage.
+Créez un graphisme, un écusson ou une collection ludique autour d’un personnage.
 
 [Explorez davantage dans la bibliothèque](https://podplo.app/elements)
 
@@ -168,17 +168,17 @@ Créez une collection graphique, un badge ou une collection ludique dirigée par
 
 03
 
-### Vacances et saisons
+### Fêtes et saisons
 
 <a id="classic-spooky-halloween-horror"></a>
 
-![Chat noir courbé en arrière](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff7bae48-8450-5a14-ac04-cd5294971945.png)
+![Chat noir faisant le dos rond](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff7bae48-8450-5a14-ac04-cd5294971945.png)
 
 ![Sorcière volant sur un balai](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f717ee37-10d4-55a1-96b1-f0cabc2001aa.png)
 
 ![Globe oculaire violet dégoulinant](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ec78560a-4ff6-59d6-975f-65e0b8d071bf.png)
 
-Vacances et saisons
+Fêtes et saisons
 
 ### Horreur d'Halloween effrayant classique
 
@@ -194,7 +194,7 @@ Ajoutez un point focal saisonnier aux vœux, aux cadeaux ou aux graphiques thém
 
 ![Lapin avec couronne de fleurs](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d1dd0c27-0d7c-52a5-8418-1747b1d25419.png)
 
-Vacances et saisons
+Fêtes et saisons
 
 ### Lapin De Pâques Et Oeufs Aquarelle
 
@@ -204,13 +204,13 @@ Ajoutez un point focal saisonnier aux vœux, aux cadeaux ou aux graphiques thém
 
 <a id="cartoon-christmas-holiday-icons"></a>
 
-![Cool danse du Père Noël](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd985c38-56f1-58a8-931b-af77b960e0a2.png)
+![Père Noël cool dansant](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd985c38-56f1-58a8-931b-af77b960e0a2.png)
 
 ![Arbre de Noël décoré](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/9bf21f65-3778-5077-af2a-96597615d53d.png)
 
 ![Bonhomme de neige avec chapeau haut de forme et écharpe](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/7b495f63-c56d-561d-821e-a8aa15c19b3f.png)
 
-Vacances et saisons
+Fêtes et saisons
 
 ### Icônes de vacances de Noël de dessin animé
 
@@ -226,7 +226,7 @@ Ajoutez un point focal saisonnier aux vœux, aux cadeaux ou aux graphiques thém
 
 ![Pot arc-en-ciel d'or et de trèfle](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e47968b5-0307-5bda-97ff-23cc318328d8.png)
 
-Vacances et saisons
+Fêtes et saisons
 
 ### Trèfle vert de la Saint Patrick
 
@@ -242,7 +242,7 @@ Ajoutez un point focal saisonnier aux vœux, aux cadeaux ou aux graphiques thém
 
 <a id="retro-cartoon-fruits-and-vegetables"></a>
 
-![Caractère de brocoli avec des lunettes de soleil](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff3face7-068b-5c5b-9c77-c87dd1299a5f.png)
+![Personnage brocoli avec lunettes de soleil](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff3face7-068b-5c5b-9c77-c87dd1299a5f.png)
 
 ![Personnage de dessin animé de pastèque](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fec2c673-f03d-5688-8eba-229682690724.png)
 
@@ -266,7 +266,7 @@ Combinez de petits motifs avec des textes courts, des étiquettes ou des mises e
 
 Nourriture et boissons
 
-### Café et café vintage
+### Café et établissements de café vintage
 
 Combinez de petits motifs avec des textes courts, des étiquettes ou des mises en page répétitives.
 
@@ -358,7 +358,7 @@ Développez une scène, une composition encadrée ou une direction artistique mu
 
 Objets et outils
 
-### Caméra radio Gameboy pour ordinateur rétro
+### Ordinateur, Game Boy, radio et appareil photo rétro
 
 Transformez des objets reconnaissables en graphiques, badges ou ensembles de loisirs.
 
@@ -384,7 +384,7 @@ Transformez des objets reconnaissables en graphiques, badges ou ensembles de loi
 
 07
 
-### Patrons et cadres
+### Motifs et cadres
 
 <a id="decorative-lace-ribbon-frames"></a>
 
@@ -394,7 +394,7 @@ Transformez des objets reconnaissables en graphiques, badges ou ensembles de loi
 
 ![Cadre étoile en dentelle](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d2fff782-80d2-535e-81ca-3862bd2f3946.png)
 
-Patrons et cadres
+Motifs et cadres
 
 ### Cadres de ruban de dentelle décorative
 
@@ -410,7 +410,7 @@ Utilisez un cadre pour tenir un sujet ou étendez un motif répétitif sur une s
 
 ![Fleur d'Iris Art Nouveau](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/aee7a6b5-5bee-533a-aa17-835ea0f51d5d.png)
 
-Patrons et cadres
+Motifs et cadres
 
 ### Panneaux Décoratifs Art Nouveau Vintage
 
@@ -426,9 +426,9 @@ Utilisez un cadre pour tenir un sujet ou étendez un motif répétitif sur une s
 
 ![Motif De Vague Noire Art Déco Sur Crème](https://images.podplo.app/official/elements/podplo-art-deco-split-20261031/42c6d4da-a41d-5708-bfb3-2572d1b916c9.png)
 
-Patrons et cadres
+Motifs et cadres
 
-### Modèles géométriques sans couture Art Déco
+### Motifs géométriques Art déco à raccords invisibles
 
 Essayez des motifs d'éventail, de grue ou géométriques sur du papier d'emballage, des couvertures de cahier ou des motifs de gobelets.
 
@@ -548,7 +548,7 @@ Créez un personnage, un emblème ou un graphique de déclaration basé sur une 
 
 ![Goutte à goutte de coup de peinture](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ffd036e3-bb6c-5515-b360-7b4aa8f71287.png)
 
-![Coup d'encre abstrait et cercles](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d7e80abc-b3c1-51a5-a97d-29383ae0e791.png)
+![Trait d’encre abstrait et cercles](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d7e80abc-b3c1-51a5-a97d-29383ae0e791.png)
 
 ![Coup de pinceau](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/26b80cf5-b6fd-53b0-bbc6-0d4432ba880d.png)
 

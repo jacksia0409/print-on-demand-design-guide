@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/print-ready-files?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/print-ready-files?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,9 +18,9 @@ Affinez les détails, supprimez un arrière-plan ou étendez une scène. Faites 
 
 ## Faites ressortir les moindres détails
 
-[HD haut de gamme](https://podplo.app/skills/hd-upscale) affine la texture et les petits détails tout en préservant la composition.
+[Agrandissement HD](https://podplo.app/skills/hd-upscale) affine la texture et les petits détails tout en préservant la composition.
 
-[HD haut de gamme](https://podplo.app/skills/hd-upscale) peut accentuer les bords fins, les textures et les petites formes d’une image sélectionnée. Cela ajoute de la clarté sans changer le sujet ou la composition.
+[Agrandissement HD](https://podplo.app/skills/hd-upscale) peut accentuer les bords fins, les textures et les petites formes d’une image sélectionnée. Cela ajoute de la clarté sans changer le sujet ou la composition.
 
 ![Image choisie avant enrichissement des détails](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2-before.webp)
 
@@ -28,7 +28,7 @@ Entrée
 
 [![Version enrichie en détails de la même image](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)](https://podplo.app/skills/hd-upscale)
 
-HD haut de gamme
+Agrandissement HD
 
 **Plus de Skills à explorer**
 
@@ -40,13 +40,13 @@ HD haut de gamme
 
 <a id="_R_5irk_-cards"></a>
 
-[![Exemple d'illustration de réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Exemple de visuel « Réparation des détails »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Réparation détaillée](https://podplo.app/skills/detail-repair)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Réparation des détails](https://podplo.app/skills/detail-repair)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple d'illustration Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Peinture intelligente](https://podplo.app/skills/smart-outpaint)
+Extension d’image intelligente](https://podplo.app/skills/smart-outpaint)
 
 <a id="transparency"></a>
 
@@ -74,21 +74,21 @@ Suppresseur d'arrière-plan
 
 <a id="_R_5krk_-cards"></a>
 
-[![Exemple d'illustration de réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Exemple de visuel « Réparation des détails »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Réparation détaillée](https://podplo.app/skills/detail-repair)[![Exemple d'illustration HD haut de gamme](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Réparation des détails](https://podplo.app/skills/detail-repair)[![Exemple de visuel « Agrandissement HD »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD haut de gamme](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+Agrandissement HD](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Peinture intelligente](https://podplo.app/skills/smart-outpaint)
+Extension d’image intelligente](https://podplo.app/skills/smart-outpaint)
 
 <a id="bleed"></a>
 
 ## Étendre la scène au-delà du cadre
 
-[Peinture intelligente](https://podplo.app/skills/smart-outpaint) étend une photo dans une composition plus large, plus haute ou plus spacieuse.
+[Extension d’image intelligente](https://podplo.app/skills/smart-outpaint) étend une photo dans une composition plus large, plus haute ou plus spacieuse.
 
-[Peinture intelligente](https://podplo.app/skills/smart-outpaint) ajoute un ciel, un paysage, un espace intérieur ou une atmosphère plausible autour de la scène originale sans étirer le sujet. La même photo peut devenir une composition plus large, plus haute ou une toile de fond plus spacieuse.
+[Extension d’image intelligente](https://podplo.app/skills/smart-outpaint) ajoute un ciel, un paysage, un espace intérieur ou une atmosphère plausible autour de la scène originale sans étirer le sujet. La même photo peut devenir une composition plus large, plus haute ou une toile de fond plus spacieuse.
 
 ![Image source avant l'extension du canevas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6-before.webp)
 
@@ -96,7 +96,7 @@ Entrée
 
 [![Version naturellement étendue de la même scène](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)](https://podplo.app/skills/smart-outpaint)
 
-Peinture intelligente
+Extension d’image intelligente
 
 **Plus de Skills à explorer**
 
@@ -108,11 +108,11 @@ Peinture intelligente
 
 <a id="_R_5mrk_-cards"></a>
 
-[![Exemple d'illustration de réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Exemple de visuel « Réparation des détails »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Réparation détaillée](https://podplo.app/skills/detail-repair)[![Exemple d'illustration HD haut de gamme](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Réparation des détails](https://podplo.app/skills/detail-repair)[![Exemple de visuel « Agrandissement HD »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD haut de gamme](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Agrandissement HD](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)
 
@@ -122,7 +122,7 @@ Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)
 
 Les variantes côte à côte facilitent le choix des éléments à développer ensuite.
 
-Conservez l’original à côté de quelques variations fortes. En les comparant côte à côte, il est plus facile de choisir le meilleur motif, copie ou composition pour le prochain tour.
+Gardez l’original à côté de quelques variations réussies. Les comparer côte à côte facilite le choix du meilleur motif, texte ou composition pour l’itération suivante.
 
 Explorations de mise en page générées par l'IA utilisant la même référence de rose.
 
@@ -150,6 +150,6 @@ Créateur d'affiches](https://podplo.app/skills/poster-maker)[![Exemple d'illust
 
 Disposition centrale compacte](https://podplo.app/skills/compact-center-layout)[![Exemple d'illustration de suppression d'arrière-plan](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple d'illustration de réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Suppresseur d'arrière-plan](https://podplo.app/skills/background-remover)[![Exemple de visuel « Réparation des détails »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Réparation détaillée](https://podplo.app/skills/detail-repair)
+Réparation des détails](https://podplo.app/skills/detail-repair)

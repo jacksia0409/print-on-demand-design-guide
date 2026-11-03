@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-Composição centrada no tema principal / DIREÇÃO CRIATIVA
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA
 
-# Tema principal centralizado
+# Elemento principal centralizado
 
-Um assunto principal fica próximo ao centro, com espaço ao seu redor.
+Um elemento principal fica próximo do centro, com espaço ao redor.
 
 <a id="understand"></a>
 
-![Assunto centralizado: Um assunto principal fica próximo ao centro, com espaço ao seu redor.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-center-1.svg)
+![Elemento principal centralizado: Um elemento principal fica próximo do centro, com espaço ao redor.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-center-1.svg)
 
 Ilustração da composição
 
@@ -26,9 +26,9 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-A centralização não requer simetria de espelho. Evite distribuir vários assuntos independentes com igual ênfase.
+Centralizar não exige simetria espelhada. Evite distribuir vários elementos principais independentes com a mesma ênfase.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Orientado por assunto → Assunto único → Assunto centralizado
+Composição guiada pelo elemento principal → Elemento principal único → Elemento principal centralizado
 
 **Entrada e saída**
 
@@ -48,7 +48,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Escolha um assunto focal coerente e coloque seu centro visual próximo ao meio. Ajuste a escala e o espaço circundante para que a composição tenha um ponto focal estável.
+Escolha um elemento principal coerente e coloque seu centro visual próximo do meio. Ajuste a escala e o espaço ao redor para que a composição tenha um ponto focal estável.
 
 **Fundo**
 
@@ -64,60 +64,60 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-A centralização não requer simetria de espelho. Evite distribuir vários assuntos independentes com igual ênfase.
+Centralizar não exige simetria espelhada. Evite distribuir vários elementos principais independentes com a mesma ênfase.
 
 <a id="backgrounds"></a>
 
 ## Explorar o plano de fundo
 
-Esses exemplos comparam motivos dentro da mesma família de conteúdo. Manter a composição atual ao aplicar um tratamento; abra um exemplo para obter instruções completas.
+Esses exemplos comparam fundos dentro da mesma família de conteúdo. Preserve a composição atual ao aplicar um tratamento visual; abra um exemplo para ver as instruções completas.
 
-[![Fundo transparente: Assunto único: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
+[![Fundo transparente: elemento principal único: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Sujeito único: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--single--transparent.md)[![Fundo sólido: Sujeito único: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+Elemento principal único: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--single--transparent.md)[![Fundo sólido: elemento principal único: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
 ### Fundo sólido↗
 
-Sujeito único: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--single--solid.md)[![Fundo gradiente: Assunto único: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+Elemento principal único: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--single--solid.md)[![Fundo em degradê: Elemento principal único: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Assunto único: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--single--gradient.md)[![Plano de fundo padronizado: local: assunto único: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
+Elemento principal único: o fundo muda continuamente de cor ou brilho, enquanto o conteúdo principal permanece claro.](background--single--gradient.md)[![Fundo estampado: local: Elemento principal único: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Assunto único: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--single--pattern-local.md)[![Fundo padronizado: área completa: Tema único: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
+Elemento principal único: uma área decorativa fica atrás do conteúdo, deixando uma região fora dela.](background--single--pattern-local.md)[![Fundo estampado: área completa: Elemento principal único: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
-Assunto único: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--single--pattern-full.md)[![Plano de fundo texturizado: Tema único: granulação do papel, partículas ou outro caráter de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--texture-1.svg)
+Elemento principal único: um fundo com padrão cobre a imagem atrás de um conteúdo de primeiro plano claramente legível.](background--single--pattern-full.md)[![Fundo texturizado: elemento principal único: granulação do papel, partículas ou outra característica de superfície apoiam o conteúdo de primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--texture-1.svg)
 
 ### Fundo texturizado↗
 
-Assunto único: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--single--texture.md)[![Contexto ambiental: Assunto único: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--scene-1.svg)
+Elemento principal único: granulação do papel, partículas ou outra característica de superfície apoiam o conteúdo de primeiro plano.](background--single--texture.md)[![Cenário ao fundo: Elemento principal único: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--scene-1.svg)
 
-### Contexto ambiental↗
+### Cenário ao fundo↗
 
-Assunto único: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](background--single--scene.md)
+Elemento principal único: um ambiente relacionado ao tema apoia o conteúdo principal por trás ou ao redor dele.](background--single--scene.md)
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Deslocamento com espaço aberto: o assunto principal fica de lado, deixando uma área visivelmente mais silenciosa em outro lugar.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-offset-1.svg)
+[![Descentralização com espaço livre: O elemento principal fica de um lado, deixando uma área visivelmente mais discreta no restante.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-offset-1.svg)
 
-### Compensação com espaço aberto↗
+### Descentralização com espaço livre↗
 
-O assunto principal fica de lado, deixando uma área visivelmente mais silenciosa em outro lugar.](single--single-offset.md)[![Detalhes ampliados: uma visualização ampliada e recortada coloca em foco uma parte reconhecível do assunto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-crop-1.svg)
+O elemento principal fica de um lado, deixando uma área visivelmente mais discreta em outra parte.](single--single-offset.md)[![Detalhe ampliado: Uma vista ampliada e recortada destaca uma parte reconhecível do elemento principal.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-crop-1.svg)
 
 ### Detalhe ampliado↗
 
-Uma visualização ampliada e recortada coloca em foco uma parte reconhecível do assunto.](single--single-crop.md)[![Composição diagonal: O assunto se estende ao longo de uma diagonal, dando à imagem uma direção clara.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-diagonal-1.svg)
+Uma vista ampliada e recortada coloca em foco uma parte reconhecível do elemento principal.](single--single-crop.md)[![Composição diagonal: O elemento principal se estende ao longo de uma diagonal, dando uma direção clara à imagem.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-diagonal-1.svg)
 
 ### Composição diagonal↗
 
-O assunto se estende ao longo de uma diagonal, dando à imagem uma direção clara.](single--single-diagonal.md)
+O elemento principal se estende ao longo de uma diagonal, dando à imagem uma direção clara.](single--single-diagonal.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

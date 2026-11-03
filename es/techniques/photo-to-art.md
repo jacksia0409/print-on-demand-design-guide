@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/techniques/photo-to-art?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/techniques/photo-to-art?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -54,17 +54,17 @@ Creador de plantillas](https://podplo.app/skills/stencil-maker)
 
 ## Crea un personaje de mascota real
 
-[Retrato de mascota real](https://podplo.app/skills/royal-pet-portrait) le da a una mascota reconocible un estilo de carácter real y juguetón.
+[Retrato regio de mascota](https://podplo.app/skills/royal-pet-portrait) da a una mascota reconocible un estilo divertido de personaje de la realeza.
 
-[Retrato de mascota real](https://podplo.app/skills/royal-pet-portrait) cambia el disfraz, el escenario y el estilo del personaje mientras mantiene a la mascota reconocible. La forma de la cara, las marcas y la expresión conectan la transformación con el mismo animal.
+[Retrato regio de mascota](https://podplo.app/skills/royal-pet-portrait) cambia el disfraz, el escenario y el estilo del personaje mientras mantiene a la mascota reconocible. La forma de la cara, las marcas y la expresión conectan la transformación con el mismo animal.
 
 ![Fotografía de mascotas antes del diseño del personaje.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-before.webp)
 
 Entrada
 
-[![Retrato de personaje real de la misma mascota.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
+[![Retrato de la misma mascota como personaje de la realeza](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
 
-Retrato de mascota real
+Retrato regio de mascota
 
 **Más Skills para explorar**
 
@@ -90,17 +90,17 @@ Creador de plantillas](https://podplo.app/skills/stencil-maker)
 
 ## Crea un retrato familiar dimensional
 
-[Retrato de familia 3D](https://podplo.app/skills/3d-family-portrait) agrega un estilo de retrato dimensional y al mismo tiempo mantiene reconocible a cada miembro de la familia.
+[Retrato de familia en 3D](https://podplo.app/skills/3d-family-portrait) agrega un estilo de retrato dimensional y al mismo tiempo mantiene reconocible a cada miembro de la familia.
 
-[Retrato de familia 3D](https://podplo.app/skills/3d-family-portrait) le da a una foto familiar un estilo de retrato dimensional con mayor profundidad y carácter. Mantiene las mismas personas, relaciones y características reconocibles.
+[Retrato de familia en 3D](https://podplo.app/skills/3d-family-portrait) le da a una foto familiar un estilo de retrato dimensional con mayor profundidad y carácter. Mantiene las mismas personas, relaciones y características reconocibles.
 
 ![Fotografía familiar del cliente.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-before.webp)
 
 Entrada
 
-[![Retrato familiar en 3D con cada persona suministrada.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![Un retrato familiar en 3D que incluye a todas las personas de la foto proporcionada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
-Retrato de familia 3D
+Retrato de familia en 3D
 
 **Más Skills para explorar**
 

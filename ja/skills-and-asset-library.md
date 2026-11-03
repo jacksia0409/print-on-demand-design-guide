@@ -26,7 +26,7 @@
 
 入力
 
-[![その写真に基づいた王室のペットの肖像画](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
+[![その写真をもとにした、王族風のペットポートレート](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
 
 ロイヤルペットの肖像画
 
@@ -74,9 +74,9 @@
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![背景リムーバーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-背景除去剤](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+背景除去](https://podplo.app/skills/background-remover)[![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)
+細部修復](https://podplo.app/skills/detail-repair)
 
 <a id="metadata"></a>
 
@@ -112,7 +112,7 @@
 
 イースターにしよう](https://podplo.app/skills/make-it-easter)[![Make It 感謝祭のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-感謝祭を実現しましょう](https://podplo.app/skills/make-it-thanksgiving)
+感謝祭にアレンジ](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="reuse"></a>
 
@@ -136,8 +136,8 @@
 
 <a id="_R_5ork_-cards"></a>
 
-[![花名フレームアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
+[![花のネームフレームの作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-花のネームフレーム](https://podplo.app/skills/floral-name-frame)[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+花のネームフレーム](https://podplo.app/skills/floral-name-frame)[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)

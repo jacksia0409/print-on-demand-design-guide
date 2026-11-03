@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/puzzles?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/puzzles?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@
 
 ### Наполните изображение полезными деталями
 
-Лица, изменение цвета и отдельные объекты придают каждой области головоломки что-то узнаваемое. Подробно иллюстрированная сцена; Семейный портрет с личными предметами; Сцена с четкими визуальными ориентирами.
+Лица, смена цветов и разные объекты дают каждому участку пазла узнаваемые детали. Детализированная иллюстрированная сцена; Семейный портрет с личными предметами; Сцена с отчётливыми визуальными ориентирами.
 
 [![Пазлы · Пазлы](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)](https://podplo.app/products/mockup-temu-606793900074986)
 
@@ -40,7 +40,7 @@
 
 Исходное изображение
 
-[![Бесшовный узор · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Бесшовный узор · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Созданное произведение искусства
 
@@ -50,15 +50,15 @@
 
 ### Превратите семейную фотографию в комикс
 
-Создайте комический семейный портрет, сохраняя при этом узнаваемость каждого человека.
+Создайте семейный портрет в стиле комикса, сохранив узнаваемость каждого человека.
 
-[Комический семейный портрет](https://podplo.app/skills/comic-family-portrait)
+[Семейный портрет в стиле комикса](https://podplo.app/skills/comic-family-portrait)
 
-![Шуточный семейный портрет · Исходное фото](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-before.webp)
+![Семейный портрет в стиле комикса · Исходное фото](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-before.webp)
 
 Исходное фото
 
-[![Комический семейный портрет · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
+[![Семейный портрет в стиле комикса · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
 
 Созданное произведение искусства
 
@@ -66,11 +66,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Исследуйте больше фотографий и изображений Skills**
+**Изучите другие Skill для фотографий и изображений**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Исследуйте больше фотографий и изображений Skills
+#### Изучите другие Skill для фотографий и изображений
 
 4 / 92
 
@@ -84,13 +84,13 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 <a id="product-mockup"></a>
 
 ## Предварительный просмотр дизайна продукта
 
-### Предварительный просмотр полного изображения головоломки
+### Посмотрите полное изображение пазла
 
 Предварительный просмотр AI показывает, как лица, цвета и небольшие визуальные подсказки распределяются по всему изображению головоломки.
 

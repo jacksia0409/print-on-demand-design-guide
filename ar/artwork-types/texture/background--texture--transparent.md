@@ -12,7 +12,7 @@
 
 <a id="guide-main"></a>
 
-القوام / الاتجاه الإبداعي / القوام
+ملامس / اتجاه إبداعي / ملامس
 
 # خلفية شفافة
 
@@ -72,11 +72,11 @@
 
 ## قارن الاتجاهات القريبة
 
-[![الخلفية الصلبة: القوام: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+[![خلفية أحادية اللون: ملامس: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
-### خلفية صلبة ↗
+### خلفية أحادية اللون↗
 
-القوام: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](background--texture--solid.md)[![خلفية متدرجة: القوام: يتغير الدعم بشكل مستمر في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
+ملامس: يتكون الأساس من لون واحد موحد؛ والأبيض أيضًا خلفية أحادية اللون.](background--texture--solid.md)[![خلفية متدرجة: ملامس: يتغير لون الخلفية أو سطوعها باستمرار مع بقاء المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
 ### خلفية متدرجة ↗
 

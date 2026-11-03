@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/scene/background--scene--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/scene/background--scene--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -52,7 +52,7 @@ Préservez l’espace essentiel de la scène, le décor et tout événement exis
 
 **Arrière-plan**
 
-Faites référence à l'emplacement existant, aux éléments environnementaux et à l'atmosphère, en les adaptant au contenu principal. S'il est absent ou uniquement clair ou transparent, créez un paramètre associé et coordonnez l'échelle, la direction et la profondeur.
+Prenez pour référence le lieu, les éléments du décor et l’atmosphère existants, en les adaptant au contenu principal. En l’absence de fond, ou s’il est seulement uni ou transparent, créez un décor apparenté et coordonnez son échelle, son orientation et sa profondeur.
 
 **Texte**
 
@@ -68,17 +68,17 @@ Pour les catégories sujet, motif, texture ou abstrait, le décor reste secondai
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
-[![Fond transparent : Scènes : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![Fond transparent : scènes : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fond transparent↗
 
-Scènes : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--scene--transparent.md)[![Fond uni : Scènes : Une couleur uniforme forme le sol ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Scènes : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--scene--transparent.md)[![Fond uni : scènes : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
-Scènes : Une couleur uniforme forme le sol ; le blanc est également un fond uni.](background--scene--solid.md)[![Fond dégradé : Scènes : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Scènes : une couleur uniforme constitue le fond ; le blanc est aussi un fond uni.](background--scene--solid.md)[![Fond dégradé : Scènes : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Fond dégradé↗
 

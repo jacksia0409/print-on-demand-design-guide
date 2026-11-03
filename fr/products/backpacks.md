@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/backpacks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/backpacks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -30,29 +30,29 @@ Utilisez le panneau principal pour l’image focale, puis répétez les couleurs
 
 Utilisez différents Skills pour transformer la même image en de nouvelles mises en page, des illustrations basées sur des photos et des designs personnalisés.
 
-### Créez un modèle de sac à dos sans couture
+### Créez un motif à raccords invisibles pour sac à dos
 
 Prenez les détails de votre image et disposez-les selon un motif répétitif sur le sac à dos.
 
 [Motif sans raccord visible](https://podplo.app/skills/seamless-pattern)
 
-![Modèle sans couture · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Motif à raccords invisibles · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Image source
 
-[![Modèle sans couture · Oeuvre générée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Motif à raccords invisibles · Visuel généré](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Oeuvre générée
 
-![Sacs à dos et sacs à lunch · Modèle sans couture · Aperçu du produit AI](https://podplo.app/pod-guide/generated/backpacks-seamless-pattern-proof.webp)
+![Sacs à dos et sacs repas · Motif à raccords invisibles · Aperçu de produit généré par IA](https://podplo.app/pod-guide/generated/backpacks-seamless-pattern-proof.webp)
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de mise en page et définissez Skills**
+**Explorez davantage de Skills de mise en page et de création d’ensembles**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explorez plus de mise en page et définissez Skills
+#### Explorez davantage de Skills de mise en page et de création d’ensembles
 
 4 / 14
 
@@ -84,27 +84,27 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de photos et d'images Skills**
+**Explorez davantage de Skills photo et image**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explorez plus de photos et d'images Skills
+#### Explorez davantage de Skills photo et image
 
 4 / 5
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Exemple d'illustration de réparation détaillée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Exemple de visuel « Réparation des détails »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Réparation détaillée](https://podplo.app/skills/detail-repair)[![Exemple d'illustration HD haut de gamme](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Réparation des détails](https://podplo.app/skills/detail-repair)[![Exemple de visuel « Agrandissement HD »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD haut de gamme](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration de style vectoriel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-4.webp)
+Agrandissement HD](https://podplo.app/skills/hd-upscale)[![Exemple d'illustration de style vectoriel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-4.webp)
 
 Style vectoriel](https://podplo.app/skills/vector-style)[![Exemple d'illustration Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Peinture intelligente](https://podplo.app/skills/smart-outpaint)
+Extension d’image intelligente](https://podplo.app/skills/smart-outpaint)
 
 ### Ajoutez un motif de dinosaure autour du nom
 
@@ -122,27 +122,27 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Découvrez plus de noms et d'occasions Skills**
+**Découvrez davantage de Skills pour les noms et les occasions**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Découvrez plus de noms et d'occasions Skills
+#### Découvrez davantage de Skills pour les noms et les occasions
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemple d'illustration de motif de nom d'arc rose](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607234000023917-artwork.webp)
+[![Exemple de visuel « Motif de nœuds roses avec prénom »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607234000023917-artwork.webp)
 
-Modèle de nom d'arc rose](https://podplo.app/skills/pink-bow-name-pattern)[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Motif de nœuds roses avec prénom](https://podplo.app/skills/pink-bow-name-pattern)[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple d'illustration d'affiche de nom du pôle Nord](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple d'illustration d'affiche de nom du pôle Nord](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Nom du pôle Nord Poster](https://podplo.app/skills/north-pole-name-poster)[![Exemple d'illustration de motif de nom de crayon coeurs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Affiche du pôle Nord avec prénom](https://podplo.app/skills/north-pole-name-poster)[![Exemple de visuel « Motif de cœurs au crayon avec prénom »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Modèle de nom de coeurs de crayon](https://podplo.app/skills/crayon-hearts-name-pattern)
+Motif de cœurs au crayon avec prénom](https://podplo.app/skills/crayon-hearts-name-pattern)
 
 <a id="product-mockup"></a>
 

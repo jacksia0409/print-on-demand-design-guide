@@ -14,11 +14,11 @@
 
 # テクスチャ背景
 
-シーン: 紙粒、パーティクル、または別の表面キャラクターが前景コンテンツをサポートします。
+場面：紙の目、粒子、その他の表面の質感が手前の内容を引き立てます。
 
 <a id="understand"></a>
 
-![テクスチャ背景: シーン: 紙粒、粒子、または別の表面キャラクターが前景コンテンツをサポートします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--texture-1.svg)
+![質感のある背景: シーン: 紙の繊維や粒子などの表面の質感で、前景の内容を引き立てます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--texture-1.svg)
 
 構図の模式図
 
@@ -26,13 +26,13 @@
 
 ## この方向性を定義するもの
 
-テクスチャード加工された裏地は、自動的に独立したオブジェクトや物語のシーン全体になるべきではありません。テクスチャ カテゴリでは、主表面の断片とその支持地盤を区別します。
+質感のある下地を、独立した物体や物語のある場面にする必要はありません。肌理の分類では、主役となる表面の断片と、それを支える背景を区別します。
 
 [← シーンに戻る](../scene.md)
 
 <a id="ai-directions"></a>
 
-AIの指示
+AIで広げる創作の方向性
 
 ## この方向性を AI に取り入れましょう
 
@@ -64,28 +64,28 @@ AIの指示
 
 **適用範囲と制約**
 
-テクスチャード加工された裏地は、自動的に独立したオブジェクトや物語のシーン全体になるべきではありません。テクスチャ カテゴリでは、主表面の断片とその支持地盤を区別します。
+質感のある下地を、独立した物体や物語のある場面にする必要はありません。肌理の分類では、主役となる表面の断片と、それを支える背景を区別します。
 
 <a id="related"></a>
 
-## 近くのルートを比較する
+## 近い創作の方向性を比べる
 
-[![透明な背景: シーン: 地面は透明のままです。チェッカーボードは単なる表示補助です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![透明な背景: シーン: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### 透明背景↗
 
-シーン: 地面は透明のままです。チェッカーボードは単なる表示補助です。](background--scene--transparent.md)[![単色の背景: シーン: 1 つの均一な色が地面を形成します。白も単色の背景です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+場面：背景は透明のままです。市松模様は透明部分を示す表示補助にすぎません。](background--scene--transparent.md)[![無地の背景：場面：均一な一色を背景にします。白も無地の背景に含まれます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### 無地の背景↗
 
-シーン: 単一の均一な色が地面を形成します。白も単色の背景です。](background--scene--solid.md)[![グラデーションの背景: シーン: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+場面：均一な一色を背景にします。白も無地の背景に含まれます。](background--scene--solid.md)[![グラデーションの背景: シーン: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### グラデーション背景↗
 
-シーン: メインコンテンツはクリアなままですが、裏地の色や明るさが連続的に変化します。](background--scene--gradient.md)[![パターン化された背景: ローカル: シーン: 装飾的なパッチがコンテンツの背後にあり、パッチの外側に領域が残ります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+場面：主要な内容ははっきり見せたまま、背景の色や明るさを連続的に変化させます。](background--scene--gradient.md)[![柄の背景：部分：場面：内容の背後に部分的な装飾の下地を置き、その外側には別の領域を残します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
-### パターン背景: ローカル↗
+### 柄の背景：部分↗
 
 シーン: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--scene--pattern-local.md)
 
-コードによる研究では、構成と視覚的処理を比較します。メディアとスタイルの例は概念的なものです。これらの方向は、画像モデルを使用して個別にテストされていません。生成されたテキスト、透明度、リピートエッジを確認します。
+コードで描いた図で、構図や視覚表現を比較します。画材やスタイルの例は概念を示すもので、これらの方向性を画像モデルで一つずつ検証したものではありません。生成した文字、透過、リピートの継ぎ目を確認してください。

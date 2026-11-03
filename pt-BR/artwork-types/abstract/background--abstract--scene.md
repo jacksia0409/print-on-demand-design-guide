@@ -12,13 +12,13 @@
 
 Arte abstrata / DIREÇÃO CRIATIVA / Arte abstrata
 
-# Contexto ambiental
+# Cenário ao fundo
 
 Arte abstrata: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.
 
 <a id="understand"></a>
 
-![Contexto ambiental: Arte abstrata: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
+![Cenário ao fundo: Arte abstrata: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
 
 Ilustração da composição
 
@@ -26,7 +26,7 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Nas categorias de elemento principal, padrão, textura ou abstração, o cenário permanece secundário. Reavalie a imagem como uma cena se o ambiente ou a narrativa se tornar a expressão principal.
 
 [← Voltar para arte abstrata](../abstract.md)
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Arte abstrata → Fundo → Contexto ambiental
+Arte abstrata → Fundo → Cenário
 
 **Entrada e saída**
 
@@ -52,7 +52,7 @@ Mantenha a forma não figurativa, as relações entre linhas e cores. A base dev
 
 **Fundo**
 
-Referenciar a localização, os elementos ambientais e a atmosfera existentes, adaptando-os ao conteúdo principal. Se ausente ou apenas simples ou transparente, crie uma configuração relacionada e coordene escala, direção e profundidade.
+Use a localização, os elementos ambientais e a atmosfera existentes como referência, adaptando-os ao conteúdo principal. Se estiverem ausentes, ou se o fundo for apenas liso ou transparente, crie um cenário relacionado e coordene escala, direção e profundidade.
 
 **Texto**
 
@@ -64,28 +64,28 @@ Retenha o tema, a atmosfera, a paleta, o ritmo ou a direção enquanto permite q
 
 **Escopo e limites**
 
-Para categorias de tema, padrão, textura ou abstratas, o cenário permanece secundário. Reavalie a imagem como cena se o ambiente ou a narrativa se tornarem a expressão principal.
+Nas categorias de elemento principal, padrão, textura ou abstração, o cenário permanece secundário. Reavalie a imagem como uma cena se o ambiente ou a narrativa se tornar a expressão principal.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
+[![Fundo transparente: arte abstrata: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Arte abstrata: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--abstract--transparent.md)[![Fundo sólido: Arte abstrata: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
+Arte abstrata: o fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--abstract--transparent.md)[![Fundo sólido: Arte abstrata: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
 ### Fundo sólido↗
 
-Arte abstrata: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--abstract--solid.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
+Arte abstrata: uma cor uniforme forma o fundo; o branco também é uma cor de fundo uniforme.](background--abstract--solid.md)[![Fundo gradiente: arte abstrata: o fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Plano de fundo padronizado: local: arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
+Arte abstrata: o suporte muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--abstract--gradient.md)[![Fundo estampado: local: Arte abstrata: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Arte abstrata: um remendo decorativo fica atrás do conteúdo, deixando uma área fora do remendo.](background--abstract--pattern-local.md)
+Arte abstrata: uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--abstract--pattern-local.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

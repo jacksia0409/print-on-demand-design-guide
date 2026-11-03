@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -22,15 +22,15 @@ Mira cómo queda el mismo estampado floral en una camiseta y un vaso. Un product
 
 Obra de arte
 
-![Vista previa de la camiseta AI de la repetición floral](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
+![Previsualización con IA del patrón floral en una camiseta](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
 
 Vista previa de la camiseta
 
-![Vista previa del vaso AI de la misma repetición floral](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![Previsualización con IA del mismo patrón floral en un vaso](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
 Vista previa del vaso
 
-**Explorar Skills relacionado**
+**Explora Skills relacionados**
 
 <a id="_R_mrk_-title"></a>
 
@@ -42,7 +42,7 @@ Vista previa del vaso
 
 [![Ejemplo de ilustraciones de patrones sin fisuras](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
-Patrón sin costuras](https://podplo.app/skills/seamless-pattern)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Patrón sin costuras](https://podplo.app/skills/seamless-pattern)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de arte floral con marco con nombre](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -128,8 +128,8 @@ Haga suya la hora de comer](products/pet-products.md)[![papel de regalo](https:/
 
 **papel de regalo**
 
-Haz que el envoltorio forme parte del regalo.](products/wrapping-paper.md)[![Fondo de pantalla](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
+Haz que el envoltorio forme parte del regalo.](products/wrapping-paper.md)[![Papel pintado](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
 
-**Fondo de pantalla**
+**Papel pintado**
 
 Un solo motivo. Una habitación completamente nueva.](products/wallpaper.md)

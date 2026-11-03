@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-frame?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/decoration--deco-frame?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -28,21 +28,21 @@ CÓMO RECONOCERLO
 
 El límite debe estar claramente organizado. Unos pocos acentos dispersos no constituyen un marco, y el marco no debe ocultar características esenciales del sujeto.
 
-El tratamiento gira en torno a un tema o un grupo identificable.
+El tratamiento se aplica alrededor de un motivo principal o un grupo identificable.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por sujetos → Decoración compartida → Asunto enmarcado
+Motivo principal → Decoración compartida → Motivo enmarcado
 
 **Entrada y salida**
 
@@ -50,7 +50,7 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Cree un marco circular, rectangular, con forma de insignia o irregular que se adapte al tema y al tema. Escala de coordenadas, espaciado interno y cualquier parte deliberada que se extienda más allá del marco.
+Crea un marco circular, rectangular, de insignia o irregular que se adapte al motivo principal y a la temática. Coordina la escala, el espacio interior y las partes que sobresalgan deliberadamente del marco.
 
 **Fondo**
 
@@ -70,7 +70,7 @@ El límite debe estar claramente organizado. Unos pocos acentos dispersos no con
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Rayos y acentos radiantes: líneas o formas radiantes se extienden hacia afuera desde el sujeto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-rays-1.svg)
 
@@ -80,7 +80,7 @@ Líneas o formas radiantes se extienden hacia afuera desde el sujeto.](decoratio
 
 ### Pequeños acentos circundantes↗
 
-Algunos pequeños elementos enriquecen el espacio alrededor del tema principal.](decoration--deco-dots.md)[![Decoración envolvente: Los elementos decorativos forman un recinto parcial o completo alrededor del sujeto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
+Unos pocos elementos pequeños enriquecen el espacio alrededor del motivo principal.](decoration--deco-dots.md)[![Decoración envolvente: Los elementos decorativos forman un recinto parcial o completo alrededor del sujeto.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-decoration--deco-wreath-1.svg)
 
 ### Decoración circundante↗
 
@@ -90,4 +90,4 @@ Los elementos decorativos forman un recinto parcial o completo alrededor del tem
 
 Los elementos decorativos se tejen delante y detrás del sujeto.](decoration--deco-interlace.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

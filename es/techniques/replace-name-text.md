@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/techniques/replace-name-text?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/techniques/replace-name-text?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -38,21 +38,21 @@ Marco de nombre floral
 
 [![Ejemplo de diseño artístico del patrón de nombre de dinosaurio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Patrón de nombre de dinosaurio](https://podplo.app/skills/dinosaur-name-pattern)[![Ejemplo de obra de arte con nombre de pata de cuadros de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Patrón de nombre de dinosaurio](https://podplo.app/skills/dinosaur-name-pattern)[![Ejemplo del nombre con huella de cuadros búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nombre de la pata de cuadros de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
+Nombre con huella de cuadros búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="name-pattern"></a>
 
 ## Construya el diseño en torno a una frase corta.
 
-[Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout) construye una composición clara basada en texto en torno a STAY WILD y una obra de arte.
+[Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout) construye una composición clara basada en texto en torno a STAY WILD y una obra de arte.
 
-[Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout) crea una línea como MANTÉNGASE SALVAJE en el título, luego organiza la obra de arte y la línea de soporte opcional alrededor de él. La imagen muestra el diseño; no es un reemplazo automático de texto.
+[Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout) usa una frase como STAY WILD como titular y organiza la imagen y una línea secundaria opcional a su alrededor. La imagen muestra la composición; no sustituye el texto automáticamente.
 
-[![Ejemplo de diseño de título, asunto y línea de apoyo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![Ejemplo de composición de título, motivo principal y línea de apoyo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-Título-Asunto-Diseño de subtítulo
+Composición de título, motivo principal y subtítulo
 
 **Más Skills para explorar**
 
@@ -66,7 +66,7 @@ Título-Asunto-Diseño de subtítulo
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
@@ -80,7 +80,7 @@ Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout)
 
 [Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout) combina una obra de arte y una fecha en un emblema conmemorativo compacto.
 
-[Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout) envuelve texto como EST. 2024 o 12.10.2024 alrededor de una obra de arte central para que la fecha pase a formar parte de la composición. La imagen muestra la estructura de la insignia; no es un reemplazo automático de fecha.
+[Diseño de insignia circular](https://podplo.app/skills/circular-badge-layout) coloca un texto como EST. 2024 o 10.12.2024 alrededor de una imagen central para que la fecha forme parte de la composición. La imagen muestra la estructura de la insignia; no sustituye la fecha automáticamente.
 
 [![Ejemplo de redacción exacta dispuesta en una insignia circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)](https://podplo.app/skills/circular-badge-layout)
 
@@ -98,10 +98,10 @@ Diseño de insignia circular
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)

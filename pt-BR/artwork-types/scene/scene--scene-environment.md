@@ -12,13 +12,13 @@
 
 Cenas / DIREÇÃO CRIATIVA
 
-# Ambiente ambiental
+# Cenário ambiental
 
-Um sujeito e seu entorno estabelecem uma situação, com ou sem ação.
+Um elemento principal e seu entorno estabelecem uma situação, com ou sem ação.
 
 <a id="understand"></a>
 
-![Cenário ambiental: Um sujeito e seu entorno estabelecem uma situação, com ou sem ação.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-environment-1.svg)
+![Cenário ambiental: Um elemento principal e seu entorno estabelecem uma situação, com ou sem ação.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-environment-1.svg)
 
 Ilustração da composição
 
@@ -26,7 +26,7 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-Uma ação ou pessoa é opcional. Se o ambiente for apenas uma decoração intercambiável e não contribuir com nenhum contexto, o resultado estará mais próximo de um gráfico centrado no assunto.
+Uma ação ou pessoa é opcional. Se o ambiente for apenas decoração intercambiável e não fornecer contexto, o resultado se aproxima mais de uma arte centrada no elemento principal.
 
 [← Voltar às cenas](../scene.md)
 
@@ -48,7 +48,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Crie um ambiente relacionado em torno do propósito, localização ou tema do assunto. Organize o espaço e as relações entre objetos para que o ambiente contribua com um contexto essencial.
+Crie um cenário relacionado ao propósito, ao local ou ao tema do elemento principal. Organize o espaço e as relações entre os objetos para que o ambiente forneça contexto essencial.
 
 **Fundo**
 
@@ -64,47 +64,47 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-Uma ação ou pessoa é opcional. Se o ambiente for apenas uma decoração intercambiável e não contribuir com nenhum contexto, o resultado estará mais próximo de um gráfico centrado no assunto.
+Uma ação ou pessoa é opcional. Se o ambiente for apenas decoração intercambiável e não fornecer contexto, o resultado se aproxima mais de uma arte centrada no elemento principal.
 
 <a id="backgrounds"></a>
 
 ## Explorar o plano de fundo
 
-Esses exemplos comparam motivos dentro da mesma família de conteúdo. Manter a composição atual ao aplicar um tratamento; abra um exemplo para obter instruções completas.
+Esses exemplos comparam fundos dentro da mesma família de conteúdo. Preserve a composição atual ao aplicar um tratamento visual; abra um exemplo para ver as instruções completas.
 
-[![Fundo transparente: Cenas: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
+[![Fundo transparente: cenas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Cenas: O chão fica transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--scene--transparent.md)[![Fundo sólido: Cenas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Cenas: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--scene--transparent.md)[![Fundo sólido: Cenas: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### Fundo sólido↗
 
-Cenas: Uma cor uniforme forma o solo; o branco também é um fundo sólido.](background--scene--solid.md)[![Fundo gradiente: Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
+Cenas: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--scene--solid.md)[![Fundo gradiente: Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--scene--gradient.md)[![Fundo padronizado: local: Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
+Cenas: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--scene--gradient.md)[![Fundo estampado: local: Cenas: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--scene--pattern-local.md)[![Fundo padronizado: área completa: Cenas: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-full-1.svg)
+Cenas: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--scene--pattern-local.md)[![Fundo estampado: área completa: Cenas: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
 Cenas: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--scene--pattern-full.md)[![Plano de fundo texturizado: Cenas: granulação do papel, partículas ou outro caráter de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--texture-1.svg)
 
 ### Fundo texturizado↗
 
-Cenas: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--scene--texture.md)[![Contexto ambiental: Cenas: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
+Cenas: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--scene--texture.md)[![Cenário ao fundo: Cenas: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--scene-1.svg)
 
-### Contexto ambiental↗
+### Cenário ao fundo↗
 
 Cenas: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](background--scene--scene.md)
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
 [![Momento narrativo: Um acontecimento, ação ou interação permite compreender o que está acontecendo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-scene--scene-story-1.svg)
 

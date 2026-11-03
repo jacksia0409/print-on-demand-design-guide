@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/texture/texture-layout--texture-layout-full?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/texture/texture-layout--texture-layout-full?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -26,7 +26,7 @@ COMMENT LE RECONNAÎTRE
 
 ## Qu'est-ce qui définit cette direction
 
-Une couverture complète n’implique pas un carrelage sans couture. N'exigez pas simultanément qu'un arrière-plan complet différent reste visible derrière une texture opaque sur toute la surface.
+Une couverture intégrale n’implique pas une répétition à raccords invisibles. N’exigez pas en même temps qu’un autre fond complet reste visible derrière une texture opaque couvrant toute l’image.
 
 [← Retour aux textures](../texture.md)
 
@@ -64,21 +64,21 @@ Conservez les matériaux, surfaces, palettes et atmosphères pertinents sans né
 
 **Portée et limites**
 
-Une couverture complète n’implique pas un carrelage sans couture. N'exigez pas simultanément qu'un arrière-plan complet différent reste visible derrière une texture opaque sur toute la surface.
+Une couverture intégrale n’implique pas une répétition à raccords invisibles. N’exigez pas en même temps qu’un autre fond complet reste visible derrière une texture opaque couvrant toute l’image.
 
 <a id="backgrounds"></a>
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
 [![Fond transparent : Textures : Le fond reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--transparent-1.svg)
 
 ### Fond transparent↗
 
-Textures : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--texture--transparent.md)[![Fond uni : Textures : Une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
+Textures : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](background--texture--transparent.md)[![Fond uni : Textures : Une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Textures : Une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--texture--solid.md)[![Fond dégradé : Textures : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--gradient-1.svg)
 
@@ -88,7 +88,7 @@ Textures : Le support change continuellement de couleur ou de luminosité tandi
 
 ### Fond à motifs : local↗
 
-Textures : un patch décoratif se trouve derrière le contenu, laissant une zone à l'extérieur du patch.](background--texture--pattern-local.md)[![Fond à motifs : zone entière : Textures : Un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
+Textures : une zone décorative se trouve derrière le contenu, laissant de l’espace à l’extérieur de cette zone.](background--texture--pattern-local.md)[![Fond à motifs : zone entière : Textures : Un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--pattern-full-1.svg)
 
 ### Fond à motifs : zone entière↗
 
@@ -96,15 +96,15 @@ Textures : un fond à motifs recouvre l'image derrière un contenu de premier p
 
 ### Fond texturé↗
 
-Textures : le grain du papier, les particules ou tout autre caractère de surface prennent en charge le contenu du premier plan.](background--texture--texture.md)[![Contexte environnemental : Textures : Un environnement lié au thème prend en charge le contenu principal derrière ou autour de lui.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
+Textures : le grain du papier, les particules ou une autre qualité de surface mettent en valeur le contenu du premier plan.](background--texture--texture.md)[![Contexte environnemental : Textures : Un environnement lié au thème prend en charge le contenu principal derrière ou autour de lui.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--texture--scene-1.svg)
 
 ### Contexte environnemental↗
 
-Textures : un environnement lié au thème prend en charge le contenu principal derrière ou autour de lui.](background--texture--scene.md)
+Textures : un environnement lié au thème accompagne le contenu principal, derrière ou autour de lui.](background--texture--scene.md)
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Fragment de texture locale : Une zone texturée occupe une partie de l'image, laissant un autre fond visible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-texture-layout--texture-layout-local-1.svg)
 

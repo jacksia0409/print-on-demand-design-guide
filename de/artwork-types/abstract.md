@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-KUNSTFORMULAR · 05 / 05
+GESTALTUNGSFORM · 05 / 05
 
 # Abstrakte Gestaltung
 
@@ -20,7 +20,7 @@ Formen, Markierungen, Linien und Farbbeziehungen führen ohne einen eindeutigen 
 
 <a id="abstract-design"></a>
 
-## Abstrakte Komposition und Behandlungen
+## Abstrakte Komposition und Gestaltungsweisen
 
 <a id="forms"></a>
 
@@ -48,7 +48,7 @@ Erstellen Sie die Komposition aus einigen einzelnen Punkten, deren Positionen ih
 
 <a id="form-exp-12-0-1"></a>
 
-![Clustered Dots – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-1.svg)
+![Gebündelte Punkte – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-1.svg)
 
 ##### Gebündelte Punkte
 
@@ -80,7 +80,7 @@ Erstellen Sie einen Rhythmus aus parallelen geraden Linien, indem Sie deren Abst
 
 <a id="form-exp-12-0-5"></a>
 
-![Crossing Line Web – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-5.svg)
+![Netz aus sich kreuzenden Linien – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-5.svg)
 
 ##### Kreuzungsliniennetz
 
@@ -210,7 +210,7 @@ Organisieren Sie längliche Farbblöcke durch Änderungen in Breite, Richtung un
 
 ![Rasterkomposition – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-1-5.svg)
 
-##### Rasterzusammensetzung
+##### Rasterkomposition
 
 Lassen Sie ein horizontales und vertikales Raster zur primären Struktur des Bildes werden.
 
@@ -260,7 +260,7 @@ Verzerren Sie geometrische Formen leicht und behalten Sie dabei sowohl die Struk
 
 ##### Geometrische Scheiben
 
-Schneiden Sie Flugzeuge auseinander, versetzen Sie ihre Teile und kombinieren Sie sie zu einer neuen Anordnung.
+Schneiden Sie Flächen auseinander, versetzen Sie ihre Teile und kombinieren Sie sie zu einer neuen Anordnung.
 
 <a id="abstract-panel-word-12-2"></a>
 
@@ -272,9 +272,9 @@ Vergleichen Sie organische abstrakte Formen durch Wachstum, Fluss, Zellen, Schau
 
 <a id="form-exp-12-2-0"></a>
 
-![Kostenlose organische Blöcke – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-0.svg)
+![Freie organische Blöcke – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-0.svg)
 
-##### Kostenlose organische Blöcke
+##### Freie organische Blöcke
 
 Bauen Sie flache Beziehungen aus unregelmäßigen Formen mit sanft abgerundeten Kanten auf.
 
@@ -300,7 +300,7 @@ Verwenden Sie fließende Formen, um Richtung und Änderungen der scheinbaren Vis
 
 ##### Wirbelnder Fluss
 
-Die Spule bildet sich von einem Rotationszentrum aus nach innen oder nach außen.
+Lassen Sie Formen spiralförmig auf ein Drehzentrum zulaufen oder von ihm nach außen führen.
 
 <a id="form-exp-12-2-4"></a>
 
@@ -324,7 +324,7 @@ Sammeln, trennen und verflechten Sie Massen, deren Grenzen weich bleiben.
 
 ##### Verzweigtes Wachstum
 
-Wachsen Sie nach einer einheitlichen Verzweigungsregel nach außen.
+Lassen Sie Formen nach einer einheitlichen Verzweigungsregel nach außen wachsen.
 
 <a id="form-exp-12-2-7"></a>
 
@@ -356,13 +356,13 @@ Komprimieren Sie kreisförmige Blasen unterschiedlicher Größe zu geschichteten
 
 ##### Schmelzende Dehnung
 
-Es bildet sich eine Dehnung oder ein Tropfen, als würde das Material schmelzen.
+Ziehen Sie Formen in die Länge oder lassen Sie sie tropfen, als würde das Material schmelzen.
 
 <a id="form-exp-12-2-11"></a>
 
 ![Falten und Plissierungen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-11.svg)
 
-##### Falten und Falten
+##### Falten und Plissierungen
 
 Erstellen Sie aus gebogenen, bandartigen Flächen einen Rhythmus aus Graten und Tälern.
 
@@ -372,7 +372,7 @@ Erstellen Sie aus gebogenen, bandartigen Flächen einen Rhythmus aus Graten und 
 
 #### Zeichen und Gesten
 
-Vergleichen Sie Gestenzeichenfamilien nach Pinselbelastung, Geschwindigkeit, Druck, Nässe, Wiederholung, Spritzern, Schaben und sichtbarer Körperaktion.
+Vergleichen Sie gestische Spuren anhand von Farbmenge im Pinsel, Geschwindigkeit, Druck, Feuchtigkeit, Wiederholung, Spritzern, Schaben und sichtbarer Körperbewegung.
 
 <a id="form-exp-12-3-0"></a>
 
@@ -386,9 +386,9 @@ Bauen Sie das Bild durch die Richtung und Abdeckung breiter Pinselstriche auf.
 
 ![Trockenbürstenlücken – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-1.svg)
 
-##### Lücken trocken bürsten
+##### Trockenpinsellücken
 
-Lassen Sie fehlende Farbe und freiliegenden Boden als Beweis für Borsten und Geschwindigkeit sichtbar.
+Lassen Sie Fehlstellen im Farbauftrag und den freiliegenden Untergrund als Spuren von Borsten und Malgeschwindigkeit sichtbar.
 
 <a id="form-exp-12-3-2"></a>
 
@@ -432,11 +432,11 @@ Farbschichten wiederholt abdecken und dabei sichtbare Spuren der manuellen Über
 
 <a id="form-exp-12-3-7"></a>
 
-![Kurzhubaufbau – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-7.svg)
+![Aufbau aus kurzen Strichen — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-7.svg)
 
-##### Kurzhubiger Aufbau
+##### Aufbau aus kurzen Strichen
 
-Sammeln Sie viele kurze Schläge, deren Dichte und Richtung sich über das Feld ändern.
+Setzen Sie viele kurze Striche, deren Dichte und Richtung sich über die Fläche ändern.
 
 <a id="form-exp-12-3-8"></a>
 
@@ -448,9 +448,9 @@ Verwenden Sie schnelle schreibähnliche Gesten, um einen abstrakten Rhythmus zu 
 
 <a id="form-exp-12-3-9"></a>
 
-![Kreisförmige Abstriche – visuelle Untersuchung](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-9.svg)
+![Kreisförmige Wischspuren – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-9.svg)
 
-##### Kreisförmige Abstriche
+##### Kreisförmige Wischspuren
 
 Lassen Sie durch wiederholte kreisende Streichbewegungen kontinuierliche Kurven und Überlappungen entstehen.
 
@@ -464,9 +464,9 @@ Wiederholen Sie gepresste Markierungen, die verwandt bleiben, aber nie genau ide
 
 <a id="form-exp-12-3-11"></a>
 
-![Gelöschter Negativraum – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-11.svg)
+![Ausradierter Freiraum – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-11.svg)
 
-##### Negativraum gelöscht
+##### Ausradierter Freiraum
 
 Erstellen Sie aktive Negativformen, indem Sie Material entfernen oder das Löschen von Material simulieren.
 
@@ -476,7 +476,7 @@ Erstellen Sie aktive Negativformen, indem Sie Material entfernen oder das Lösch
 
 #### Farb- und optische Felder
 
-Vergleichen Sie abstrakte Farbfelder anhand von Palettenanzahl, Temperatur, Wert, Farbverläufen, Bändern, transparenter Überlappung, Glühen, Dunkelheit und optischer Vibration.
+Vergleichen Sie abstrakte Farbfelder anhand der Anzahl der Farben, Farbtemperatur, Tonwerte, Verläufe, Bänder, transparenten Überlagerungen, Leuchteffekte, Dunkelheit und optischen Schwingungen.
 
 <a id="form-exp-12-4-0"></a>
 
@@ -504,9 +504,9 @@ Ordnen Sie mehrere Farbfelder anhand der Grenzen an, an denen sie sich treffen.
 
 <a id="form-exp-12-4-3"></a>
 
-![Wertehierarchie – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-4-3.svg)
+![Tonwerthierarchie — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-4-3.svg)
 
-##### Wertehierarchie
+##### Tonwerthierarchie
 
 Bauen Sie die abstrakte Struktur aus einer Hierarchie heller und dunkler Werte auf.
 
@@ -532,7 +532,7 @@ Verwenden Sie Komplementärfarben, um eine starke visuelle Konfrontation zu scha
 
 ##### Weicher Farbverlauf
 
-Übergehen Sie die Farben kontinuierlich, bis ihre Grenzen fast verschwinden.
+Lassen Sie Farben stufenlos ineinander übergehen, bis ihre Grenzen fast verschwinden.
 
 <a id="form-exp-12-4-7"></a>
 
@@ -568,9 +568,9 @@ Platzieren Sie einige Lichtpunkte oder helle Bereiche in einem überwiegend dunk
 
 <a id="form-exp-12-4-11"></a>
 
-![Lebendige Farben – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-4-11.svg)
+![Vibrierende Farben — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-4-11.svg)
 
-##### Lebendige Farben
+##### Vibrierende Farben
 
 Setzen Sie kontrastreiche Farben nebeneinander, um optische Vibrationen oder Instabilität zu erzeugen.
 
@@ -578,21 +578,21 @@ Setzen Sie kontrastreiche Farben nebeneinander, um optische Vibrationen oder Ins
 
 VISUELLE FORMEN · 24
 
-### Abstrakte Kunstbehandlungen
+### Abstrakte Gestaltungsweisen
 
 <a id="abstract-methods-panel-word-12-5"></a>
 
 <a id="abstract-methods-group-word-12-5"></a>
 
-#### Überlappung und Figurengrund
+#### Überlappung und Figur-Grund-Beziehung
 
 Vergleichen Sie die abstrakte Figur-Grund-Konstruktion durch Nachbarschaft, undurchsichtige oder transparente Überlappung, gemeinsame Grenzen, Maskierung, Schneiden und Umkehrungen.
 
 <a id="form-exp-12-5-0"></a>
 
-![Angrenzende Baugruppe – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-0.svg)
+![Nebeneinandergefügte Elemente – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-0.svg)
 
-##### Angrenzende Montage
+##### Nebeneinandergefügte Elemente
 
 Platzieren Sie Formen an gemeinsamen Grenzen, ohne dass sie sich überlappen.
 
@@ -678,7 +678,7 @@ Lassen Sie ausgewählte Formen das Raster oder die Grenze durchbrechen, die sie 
 
 <a id="form-exp-12-5-11"></a>
 
-![Cut and Shift – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-11.svg)
+![Schneiden und verschieben – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-11.svg)
 
 ##### Schneiden und verschieben
 
@@ -688,7 +688,7 @@ Schneiden Sie eine Form in Stücke und verschieben oder drehen Sie dann die getr
 
 <a id="abstract-methods-group-word-12-6"></a>
 
-#### Ordnung und Generation
+#### Ordnung und Erzeugung
 
 Vergleichen Sie die erzeugte Ordnung durch Wiederholung, Symmetrie, Gleiten, Rekursion, fraktales Wachstum, Zufälligkeit, Rauschen, Parameteränderung, Topologie und Glitch-Neuanordnung.
 
@@ -722,7 +722,7 @@ Formen über eine oder mehrere Spiegelungsachsen hinweg korrespondieren.
 
 ##### Gleitanordnung
 
-Kombinieren Sie Übersetzung und Reflexion innerhalb derselben Wiederholungsoperation.
+Kombinieren Sie Verschiebung und Spiegelung innerhalb desselben Wiederholungsschritts.
 
 <a id="form-exp-12-6-4"></a>
 
@@ -738,7 +738,7 @@ Wiederholen Sie verwandte Strukturen in mehreren unterschiedlichen Maßstäben i
 
 ##### Fraktalartiges Wachstum
 
-Stellen Sie sicher, dass lokale Teile und das Gesamtformular ähnliche verzweigte oder hierarchische Strukturen aufweisen.
+Lassen Sie Teilformen und Gesamtform ähnliche verzweigte oder hierarchische Strukturen aufweisen.
 
 <a id="form-exp-12-6-6"></a>
 
@@ -758,9 +758,9 @@ Fügen Sie eine kleine Anzahl von Verschiebungen und Variationen in eine ansonst
 
 <a id="form-exp-12-6-8"></a>
 
-![Lärmfeld – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-6-8.svg)
+![Rauschfeld – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-6-8.svg)
 
-##### Lärmfeld
+##### Rauschfeld
 
 Konvertieren Sie kontinuierliche unregelmäßige numerische Variationen in sichtbare Dichte oder Farbe.
 
@@ -794,7 +794,7 @@ Erzeugen Sie digitale Verzerrung durch blockweise Verschiebung, Brüche und Wied
 
 VISUELLE FORMEN · 34
 
-### Zusammensetzung
+### Komposition
 
 <a id="abstract-composition-panel-word-12-7"></a>
 
@@ -818,7 +818,7 @@ Konzentrieren Sie die wichtigsten abstrakten Formen in der Nähe der Mitte.
 
 ##### Außermittiger offener Raum
 
-Schieben Sie die Formulare auf eine Seite, während Sie die andere Seite offen lassen.
+Verschieben Sie die Formen auf eine Seite und lassen Sie die andere Seite frei.
 
 <a id="form-exp-12-7-2"></a>
 
@@ -838,11 +838,11 @@ Bauen Sie ein Ganzes aus mehreren unabhängigen visuellen Gewichtszentren auf.
 
 <a id="form-exp-12-7-4"></a>
 
-![Ausgewogene kostenlose Streuung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-7-4.svg)
+![Ausgewogene freie Streuung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-7-4.svg)
 
-##### Ausgewogene kostenlose Streuung
+##### Ausgewogene freie Streuung
 
-Streuformen ohne periodisches Muster bei gleichzeitig ausgewogenem visuellem Gesamtgewicht.
+Verteilen Sie Formen ohne periodisches Muster und halten Sie dabei das gesamte visuelle Gewicht im Gleichgewicht.
 
 <a id="form-exp-12-7-5"></a>
 
@@ -850,7 +850,7 @@ Streuformen ohne periodisches Muster bei gleichzeitig ausgewogenem visuellem Ges
 
 ##### Dichtes Vollfeld
 
-Decken Sie den größten Teil des Rahmens mit Formularen ab und lassen Sie nur sehr wenig Freiraum.
+Füllen Sie den Großteil des Bildes mit Formen und lassen Sie nur sehr wenig Freiraum.
 
 <a id="form-exp-12-7-6"></a>
 
@@ -906,13 +906,13 @@ Teilen Sie das Feld in mehrere Zonen auf und lassen Sie diese Zonen dann überla
 
 #### Rhythmus und Bewegung
 
-Vergleichen Sie abstrakte Bewegungen durch gleichmäßige oder abwechselnde Schläge, fortschreitende Veränderung, Ansammlung, Streuung, Konvergenz, Ausdehnung, Spiralen, Wellen und sich kreuzende Kräfte.
+Vergleichen Sie abstrakte Bewegung anhand gleichmäßiger oder wechselnder Rhythmen, schrittweiser Veränderung, Gruppierung, Streuung, Konvergenz, Ausdehnung, Spiralen, Wellen und sich kreuzender Kräfte.
 
 <a id="form-exp-12-8-0"></a>
 
-![Sogar Beats – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-0.svg)
+![Gleichmäßige Rhythmen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-0.svg)
 
-##### Sogar Beats
+##### Gleichmäßige Rhythmen
 
 Halten Sie die Abstände zwischen den Einheiten nahezu gleich, um einen gleichmäßigen Rhythmus zu gewährleisten.
 
@@ -926,9 +926,9 @@ Halten Sie die Abstände zwischen den Einheiten nahezu gleich, um einen gleichm�
 
 <a id="form-exp-12-8-2"></a>
 
-![Skalenverlauf – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-2.svg)
+![Stufenweise Größenänderung — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-2.svg)
 
-##### Skalenverlauf
+##### Stufenweise Größenänderung
 
 Ändern Sie den Maßstab jeder nachfolgenden Einheit Schritt für Schritt.
 
@@ -942,9 +942,9 @@ Drehen Sie jede Einheit schrittweise durch die Sequenz, um eine Richtungsänderu
 
 <a id="form-exp-12-8-4"></a>
 
-![Wertentwicklung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-4.svg)
+![Tonwertverlauf — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-4.svg)
 
-##### Wertentwicklung
+##### Tonwertverlauf
 
 Verschieben Sie die visuelle Gewichtung durch einen allmählichen Übergang heller und dunkler Werte.
 
@@ -978,7 +978,7 @@ Richten Sie Linien und Formen auf einen gemeinsamen Mittelpunkt aus.
 
 ##### Erweiterung nach außen
 
-Erweitern Sie die Formulare von der Feldmitte nach außen.
+Lassen Sie Formen von der Flächenmitte nach außen wachsen.
 
 <a id="form-exp-12-8-9"></a>
 
@@ -1050,7 +1050,7 @@ Hängen Sie Formen auf, ohne dass sich darunter ein klar definierter Untergrund 
 
 ##### Konkav-konvexe Illusion
 
-Verwenden Sie Werte- oder Linienbeziehungen, um anschwellende und zurückspringende Flächen vorzuschlagen.
+Nutzen Sie Tonwert- oder Linienbeziehungen, um sich vorwölbende und zurückweichende Oberflächen anzudeuten.
 
 <a id="form-exp-12-9-5"></a>
 
@@ -1064,7 +1064,7 @@ Verbinden Sie Formen mit einem Raum, der physisch nicht existieren könnte.
 
 ![Teilausschnitt – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-9-6.svg)
 
-##### Teilernte
+##### Teilweiser Beschnitt
 
 Beschneiden Sie Formen am Rahmen, um anzudeuten, dass sie darüber hinaus fortgeführt werden.
 
@@ -1098,9 +1098,9 @@ Verschieben Sie Formen oder Linien kontinuierlich zwischen der Innen- und Außen
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -1116,7 +1116,7 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Hintergrund**
 
-Referenzieren Sie Hintergrundfarben, Rhythmus und Stimmung. Falls nicht vorhanden, erstellen Sie zugehörige unterstützende Boden- oder Raumbeziehungen. Die Umgebung figurativer Quellen kann in unterstützende Hinweise vereinfacht werden, ohne die nichtfigurative Komposition zu ersetzen.
+Orientieren Sie sich an Hintergrundfarben, Rhythmus und Stimmung. Fehlen diese, schaffen Sie einen passenden unterstützenden Hintergrund oder räumliche Beziehungen. Eine gegenständliche Umgebung im Ausgangsbild darf zu unterstützenden Anhaltspunkten vereinfacht werden, ohne die nichtgegenständliche Komposition zu ersetzen.
 
 **Textinhalt**
 
@@ -1124,10 +1124,10 @@ Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und
 
 **Beibehalten und anpassen**
 
-Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung und lassen Sie dabei zu, dass die konkrete Identität von Objekten reduziert oder aufgehoben wird. Verlangen Sie nicht gleichzeitig, dass die ursprüngliche Objektsilhouette vollständig erhalten bleibt. Beschreiben Sie neu erzeugte Inhalte nicht als bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Einschränkungen der Eingabe und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
 **Umfang und Grenzen**
 
-Ein identifizierbares stilisiertes Objekt bleibt eine thematische Behandlung. Der Oberflächencharakter des Materials gehört zu den Texturen, wenn er den Hauptausdruck darstellt.
+Ein erkennbarer stilisierter Gegenstand bleibt eine Motivgestaltung. Steht die Materialoberfläche im Mittelpunkt des Ausdrucks, gehört die Gestaltung zu den Texturen.
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

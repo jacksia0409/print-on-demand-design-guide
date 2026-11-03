@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/personalization?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/personalization?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -44,25 +44,25 @@
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Удаление фона](https://podplo.app/skills/background-remover)[![Пример иллюстрации «Детальный ремонт»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Удаление фона](https://podplo.app/skills/background-remover)[![Пример восстановления деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Детальный ремонт](https://podplo.app/skills/detail-repair)
+Восстановление деталей](https://podplo.app/skills/detail-repair)
 
 <a id="templates"></a>
 
 ## Адаптируйте макет к каждому имени
 
-[Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern) настраивает один игривый макет повторения в соответствии с каждым именем.
+[Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern) настраивает один игривый макет повторения в соответствии с каждым именем.
 
-[Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern) превращает имя клиента в игривый повтор динозавра. Интервал регулируется для коротких и длинных имен, поэтому каждая версия выглядит индивидуально, сохраняя при этом один и тот же основной дизайн.
+[Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern) превращает имя клиента в игривый повтор динозавра. Интервал регулируется для коротких и длинных имен, поэтому каждая версия выглядит индивидуально, сохраняя при этом один и тот же основной дизайн.
 
-[![Пример персонализации имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
+[![Пример персонализации узора с динозаврами по имени](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
 
-Образец имени динозавра
+Узор с динозаврами и именем
 
 **Еще больше Skills для изучения**
 
@@ -76,9 +76,9 @@
 
 [![Пример изображения цветочной рамки имени](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="proofing"></a>
 
@@ -114,7 +114,7 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
 <a id="exceptions"></a>
 
@@ -122,7 +122,7 @@
 
 Четкие фотографии и подтвержденные детали создают более конкретные и правдоподобные персонализированные произведения искусства.
 
-Более четкая фотография, необрезанное лицо, подтвержденная дата или более короткое сообщение обычно создают более сильный дизайн. Если личный факт отсутствует, оставьте его вместо того, чтобы просить произведение искусства догадаться.
+Более чёткая фотография, лицо без обрезки, подтверждённая дата или более короткое сообщение обычно дают более выразительный дизайн. Если какой-то личный факт неизвестен, не включайте его, вместо того чтобы поручать изображению его угадать.
 
 Иллюстрация рабочего процесса с примерами входных данных и значений.
 
@@ -146,10 +146,10 @@
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример изображения для удаления фона](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Удаление фона](https://podplo.app/skills/background-remover)[![Пример иллюстрации «Детальный ремонт»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Удаление фона](https://podplo.app/skills/background-remover)[![Пример восстановления деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Детальный ремонт](https://podplo.app/skills/detail-repair)
+Восстановление деталей](https://podplo.app/skills/detail-repair)

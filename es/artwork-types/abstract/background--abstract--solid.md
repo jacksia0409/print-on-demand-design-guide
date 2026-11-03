@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/background--abstract--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/background--abstract--solid?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -32,15 +32,15 @@ No agregue patrones, degradados, texturas o escenas al respaldo. Esto no restrin
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Arte abstracto → Fondo → Fondo sólido
+Arte abstracto → Fondo → Fondo de color uniforme
 
 **Entrada y salida**
 
@@ -48,7 +48,7 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Conservar relaciones no figurativas de forma, línea y color. El fundamento debe apoyar la abstracción en lugar de introducir un objeto identificable dominante.
+Conserva las relaciones no figurativas de forma, línea y color. El fondo debe apoyar la abstracción, sin introducir un objeto identificable dominante.
 
 **Fondo**
 
@@ -68,17 +68,17 @@ No agregue patrones, degradados, texturas o escenas al respaldo. Esto no restrin
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Fondo transparente: Obra de arte abstracta: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Obra de arte abstracta: el suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--abstract--transparent.md)[![Fondo degradado: Obra de arte abstracta: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
+Arte abstracto: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--abstract--transparent.md)[![Fondo degradado: Obra de arte abstracta: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
 ### Fondo degradado↗
 
-Obra de arte abstracta: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--abstract--gradient.md)[![Fondo estampado: local: Obra de arte abstracta: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
+Arte abstracto: el fondo cambia gradualmente de color o luminosidad mientras el contenido principal permanece claro.](background--abstract--gradient.md)[![Fondo estampado: local: Obra de arte abstracta: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
 
 ### Fondo estampado: local↗
 
@@ -88,4 +88,4 @@ Obra de arte abstracta: un parche decorativo se coloca detrás del contenido, de
 
 Obra de arte abstracta: un fondo estampado cubre la imagen detrás de un contenido en primer plano claramente legible.](background--abstract--pattern-full.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

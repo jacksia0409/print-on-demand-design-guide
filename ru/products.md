@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -22,13 +22,13 @@
 
 произведение искусства
 
-![AI-превью футболки с цветочным повтором](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
+![ИИ-предпросмотр футболки с цветочным повторяющимся узором](https://podplo.app/pod-guide/t-shirts/all-over-print-shirt.webp)
 
 Предварительный просмотр футболки
 
-![AI-тумблер для предварительного просмотра того же цветочного повтора](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![ИИ-предпросмотр термостакана с тем же цветочным повторяющимся узором](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
-Предварительный просмотр в тумблере
+Предпросмотр термостакана
 
 **Изучите связанные Skills**
 
@@ -42,9 +42,9 @@
 
 [![Пример иллюстрации бесшовного рисунка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
-Бесшовный узор](https://podplo.app/skills/seamless-pattern)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Бесшовный узор](https://podplo.app/skills/seamless-pattern)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример изображения цветочной рамки имени](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример изображения цветочной рамки имени](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
 Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)[![Пример изображения портрета домашнего животного в мягкой акварели](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
@@ -56,9 +56,9 @@
 
 **футболки**
 
-Носите то, что любите](products/t-shirts.md)[![Толстовки и толстовки](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)
+Носите то, что любите](products/t-shirts.md)[![Свитшоты и худи](https://podplo.app/pod-guide/generated/sweatshirts-proof.webp)
 
-**Толстовки и толстовки**
+**Свитшоты и худи**
 
 Уютные слои с индивидуальностью](products/sweatshirts.md)[![Шляпы и кепки](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)
 
@@ -68,9 +68,9 @@
 
 **Кружки**
 
-Сделайте ежедневный ритуал личным](products/mugs.md)[![стаканы](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+Сделайте ежедневный ритуал личным](products/mugs.md)[![Термостаканы](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
-**стаканы**
+**Термостаканы**
 
 Возьмите с собой любимый дизайн](products/tumblers.md)[![Плакаты и репродукции](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100781713611.webp)
 
@@ -96,25 +96,25 @@
 
 **Чехлы для телефонов**
 
-Держите любимое изображение рядом](products/phone-cases.md)[![Блокноты и планировщики](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
+Держите любимое изображение рядом](products/phone-cases.md)[![Блокноты и ежедневники](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
 
-**Блокноты и планировщики**
+**Блокноты и ежедневники**
 
 Обложка для вашей следующей главы](products/notebooks.md)[![Поздравительные открытки и приглашения](https://podplo.app/pod-guide/generated/greeting-cards-proof.webp)
 
 **Поздравительные открытки и приглашения**
 
-Скажите это с помощью специальной карты](products/greeting-cards.md)[![Одеяла](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-607555787032287.webp)
+Скажите это с помощью персональной открытки](products/greeting-cards.md)[![Одеяла](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-607555787032287.webp)
 
 **Одеяла**
 
-Окунитесь в любимое воспоминание](products/blankets.md)[![Подушки и подушки](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
+Окунитесь в любимое воспоминание](products/blankets.md)[![Подушки и декоративные подушки](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
 
-**Подушки и подушки**
+**Подушки и декоративные подушки**
 
-Добавьте индивидуальности в любую комнату](products/pillows.md)[![Орнаменты и ловцы солнца](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)
+Добавьте индивидуальности в любую комнату](products/pillows.md)[![Украшения и ловцы солнца](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)
 
-**Орнаменты и ловцы солнца**
+**Украшения и ловцы солнца**
 
 Маленькие сувениры для важных моментов](products/ornaments.md)[![Пазлы](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)
 
@@ -128,8 +128,8 @@
 
 **Упаковочная бумага**
 
-Сделайте упаковку частью подарка](products/wrapping-paper.md)[![обои](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
+Сделайте упаковку частью подарка](products/wrapping-paper.md)[![Обои](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
 
-**обои**
+**Обои**
 
 Единый мотив. Совершенно новая комната.](products/wallpaper.md)

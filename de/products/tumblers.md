@@ -6,21 +6,21 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/tumblers?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/tumblers?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Trinkgläser
+# Trinkbecher
 
-Verwandeln Sie ein Bild in ein hohes Mittelstück, einen durchgehenden Rapport oder eine vollständige Umhüllung für einen Becher.
+Verwandeln Sie ein Bild in ein hohes zentrales Motiv, einen vollflächigen Rapport oder ein umlaufendes Design für einen Trinkbecher.
 
 <a id="product-overview"></a>
 
 ## Designideen für dieses Produkt
 
-### Nutzen Sie die Höhe und die volle Umhüllung
+### Nutzen Sie die Höhe und die gesamte umlaufende Fläche.
 
-Große Schriftzeichen, gestapelte Schriftarten, verstreute Motive und Panoramaszenen eignen sich gut für einen Becher. Eine große zentrale Figur; Von oben nach unten verstreute kleine Motive; Eine Panoramaszene rund um den Becher.
+Hohe Figuren, übereinander angeordnete Schrift, verstreute Motive und Panoramaszenen eignen sich gut für einen Trinkbecher. Eine hohe Figur in der Mitte; kleine Motive von oben nach unten verstreut; eine Panoramaszene rund um den Becher.
 
 ![Trinkgläser · leere Produktansicht](https://podplo.app/pod-guide/generated/tumblers-blank.webp)
 
@@ -32,7 +32,7 @@ Verwenden Sie verschiedene Skills, um dasselbe Bild in neue Layouts, fotobasiert
 
 ### Erstellen Sie ein durchgehendes Bechermuster
 
-Nehmen Sie Details aus Ihrem Bild und ordnen Sie sie in einer nahtlosen Wiederholung über die gesamte Folie an.
+Nehmen Sie Details aus Ihrem Bild und ordnen Sie sie als nahtlosen Rapport über das gesamte umlaufende Design an.
 
 [Nahtloses Muster](https://podplo.app/skills/seamless-pattern)
 
@@ -48,11 +48,11 @@ Generiertes Kunstwerk
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 11
 
@@ -62,9 +62,9 @@ KI-Produktvorschau
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout)
 
@@ -86,11 +86,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 91
 
@@ -98,15 +98,15 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
-### Erstellen Sie ein großes florales Namensdesign
+### Gestalten Sie ein hohes florales Namensdesign
 
 Stellen Sie den Namen in den Mittelpunkt und ordnen Sie die Blumen so an, dass sie zur vertikalen Form des Bechers passen.
 
@@ -124,17 +124,17 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Nordpol-Namensplakat](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
@@ -156,6 +156,6 @@ Die KI-Vorschau zeigt den Hauptschwerpunkt und die Details, die beim Drehen des 
 
 - Verstreute Motive sorgen für ein gleichmäßiges Allover-Design
 
-- Eine Panoramaszene nutzt die gesamte Folie
+- Eine Panoramaszene nutzt den gesamten Umfang
 
-![Trinkgläser · KI-produktsicher](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![Trinkbecher · KI-Produktansicht](https://podplo.app/pod-guide/generated/tumblers-proof.webp)

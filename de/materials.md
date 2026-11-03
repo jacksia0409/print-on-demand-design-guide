@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/materials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/materials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -34,7 +34,7 @@ Elemente sind isolierte Grafiken, die Teil eines typografischen Layouts, Abzeich
 
 ![Paradiesvogelblume](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/feace20b-5969-5bf2-8776-5bc1eb1d5dc1.png)
 
-![Monstera verlässt Aquarell](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/b7e588a1-fd2b-5a56-bc9c-28a168b739cc.png)
+![Monstera-Blätter in Aquarell](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/b7e588a1-fd2b-5a56-bc9c-28a168b739cc.png)
 
 ![Monstera-Blatt-Skizze](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/808b1346-bf39-5fd0-9fda-68f3e7dc9560.png)
 
@@ -112,7 +112,7 @@ Tiere und Kreaturen
 
 ### Coole und verspielte Katzen
 
-Erstellen Sie eine charakterorientierte Grafik-, Abzeichen- oder verspielte Sammlung.
+Gestalten Sie eine Grafik, ein Emblem oder eine verspielte Kollektion mit einer Figur im Mittelpunkt.
 
 [Entdecken Sie mehr in der Bibliothek](https://podplo.app/elements)
 
@@ -128,7 +128,7 @@ Tiere und Kreaturen
 
 ### Niedliche Aquarell-Kinderzimmertiere
 
-Erstellen Sie eine charakterorientierte Grafik-, Abzeichen- oder verspielte Sammlung.
+Gestalten Sie eine Grafik, ein Emblem oder eine verspielte Kollektion mit einer Figur im Mittelpunkt.
 
 [Entdecken Sie mehr in der Bibliothek](https://podplo.app/elements)
 
@@ -136,7 +136,7 @@ Erstellen Sie eine charakterorientierte Grafik-, Abzeichen- oder verspielte Samm
 
 ![Vogel auf einem Ast](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fdccea1f-6778-5ea7-86cc-cad870c766d1.png)
 
-![Blue Jay auf Ast](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/efb8a195-6f1f-57b3-afed-f9e4fdbda01f.png)
+![Blauhäher auf einem Ast](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/efb8a195-6f1f-57b3-afed-f9e4fdbda01f.png)
 
 ![Fliegende Schwalbe](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/dad6d622-53b1-564b-a5ed-f6d18c22a771.png)
 
@@ -144,7 +144,7 @@ Tiere und Kreaturen
 
 ### Vögel im Flug und sitzend
 
-Erstellen Sie eine charakterorientierte Grafik-, Abzeichen- oder verspielte Sammlung.
+Gestalten Sie eine Grafik, ein Emblem oder eine verspielte Kollektion mit einer Figur im Mittelpunkt.
 
 [Entdecken Sie mehr in der Bibliothek](https://podplo.app/elements)
 
@@ -160,7 +160,7 @@ Tiere und Kreaturen
 
 ### Lebendige Meerestiere
 
-Erstellen Sie eine charakterorientierte Grafik-, Abzeichen- oder verspielte Sammlung.
+Gestalten Sie eine Grafik, ein Emblem oder eine verspielte Kollektion mit einer Figur im Mittelpunkt.
 
 [Entdecken Sie mehr in der Bibliothek](https://podplo.app/elements)
 
@@ -172,7 +172,7 @@ Erstellen Sie eine charakterorientierte Grafik-, Abzeichen- oder verspielte Samm
 
 <a id="classic-spooky-halloween-horror"></a>
 
-![Schwarze Katze wölbt sich zurück](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff7bae48-8450-5a14-ac04-cd5294971945.png)
+![Schwarze Katze mit gewölbtem Rücken](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/ff7bae48-8450-5a14-ac04-cd5294971945.png)
 
 ![Hexe fliegt auf Besenstiel](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f717ee37-10d4-55a1-96b1-f0cabc2001aa.png)
 
@@ -188,7 +188,7 @@ Fügen Sie Grüßen, Geschenken oder thematischen Grafiken einen saisonalen Schw
 
 <a id="watercolor-easter-bunny-and-eggs"></a>
 
-![Osterkorb, Mit, Eier, Und, Flowers](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe84d511-f423-5ec2-8e9d-9487cdd0b57d.png)
+![Osterkorb mit Eiern und Blumen](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe84d511-f423-5ec2-8e9d-9487cdd0b57d.png)
 
 ![Küken schlüpft aus bemaltem Ei](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d391efea-79ff-5980-a187-54e73766bb4b.png)
 
@@ -258,7 +258,7 @@ Kombinieren Sie kleine Motive mit kurzen Texten, Etiketten oder sich wiederholen
 
 <a id="vintage-coffee-and-cafe"></a>
 
-![Handgegossener Kaffee zum Übergießen](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe5248e4-8b81-5a95-a75c-41200e9cfef1.png)
+![Hand beim Aufgießen von Filterkaffee](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fe5248e4-8b81-5a95-a75c-41200e9cfef1.png)
 
 ![Kaffeetasse mit Latte Art](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fd35a8d4-4a86-56aa-a174-0eb968ea4dd2.png)
 
@@ -298,7 +298,7 @@ Kombinieren Sie kleine Motive mit kurzen Texten, Etiketten oder sich wiederholen
 
 ![Meereswelle und Sonne](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fecd1251-775c-5859-a038-1692e8b181f4.png)
 
-![Sonne, Und, Ozean, Welle, Icon](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e12bdb88-52a6-5d6d-80c8-35d8c34ef08d.png)
+![Symbol mit Sonne und Meereswelle](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e12bdb88-52a6-5d6d-80c8-35d8c34ef08d.png)
 
 ![Surfer bei Sonnenuntergang](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/c214f5f3-76a3-51fb-aff0-30f21fb04878.png)
 
@@ -358,7 +358,7 @@ Entwickeln Sie eine Szene, eine gerahmte Komposition oder eine ruhige Wandkunstr
 
 Objekte und Werkzeuge
 
-### Retro-Computer-Gameboy-Radiokamera
+### Retro-Computer, Gameboy, Radio und Kamera
 
 Verwandeln Sie erkennbare Objekte in Hobbygrafiken, Abzeichen oder Sets.
 
@@ -368,7 +368,7 @@ Verwandeln Sie erkennbare Objekte in Hobbygrafiken, Abzeichen oder Sets.
 
 ![Vintage-Motorrad-Skizze](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fc7c8f0b-893f-5724-809c-26b2ed3731ec.png)
 
-![Rotes Oldtimer](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f7c9812e-2e7e-5d64-b462-57c036b0c76d.png)
+![Roter Oldtimer](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/f7c9812e-2e7e-5d64-b462-57c036b0c76d.png)
 
 ![Rotes klassisches Cabriolet](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/d24124b6-0ea6-50ca-b034-87fd87c326c2.png)
 
@@ -388,7 +388,7 @@ Verwandeln Sie erkennbare Objekte in Hobbygrafiken, Abzeichen oder Sets.
 
 <a id="decorative-lace-ribbon-frames"></a>
 
-![Spitze, Herz, Rahmen, Mit, Schwarz, Ribbon](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fce891eb-2754-50a6-8cdb-80e3bde3ccd6.png)
+![Herzrahmen aus Spitze mit schwarzem Band](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/fce891eb-2754-50a6-8cdb-80e3bde3ccd6.png)
 
 ![Spitzen-Schmetterlingsrahmen](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/e541a376-26cc-5b2d-844d-e3709595b42b.png)
 
@@ -438,7 +438,7 @@ Versuchen Sie es mit Fächer-, Kranich- oder geometrischen Motiven auf Geschenkp
 
 08
 
-### Symbole und Ikonen
+### Symbole & Icons
 
 <a id="cute-hand-drawn-crayon-doodles"></a>
 
@@ -448,7 +448,7 @@ Versuchen Sie es mit Fächer-, Kranich- oder geometrischen Motiven auf Geschenkp
 
 ![Glückliche Hundeskizze](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/df79d102-a8b5-52d6-864e-7fe8a9b4037d.png)
 
-Symbole und Ikonen
+Symbole & Icons
 
 ### Niedliche handgezeichnete Buntstiftkritzeleien
 
@@ -464,7 +464,7 @@ Kombinieren Sie mehrere kleine Markierungen zu einem kompakten Grafik- oder Aufk
 
 ![Bunte abstrakte Ringe](https://images.podplo.app/official/elements/podplo-elements-tagged-20261028/469cec92-0517-5baa-9e48-b2b6c80c4f8c.png)
 
-Symbole und Ikonen
+Symbole & Icons
 
 ### Schillernde holografische Farbverlaufssymbole
 
@@ -554,9 +554,9 @@ Erstellen Sie eine Charakter-, Emblem- oder Story-basierte Statement-Grafik.
 
 Abstrakt und geometrisch
 
-### Fette Tintenpinsel-Farbtexturen
+### Markante Tuschepinseltexturen
 
-Entdecken Sie fette Layouts, Hintergrundsysteme und Wiederholungsmuster.
+Entdecken Sie markante Layouts, Hintergrundsysteme und Rapporte.
 
 [Entdecken Sie mehr in der Bibliothek](https://podplo.app/elements)
 
@@ -572,7 +572,7 @@ Abstrakt und geometrisch
 
 ### Geometrische Formen mit Farbverlauf-Drahtmodell
 
-Entdecken Sie fette Layouts, Hintergrundsysteme und Wiederholungsmuster.
+Entdecken Sie markante Layouts, Hintergrundsysteme und Rapporte.
 
 [Entdecken Sie mehr in der Bibliothek](https://podplo.app/elements)
 
@@ -588,6 +588,6 @@ Bilder
 
 Bilder bewahren eine vollständige Komposition und sind daher nützlich, wenn Sie aus einer vorhandenen Szene erstellen möchten. Überarbeiten Sie das Layout, fügen Sie genaue Formulierungen hinzu, führen Sie ein saisonales Thema ein oder erkunden Sie eine neue visuelle Gestaltung mit einem Photo to Art Skill.
 
-Wählen Sie Bilder mit einem klaren Thema, einem Thema, das zu Ihrer Idee passt, und visuellen Details, die in der nächsten Version erhalten bleiben sollen.
+Wählen Sie Bilder mit einem klaren Motiv, einem zu Ihrer Idee passenden Thema und visuellen Details, die in der nächsten Version erhalten bleiben sollen.
 
 [Mehr anzeigen](https://podplo.app/design-ideas)

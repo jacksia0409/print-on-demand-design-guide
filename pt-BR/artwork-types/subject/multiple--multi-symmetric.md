@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-Composição centrada no tema principal / DIREÇÃO CRIATIVA
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA
 
 # Agrupamento simétrico
 
-Os assuntos correspondem ao longo de um eixo para criar uma composição equilibrada.
+Os elementos principais se correspondem em lados opostos de um eixo para criar uma composição equilibrada.
 
 <a id="understand"></a>
 
-![Agrupamento simétrico: os assuntos correspondem ao longo de um eixo para criar uma composição equilibrada.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-symmetric-1.svg)
+![Agrupamento simétrico: os elementos principais se correspondem em lados opostos de um eixo para criar uma composição equilibrada.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-symmetric-1.svg)
 
 Ilustração da composição
 
@@ -28,7 +28,7 @@ COMO RECONHECER
 
 Os detalhes podem ser diferentes; o espelhamento perfeito de pixels não é necessário. Unidades repetidas usadas principalmente como decoração contínua pertencem aos padrões.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Liderado por assunto → Vários assuntos → Agrupamento simétrico
+Composição guiada pelo elemento principal → Vários elementos principais → Agrupamento simétrico
 
 **Entrada e saída**
 
@@ -70,58 +70,58 @@ Os detalhes podem ser diferentes; o espelhamento perfeito de pixels não é nece
 
 ## Explorar o plano de fundo
 
-Esses exemplos comparam motivos dentro da mesma família de conteúdo. Manter a composição atual ao aplicar um tratamento; abra um exemplo para obter instruções completas.
+Esses exemplos comparam fundos dentro da mesma família de conteúdo. Preserve a composição atual ao aplicar um tratamento visual; abra um exemplo para ver as instruções completas.
 
-[![Fundo transparente: Vários assuntos: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Fundo transparente: vários elementos principais: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Vários assuntos: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--multiple--transparent.md)[![Fundo sólido: Vários assuntos: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Vários elementos principais: O fundo permanece transparente; o quadriculado é apenas um recurso de visualização.](background--multiple--transparent.md)[![Fundo sólido: vários elementos principais: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
 ### Fundo sólido↗
 
-Vários assuntos: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--multiple--solid.md)[![Fundo gradiente: Vários assuntos: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+Vários elementos principais: Uma cor uniforme forma o fundo; o branco também é um fundo de cor uniforme.](background--multiple--solid.md)[![Fundo em degradê: Vários elementos principais: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Vários assuntos: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--multiple--gradient.md)[![Plano de fundo padronizado: local: Vários assuntos: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+Vários elementos principais: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](background--multiple--gradient.md)[![Fundo estampado: local: Vários elementos principais: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Vários assuntos: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--multiple--pattern-local.md)[![Fundo padronizado: área completa: Vários assuntos: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
+Vários elementos principais: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](background--multiple--pattern-local.md)[![Fundo estampado: área completa: Vários elementos principais: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
-Vários assuntos: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--multiple--pattern-full.md)[![Plano de fundo texturizado: Vários assuntos: granulação do papel, partículas ou outro caráter de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
+Vários elementos principais: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](background--multiple--pattern-full.md)[![Fundo texturizado: vários elementos principais: granulação do papel, partículas ou outra característica de superfície apoiam o conteúdo de primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
 
 ### Fundo texturizado↗
 
-Vários assuntos: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.](background--multiple--texture.md)[![Contexto ambiental: Vários assuntos: Um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
+Vários elementos principais: Granulação de papel, partículas ou outra característica de superfície dão apoio ao conteúdo de primeiro plano.](background--multiple--texture.md)[![Cenário ao fundo: Vários elementos principais: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
 
-### Contexto ambiental↗
+### Cenário ao fundo↗
 
-Vários assuntos: um ambiente relacionado ao tema suporta o conteúdo principal por trás ou ao redor dele.](background--multiple--scene.md)
+Vários elementos principais: Um ambiente relacionado ao tema dá apoio ao conteúdo principal por trás ou ao redor dele.](background--multiple--scene.md)
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Assuntos lado a lado: Vários assuntos reconhecíveis são organizados horizontalmente e mostrados juntos.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-parallel-1.svg)
+[![Elementos principais lado a lado: vários elementos reconhecíveis são organizados horizontalmente e exibidos juntos.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-parallel-1.svg)
 
-### Assuntos lado a lado↗
+### Elementos principais lado a lado↗
 
-Vários assuntos reconhecíveis são organizados horizontalmente e mostrados juntos.](multiple--multi-parallel.md)[![Assuntos primários e de apoio: Um sujeito lidera a composição enquanto outros objetos a apoiam.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-dominant-1.svg)
+Vários elementos reconhecíveis são organizados horizontalmente e exibidos juntos.](multiple--multi-parallel.md)[![Elementos principais e de apoio: um elemento conduz a composição enquanto outros objetos o complementam.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-dominant-1.svg)
 
-### Disciplinas primárias e de apoio↗
+### Elementos principais e de apoio↗
 
-Um sujeito conduz a composição enquanto outros objetos a apoiam.](multiple--multi-dominant.md)[![Agrupamento vertical: Vários assuntos formam uma composição que pode ser lida de cima para baixo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-stack-1.svg)
+Um elemento principal conduz a composição enquanto outros objetos lhe dão apoio.](multiple--multi-dominant.md)[![Agrupamento vertical: vários elementos principais formam uma composição cuja leitura vai de cima para baixo.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-stack-1.svg)
 
 ### Agrupamento vertical↗
 
-Vários assuntos formam uma composição que se lê de cima para baixo.](multiple--multi-stack.md)[![Assuntos em torno de um centro: Vários assuntos formam um grupo circular ou radial finito.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-radial-1.svg)
+Vários elementos principais formam uma composição cuja leitura vai de cima para baixo.](multiple--multi-stack.md)[![Elementos principais ao redor de um centro: vários elementos principais formam um grupo circular ou radial finito.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-radial-1.svg)
 
-### Assuntos em torno de um centro↗
+### Elementos principais ao redor de um centro↗
 
-Vários assuntos formam um grupo circular ou radial finito.](multiple--multi-radial.md)
+Vários elementos principais formam um grupo circular ou radial finito.](multiple--multi-radial.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

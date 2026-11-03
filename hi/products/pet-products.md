@@ -32,15 +32,15 @@
 
 ### किसी पालतू जानवर की तस्वीर को मुख्य कलाकृति में बदलें
 
-एक स्पष्ट पालतू जानवर की तस्वीर दूध पिलाने वाली चटाई के लिए एक जलरंग चित्र बन जाती है।
+पालतू जानवर की स्पष्ट फ़ोटो खाने के कटोरों के नीचे बिछाने वाली चटाई के लिए जलरंग चित्र बन जाती है।
 
-[शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
-![शीतल जलरंग पालतू चित्र · स्रोत फोटो](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
+![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट · मूल फ़ोटो](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
 
 मूल फ़ोटो
 
-[![शीतल जलरंग पालतू चित्र · उत्पन्न कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट · बनाई गई कलाकृति](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
 उत्पन्न कलाकृति
 
@@ -58,9 +58,9 @@
 
 <a id="_R_5v3k_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -80,6 +80,6 @@
 
 - आसपास के रूपांकनों को जोड़ने के लिए नाम का उपयोग करें
 
-- दोबारा दोहराने से मैट को हर कोण से एक समान लुक मिलता है
+- दोहराव वाला पैटर्न मैट को हर कोण से एक समान रूप देता है
 
 [![पालतू जानवरों को खिलाने वाली चटाई · पालतू जानवरों को खिलाने वाली चटाई](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606560394791670.webp)](https://podplo.app/products/mockup-temu-606560394791670)

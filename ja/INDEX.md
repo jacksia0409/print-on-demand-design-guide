@@ -24,7 +24,7 @@
 
 - [あなたのアイデアを現実にしましょう](make-pod-artwork.md)
 
-- [原材料の種類](materials.md)
+- [元になる素材の種類](materials.md)
 
 - [すべてのデザインを個性的にする](personalization.md)
 
@@ -54,7 +54,7 @@
 
 - [オフセットの抽象化](artwork-types/abstract/abstract-layout--abstract-layout-offset.md)
 
-- [無料配布](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
+- [自由配置](artwork-types/abstract/abstract-layout--abstract-layout-scatter.md)
 
 - [重複するゾーン](artwork-types/abstract/abstract-layout--abstract-layout-zones.md)
 
@@ -62,7 +62,7 @@
 
 - [模様のある背景: 全領域](artwork-types/abstract/background--abstract--pattern-full.md)
 
-- [模様のある背景: ローカル](artwork-types/abstract/background--abstract--pattern-local.md)
+- [柄の背景：部分](artwork-types/abstract/background--abstract--pattern-local.md)
 
 - [環境背景](artwork-types/abstract/background--abstract--scene.md)
 
@@ -78,7 +78,7 @@
 
 - [模様のある背景: 全領域](artwork-types/pattern/background--pattern--pattern-full.md)
 
-- [模様のある背景: ローカル](artwork-types/pattern/background--pattern--pattern-local.md)
+- [柄の背景：部分](artwork-types/pattern/background--pattern--pattern-local.md)
 
 - [環境背景](artwork-types/pattern/background--pattern--scene.md)
 
@@ -104,7 +104,7 @@
 
 - [模様のある背景: 全領域](artwork-types/scene/background--scene--pattern-full.md)
 
-- [模様のある背景: ローカル](artwork-types/scene/background--scene--pattern-local.md)
+- [柄の背景：部分](artwork-types/scene/background--scene--pattern-local.md)
 
 - [環境背景](artwork-types/scene/background--scene--scene.md)
 
@@ -138,7 +138,7 @@
 
 - [模様のある背景: 全領域](artwork-types/subject/background--multiple--pattern-full.md)
 
-- [模様のある背景: ローカル](artwork-types/subject/background--multiple--pattern-local.md)
+- [柄の背景：部分](artwork-types/subject/background--multiple--pattern-local.md)
 
 - [環境背景](artwork-types/subject/background--multiple--scene.md)
 
@@ -152,7 +152,7 @@
 
 - [模様のある背景: 全領域](artwork-types/subject/background--relationship--pattern-full.md)
 
-- [模様のある背景: ローカル](artwork-types/subject/background--relationship--pattern-local.md)
+- [柄の背景：部分](artwork-types/subject/background--relationship--pattern-local.md)
 
 - [環境背景](artwork-types/subject/background--relationship--scene.md)
 
@@ -166,7 +166,7 @@
 
 - [模様のある背景: 全領域](artwork-types/subject/background--single--pattern-full.md)
 
-- [模様のある背景: ローカル](artwork-types/subject/background--single--pattern-local.md)
+- [柄の背景：部分](artwork-types/subject/background--single--pattern-local.md)
 
 - [環境背景](artwork-types/subject/background--single--scene.md)
 
@@ -176,9 +176,9 @@
 
 - [透明な背景](artwork-types/subject/background--single--transparent.md)
 
-- [無料のコレクションレイアウト](artwork-types/subject/collection--collection-free.md)
+- [自由なコレクション配置](artwork-types/subject/collection--collection-free.md)
 
-- [通常のコレクションのレイアウト](artwork-types/subject/collection--collection-grid.md)
+- [規則的なコレクション配置](artwork-types/subject/collection--collection-grid.md)
 
 - [周囲の小さなアクセント](artwork-types/subject/decoration--deco-dots.md)
 
@@ -190,31 +190,31 @@
 
 - [周囲の装飾](artwork-types/subject/decoration--deco-wreath.md)
 
-- [分割変位型](artwork-types/subject/letter-art--letter-fracture.md)
+- [分割してずらした文字](artwork-types/subject/letter-art--letter-fracture.md)
 
 - [アウトラインレタリング](artwork-types/subject/letter-art--letter-outline.md)
 
 - [斜めパースタイプ](artwork-types/subject/letter-art--letter-perspective.md)
 
-- [伸縮タイプまたは圧縮タイプ](artwork-types/subject/letter-art--letter-stretch.md)
+- [伸ばした文字・圧縮した文字](artwork-types/subject/letter-art--letter-stretch.md)
 
 - [画像またはテクスチャが埋め込まれたタイプ](artwork-types/subject/letter-art--letter-texture.md)
 
 - [湾曲または波形タイプ](artwork-types/subject/letter-art--letter-wave.md)
 
-- [主要科目と補助科目](artwork-types/subject/multiple--multi-dominant.md)
+- [主役と脇役のモチーフ](artwork-types/subject/multiple--multi-dominant.md)
 
 - [クラスター化および重複](artwork-types/subject/multiple--multi-overlap.md)
 
 - [隣り合った被写体](artwork-types/subject/multiple--multi-parallel.md)
 
-- [センター周辺の科目](artwork-types/subject/multiple--multi-radial.md)
+- [中心の周りのモチーフ](artwork-types/subject/multiple--multi-radial.md)
 
 - [垂直グループ化](artwork-types/subject/multiple--multi-stack.md)
 
 - [対称的なグループ化](artwork-types/subject/multiple--multi-symmetric.md)
 
-- [画像とテキストを重ねて表示](artwork-types/subject/relationship--relation-above.md)
+- [画像と文字を上下に配置](artwork-types/subject/relationship--relation-above.md)
 
 - [主役の周囲のテキスト](artwork-types/subject/relationship--relation-around.md)
 
@@ -222,7 +222,7 @@
 
 - [画像とテキストを織り交ぜる](artwork-types/subject/relationship--relation-interlace.md)
 
-- [型のみの式](artwork-types/subject/relationship--relation-plain-type.md)
+- [文字だけの表現](artwork-types/subject/relationship--relation-plain-type.md)
 
 - [文字形式内のイメージ](artwork-types/subject/relationship--relation-replace.md)
 
@@ -258,7 +258,7 @@
 
 - [模様のある背景: 全領域](artwork-types/texture/background--texture--pattern-full.md)
 
-- [模様のある背景: ローカル](artwork-types/texture/background--texture--pattern-local.md)
+- [柄の背景：部分](artwork-types/texture/background--texture--pattern-local.md)
 
 - [環境背景](artwork-types/texture/background--texture--scene.md)
 
@@ -286,7 +286,7 @@
 
 ## テクニック
 
-- [フレームを超えて画像を撮る](techniques/change-ratio.md)
+- [画像をフレームの外へ広げる](techniques/change-ratio.md)
 
 - [ひとつの画像から、無限の可能性。](techniques/compose-anything.md)
 
@@ -320,7 +320,7 @@
 
 - [ペット用給餌マット](products/pet-products.md)
 
-- [電話ケース](products/phone-cases.md)
+- [スマホケース](products/phone-cases.md)
 
 - [枕とクッション](products/pillows.md)
 
@@ -346,7 +346,7 @@
 
 - [人生のマイルストーン](gifts/life-milestones.md)
 
-- [思い出と記念](gifts/memories-and-memorials.md)
+- [思い出と追悼](gifts/memories-and-memorials.md)
 
 - [個性と楽しさ](gifts/personality-and-fun.md)
 

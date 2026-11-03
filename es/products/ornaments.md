@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/ornaments?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/ornaments?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Convierta el retrato de una mascota, una foto de pareja, un nombre o una fecha e
 
 ### Mantenga el diseño enfocado
 
-Los adornos funcionan mejor con un tema claro, un gráfico festivo simple o un nombre y año cortos. Una mascota o persona como sujeto principal; Un simple icono de vacaciones; Un nombre y año integrados en el diseño.
+Los adornos funcionan mejor con un motivo principal claro, un gráfico festivo sencillo o un nombre y un año breves. Una mascota o una persona como motivo principal; un icono festivo sencillo; un nombre y un año integrados en el diseño.
 
 [![Adornos y atrapasoles · Adorno acrílico](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
@@ -46,13 +46,13 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más fotos e imágenes Skills**
+**Explora más Skills de fotos e imágenes**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explora más fotos e imágenes Skills
+#### Explora más Skills de fotos e imágenes
 
 1 / 1
 
@@ -62,13 +62,13 @@ Vista previa del producto de IA
 
 Retrato familiar de vidrieras](https://podplo.app/skills/stained-glass-family-portrait)
 
-### Añade detalles navideños al tema original.
+### Añade detalles navideños al motivo original
 
-Agregue un pequeño conjunto de elementos festivos conservando el tema original.
+Añade unos pocos elementos festivos y conserva el motivo principal original.
 
-[Hazlo Navidad](https://podplo.app/skills/make-it-christmas)
+[Versión navideña](https://podplo.app/skills/make-it-christmas)
 
-![Hazlo navideño · Imagen fuente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
+![Make It Christmas · Imagen de origen](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 Imagen fuente
 
@@ -78,21 +78,21 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
 <a id="product-mockup"></a>
 
 ## Vista previa del diseño en el producto.
 
-### Vista previa con decoración navideña
+### Vista previa con decoración festiva
 
-La vista previa de IA coloca el diseño entre luces, ramas y otras decoraciones navideñas.
+La previsualización con IA sitúa el diseño entre luces, ramas y otros adornos festivos.
 
-- Utilice un tema claro
+- Usa un motivo principal claro
 
 - Mantenga el nombre breve y fácil de leer.
 
-- Una paleta simple se destaca sobre la detallada decoración navideña.
+- Una paleta sencilla destaca frente a una decoración festiva detallada
 
 [![Adornos y atrapasoles · Adorno acrílico](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 

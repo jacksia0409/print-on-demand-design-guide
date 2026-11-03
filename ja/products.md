@@ -44,7 +44,7 @@ Tシャツのプレビュー
 
 シームレスパターン](https://podplo.app/skills/seamless-pattern)[![コンパクトセンターレイアウトのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![花名フレームアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
+コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![花のネームフレームの作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
 花のネームフレーム](https://podplo.app/skills/floral-name-frame)[![柔らかい水彩画のペットのポートレートのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
@@ -92,9 +92,9 @@ Tシャツのプレビュー
 
 **バックパックとランチバッグ**
 
-間違いなくあなたのバッグ](products/backpacks.md)[![電話ケース](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100560723646.webp)
+間違いなくあなたのバッグ](products/backpacks.md)[![スマホケース](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100560723646.webp)
 
-**電話ケース**
+**スマホケース**
 
 お気に入りの画像を近くに置いておく](products/phone-cases.md)[![ノートとプランナー](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
 

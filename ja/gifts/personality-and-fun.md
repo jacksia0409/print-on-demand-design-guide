@@ -18,7 +18,7 @@
 
 ## 内輪ジョークを中心としたデザイン
 
-ニックネームや共有されたジョークは、コンパクトで非常に個人的なデザインを定着させることができます。
+ニックネームや仲間内の冗談を中心に、コンパクトでその人らしいデザインを作れます。
 
 ニックネーム、キャッチフレーズ、共有ジョークを使用すると、対象グループにとって意味のあるコンパクトなデザインを実現できます。非公開にしておくべきプライベートな詳細を含めずに、使い慣れたフレーズを使用します。
 
@@ -40,9 +40,9 @@
 
 ポスターメーカー](https://podplo.app/skills/poster-maker)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)
 
@@ -74,9 +74,9 @@
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="groups-and-sets"></a>
 

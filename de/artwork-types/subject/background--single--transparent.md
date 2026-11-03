@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--single--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/background--single--transparent?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Themengesteuert / KREATIVE RICHTUNG / einzelnes Thema
+Motiv im Mittelpunkt / GESTALTUNGSRICHTUNG / Einzelmotiv
 
 # Transparenter Hintergrund
 
-Einzelmotiv: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.
+Einzelmotiv: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.
 
 <a id="understand"></a>
 
-![Transparenter Hintergrund: Einzelnes Motiv: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
+![Transparenter Hintergrund: Einzelmotiv: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 Kompositionsskizze
 
@@ -26,9 +26,9 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster oder keinen weißen Grund in das Bild und bezeichnen Sie es als transparent; Geben Sie an, dass eine Nachbearbeitung erforderlich ist, wenn das Tool keine Transparenz erzeugen kann.
+Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster und keinen weißen Hintergrund in das Bild, um es dann als transparent zu bezeichnen. Geben Sie an, dass Nachbearbeitung nötig ist, wenn das Werkzeug keine Transparenz erzeugen kann.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 ![Ausgeschnittenes Motiv mit isoliertem transparentem Hintergrund](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
@@ -38,13 +38,13 @@ Verarbeitungsbeispiel · Hintergrund entfernt
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Betreffgesteuert → Einzelnes Betreff → Hintergrund → Transparenter Hintergrund
+Motiv im Mittelpunkt → Einzelmotiv → Hintergrund → Transparenter Hintergrund
 
 **Eingabe und Ausgabe**
 
@@ -52,11 +52,11 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Behalten Sie ein zusammenhängendes Schwerpunktthema bei. Wenn mehrere unabhängige Objekte vorhanden sind, wählen Sie das Hauptthema oder organisieren Sie ein klares, einheitliches visuelles Ganzes.
+Bewahren Sie ein in sich stimmiges Hauptmotiv. Sind mehrere unabhängige Objekte vorhanden, wählen Sie das Hauptmotiv aus oder ordnen Sie sie zu einem klar zusammengehörigen visuellen Ganzen.
 
 **Hintergrund**
 
-Verwenden Sie alle relevanten Paletten, Behandlungen oder erforderlichen Themenhinweise von einem vorhandenen Hintergrund und entfernen Sie dann die Trägerschicht. Halten Sie einen fehlenden Hintergrund transparent, anstatt einen falschen Grund zu malen. Die notwendigen Farben im Inhalt können erhalten bleiben.
+Übernehmen Sie relevante Farbpaletten, Gestaltungsmerkmale oder notwendige thematische Hinweise aus einem vorhandenen Hintergrund und entfernen Sie anschließend die Hintergrundebene. Lassen Sie einen fehlenden Hintergrund transparent, statt einen künstlichen Untergrund hineinzumalen; notwendige Farben innerhalb des Inhalts dürfen erhalten bleiben.
 
 **Textinhalt**
 
@@ -68,32 +68,32 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster oder keinen weißen Grund in das Bild und bezeichnen Sie es als transparent; Geben Sie an, dass eine Nachbearbeitung erforderlich ist, wenn das Tool keine Transparenz erzeugen kann.
+Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster und keinen weißen Hintergrund in das Bild, um es dann als transparent zu bezeichnen. Geben Sie an, dass Nachbearbeitung nötig ist, wenn das Werkzeug keine Transparenz erzeugen kann.
 
-[Öffnen Sie den Hintergrundentferner Skill ↗](https://podplo.app/generate?skill=background-remover)
+[Skill „Hintergrundentferner“ öffnen ↗](https://podplo.app/generate?skill=background-remover)
 
-Wechselt zu diesem Skill und behält Ihre vorhandenen Eingabeaufforderungs- und Referenzbilder bei.
+Wechselt zu diesem Skill und behält Ihren vorhandenen Prompt und Ihre Referenzbilder bei.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Einfarbiger Hintergrund: Einzelnes Motiv: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+[![Einfarbiger Hintergrund: Einzelmotiv: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Einzelmotiv: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--single--solid.md)[![Hintergrund mit Farbverlauf: Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+Einzelmotiv: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--single--solid.md)[![Hintergrund mit Farbverlauf: Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--single--gradient.md)[![Gemusterter Hintergrund: lokal: Einzelnes Motiv: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
+Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--single--gradient.md)[![Gemusterter Hintergrund, lokal: Einzelmotiv: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Einzelnes Motiv: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--single--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Einzelnes Motiv: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
+Einzelmotiv: Eine dekorative Fläche liegt hinter dem Inhalt; außerhalb dieser Fläche bleibt ein Bereich frei.](background--single--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Einzelnes Motiv: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
 Einzelnes Motiv: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--single--pattern-full.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

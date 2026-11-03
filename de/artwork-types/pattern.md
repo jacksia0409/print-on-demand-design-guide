@@ -6,25 +6,25 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/pattern?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 <a id="overview"></a>
 
-KUNSTFORMULAR · 02 / 05
+GESTALTUNGSFORM · 02 / 05
 
 # Muster
 
 Motive ergeben durch Wiederholung oder klare Anordnung ein dekoratives Ganzes. Ein nahtloser Rapport benötigt eine eigene Kantenprüfung.
 
-![Beispiel für ein Fliesenlayout mit floralem Rapportmuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+![Layoutbeispiel einer floralen Rapportkachel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 Designbeispiel · Florales Rapportmuster
 
 <a id="pattern-design"></a>
 
-## Musterzusammensetzung und Behandlungen
+## Musterkomposition und Gestaltungsweisen
 
 <a id="pattern"></a>
 
@@ -94,7 +94,7 @@ Richten Sie die Einheiten auf ein Zentrum aus oder kehren Sie sie nach außen um
 
 #### Motivsequenzen und Beats
 
-Vergleichen Sie Motivsequenzen durch Wechsel, Zyklen, Haupt- und Füllschläge, Paare, Cluster, Größenänderungen, gemischte Tonleitern und sogar Abstände.
+Vergleichen Sie Motivfolgen anhand von Wechseln, Zyklen, Rhythmen aus Haupt- und Füllmotiven, Paaren, Gruppen, Größenänderungen, gemischten Maßstäben und gleichmäßigen Abständen.
 
 <a id="form-pattern-60-0"></a>
 
@@ -114,9 +114,9 @@ Wechseln Sie drei oder mehr Einheitentypen in einer festen Reihenfolge, um einen
 
 <a id="form-pattern-60-2"></a>
 
-![Haupt- und Füller-Beat – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-60-2.svg)
+![Rhythmus aus Haupt- und Füllmotiven – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-60-2.svg)
 
-##### Haupt- und Füller-Beat
+##### Rhythmus aus Haupt- und Füllmotiven
 
 Wiederholen Sie eine große Haupteinheit mit kleineren Füllelementen, damit das Muster eine klare Hierarchie behält.
 
@@ -126,7 +126,7 @@ Wiederholen Sie eine große Haupteinheit mit kleineren Füllelementen, damit das
 
 ##### Gepaarte Motive
 
-Paaren Sie zuerst zwei übereinstimmende oder verwandte Einheiten und wiederholen Sie dann das Paaren anstelle isolierter Einzelelemente.
+Bilden Sie zuerst ein Paar aus zwei passenden oder verwandten Einheiten und wiederholen Sie dann dieses Paar statt einzelner Elemente.
 
 <a id="form-pattern-60-4"></a>
 
@@ -146,9 +146,9 @@ Wechseln Sie große und kleine Einheiten ab, sodass der Takt durch Skalenuntersc
 
 <a id="form-pattern-60-6"></a>
 
-![Gemischte Skalen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-60-6.svg)
+![Gemischte Maßstäbe – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-60-6.svg)
 
-##### Gemischte Skalen
+##### Gemischte Maßstäbe
 
 Mischen Sie mehrere Größen desselben Elements, um Tiefe zu erzeugen und den optischen Reichtum zu steigern.
 
@@ -164,15 +164,15 @@ Behandeln Sie konsistente offene Intervalle als Teil des Rhythmus und achten Sie
 
 <a id="pattern-group-word-g61-pattern"></a>
 
-#### Dichte und Farbverläufe
+#### Dichte und Abstufungen
 
-Vergleichen Sie räumliche Farbverläufe, die durch die Änderung der Motivdichte, des Maßstabs, der Richtung, der Farbe oder der Konzentration des umgebenden Raums entstehen.
+Vergleichen Sie räumliche Abstufungen durch Änderungen von Motivdichte, Größe, Richtung, Farbe oder dem Anteil des umgebenden Freiraums.
 
 <a id="form-pattern-61-0"></a>
 
-![Spärlicher offener Abstand – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-61-0.svg)
+![Lockere Anordnung mit großen Abständen — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-61-0.svg)
 
-##### Spärlicher offener Abstand
+##### Lockere Anordnung mit großen Abständen
 
 Lassen Sie zwischen einigen Einheiten großzügige Abstände, um ein helles, ruhiges Muster auf der gesamten Fläche zu erzielen.
 
@@ -194,7 +194,7 @@ Packen Sie die Elemente eng zusammen und lassen Sie lokale Überlappungen zu, da
 
 <a id="form-pattern-61-3"></a>
 
-![Skalengradient – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-61-3.svg)
+![Größenverlauf — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-61-3.svg)
 
 ##### Skalierungsverlauf
 
@@ -214,7 +214,7 @@ Erhöhen oder verringern Sie die Einheitengröße entlang einer Richtung, um Vor
 
 ##### Farbverlauf
 
-Halten Sie das Layout stabil, während Sie die Farbe, den Wert oder die Sättigung der Einheit durch einen Übergang abstufen.
+Halten Sie das Layout stabil und lassen Sie Farbe, Tonwert oder Sättigung der Einheiten stufenweise übergehen.
 
 <a id="form-pattern-61-6"></a>
 
@@ -350,7 +350,7 @@ Wiederholen Sie kleine Szenen mit Menschen, Tieren oder alltäglichen Aktivität
 
 ##### Text-Bild-Mix
 
-Mischen Sie Wörter, Buchstaben, Zahlen und Zahlen und achten Sie dabei auf Größe, Richtung und Abstand, um einen Rhythmus zu schaffen.
+Mischen Sie Wörter, Buchstaben, Zahlen und Figuren und nutzen Sie Größe, Richtung und Abstände für den Rhythmus.
 
 <a id="form-pattern-68-7"></a>
 
@@ -390,7 +390,7 @@ Versetzen Sie mehrere Kurven voneinander, z. B. Konturen, Jahresringe oder topog
 
 ##### Punkthalbtonfeld
 
-Verwenden Sie Punktgröße, -dichte und -anordnung, um Werte, Formen oder regelmäßige Texturen zu erzeugen.
+Nutzen Sie Punktgröße, -dichte und -anordnung, um Tonwerte, Formen oder regelmäßige Texturen zu erzeugen.
 
 <a id="form-pattern-69-3"></a>
 
@@ -502,7 +502,7 @@ Kombinieren Sie schlanke Rauten und Dreiecke um Sechs-Wege-Mittelpunkte zu einem
 
 #### Florale und traditionelle Motive
 
-Vergleichen Sie traditionelle Ornamente anhand von Blütenschuppen, ineinander verschlungenen Ranken, verschlungenem Blattwerk, Wolken- und Wellenformen sowie heraldischen Blumenstrukturen.
+Vergleichen Sie traditionelle Ornamente anhand von Blütengröße, verflochtenen Ranken, geschwungenem Blattwerk, Wolken- und Wellenformen und heraldischen Blütenstrukturen.
 
 <a id="form-pattern-73-0"></a>
 
@@ -514,7 +514,7 @@ Wiederholen Sie kleine Blüten und Blätter dicht oder spärlich, damit keine ei
 
 <a id="form-pattern-73-1"></a>
 
-![Große florale – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-1.svg)
+![Großes Blumenmuster – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-1.svg)
 
 ##### Großes Blumenmuster
 
@@ -530,9 +530,9 @@ Verknüpfen Sie Blumen und Blätter mit kontinuierlich geschwungenen Ranken, die
 
 <a id="form-pattern-73-3"></a>
 
-![Scrollendes Laub – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-3.svg)
+![Blattranken — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-73-3.svg)
 
-##### Scrollendes Laub
+##### Blattranken
 
 Bauen Sie eine fließende Struktur aus gekräuseltem Blattwerk, Spiralen und S-förmigen Linien.
 
@@ -566,7 +566,7 @@ Kombinieren Sie Pflanzen, Kronen oder Objekte um eine Mittelachse, um eine forma
 
 #### Tier- und Naturmotive
 
-Vergleichen Sie Tiermarkierungen und natürliche Oberflächenmuster als erkennbare Motive, einschließlich Tarnung, Marmoradern und Holzmaserung.
+Vergleichen Sie Fellzeichnungen und natürliche Oberflächenmuster als erkennbare Motive, darunter Tarnmuster, Marmoradern und Holzmaserung.
 
 <a id="form-pattern-74-0"></a>
 
@@ -598,7 +598,7 @@ Ordnen Sie scharfe Streifen mit starker Breitenvariation entlang einer angedeute
 
 ##### Kuhflecken
 
-Kontrastieren Sie große, feste, unregelmäßige Flecken mit breitem, offenem Boden und betonen Sie so die Kontur jedes Fleckens.
+Setzen Sie große, deckende, unregelmäßige Flächen gegen weiten offenen Hintergrund und betonen Sie die Kontur jeder Fläche.
 
 <a id="form-pattern-74-4"></a>
 
@@ -630,7 +630,7 @@ Kombinieren Sie fließende Farbbänder, verzweigte feine Adern und breite Überg
 
 ##### Holzmaserung und Jahresringe
 
-Verwenden Sie ausgerichtete Fasern, Knoten und verschachtelte Kurven, um die Holzmaserung in Längsrichtung oder quer geschnittene Jahresringe darzustellen.
+Nutzen Sie ausgerichtete Fasern, Aststellen und ineinanderliegende Kurven, um längs verlaufende Holzmaserung oder Jahresringe im Querschnitt darzustellen.
 
 <a id="seamless"></a>
 
@@ -642,15 +642,15 @@ VISUELLE FORMEN · 48
 
 <a id="seamless-group-word-g56-seamless"></a>
 
-#### Grundlegende Regelungen
+#### Grundlegende Anordnungen
 
 Vergleichen Sie vier wiederholbare Oberflächenorganisationen, deren Einheiten kontinuierlich über jede Kante hinaus kacheln, ohne einen endlichen Endpunkt preiszugeben.
 
 <a id="form-pattern-56-0"></a>
 
-![Regelmäßige Fliesen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-0.svg)
+![Regelmäßige Kachelung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-0.svg)
 
-##### Regelmäßige Fliesenverlegung
+##### Regelmäßige Kachelung
 
 Platzieren Sie Symbole gleichmäßig in ausgerichteten Zeilen und Spalten und fügen Sie kleine Füller hinzu, wenn zusätzliche Fülle erforderlich ist.
 
@@ -664,11 +664,11 @@ Versetzen Sie Symbole diagonal, um einen ineinandergreifenden Rhythmus zu erzeug
 
 <a id="form-pattern-56-2"></a>
 
-![Kostenlose Streuung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-2.svg)
+![Freie Streuung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-56-2.svg)
 
-##### Kostenlose Streuung
+##### Freie Streuung
 
-Streuen Sie Symbole in unterschiedlichen Größen und Winkeln mit Punkten oder ähnlichen Füllelementen für eine entspannte, spontane Wiederholung.
+Verteilen Sie Symbole in unterschiedlichen Größen und Winkeln sowie Punkte oder ähnliche Füllelemente zu einem lockeren, spontan wirkenden Rapport.
 
 <a id="form-pattern-56-4"></a>
 
@@ -704,11 +704,11 @@ Verwenden Sie ungleiche horizontale und vertikale Abstände, um einen gestreckte
 
 <a id="form-pattern-57-2"></a>
 
-![Diamantgitter – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-2.svg)
+![Rautengitter – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-2.svg)
 
-##### Diamantgitter
+##### Rautengitter
 
-Stellen Sie die Einheiten auf Rautengitterpunkte ein, sodass die Wiederholung sich kreuzenden diagonalen Pfaden folgt.
+Setzen Sie Einheiten auf die Punkte eines Rautenrasters, sodass der Rapport sich kreuzenden diagonalen Bahnen folgt.
 
 <a id="form-pattern-57-3"></a>
 
@@ -728,9 +728,9 @@ Verschieben Sie jede benachbarte Reihe horizontal um eine halbe Einheit und verb
 
 <a id="form-pattern-57-5"></a>
 
-![Vertikaler halber Tropfen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-5.svg)
+![Vertikaler Halbversatz — visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-5.svg)
 
-##### Vertikaler halber Tropfen
+##### Vertikaler Halbversatz
 
 Verschieben Sie benachbarte Spalten vertikal um eine halbe Einheit, um offensichtliche horizontale Zeilen abzuschwächen.
 
@@ -738,7 +738,7 @@ Verschieben Sie benachbarte Spalten vertikal um eine halbe Einheit, um offensich
 
 ![Bruchteilsversatz – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-57-6.svg)
 
-##### Bruchteil des Offsets
+##### Bruchteilsversatz
 
 Versetzen Sie Zeilen oder Spalten um feste Drittel oder Viertel und kehren Sie nach mehreren Schritten zur Ausrichtung zurück.
 
@@ -760,7 +760,7 @@ Vergleichen Sie nahtlose Wiederholungen, die durch Spiegelung und Drehung erzeug
 
 <a id="form-pattern-58-0"></a>
 
-![Links-Rechts-Reflexion – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-58-0.svg)
+![Links-Rechts-Spiegelung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-58-0.svg)
 
 ##### Links-Rechts-Spiegelung
 
@@ -772,7 +772,7 @@ Spiegeln Sie gepaarte Einheiten über eine vertikale Achse, sodass sie aufeinand
 
 ##### Oben-unten-Reflexion
 
-Drehen Sie Einheiten über und unter einer horizontalen Achse, um Spiegelungen, gegenüberliegende Paare oder verbundene Kanten zu bilden.
+Spiegeln Sie Einheiten ober- und unterhalb einer horizontalen Achse, um Spiegelbilder, gegengerichtete Paare oder verbundene Ränder zu bilden.
 
 <a id="form-pattern-58-2"></a>
 
@@ -780,7 +780,7 @@ Drehen Sie Einheiten über und unter einer horizontalen Achse, um Spiegelungen, 
 
 ##### Punktsymmetrie
 
-Drehen Sie eine Einheit halb um einen Mittelpunkt, um ein entgegengesetzt ausgerichtetes Positionspaar zu erstellen.
+Drehen Sie eine Einheit um eine halbe Umdrehung um einen Mittelpunkt, um ein Paar mit entgegengesetzter Ausrichtung zu bilden.
 
 <a id="form-pattern-58-3"></a>
 
@@ -800,9 +800,9 @@ Ordnen Sie sechs Richtungen um ein Zentrum an, um einen Blütenblatt-, Schneekri
 
 <a id="form-pattern-58-5"></a>
 
-![Gleitreflexion – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-58-5.svg)
+![Gleitspiegelung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-58-5.svg)
 
-##### Gleitreflexion
+##### Gleitspiegelung
 
 Spiegeln Sie eine Einheit und verschieben Sie sie dann entlang der Reflexionsachse, um innerhalb eines Bandes kontinuierlich zu wechseln.
 
@@ -810,9 +810,9 @@ Spiegeln Sie eine Einheit und verschieben Sie sie dann entlang der Reflexionsach
 
 ![Gespiegeltes Patchwork – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-58-6.svg)
 
-##### Verspiegeltes Patchwork
+##### Gespiegeltes Patchwork
 
-Drehen Sie einen Flicken um und drehen Sie ihn in einen größeren Rapport, dessen gemeinsame Kanten zusätzliche Formen erzeugen.
+Spiegeln und drehen Sie eine Teilfläche zu einem größeren Rapport, dessen gemeinsame Kanten zusätzliche Formen erzeugen.
 
 <a id="form-pattern-58-7"></a>
 
@@ -840,9 +840,9 @@ Wechseln Sie zwei Farben, Texturen oder Figuren in benachbarten Zellen ab, um ei
 
 <a id="form-pattern-63-1"></a>
 
-![Diamantgitter – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-1.svg)
+![Rautengitter – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-1.svg)
 
-##### Diamantgitter
+##### Rautengitter
 
 Umgeben Sie die Motive in der Mitte mit durchgehenden Rautenzellen und trennen Sie so das Strukturgitter von seiner Verzierung.
 
@@ -860,7 +860,7 @@ Verbinden Sie wiederholte Einheiten durch ein sechseckiges Gerüst, sodass die M
 
 ##### Dreieckiges Gitter
 
-Umgedrehte dreieckige Einheiten, die unterschiedliche Motivrichtungen innerhalb angrenzender Zellen zuweisen.
+Kacheln Sie gespiegelte dreieckige Einheiten und geben Sie den Motiven in benachbarten Zellen unterschiedliche Richtungen.
 
 <a id="form-pattern-63-4"></a>
 
@@ -890,7 +890,7 @@ Verknüpfen Sie vierblättrige oder vierpassige Umrisse zu einem weichen, durchg
 
 ![Jakobsmuschelfächer – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-63-7.svg)
 
-##### Jakobsmuschel-Fans
+##### Muschelfächer
 
 Überlagern und versetzen Sie Fächer oder Bögen zu einer durchgehenden Wellenstruktur, die Schuppen ähnelt.
 
@@ -906,9 +906,9 @@ Wiederholen Sie quadratische oder vieleckige Fliesen, deren Innenmuster sich üb
 
 <a id="seamless-group-word-g64-seamless"></a>
 
-#### Verbindungen und Verriegelungen
+#### Verbindungen und Verzahnungen
 
-Vergleichen Sie kontinuierliche Verbindungen und Verzahnungen, deren Linien oder Motive die Fliesengrenzen überschreiten, um ununterbrochene gewebte, verbundene oder labyrinthartige Oberflächen zu bilden.
+Vergleichen Sie durchgehende Verbindungen und Verzahnungen, bei denen Linien oder Motive über Kachelgrenzen hinweg zusammenhängende gewebte, verkettete oder labyrinthartige Flächen bilden.
 
 <a id="form-pattern-64-0"></a>
 
@@ -972,7 +972,7 @@ Weben Sie zwei oder mehr Bänder nach einer einheitlichen Kreuzungsregel über- 
 
 ##### Geknüpftes Netz
 
-Verbinden Sie ein Liniennetz durch Knoten oder Knoten, sodass sowohl Kreuzungen als auch Öffnungen Teil des Musters sind.
+Verbinden Sie ein Liniennetz durch Verknotungen oder Knotenpunkte, sodass Verbindungen und Öffnungen gleichermaßen Teil des Musters sind.
 
 <a id="seamless-panel-word-g65-seamless"></a>
 
@@ -1018,7 +1018,7 @@ Biegen Sie die Bänder in sanften Wellen und richten Sie jede Einheit entspreche
 
 ![Abwechselnde Bänder – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-65-4.svg)
 
-##### Abwechselnde Bands
+##### Abwechselnde Bänder
 
 Wechseln Sie zwei oder mehr Bandtypen ab und weisen Sie jedem seine eigenen Figuren, Farben oder Dekorationen zu.
 
@@ -1064,9 +1064,9 @@ Machen Sie die Lücke in einer Figur zu einer anderen und wechseln Sie ab, welch
 
 <a id="form-pattern-67-2"></a>
 
-![Unregelmäßige modulare Fliesen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-2.svg)
+![Unregelmäßige modulare Kachelung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-2.svg)
 
-##### Unregelmäßige modulare Fliesen
+##### Unregelmäßige modulare Kachelung
 
 Wiederholen Sie ein entworfenes unregelmäßiges Modul, dessen Außenkontur bestimmt, wie die einzelnen Teile zusammengefügt werden.
 
@@ -1088,7 +1088,7 @@ VISUELLE FORMEN · 22
 
 <a id="finite-group-word-g56-finite"></a>
 
-#### Grundlegende Regelungen
+#### Grundlegende Anordnungen
 
 Vergleichen Sie radiale und lineare Anordnungen, die als begrenzte Kompositionen erstellt wurden, wobei wiederholte Einheiten einem definierten Zentrum oder Pfad dienen.
 
@@ -1114,7 +1114,7 @@ Wiederholen Sie vereinfachte Symbolsilhouetten horizontal oder vertikal als eine
 
 #### Zentren und Rosetten
 
-Vergleichen Sie begrenzte, zentrumsbasierte Ornamente, bei denen sich konzentrische, spiralförmige, blütenblattförmige, mandala-, fächerförmige oder strahlende Einheiten um einen oder mehrere Kerne auflösen.
+Vergleichen Sie begrenzte, um eine Mitte aufgebaute Ornamente, bei denen sich konzentrische, spiralförmige, blütenblattartige, mandalaartige, fächerförmige oder strahlenförmige Einheiten um einen oder mehrere Kerne ordnen.
 
 <a id="form-pattern-66-0"></a>
 
@@ -1150,9 +1150,9 @@ Kombinieren Sie Geometrie, Blütenblätter und feine Details in mehreren radials
 
 <a id="form-pattern-66-4"></a>
 
-![Fan-Spread – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-66-4.svg)
+![Fächerförmige Anordnung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-66-4.svg)
 
-##### Fan-Spread
+##### Fächerförmige Anordnung
 
 Öffnen Sie Formen von einem Basispunkt über einen begrenzten Winkel, um eine Fächer- oder Pfauenschwanzstruktur zu erzeugen.
 
@@ -1182,9 +1182,9 @@ Verwandeln Sie eine Einheit im gesamten Bild schrittweise in eine andere und wah
 
 <a id="form-pattern-67-5"></a>
 
-![Defekte Fliesen – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-5.svg)
+![Unterbrochene Kachelung – visuelle Studie](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/pattern-67-5.svg)
 
-##### Kaputte Fliesen
+##### Unterbrochene Kachelung
 
 Entfernen, drehen oder ersetzen Sie einige Einheiten innerhalb einer geordneten Kachelung, um absichtliche Anomalien zu erzeugen.
 
@@ -1192,9 +1192,9 @@ Entfernen, drehen oder ersetzen Sie einige Einheiten innerhalb einer geordneten 
 
 <a id="finite-group-word-g70-finite"></a>
 
-#### Grenzen und Wachstum
+#### Ränder und Wachstum
 
-Vergleichen Sie begrenzte Grenzen und gerichtetes Wachstum, das ausgewählte Kanten, Ecken, Rahmen, Bänder oder sich erweiternde lokale Regionen einnimmt.
+Vergleichen Sie begrenzte Bordüren und gerichtetes Wachstum an ausgewählten Rändern, Ecken, Rahmen, Bändern oder sich ausdehnenden lokalen Bereichen.
 
 <a id="form-pattern-70-0"></a>
 
@@ -1210,7 +1210,7 @@ Wiederholen Sie die Einheiten kontinuierlich entlang einer Kante für eine Mansc
 
 ##### Gepaarte Ränder
 
-Platzieren Sie Ränder auf zwei gegenüberliegenden Seiten, um ein Thema, einen Text oder einen offenen Bereich dazwischen zu halten.
+Setzen Sie Bordüren an zwei gegenüberliegende Seiten, sodass Motiv, Text oder Freiraum dazwischenliegen.
 
 <a id="form-pattern-70-2"></a>
 
@@ -1258,7 +1258,7 @@ Vergleichen Sie die Platzierung innerhalb eines festen Produktbereichs durch zen
 
 ##### Zentrierte Platzierung
 
-Konzentrieren Sie das gesamte Muster in der Mitte des endgültigen Designs und lassen Sie um ihn herum einen ruhigeren Raum.
+Konzentrieren Sie das vollständige Muster in der Mitte des endgültigen Designs und lassen Sie darum ruhigeren Freiraum.
 
 <a id="form-pattern-71-1"></a>
 
@@ -1274,7 +1274,7 @@ Platzieren Sie das Hauptmuster auf einer Seite oder Ecke und gleichen Sie es mit
 
 ##### Lokales Patchwork
 
-Tragen Sie das Muster nur am Ausschnitt, an der Tasche, im Körbchenbereich oder an einer anderen bestimmten lokalen Zone auf.
+Tragen Sie das Muster nur am Ausschnitt, an einer Tasche, auf einem Teil der Tassenoberfläche oder in einem anderen festgelegten lokalen Bereich auf.
 
 <a id="form-pattern-71-3"></a>
 
@@ -1290,7 +1290,7 @@ Teilen Sie die Oberfläche in Bereiche mit unterschiedlichen Mustern ein, die du
 
 ##### Ausrichtungspanel-Layout
 
-Richten Sie die Einheiten entsprechend der Ausrichtung eines Produkts oder der Stoffmaserung aus, damit die Motive bei der Verwendung aufrecht bleiben.
+Richten Sie Einheiten nach der Präsentationsrichtung des Produkts oder dem Fadenlauf des Stoffes aus, damit die Motive bei der Nutzung aufrecht stehen.
 
 <a id="form-pattern-71-5"></a>
 
@@ -1306,9 +1306,9 @@ Platzieren Sie Motive entsprechend den endgültigen Abmessungen, Nähten und Sch
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
@@ -1338,4 +1338,4 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 Ein reguläres Asset-Raster ist nicht automatisch ein Muster, und ein beanspruchtes nahtloses Ergebnis erfordert eine separate Prüfung der gekachelten Ausgabe.
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/single--single-offset?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/single--single-offset?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,7 +18,7 @@ Le sujet principal se trouve d’un côté, laissant une zone sensiblement plus 
 
 <a id="understand"></a>
 
-![Décalage avec espace ouvert : le sujet principal est assis d'un côté, laissant une zone sensiblement plus calme ailleurs.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-offset-1.svg)
+![Sujet décentré avec espace libre : le sujet principal est placé d’un côté, laissant ailleurs une zone nettement plus calme.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-offset-1.svg)
 
 Schéma de composition
 
@@ -28,7 +28,7 @@ COMMENT LE RECONNAÎTRE
 
 Une mise en page décalée doit préserver les caractéristiques reconnaissables. Il n’est pas nécessaire de recadrer le sujet ni d’ajouter des objets pour remplir la zone ouverte.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -70,15 +70,15 @@ Une mise en page décalée doit préserver les caractéristiques reconnaissables
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
-[![Fond transparent : Sujet unique : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
+[![Fond transparent : sujet unique : le fond reste transparent ; le damier sert uniquement d’aide à l’affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 ### Fond transparent↗
 
-Sujet unique : Le sol reste transparent ; un damier n'est qu'un support d'affichage.](background--single--transparent.md)[![Fond uni : sujet unique : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+Sujet unique : le fond reste transparent ; le damier sert uniquement à l’affichage.](background--single--transparent.md)[![Fond uni : sujet unique : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Sujet unique : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--single--solid.md)[![Fond dégradé : Sujet unique : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
@@ -104,7 +104,7 @@ Sujet unique : un environnement lié à un thème prend en charge le contenu pr
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Sujet centré : un sujet principal se trouve près du centre, avec un espace autour de lui.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-center-1.svg)
 

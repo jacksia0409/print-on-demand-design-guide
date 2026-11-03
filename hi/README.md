@@ -24,19 +24,19 @@
 
 इनपुट
 
-[![ETERNAL BLOOM गुलाबी लेआउट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/skill-categories/artwork/03--tshirt-one--title-subject-subtitle-layout.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![ETERNAL BLOOM गुलाब वाला लेआउट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/skill-categories/artwork/03--tshirt-one--title-subject-subtitle-layout.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 डिज़ाइन
 
-![टी-शर्ट पर वही गुलाबी कलाकृति](https://podplo.app/pod-guide/generated/tshirt-layout-rose-proof.webp)
+![टी-शर्ट पर वही गुलाब वाली कलाकृति](https://podplo.app/pod-guide/generated/tshirt-layout-rose-proof.webp)
 
 उत्पाद पूर्वावलोकन
 
-**Skills आपके अगले विचार को जगाने के लिए**
+**आपके अगले विचार की प्रेरणा देने वाले Skills**
 
 <a id="_R_1crk_-title"></a>
 
-### Skills आपके अगले विचार को जगाने के लिए
+### आपके अगले विचार की प्रेरणा देने वाले Skills
 
 4 / 6
 
@@ -44,9 +44,9 @@
 
 [![कॉम्पैक्ट सेंटर लेआउट कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)[![शीतल जल रंग पालतू पोर्ट्रेट कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
+कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)[![निर्बाध पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait)[![निर्बाध पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 बिना जोड़ वाला पैटर्न](https://podplo.app/skills/seamless-pattern)[![पुष्प नाम फ़्रेम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -68,7 +68,7 @@
 
 ## मांग पर प्रिंट के लिए किस प्रकार के डिज़ाइन अच्छे काम करते हैं?
 
-विषय-आधारित ग्राफिक्स, दृश्य, पैटर्न, बनावट और अमूर्तता का अन्वेषण करें। सचित्र रूपों की तुलना करें, उनकी सीमाओं को समझें और एक छवि या संकेत में एक दिशा लें।
+मुख्य दृश्य तत्व पर केंद्रित ग्राफिक्स, दृश्य, पैटर्न, बनावट और अमूर्त कला के विकल्प देखें। चित्रित रूपों की तुलना करें, उनकी सीमाएँ समझें और किसी रचनात्मक दिशा को अपने चित्र या प्रॉम्प्ट में अपनाएँ।
 
 [कलाकृति रूपों और एआई दिशाओं का अन्वेषण करें](artwork-types.md)
 
@@ -110,9 +110,9 @@
 
 **पोस्टर और कला प्रिंट**
 
-पसंदीदा छवि के लिए जगह बनाएं](products/art-prints.md)[![तकिए और गद्दे](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
+पसंदीदा छवि के लिए जगह बनाएं](products/art-prints.md)[![तकिए और कुशन](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
 
-**तकिए और गद्दे**
+**तकिए और कुशन**
 
 किसी भी कमरे में व्यक्तिगत स्पर्श जोड़ें](products/pillows.md)
 
@@ -126,13 +126,13 @@
 
 **एक चित्र। अनगिनत संभावनाएँ।**](techniques/compose-anything.md)[![इसे क्रिसमस बनाओ](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-**अपने डिज़ाइन को अवकाशीय मोड़ दें**](techniques/holiday-versions.md)[![स्मार्ट आउटपेंट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
+**अपने डिज़ाइन को उत्सवी रूप दें**](techniques/holiday-versions.md)[![स्मार्ट आउटपेंट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
 **अपनी छवि को फ़्रेम से परे ले जाएं**](techniques/change-ratio.md)[![4पीसी ग्रिड जेनरेटर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **एक विचार को संग्रह में बदलें**](techniques/series-builder.md)[![पुष्प नाम फ़्रेम](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-**इसे नाम या संदेश के साथ व्यक्तिगत बनाएं**](techniques/replace-name-text.md)[![शीतल जल रंग पालतू पोर्ट्रेट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
+**इसे नाम या संदेश के साथ व्यक्तिगत बनाएं**](techniques/replace-name-text.md)[![हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
 **Photo to Art: आपकी पसंदीदा तस्वीरों पर एक नया रूप**](techniques/photo-to-art.md)
 
@@ -150,7 +150,7 @@
 
 **धन्यवाद उपहार**](gifts/gratitude.md)[![कॉम्पैक्ट सेंटर लेआउट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-**समर्थन और प्रोत्साहन**](gifts/support-and-encouragement.md)[![विस्तृत मरम्मत](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+**समर्थन और प्रोत्साहन**](gifts/support-and-encouragement.md)[![डिटेल रिपेयर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 **यादें और स्मारक**](gifts/memories-and-memorials.md)[![कॉम्पैक्ट सेंटर लेआउट](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 

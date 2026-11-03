@@ -18,17 +18,17 @@
 
 ## एक नरम पानी के रंग का पालतू चित्र बनाएं
 
-[शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait) पालतू जानवर को पहचानने योग्य बनाए रखते हुए हल्के जल रंग की शैली जोड़ता है।
+[हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait) पालतू जानवर को पहचानने योग्य बनाए रखते हुए हल्के जल रंग की शैली जोड़ता है।
 
-[शीतल जल रंग पालतू पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait) एक स्पष्ट पालतू जानवर की तस्वीर को हल्के जल रंग की शैली देता है। आंखों का रंग, कान का आकार, चेहरे के निशान और कोट का पैटर्न परिणाम को उसी पालतू जानवर के रूप में पहचानने योग्य रखता है।
+[हल्के जलरंग में पालतू जानवर का पोर्ट्रेट](https://podplo.app/skills/soft-watercolor-pet-portrait) पालतू की साफ़ फ़ोटो को हल्की जलरंग शैली देता है। आँखों का रंग, कान का आकार, चेहरे के निशान और फ़र का पैटर्न परिणाम में उसी पालतू की पहचान बनाए रखते हैं।
 
 ![ग्राहक पालतू जानवर की तस्वीर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-before.webp)
 
 इनपुट
 
-[![पालतू जानवर की पहचान को संरक्षित करने वाला शीतल जलरंग चित्र](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
+[![पालतू जानवर की पहचान बनाए रखने वाला हल्का जलरंग चित्र](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)](https://podplo.app/skills/soft-watercolor-pet-portrait)
 
-शीतल जल रंग पालतू पोर्ट्रेट
+हल्के जलरंग में पालतू जानवर का पोर्ट्रेट
 
 **जानने के लिए और अधिक Skills**
 
@@ -40,9 +40,9 @@
 
 <a id="_R_2qrk_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -76,9 +76,9 @@
 
 <a id="_R_2srk_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -88,17 +88,17 @@
 
 <a id="family-portrait"></a>
 
-## एक आयामी पारिवारिक चित्र बनाएं
+## गहराई वाला पारिवारिक पोर्ट्रेट बनाएँ
 
-[3डी पारिवारिक पोर्ट्रेट](https://podplo.app/skills/3d-family-portrait) परिवार के प्रत्येक सदस्य को पहचानने योग्य बनाए रखते हुए एक आयामी चित्र शैली जोड़ता है।
+[3डी पारिवारिक पोर्ट्रेट](https://podplo.app/skills/3d-family-portrait) परिवार के हर सदस्य की पहचान बनाए रखते हुए गहराई वाला पोर्ट्रेट रूप देता है।
 
-[3डी पारिवारिक पोर्ट्रेट](https://podplo.app/skills/3d-family-portrait) पारिवारिक फोटो को अतिरिक्त गहराई और चरित्र के साथ एक आयामी पोर्ट्रेट शैली देता है। यह वही लोग, रिश्ते और पहचानने योग्य विशेषताएं रखता है।
+[3डी पारिवारिक पोर्ट्रेट](https://podplo.app/skills/3d-family-portrait) परिवार की फ़ोटो को गहराई और व्यक्तित्व वाला पोर्ट्रेट रूप देता है। वही लोग, संबंध और पहचानने योग्य विशेषताएँ बनाए रखता है।
 
 ![ग्राहक परिवार की तस्वीर](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-before.webp)
 
 इनपुट
 
-[![प्रत्येक आपूर्ति किए गए व्यक्ति के साथ 3डी पारिवारिक चित्र](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
+[![स्रोत फ़ोटो के हर व्यक्ति को शामिल करने वाला 3D पारिवारिक चित्र](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
 3डी पारिवारिक पोर्ट्रेट
 
@@ -112,9 +112,9 @@
 
 <a id="_R_2urk_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 

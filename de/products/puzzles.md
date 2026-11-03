@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/puzzles?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/puzzles?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Rätsel
+# Puzzles
 
 Erstellen Sie Puzzle-Kunstwerke aus einer detaillierten Szene, einem Familienfoto oder einer illustrierten Welt.
 
@@ -20,9 +20,9 @@ Erstellen Sie Puzzle-Kunstwerke aus einer detaillierten Szene, einem Familienfot
 
 ### Füllen Sie das Bild mit nützlichen Details
 
-Gesichter, Farbveränderungen und unterschiedliche Objekte verleihen jedem Bereich des Puzzles etwas Wiedererkennbares. Eine ausführlich illustrierte Szene; Ein Familienporträt mit persönlichen Gegenständen; Eine Szene mit deutlichen visuellen Orientierungspunkten.
+Gesichter, Farbwechsel und unterschiedliche Gegenstände geben jedem Puzzlebereich etwas Wiedererkennbares. Eine detailreich illustrierte Szene; Ein Familienporträt mit persönlichen Gegenständen; Eine Szene mit markanten visuellen Orientierungspunkten.
 
-[![Rätsel · Puzzle](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)](https://podplo.app/products/mockup-temu-606793900074986)
+[![Puzzles · Puzzle](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)](https://podplo.app/products/mockup-temu-606793900074986)
 
 <a id="product-create"></a>
 
@@ -50,15 +50,15 @@ KI-Produktvorschau
 
 ### Verwandeln Sie ein Familienfoto in ein Comic-Kunstwerk
 
-Erstellen Sie ein komisches Familienporträt, bei dem jede Person erkennbar bleibt.
+Gestalten Sie ein Comic-Familienporträt, bei dem jede Person erkennbar bleibt.
 
-[Komisches Familienporträt](https://podplo.app/skills/comic-family-portrait)
+[Comic-Familienporträt](https://podplo.app/skills/comic-family-portrait)
 
 ![Comic-Familienporträt · Quellfoto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-before.webp)
 
 Ausgangsfoto
 
-[![Komisches Familienporträt · Generiertes Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
+[![Comic-Familienporträt · Generiertes Design](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
 
 Generiertes Kunstwerk
 
@@ -66,11 +66,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 92
 
@@ -78,13 +78,13 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 <a id="product-mockup"></a>
 
@@ -100,4 +100,4 @@ Die KI-Vorschau zeigt, wie sich Gesichter, Farben und kleine visuelle Hinweise �
 
 - Wiederholen Sie kleine Motive, um verschiedene Bereiche zu verbinden
 
-[![Rätsel · Puzzle](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)](https://podplo.app/products/mockup-temu-606793900074986)
+[![Puzzles · Puzzle](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)](https://podplo.app/products/mockup-temu-606793900074986)

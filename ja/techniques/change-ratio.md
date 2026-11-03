@@ -10,7 +10,7 @@
 
 <a id="guide-main"></a>
 
-# フレームを超えて画像を撮る
+# 画像をフレームの外へ広げる
 
 アウトペイントでシーンを拡張したり、構図を再配置したりできます。同じアイデアをより広い視野で見てみましょう。
 
@@ -42,11 +42,11 @@
 
 [![ディテールリペアアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-細部の修理](https://podplo.app/skills/detail-repair)[![HD アップスケール アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+細部修復](https://podplo.app/skills/detail-repair)[![HD アップスケール アートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 HD アップスケール](https://podplo.app/skills/hd-upscale)[![背景リムーバーのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-背景除去剤](https://podplo.app/skills/background-remover)
+背景除去](https://podplo.app/skills/background-remover)
 
 <a id="recompose-poster"></a>
 
@@ -54,7 +54,7 @@ HD アップスケール](https://podplo.app/skills/hd-upscale)[![背景リム�
 
 [ポスターメーカー](https://podplo.app/skills/poster-maker) 同じアートワークとコピーを新しいキャンバス形状に再配置します。
 
-[ポスターメーカー](https://podplo.app/skills/poster-maker) 古い画像を単にトリミングするのではなく、タイトル、件名、補助線を新しい形状に再配置します。階層が変わっても本文と件名は変わりません。
+[ポスターメーカー](https://podplo.app/skills/poster-maker) 元画像を単に切り取らず、新しい形に合わせてタイトル、モチーフ、補足文を配置し直します。文言とモチーフはそのままに、主従関係を変えます。
 
 ![再構成前のソース素材](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
@@ -78,9 +78,9 @@ HD アップスケール](https://podplo.app/skills/hd-upscale)[![背景リム�
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)
 
@@ -90,7 +90,7 @@ HD アップスケール](https://podplo.app/skills/hd-upscale)[![背景リム�
 
 [コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) ゆるいアートワークやコピーをすっきりとしたコンパクトなエンブレムに変えます。
 
-[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 風景を追加するのではなく、被写体を集めてコンパクトな透明な構図でコピーします。幅広やゆったりとしたデザインが、くっきりとしたエンブレムのようなグラフィックになります。
+[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 風景を増やさず、モチーフと文言を、背景が透過したコンパクトな構図にまとめます。横に広がったり散漫だったりしたデザインが、明確なエンブレム風図案になります。
 
 ![アパレルレイアウト前のアートワークと文言](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
@@ -114,8 +114,8 @@ HD アップスケール](https://podplo.app/skills/hd-upscale)[![背景リム�
 
 ポスターメーカー](https://podplo.app/skills/poster-maker)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)

@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/relationship--relation-plain-type?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/relationship--relation-plain-type?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Composition centrée sur le sujet / ORIENTATION CRÉATIVE
 
-# Expression de type uniquement
+# Expression purement typographique
 
 Les formes de lettres, l’échelle et la disposition portent le design.
 
@@ -28,7 +28,7 @@ COMMENT LE RECONNAÎTRE
 
 Une couleur de fond, une texture subtile ou un accent non figuratif sont autorisés. Ne présentez pas une personne ou un objet indépendant comme sujet concurrent.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -52,7 +52,7 @@ Transformez le thème en une expression typographique concise. Si l'entrée est 
 
 **Arrière-plan**
 
-Faites référence à la couleur de fond, à la palette ou au matériau existant. En cas d'absence, créez un support solide, dégradé ou à texture subtile approprié. Ne conservez pas un sujet d’image figuratif indépendant à l’arrière-plan d’un dessin typographique uniquement.
+Prenez pour référence la couleur de fond, la palette ou la matière existantes. En leur absence, créez un fond uni, dégradé ou légèrement texturé approprié. Ne conservez pas de sujet figuratif indépendant dans le fond d’un visuel composé uniquement de texte.
 
 **Texte**
 
@@ -70,7 +70,7 @@ Une couleur de fond, une texture subtile ou un accent non figuratif sont autoris
 
 ## Explorez l'arrière-plan
 
-Ces exemples comparent des motifs au sein d’une même famille de contenu. Conserver la composition actuelle lors de l'application d'un traitement ; ouvrez un exemple pour ses instructions complètes.
+Ces exemples comparent les arrière-plans au sein d’une même famille de contenu. Conservez la composition actuelle lorsque vous appliquez un traitement ; ouvrez un exemple pour lire ses instructions complètes.
 
 [![Fond transparent : Relations entre le texte et le sujet : Le fond reste transparent ; un damier n'est qu'un support d'affichage.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
@@ -78,7 +78,7 @@ Ces exemples comparent des motifs au sein d’une même famille de contenu. Cons
 
 Relations entre texte et sujet : le fond reste transparent ; un damier n'est qu'un support d'affichage.](background--relationship--transparent.md)[![Fond uni : relations entre le texte et le sujet : une couleur uniforme forme le fond ; le blanc est également un fond uni.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
-### Fond solide↗
+### Fond uni↗
 
 Relations entre le texte et le sujet : une couleur uniforme forme le fond ; le blanc est également un fond uni.](background--relationship--solid.md)[![Fond dégradé : Relations entre le texte et le sujet : Le support change continuellement de couleur ou de luminosité tandis que le contenu principal reste clair.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
@@ -88,7 +88,7 @@ Relations entre le texte et le sujet : le support change continuellement de cou
 
 ### Fond à motifs : local↗
 
-Relations entre le texte et le sujet : un patch décoratif se trouve derrière le contenu, laissant une zone à l'extérieur du patch.](background--relationship--pattern-local.md)[![Fond à motifs : zone entière : relations entre le texte et le sujet : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
+Relations entre texte et sujet : une zone décorative se trouve derrière le contenu, laissant de l’espace à l’extérieur de cette zone.](background--relationship--pattern-local.md)[![Fond à motifs : zone entière : relations entre le texte et le sujet : un fond à motifs recouvre l'image derrière un contenu de premier plan clairement lisible.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
 
 ### Fond à motifs : zone entière↗
 
@@ -100,11 +100,11 @@ Relations entre le texte et le sujet : le grain du papier, les particules ou to
 
 ### Contexte environnemental↗
 
-Relations entre le texte et le sujet : un environnement lié au thème prend en charge le contenu principal derrière ou autour de lui.](background--relationship--scene.md)
+Relations entre texte et sujet : un environnement lié au thème accompagne le contenu principal, derrière ou autour de lui.](background--relationship--scene.md)
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Mené par l’image, avec texte à l’appui : L’image attire l’attention en premier ; les mots ajoutent du sens ou du contexte.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-relationship--relation-image-led-1.svg)
 

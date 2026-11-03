@@ -20,7 +20,7 @@ Crie um cartão comemorativo em torno de uma ilustração, uma mensagem curta ou
 
 ### Design para uma ocasião específica
 
-A frente do cartão pode conter a imagem, a mensagem ou uma combinação equilibrada de ambas. Uma ilustração calorosa com uma mensagem simples; Uma imagem lúdica construída em torno de uma piada; Um nome ou data adicionada à ocasião.
+A frente do cartão pode dar destaque à imagem, à mensagem ou a uma combinação equilibrada de ambas. Uma ilustração acolhedora com uma mensagem simples; uma imagem divertida construída em torno de uma piada; um nome ou data acrescentado à ocasião.
 
 ![Cartões comemorativos e convites · visual do produto em branco](https://podplo.app/pod-guide/generated/greeting-cards-blank.webp)
 
@@ -30,29 +30,29 @@ A frente do cartão pode conter a imagem, a mensagem ou uma combinação equilib
 
 Use Skills diferentes para transformar a mesma imagem em novos layouts, arte baseada em fotos e designs personalizados.
 
-### Crie um padrão uniforme para o cartão
+### Crie um padrão sem emendas para o cartão
 
 Escolha seus objetos favoritos e organize-os repetidamente na frente do cartão.
 
 [Padrão sem emendas](https://podplo.app/skills/seamless-pattern)
 
-![Padrão sem costura · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Padrão sem emendas · Imagem de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Imagem de origem
 
-[![Padrão sem costura · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Padrão sem emendas · Arte gerada](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais layout e defina Skills**
+**Explore mais Skills de layout e de conjuntos**
 
 <a id="_R_5v3k_-title"></a>
 
-#### Explore mais layout e defina Skills
+#### Explore mais Skills de layout e de conjuntos
 
 4 / 11
 
@@ -64,13 +64,13 @@ Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte 
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize a frente do cartão finalizado
 
@@ -82,4 +82,4 @@ Use a visualização da IA para comparar um design de cartão divertido, pessoal
 
 - Use a imagem e o texto para apoiar a mesma ideia
 
-![Cartões comemorativos e convites · Prova de produto de IA](https://podplo.app/pod-guide/generated/greeting-cards-proof.webp)
+![Cartões comemorativos e convites · Prova visual de produto gerada por IA](https://podplo.app/pod-guide/generated/greeting-cards-proof.webp)

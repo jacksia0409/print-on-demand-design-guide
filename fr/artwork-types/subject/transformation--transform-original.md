@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-original?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/subject/transformation--transform-original?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -30,7 +30,7 @@ Une forme familière n’a pas besoin d’être photoréaliste ou précise au ni
 
 Le traitement s'articule autour d'un sujet ou d'un groupe identifiable.
 
-[← Retour à thématique](../subject.md)
+[← Retour aux compositions centrées sur le sujet](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -70,7 +70,7 @@ Une forme familière n’a pas besoin d’être photoréaliste ou précise au ni
 
 <a id="related"></a>
 
-## Comparez les itinéraires à proximité
+## Comparer les pistes créatives voisines
 
 [![Proportions exagérées : certaines parties du sujet sont allongées, comprimées ou agrandies alors qu'il reste identifiable.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-transformation--transform-distort-1.svg)
 

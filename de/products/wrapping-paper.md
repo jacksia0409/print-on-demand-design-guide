@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/wrapping-paper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/wrapping-paper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Wiederholen Sie ein Motiv auf einem ganzen Blatt Geschenkpapier und fügen Sie d
 
 ### Erstellen Sie das Design aus einem Rapport
 
-Zeichen, Symbole und persönliche Details können in verschiedenen Maßstäben wiederholt werden, um ein koordiniertes Blatt zu erstellen. Eine lockere Wiederholung mit mehr Freiraum; Eine dichte Wiederholung von Feiertagsikonen; Ein Name, der innerhalb des Musters wiederholt wird.
+Figuren, Symbole und persönliche Details lassen sich in verschiedenen Größen wiederholen und zu einem abgestimmten Bogen kombinieren. Ein lockerer Rapport mit viel Freiraum; Ein dichter Rapport aus Feiertagssymbolen; Ein im Muster wiederholter Name.
 
 [![Geschenkpapier · Geschenkpapier](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)](https://podplo.app/products/mockup-temu-606545077228686)
 
@@ -48,11 +48,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 11
 
@@ -64,15 +64,15 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Fügen Sie dem Originalmotiv weihnachtliche Details hinzu
 
 Fügen Sie einen kleinen Satz Feiertagselemente hinzu und wiederholen Sie diese Variante auf dem Geschenkpapier.
 
-[Machen Sie es zu Weihnachten](https://podplo.app/skills/make-it-christmas)
+[Weihnachtlich gestalten](https://podplo.app/skills/make-it-christmas)
 
 ![Make It Christmas · Quellbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
@@ -86,11 +86,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 8
 
@@ -98,13 +98,13 @@ KI-Produktvorschau
 
 [![Beispiel für ein „Make It Halloween“-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Machen Sie es zu Halloween](https://podplo.app/skills/make-it-halloween)[![Beispiel für ein Kunstwerk von Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Für Halloween gestalten](https://podplo.app/skills/make-it-halloween)[![Beispiel für ein Kunstwerk von Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Machen Sie es zum Valentinstag](https://podplo.app/skills/make-it-valentines)[![Beispiel für ein „Make It“-Osterkunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Zum Valentinstag gestalten](https://podplo.app/skills/make-it-valentines)[![Designbeispiel mit Make It Easter](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Machen Sie es zu Ostern](https://podplo.app/skills/make-it-easter)[![Beispiel für ein „Make It Thanksgiving“-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Österlich gestalten](https://podplo.app/skills/make-it-easter)[![Beispiel für ein „Make It Thanksgiving“-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Machen Sie es zum Erntedankfest](https://podplo.app/skills/make-it-thanksgiving)
+Für Thanksgiving gestalten](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="product-mockup"></a>
 
@@ -114,7 +114,7 @@ Machen Sie es zum Erntedankfest](https://podplo.app/skills/make-it-thanksgiving)
 
 Die KI-Vorschau zeigt, wie derselbe Rapport unterschiedliche Momente auf der Oberseite, den Seiten und den Falten einer verpackten Schachtel erzeugt.
 
-- Eine lockere Wiederholung lässt mehr Freiraum
+- Ein lockerer Rapport lässt mehr Freiraum
 
 - Ein dichter Rapport sorgt dafür, dass das Muster über die Falten hinweg sichtbar bleibt
 

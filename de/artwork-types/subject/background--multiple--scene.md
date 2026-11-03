@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--multiple--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/background--multiple--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Themenorientiert / KREATIVE RICHTUNG / mehrere Fächer
+Motiv im Mittelpunkt / GESTALTUNGSRICHTUNG / mehrere Motive
 
-# Umwelthintergrund
+# Umgebungshintergrund
 
-Mehrere Themen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.
+Mehrere Motive: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.
 
 <a id="understand"></a>
 
-![Umgebungshintergrund: Mehrere Themen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
+![Umgebungshintergrund: Mehrere Motive: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
 
 Kompositionsskizze
 
@@ -26,21 +26,21 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Für die Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Einstellung zweitrangig. Bewerten Sie das Bild als Szene neu, wenn die Umgebung oder die Erzählung zum Hauptausdruck wird.
+In den Kategorien Motiv, Muster, Textur und Abstraktion bleibt die Umgebung zweitrangig. Wird die Umgebung oder Erzählung zum Hauptausdruck, ordnen Sie das Bild neu als Szene ein.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Betreffgesteuert → Mehrere Themen → Hintergrund → Umwelthintergrund
+Motiv im Mittelpunkt → Mehrere Motive → Hintergrund → Umgebungshintergrund
 
 **Eingabe und Ausgabe**
 
@@ -48,11 +48,11 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Behalten Sie mehrere identifizierbare Themen und ihre Hauptgruppierung bei. Fügen Sie bei Bedarf themenbezogene Objekte hinzu; Eine Sammlung sollte ihre Elemente weiterhin unabhängig anzeigen.
+Bewahren Sie mehrere erkennbare Motive und ihre wesentliche Gruppierung. Ergänzen Sie bei Bedarf zum Thema passende Objekte; bei einer Sammlung sollten die einzelnen Elemente weiterhin eigenständig erkennbar sein.
 
 **Hintergrund**
 
-Beziehen Sie sich auf den vorhandenen Standort, die Umgebungselemente und die Atmosphäre und passen Sie diese an den Hauptinhalt an. Wenn es nicht vorhanden ist oder nur schlicht oder transparent ist, erstellen Sie eine entsprechende Einstellung und koordinieren Sie Maßstab, Richtung und Tiefe.
+Orientieren Sie sich an vorhandenem Ort, Umgebungselementen und Atmosphäre und passen Sie diese an den Hauptinhalt an. Fehlt eine Umgebung oder ist der Hintergrund nur einfarbig oder transparent, schaffen Sie einen passenden Schauplatz und stimmen Sie Größe, Richtung und Tiefe ab.
 
 **Textinhalt**
 
@@ -64,28 +64,28 @@ Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die vi
 
 **Umfang und Grenzen**
 
-Für die Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Einstellung zweitrangig. Bewerten Sie das Bild als Szene neu, wenn die Umgebung oder die Erzählung zum Hauptausdruck wird.
+In den Kategorien Motiv, Muster, Textur und Abstraktion bleibt die Umgebung zweitrangig. Wird die Umgebung oder Erzählung zum Hauptausdruck, ordnen Sie das Bild neu als Szene ein.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Transparenter Hintergrund: Mehrere Motive: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![Transparenter Hintergrund: Mehrere Motive: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Mehrere Motive: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--multiple--transparent.md)[![Einfarbiger Hintergrund: Mehrere Motive: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+Mehrere Motive: Der Hintergrund bleibt transparent; das Schachbrettmuster ist nur eine Anzeigehilfe.](background--multiple--transparent.md)[![Einfarbiger Hintergrund: Mehrere Motive: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Mehrere Motive: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--multiple--solid.md)[![Hintergrund mit Farbverlauf: Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+Mehrere Motive: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--multiple--solid.md)[![Hintergrund mit Farbverlauf: Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--multiple--gradient.md)[![Gemusterter Hintergrund: lokal: Mehrere Motive: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+Mehrere Motive: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--multiple--gradient.md)[![Gemusterter Hintergrund, lokal: Mehrere Motive: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Mehrere Motive: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--multiple--pattern-local.md)
+Mehrere Motive: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](background--multiple--pattern-local.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

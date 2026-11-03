@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/personalization?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/personalization?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -48,7 +48,7 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein Hintergrundentferner-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Hintergrundentferner](https://podplo.app/skills/background-remover)[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Hintergrundentferner](https://podplo.app/skills/background-remover)[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 Detailreparatur](https://podplo.app/skills/detail-repair)
 
@@ -60,7 +60,7 @@ Detailreparatur](https://podplo.app/skills/detail-repair)
 
 [Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern) Verarbeitet den Namen eines Kunden in einer verspielten Dinosaurier-Wiederholung. Der Abstand wird für kurze und lange Namen angepasst, sodass sich jede Version individuell anfühlt und gleichzeitig das gleiche Kerndesign beibehalten wird.
 
-[![Beispiel für die Personalisierung eines Dinosauriernamens](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
+[![Beispiel für einen personalisierten Namen im Dinosaurierdesign](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
 
 Dinosaurier-Namensmuster
 
@@ -76,7 +76,7 @@ Dinosaurier-Namensmuster
 
 [![Beispiel für ein florales Namensrahmen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-Floraler Namensrahmen](https://podplo.app/skills/floral-name-frame)[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Floraler Namensrahmen](https://podplo.app/skills/floral-name-frame)[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)
 
@@ -108,13 +108,13 @@ Foto-Gedenkkarte
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 <a id="exceptions"></a>
 
@@ -122,7 +122,7 @@ Schablonenhersteller](https://podplo.app/skills/stencil-maker)
 
 Klare Fotos und bestätigte Details führen zu spezifischeren, glaubwürdigeren personalisierten Kunstwerken.
 
-Ein klareres Foto, ein unbeschnittenes Gesicht, ein bestätigtes Datum oder eine kürzere Nachricht führen normalerweise zu einem stärkeren Design. Wenn eine persönliche Tatsache fehlt, lassen Sie sie weg, anstatt das Kunstwerk zu erraten.
+Ein schärferes Foto, ein vollständig sichtbares Gesicht, ein bestätigtes Datum oder eine kürzere Botschaft führen meist zu einem stärkeren Design. Fehlt eine persönliche Angabe, lassen Sie sie weg, statt sie vom Bild erfinden zu lassen.
 
 Workflow-Darstellung mit Beispieleingaben und -werten.
 
@@ -150,6 +150,6 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein Hintergrundentferner-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-Hintergrundentferner](https://podplo.app/skills/background-remover)[![Beispiel für eine detaillierte Reparaturvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+Hintergrundentferner](https://podplo.app/skills/background-remover)[![Designbeispiel mit der Detailreparatur](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
 Detailreparatur](https://podplo.app/skills/detail-repair)

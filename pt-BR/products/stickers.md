@@ -20,7 +20,7 @@ Transforme uma ideia em um adesivo de personagem, uma frase de reação ou um co
 
 ### Formato pequeno, grande personalidade
 
-Use um caractere claro, um símbolo em negrito ou um grupo de gráficos relacionados que possam funcionar sozinhos ou como um conjunto. Um mascote com expressão clara; Uma frase curta de reação; Um pequeno conjunto de ícones relacionados.
+Use um personagem bem-definido, um símbolo marcante ou um grupo de elementos gráficos relacionados que funcionem sozinhos ou em conjunto. Um mascote com expressão clara; uma frase curta de reação; um pequeno conjunto de ícones relacionados.
 
 ![Adesivos e etiquetas · visual do produto em branco](https://podplo.app/pod-guide/generated/stickers-blank.webp)
 
@@ -46,13 +46,13 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais layout e defina Skills**
+**Explore mais Skills de layout e de conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore mais layout e defina Skills
+#### Explore mais Skills de layout e de conjuntos
 
 4 / 10
 
@@ -62,9 +62,9 @@ Visualização do produto de IA
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -74,7 +74,7 @@ Coloque um nome dentro de uma moldura floral para fazer um pequeno gráfico pers
 
 [Moldura floral com nome](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉIA
+ANDREA
 
 Nome
 
@@ -84,23 +84,23 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais nome e ocasião Skills**
+**Explore mais Skills de nomes e ocasiões**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais nome e ocasião Skills
+#### Explore mais Skills de nomes e ocasiões
 
 4 / 10
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Póster Nome do Pólo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte do padrão de nome Crayon Hearts](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Pôster de nome do Polo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte de padrão de nome com corações em giz de cera](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Padrão de nome de corações de giz de cera](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -108,13 +108,13 @@ Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize o adesivo em uso
 
-Use a visualização da IA para ver o mesmo design em uma garrafa, laptop ou notebook.
+Use a prévia com IA para ver o mesmo design em uma garrafa, notebook ou caderno.
 
-- Um contorno em negrito ajuda a definir o personagem
+- Um contorno forte ajuda a definir o personagem
 
 - Um conjunto de adesivos oferece aos clientes mais maneiras de organizar os gráficos
 

@@ -34,13 +34,13 @@
 
 明確な画像と文字のレイアウトを作成し、マグカップが回転するときに読みやすい場所に配置します。
 
-[タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
+[タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
 
-![タイトル – 件名 – 字幕のレイアウト · ソース画像](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
+![タイトル・モチーフ・サブタイトルのレイアウト · 元画像](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
 
 ソース画像
 
-[![タイトル – 件名 – 字幕のレイアウト · 生成されたアートワーク](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![タイトル・モチーフ・サブタイトルのレイアウト · 生成図案](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 生成されたアートワーク
 
@@ -48,11 +48,11 @@
 
 AI 製品のプレビュー
 
-**さらにレイアウトを調べて Skills を設定します**
+**レイアウトやセット作成のSkillをもっと見る**
 
 <a id="_R_bf3k_-title"></a>
 
-#### さらにレイアウトを調べて Skills を設定します
+#### レイアウトやセット作成のSkillをもっと見る
 
 4 / 9
 
@@ -86,11 +86,11 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**写真と画像をもっと見る Skills**
+**写真や画像向けのSkillをもっと見る**
 
 <a id="_R_bn3k_-title"></a>
 
-#### 写真と画像をもっと見る Skills
+#### 写真や画像向けのSkillをもっと見る
 
 4 / 91
 
@@ -106,13 +106,13 @@ AI 製品のプレビュー
 
 ステンシルメーカー](https://podplo.app/skills/stencil-maker)
 
-### 花の名前デザインを追加
+### 花で彩る名前のデザインを加える
 
 花のフレームの中に名前を入れて、オリジナルのマグカップのグラフィックを作成します。
 
 [花のネームフレーム](https://podplo.app/skills/floral-name-frame)
 
-アンドレア
+ANDREA
 
 名前
 
@@ -124,19 +124,19 @@ AI 製品のプレビュー
 
 AI 製品のプレビュー
 
-**名前と機会をさらに詳しく見る Skills**
+**名前やイベント向けのSkillをもっと見る**
 
 <a id="_R_bv3k_-title"></a>
 
-#### 名前と機会をさらに詳しく見る Skills
+#### 名前やイベント向けのSkillをもっと見る
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)[![北極名ポスターのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 北極名ポスター](https://podplo.app/skills/north-pole-name-poster)[![クレヨンハートネームパターンアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -150,7 +150,7 @@ AI 製品のプレビュー
 
 ### 完全なラップをプレビューする
 
-AI プレビューは、画像、フレーズ、またはパターンがハンドルの前面、背面、およびハンドルの周囲のスペースにどのように表示されるかを示します。
+AIプレビューでは、画像、フレーズ、パターンが、マグの表、裏、持ち手の周囲にどう見えるかを確認できます。
 
 - 片面を画像に、もう片面をメッセージに使用します
 

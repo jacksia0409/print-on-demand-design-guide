@@ -20,11 +20,11 @@
 
 ## أفكار التصميم لهذا المنتج
 
-### بناء حول الساحة
+### كوّن التصميم حول الشكل المربع
 
 العناصر المركزية والتخطيطات المتناظرة والتكرارات المتوازنة كلها تعمل بشكل جيد على الوسادة. صورة مركزية؛ عبارة قصيرة تستخدم كرسم رئيسي؛ تكرار مصمم للتنسيق مع الوسائد الأخرى.
 
-[![الوسائد والوسائد · وسادة قطنية](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
+[![وسائد ووسائد زينة · وسادة أسفل الظهر](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 
 <a id="product-create"></a>
 
@@ -48,13 +48,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من التخطيط وقم بتعيين Skills**
+**استكشف المزيد من Skills للتخطيطات والمجموعات**
 
 <a id="_R_bf3k_-title"></a>
 
-#### اكتشف المزيد من التخطيط وقم بتعيين Skills
+#### استكشف المزيد من Skills للتخطيطات والمجموعات
 
 4 / 12
 
@@ -62,7 +62,7 @@
 
 [![مثال على العمل الفني لمولد الشبكة 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-4 قطعة مولد الشبكة](https://podplo.app/skills/four-piece-grid)[![مثال على العمل الفني لصانع الملصقات](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
+مولّد شبكة 4PC](https://podplo.app/skills/four-piece-grid)[![مثال على العمل الفني لصانع الملصقات](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
 صانع الملصقات](https://podplo.app/skills/poster-maker)[![مثال على العمل الفني لتخطيط المركز المضغوط](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
@@ -86,13 +86,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bn3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 4 / 91
 
@@ -114,7 +114,7 @@
 
 [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)
 
-أندريا
+ANDREA
 
 الاسم
 
@@ -124,25 +124,25 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من الاسم والمناسبة Skills**
+**استكشف المزيد من Skills للأسماء والمناسبات**
 
 <a id="_R_bv3k_-title"></a>
 
-#### اكتشف المزيد من الاسم والمناسبة Skills
+#### استكشف المزيد من Skills للأسماء والمناسبات
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال على العمل الفني لنمط اسم قلوب تلوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال عمل فني لنمط اسم وقلوب بأقلام شمعية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-تلوين قلوب اسم النمط](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+نمط اسم وقلوب بأقلام شمعية](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -154,14 +154,14 @@
 
 استخدم معاينة الذكاء الاصطناعي لمقارنة وسادة مميزة بتصميم منسق أبسط.
 
-- الهدف المركزي يخلق نقطة محورية واضحة
+- العنصر الرئيسي في المنتصف يصنع نقطة تركيز واضحة
 
 - التكرار يجعل من السهل بناء مجموعة منسقة
 
 - استخدم لون الخلفية لتوصيل الوسادة بالغرفة
 
-[![الوسائد والوسائد · وسادة قطنية](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
+[![وسائد ووسائد زينة · وسادة أسفل الظهر](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 
-[![الوسائد والوسائد · رمي الوسادة](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189432104509863353.webp)](https://podplo.app/products/mockup-zazzle-189432104509863353)
+[![وسائد ووسائد زينة · وسادة زينة](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189432104509863353.webp)](https://podplo.app/products/mockup-zazzle-189432104509863353)
 
 </div>

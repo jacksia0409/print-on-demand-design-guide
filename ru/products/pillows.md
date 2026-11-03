@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/pillows?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/pillows?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Подушки и подушки
+# Подушки и декоративные подушки
 
 Используйте квадратный формат подушки для изображения по центру, короткой фразы или повторяющегося рисунка.
 
@@ -18,9 +18,9 @@
 
 ## Идеи дизайна для этого продукта
 
-### Построить вокруг площади
+### Стройте композицию с учётом квадратной формы
 
-Центрированные предметы, симметричные макеты и сбалансированные повторы хорошо смотрятся на подушке. Центрированный портрет; Короткая фраза, используемая в качестве основного изображения; Повтор, предназначенный для координации с другими подушками.
+Объекты по центру, симметричные композиции и сбалансированные повторяющиеся узоры хорошо смотрятся на подушке. Портрет по центру; Короткая фраза как основной графический элемент; Повторяющийся узор, согласованный с другими подушками.
 
 [![Подушки и валики · Подушка для поясницы](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 
@@ -40,7 +40,7 @@
 
 Исходное изображение
 
-[![Бесшовный узор · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Бесшовный узор · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Созданное произведение искусства
 
@@ -48,11 +48,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Изучите больше макета и установите Skills**
+**Изучите другие Skill для композиций и наборов**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Изучите больше макета и установите Skills
+#### Изучите другие Skill для композиций и наборов
 
 4 / 12
 
@@ -60,17 +60,17 @@
 
 [![Пример изображения 4PC Grid Generator](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-4PC Сетевой генератор](https://podplo.app/skills/four-piece-grid)[![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
+Генератор композиций из четырёх панелей (4PC)](https://podplo.app/skills/four-piece-grid)[![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)
 
 ### Превратите фотографию домашнего животного в произведение искусства на подушке
 
-Четкая фотография домашнего животного становится детальным портретом подушки.
+Чёткая фотография питомца превращается в детальный портрет для подушки.
 
 [Портрет королевского питомца](https://podplo.app/skills/royal-pet-portrait)
 
@@ -78,7 +78,7 @@
 
 Исходное фото
 
-[![Портрет королевского питомца · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
+[![Королевский портрет питомца · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606590711261824-after.webp)](https://podplo.app/skills/royal-pet-portrait)
 
 Созданное произведение искусства
 
@@ -86,11 +86,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Исследуйте больше фотографий и изображений Skills**
+**Изучите другие Skill для фотографий и изображений**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Исследуйте больше фотографий и изображений Skills
+#### Изучите другие Skill для фотографий и изображений
 
 4 / 91
 
@@ -104,19 +104,19 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
-### Создайте именноную подушку с цветочным узором.
+### Создайте именную подушку с цветочным узором
 
 Поместите имя в просторную цветочную рамку, размер которой соответствует квадратному дизайну.
 
 [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)
 
-АНДРЕА
+ANDREA
 
 Имя
 
-[![Цветочная рамка для имени · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![Цветочная рамка для имени · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 Созданное произведение искусства
 
@@ -124,25 +124,25 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Узнайте больше об имени и случае Skills**
+**Изучите другие Skill для имён и особых поводов**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Узнайте больше об имени и случае Skills
+#### Изучите другие Skill для имён и особых поводов
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример изображения плаката с названием Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример именного постера Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Плакат с названием Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример изображения узора в виде сердечек из карандашей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Именной постер Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример узора с именем и сердечками, нарисованными мелками](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Образец имени в виде сердечек из карандашей](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Узор с именем и сердечками, нарисованными мелками](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
@@ -154,10 +154,10 @@
 
 - Центрированный объект создает четкий фокус
 
-- Повторение облегчает построение скоординированного набора.
+- Повторяющийся узор облегчает создание согласованного комплекта
 
 - Используйте цвет фона, чтобы соединить подушку с комнатой.
 
 [![Подушки и валики · Подушка для поясницы](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)](https://podplo.app/products/mockup-zazzle-189947358269810815)
 
-[![Подушки и подушки · Декоративная подушка](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189432104509863353.webp)](https://podplo.app/products/mockup-zazzle-189432104509863353)
+[![Подушки и декоративные подушки · Декоративная подушка](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189432104509863353.webp)](https://podplo.app/products/mockup-zazzle-189432104509863353)

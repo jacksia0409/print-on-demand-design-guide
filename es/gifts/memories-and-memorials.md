@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/gifts/memories-and-memorials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/gifts/memories-and-memorials?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,9 +18,9 @@ Restaura una foto antigua o crea un recuerdo personal de una persona, mascota, l
 
 ## Restaurar una foto de memoria dañada
 
-[Reparación detallada](https://podplo.app/skills/detail-repair) repara daños en una foto antigua preservando personas y objetos familiares.
+[Reparación de detalles](https://podplo.app/skills/detail-repair) repara daños en una foto antigua preservando personas y objetos familiares.
 
-Una fotografía descolorida de familia, de viaje, de boda o de archivo puede ser el único registro de un momento importante. [Reparación detallada](https://podplo.app/skills/detail-repair) Puede reparar rayones, áreas borrosas u objetos dañados y al mismo tiempo preservar rostros familiares y detalles clave.
+Una fotografía descolorida de familia, de viaje, de boda o de archivo puede ser el único registro de un momento importante. [Reparación de detalles](https://podplo.app/skills/detail-repair) Puede reparar rayones, áreas borrosas u objetos dañados y al mismo tiempo preservar rostros familiares y detalles clave.
 
 ![Fotografía de recuerdo dañada o descolorida](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1-before.webp)
 
@@ -28,7 +28,7 @@ Entrada
 
 [![Fotografía renovada que conserva detalles familiares.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)](https://podplo.app/skills/detail-repair)
 
-Reparación detallada
+Reparación de detalles
 
 **Más Skills para explorar**
 
@@ -40,13 +40,13 @@ Reparación detallada
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Ejemplo de obra de arte HD exclusiva](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+[![Ejemplo de ampliación HD](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD de lujo](https://podplo.app/skills/hd-upscale)[![Ejemplo de ilustración del eliminador de fondo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Ampliación HD](https://podplo.app/skills/hd-upscale)[![Ejemplo de ilustración del eliminador de fondo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Eliminador de fondo](https://podplo.app/skills/background-remover)[![Ejemplo de obra de arte de Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Pintura inteligente](https://podplo.app/skills/smart-outpaint)
+Ampliación inteligente de imagen](https://podplo.app/skills/smart-outpaint)
 
 <a id="pet-memories"></a>
 

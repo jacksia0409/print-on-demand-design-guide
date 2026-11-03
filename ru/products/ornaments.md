@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/ornaments?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/ornaments?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Орнаменты и ловцы солнца
+# Украшения и ловцы солнца
 
-Превратите портрет домашнего животного, фотографию пары, имя или дату в праздничный орнамент.
+Превратите портрет питомца, фотографию пары, имя или дату в дизайн праздничной подвески.
 
 <a id="product-overview"></a>
 
@@ -20,9 +20,9 @@
 
 ### Держите дизайн сфокусированным
 
-Орнаменты лучше всего сочетаются с одной четкой темой, простым изображением праздника или коротким именем и годом. Домашнее животное или человек в качестве главного героя; Простой значок праздника; Имя и год интегрированы в дизайн.
+Для украшений лучше подходят один чёткий главный объект, простое праздничное изображение или короткое имя и год. Питомец или человек в главной роли; Простой праздничный символ; Имя и год, встроенные в дизайн.
 
-[![Орнаменты и ловцы солнца · Акриловый орнамент](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
+[![Украшения и ловцы солнца · Акриловое украшение](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
 <a id="product-create"></a>
 
@@ -30,7 +30,7 @@
 
 Используйте разные Skills, чтобы превратить одно и то же изображение в новые макеты, иллюстрации на основе фотографий и персонализированный дизайн.
 
-### Превратите пару фотографий в украшение
+### Превратите фотографию пары в дизайн праздничной подвески
 
 Четкое фото пары становится для украшения рождественским портретом.
 
@@ -40,7 +40,7 @@
 
 Исходное фото
 
-[![Рождественское украшение для пары · Созданы иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607648296616502-after.webp)](https://podplo.app/skills/christmas-couple-ornament)
+[![Рождественское украшение для пары · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607648296616502-after.webp)](https://podplo.app/skills/christmas-couple-ornament)
 
 Созданное произведение искусства
 
@@ -48,11 +48,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Исследуйте больше фотографий и изображений Skills**
+**Изучите другие Skill для фотографий и изображений**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Исследуйте больше фотографий и изображений Skills
+#### Изучите другие Skill для фотографий и изображений
 
 1 / 1
 
@@ -62,17 +62,17 @@
 
 Семейный портрет из витража](https://podplo.app/skills/stained-glass-family-portrait)
 
-### Добавьте рождественские детали к исходной теме
+### Добавьте рождественские детали к исходному главному объекту
 
-Добавьте небольшой набор праздничных элементов, сохранив исходную тему.
+Добавьте немного праздничных элементов, сохранив исходный главный объект.
 
-[Сделай это Рождеством](https://podplo.app/skills/make-it-christmas)
+[Оформить к Рождеству](https://podplo.app/skills/make-it-christmas)
 
-![Сделай это Рождеством · Исходное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
+![Оформление к Рождеству · Исходное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 Исходное изображение
 
-[![Сделай это Рождеством · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
+[![Оформление к Рождеству · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
 Созданное произведение искусства
 
@@ -88,12 +88,12 @@
 
 Предварительный просмотр AI помещает дизайн среди огней, ветвей и других праздничных украшений.
 
-- Используйте одну четкую тему
+- Используйте один чётко различимый главный объект
 
 - Имя должно быть коротким и легко читаемым
 
 - Простая палитра выделяется на фоне детального праздничного декора.
 
-[![Орнаменты и ловцы солнца · Акриловый орнамент](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
+[![Украшения и ловцы солнца · Акриловое украшение](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
-[![Орнаменты и ловцы солнца · Мемориальная бирка 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)](https://podplo.app/products/mockup-temu-605893919926956)
+[![Украшения и ловцы солнца · Памятный жетон 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)](https://podplo.app/products/mockup-temu-605893919926956)

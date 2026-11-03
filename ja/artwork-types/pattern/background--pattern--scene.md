@@ -32,7 +32,7 @@
 
 <a id="ai-directions"></a>
 
-AIの指示
+AIで広げる創作の方向性
 
 ## この方向性を AI に取り入れましょう
 
@@ -56,7 +56,7 @@ AIの指示
 
 **文字の扱い**
 
-ソースの文言とその言語を明確に読みやすい状態に保ち、その表現を調整します。読めないテキストを回復したと主張しないでください。言葉が指定されていない場合は、サポートモチーフとしてテーマに関連した短い言葉やフレーズを作成します。シームレスなタイリングが必要な場合は、繰り返し単位に文言を含めて、スペル、エッジの継続性、読みやすさをチェックします。そうしないとシームレス性が保証されません。テキストなしの明示的なリクエストを尊重します。
+元画像ではっきり読める文字とその言語を残し、見せ方を調整します。読めない文字を復元できたと主張しないでください。文字が指定されていない場合は、補助モチーフとしてテーマに合う短い語句を作ります。シームレスな反復が必要な場合は文字もリピート単位に含め、綴り、端のつながり、読みやすさを確認してください。それ以外はシームレス性を約束せず、文字を入れないという明示的な指定には従ってください。
 
 **維持と調整**
 
@@ -68,24 +68,24 @@ AIの指示
 
 <a id="related"></a>
 
-## 近くのルートを比較する
+## 近い創作の方向性を比べる
 
-[![透明な背景: パターン: 地面は透明のままです。チェッカーボードは単なる表示補助です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
+[![透明な背景: パターン: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--transparent-1.svg)
 
 ### 透明背景↗
 
-パターン: 地面は透明のままです。チェッカーボードは単なる表示補助です。](background--pattern--transparent.md)[![無地の背景: パターン: 1 つの均一な色が地面を形成します。白も単色の背景です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
+パターン：背景は透明のままです。市松模様は透明部分を示す表示補助にすぎません。](background--pattern--transparent.md)[![無地の背景：パターン：均一な一色を背景にします。白も無地の背景に含まれます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--solid-1.svg)
 
 ### 無地の背景↗
 
-パターン: 1 つの均一な色が地面を形成します。白も単色の背景です。](background--pattern--solid.md)[![グラデーションの背景: パターン: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
+パターン：均一な一色を背景にします。白も無地の背景に含まれます。](background--pattern--solid.md)[![グラデーションの背景: パターン: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--gradient-1.svg)
 
 ### グラデーション背景↗
 
-パターン: メインコンテンツはクリアなままで、裏地の色や明るさが連続的に変化します。](background--pattern--gradient.md)[![パターン化された背景: ローカル: パターン: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
+パターン：主要な内容ははっきり見せたまま、背景の色や明るさを連続的に変化させます。](background--pattern--gradient.md)[![柄の背景：部分：パターン：内容の背後に部分的な装飾の下地を置き、その外側には別の領域を残します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--pattern--pattern-local-1.svg)
 
-### パターン背景: ローカル↗
+### 柄の背景：部分↗
 
 パターン: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--pattern--pattern-local.md)
 
-コードによる研究では、構成と視覚的処理を比較します。メディアとスタイルの例は概念的なものです。これらの方向は、画像モデルを使用して個別にテストされていません。生成されたテキスト、透明度、リピートエッジを確認します。
+コードで描いた図で、構図や視覚表現を比較します。画材やスタイルの例は概念を示すもので、これらの方向性を画像モデルで一つずつ検証したものではありません。生成した文字、透過、リピートの継ぎ目を確認してください。

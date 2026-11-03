@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/canvas-prints?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/canvas-prints?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -32,7 +32,7 @@ Verwenden Sie verschiedene Skills, um dasselbe Bild in neue Layouts, fotobasiert
 
 ### Arrangieren Sie eine komplette Leinwandkomposition
 
-Halten Sie das Hauptthema klar und verwenden Sie dann den Hintergrund und unterstützende Elemente, um das Layout zu vervollständigen.
+Halten Sie das Hauptmotiv klar erkennbar und vervollständigen Sie das Layout mit Hintergrund und Begleitelementen.
 
 [Plakatmacher](https://podplo.app/skills/poster-maker)
 
@@ -48,11 +48,11 @@ Generiertes Kunstwerk
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Layouts und stellen Sie Skills ein**
+**Entdecken Sie weitere Skills für Layouts und Bildsets**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Layouts und stellen Sie Skills ein
+#### Entdecken Sie weitere Skills für Layouts und Bildsets
 
 4 / 14
 
@@ -86,11 +86,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 4 / 97
 
@@ -98,13 +98,13 @@ KI-Produktvorschau
 
 [![Beispiel für eine Malvorlage](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-Malseite](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+Ausmalvorlage](https://podplo.app/skills/coloring-page)[![Beispiel für ein Silhouette Maker-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 Silhouette Maker](https://podplo.app/skills/silhouette-maker)[![Beispiel für ein monochromes Stempelbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
 Monochromer Stempel](https://podplo.app/skills/monochrome-stamp)[![Beispiel für ein Schablonen-Maker-Bildmaterial](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Schablonenhersteller](https://podplo.app/skills/stencil-maker)
+Schablonen gestalten](https://podplo.app/skills/stencil-maker)
 
 ### Erstellen Sie eine florale Namensleinwand
 
@@ -124,17 +124,17 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Namen und Anlässe Skills**
+**Entdecken Sie weitere Skills für Namen und Anlässe**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Entdecken Sie weitere Namen und Anlässe Skills
+#### Entdecken Sie weitere Skills für Namen und Anlässe
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Beispiel für ein Büffel-Plaid-Pfotennamen-Kunstwerk](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Designbeispiel: Name mit Pfote und Karomuster](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
 Buffalo Plaid Paw Name](https://podplo.app/skills/buffalo-plaid-paw-name)[![Beispiel für ein Nordpol-Namensplakat](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
@@ -150,12 +150,12 @@ Dinosaurier-Namensmuster](https://podplo.app/skills/dinosaur-name-pattern)
 
 ### Sehen Sie sich die Leinwand an der Wand in der Vorschau an
 
-Die KI-Vorschau platziert das Porträt, Querformat oder die Grafik in einem Raum, sodass Sie die Kompositionen vergleichen können.
+Die KI-Vorschau platziert das Porträt, die Landschaft oder die Grafik in einem Raum, damit Sie die Kompositionen vergleichen können.
 
 - Ein Porträt aus nächster Nähe sorgt dafür, dass die Menschen im Vordergrund stehen
 
 - Eine weite Landschaft füllt einen größeren Teil der Wand aus
 
-- Ein einfacher Hintergrund lenkt die Aufmerksamkeit auf das Thema
+- Ein einfacher Hintergrund lenkt die Aufmerksamkeit auf das Motiv
 
-![Leinwand- und gerahmte Drucke · AI-Produktnachweis](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)
+![Leinwand- und gerahmte Drucke · KI-Produktvorschau](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)

@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/wallpaper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/wallpaper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Fond d'écran
+# Papier peint
 
 Transformez un motif en une petite répétition d'arrière-plan, un grand motif tendance ou un motif de papier peint directionnel.
 
@@ -20,9 +20,9 @@ Transformez un motif en une petite répétition d'arrière-plan, un grand motif 
 
 ### Choisissez l'échelle et l'espacement
 
-De petits motifs denses créent un arrière-plan subtil, des motifs plus espacés se détachent sur le mur et des répétitions verticales ou diagonales guident le regard à travers la pièce. Une petite répétition pour un fond subtil ; Un grand motif espacé pour un mur remarquable ; Une répétition verticale ou diagonale.
+De petits motifs denses créent un fond subtil, de grands motifs espacés ressortent sur le mur et les répétitions verticales ou diagonales guident le regard à travers la pièce. Un petit motif répété pour un fond subtil ; un grand motif espacé pour un mur affirmé ; une répétition verticale ou diagonale.
 
-![Fond d'écran · Visuel du produit vierge](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
+![Papier peint · Visuel du produit vierge](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
 
 <a id="product-create"></a>
 
@@ -36,17 +36,17 @@ Transformez les détails de votre image en un motif répétitif qui remplit le m
 
 [Motif sans raccord visible](https://podplo.app/skills/seamless-pattern)
 
-![Modèle sans couture · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Motif à raccords invisibles · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Image source
 
-[![Modèle sans couture · Oeuvre générée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Motif à raccords invisibles · Visuel généré](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Oeuvre générée
 
-![Fond d'écran · Modèle sans couture · Aperçu du produit AI](https://podplo.app/pod-guide/generated/wallpaper-seamless-pattern-proof.webp)
+![Papier peint · Motif à raccords invisibles · Aperçu produit généré par IA](https://podplo.app/pod-guide/generated/wallpaper-seamless-pattern-proof.webp)
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
 <a id="product-mockup"></a>
 
@@ -62,4 +62,4 @@ Utilisez l'aperçu de la salle AI pour comparer une petite répétition, un gran
 
 - Les répétitions directionnelles peuvent modifier la hauteur ou la largeur de la pièce.
 
-![Fond d'écran · Preuve de produit IA](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
+![Papier peint · Épreuve produit générée par IA](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)

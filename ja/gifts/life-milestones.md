@@ -18,7 +18,7 @@
 
 ## マイルストーンの詳細を特集する
 
-名前、日付、年齢、または誕生日の詳細により、1 つのマイルストーンに固有の共有レイアウトが作成されます。
+名前、日付、年齢、出生にまつわる情報を加えると、共通のレイアウトを特定の節目に合わせられます。
 
 出生時間、マイルストーンとなる年齢、または成人の日付を、その人の名前の横にデザインを固定することができます。これらの特定の詳細により、アートワークはそのイベントや人物にとって個人的なものになります。
 
@@ -38,17 +38,17 @@
 
 [![恐竜の名前パターンのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-恐竜の名前のパターン](https://podplo.app/skills/dinosaur-name-pattern)[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+恐竜の名前のパターン](https://podplo.app/skills/dinosaur-name-pattern)[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="school-and-work"></a>
 
 ## 学校やキャリアの節目を祝う
 
-[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 学校名、学年、または役職を太字で中心に扱います。
+[コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) 学校名、年、役職を、中央で力強く見せる構図にします。
 
-学校名、卒業年度、役職、または昇進を考慮すると、すっきりとした自信に満ちた構成になります。 [コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) それらの詳細を中心とした強力な治療を提供します。
+学校名、卒業年度、役職、または昇進を考慮すると、すっきりとした自信に満ちた構成になります。 [コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout) その細部を、中央で力強く見せる構図にします。
 
 [![コンパクトなタイトル主導のマイルストーン構成](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)](https://podplo.app/skills/compact-center-layout)
 
@@ -68,9 +68,9 @@
 
 ポスターメーカー](https://podplo.app/skills/poster-maker)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)
 
@@ -78,9 +78,9 @@
 
 ## 退職または新居のポスターを作成する
 
-[ポスターメーカー](https://podplo.app/skills/poster-maker) 年、場所、写真、個人的なラインを透明な記念ポスターにまとめます。
+[ポスターメーカー](https://podplo.app/skills/poster-maker) 年、場所、写真、個人的な一文を、分かりやすい記念ポスターにまとめます。
 
-退職祝いや新築祝いのデザインには、年、場所、役割、住所、写真、個人的なラインなどを含めることができます。 [ポスターメーカー](https://podplo.app/skills/poster-maker) これらの要素を明確な記念ポスターにまとめます。
+退職祝いや新居祝いには、年、場所、役職、住所、写真、その人ならではの言葉を取り入れられます。 [ポスターメーカー](https://podplo.app/skills/poster-maker) これらの要素を明確な記念ポスターにまとめます。
 
 ![マイルストーンに関する承認された事実と画像](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
@@ -104,8 +104,8 @@
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)[![円形バッジ レイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout)

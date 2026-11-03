@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/products/blankets?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/products/blankets?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Mantas
 
-Escala un retrato, repite un patrón o un collage de fotos sobre una manta.
+Ajusta la escala de un retrato, un patrón de repetición o un collage fotográfico para cubrir una manta.
 
 <a id="product-overview"></a>
 
@@ -46,13 +46,13 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explore más diseños y configure Skills**
+**Explora más Skills de composición y conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore más diseños y configure Skills
+#### Explora más Skills de composición y conjuntos
 
 4 / 14
 
@@ -60,21 +60,21 @@ Vista previa del producto de IA
 
 [![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Creador de carteles](https://podplo.app/skills/poster-maker)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)[![Ejemplo de ilustración de diseño de pila vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de diseño de diseño de título-asunto-subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Diseño de pila vertical](https://podplo.app/skills/vertical-stack-layout)[![Ejemplo de composición de título, motivo principal y subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Título-Asunto-Diseño de subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Composición de título, motivo principal y subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
-### Convierte una foto familiar en una obra de arte general
+### Convierte una foto familiar en un diseño para manta
 
 Cree un retrato familiar en 3D manteniendo reconocible a cada persona.
 
-[Retrato de familia 3D](https://podplo.app/skills/3d-family-portrait)
+[Retrato de familia en 3D](https://podplo.app/skills/3d-family-portrait)
 
-![Retrato de familia en 3D · Foto fuente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-before.webp)
+![Retrato de familia en 3D · Foto de origen](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-before.webp)
 
 Foto original
 
@@ -84,13 +84,13 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más fotos e imágenes Skills**
+**Explora más Skills de fotos e imágenes**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explora más fotos e imágenes Skills
+#### Explora más Skills de fotos e imágenes
 
 4 / 97
 
@@ -122,23 +122,23 @@ Obra de arte generada
 
 Vista previa del producto próximamente
 
-Vista previa del producto de IA
+Previsualización de producto generada con IA
 
-**Explora más nombre y ocasión Skills**
+**Explora más Skills de nombres y ocasiones**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explora más nombre y ocasión Skills
+#### Explora más Skills de nombres y ocasiones
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Ejemplo de obra de arte con nombre de pata de cuadros de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Ejemplo del nombre con huella de cuadros búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nombre de la pata de cuadros de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de arte del cartel con el nombre del Polo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nombre con huella de cuadros búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Ejemplo de póster del Polo Norte con nombre](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Nombre del Polo Norte Póster](https://podplo.app/skills/north-pole-name-poster)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Póster del Polo Norte con nombre](https://podplo.app/skills/north-pole-name-poster)[![Ejemplo de diseño de patrón de nombre de corazones de crayón](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Patrón de nombre de corazones de crayón](https://podplo.app/skills/crayon-hearts-name-pattern)[![Ejemplo de diseño artístico del patrón de nombre de dinosaurio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 

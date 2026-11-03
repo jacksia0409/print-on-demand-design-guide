@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/backpacks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/backpacks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -22,7 +22,7 @@
 
 Используйте основную панель для основного изображения, а затем повторите цвета или символы по остальной части дизайна. Один персонаж на главной панели; Полный повтор; Имя, встроенное в иллюстрацию.
 
-![Рюкзаки и сумки для обеда · пустой визуальный продукт](https://podplo.app/pod-guide/generated/backpacks-blank.webp)
+![Рюкзаки и сумки для обеда · Изображение товара без рисунка](https://podplo.app/pod-guide/generated/backpacks-blank.webp)
 
 <a id="product-create"></a>
 
@@ -40,7 +40,7 @@
 
 Исходное изображение
 
-[![Бесшовный узор · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Бесшовный узор · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Созданное произведение искусства
 
@@ -48,11 +48,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Изучите больше макета и установите Skills**
+**Изучите другие Skill для композиций и наборов**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Изучите больше макета и установите Skills
+#### Изучите другие Skill для композиций и наборов
 
 4 / 14
 
@@ -60,13 +60,13 @@
 
 [![Пример изображения в Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 
-Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Создатель Плакатов](https://podplo.app/skills/poster-maker)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Удалить фон у объекта
 
@@ -86,37 +86,37 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Исследуйте больше фотографий и изображений Skills**
+**Изучите другие Skill для фотографий и изображений**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Исследуйте больше фотографий и изображений Skills
+#### Изучите другие Skill для фотографий и изображений
 
 4 / 5
 
 <a id="_R_bn3k_-cards"></a>
 
-[![Пример иллюстрации «Детальный ремонт»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Пример восстановления деталей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Детальный ремонт](https://podplo.app/skills/detail-repair)[![Пример изображения HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Восстановление деталей](https://podplo.app/skills/detail-repair)[![Пример изображения HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-HD Высококлассное](https://podplo.app/skills/hd-upscale)[![Пример изображения в векторном стиле](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-4.webp)
+Повышение разрешения до HD](https://podplo.app/skills/hd-upscale)[![Пример изображения в векторном стиле](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-4.webp)
 
 Векторный стиль](https://podplo.app/skills/vector-style)[![Пример графического изображения Smart Outpaint](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-Умная раскраска](https://podplo.app/skills/smart-outpaint)
+Умная дорисовка за границами](https://podplo.app/skills/smart-outpaint)
 
 ### Добавьте узор динозавра вокруг имени.
 
 Поместите имя в центре, окруженное зелеными и бирюзовыми динозаврами, листьями и следами.
 
-[Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)
+[Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)
 
 Имя
 
 Имя
 
-[![Шаблон имени динозавра · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
+[![Узор с динозаврами и именем · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)](https://podplo.app/skills/dinosaur-name-pattern)
 
 Созданное произведение искусства
 
@@ -124,25 +124,25 @@ HD Высококлассное](https://podplo.app/skills/hd-upscale)[![При�
 
 Предварительный просмотр продукта с ИИ
 
-**Узнайте больше об имени и случае Skills**
+**Изучите другие Skill для имён и особых поводов**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Узнайте больше об имени и случае Skills
+#### Изучите другие Skill для имён и особых поводов
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Пример рисунка имени с розовым бантом](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607234000023917-artwork.webp)
+[![Пример узора с розовыми бантами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607234000023917-artwork.webp)
 
-Шаблон имени с розовым бантом](https://podplo.app/skills/pink-bow-name-pattern)[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Узор с розовыми бантами и именем](https://podplo.app/skills/pink-bow-name-pattern)[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример изображения плаката с названием Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример именного постера Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Плакат с названием Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример изображения узора в виде сердечек из карандашей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Именной постер Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример узора с именем и сердечками, нарисованными мелками](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Образец имени в виде сердечек из карандашей](https://podplo.app/skills/crayon-hearts-name-pattern)
+Узор с именем и сердечками, нарисованными мелками](https://podplo.app/skills/crayon-hearts-name-pattern)
 
 <a id="product-mockup"></a>
 
@@ -158,4 +158,4 @@ HD Высококлассное](https://podplo.app/skills/hd-upscale)[![При�
 
 - Имя может быть интегрировано в тему
 
-![Рюкзаки и сумки для обеда · Доказательство продукции AI](https://podplo.app/pod-guide/generated/backpacks-proof.webp)
+![Рюкзаки и сумки для обеда · Визуальная проба товара с помощью ИИ](https://podplo.app/pod-guide/generated/backpacks-proof.webp)

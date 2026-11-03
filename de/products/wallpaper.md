@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/wallpaper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/wallpaper?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,9 +20,9 @@ Verwandeln Sie ein Motiv in einen kleinen Hintergrundrapport, ein großes Statem
 
 ### Wählen Sie den Maßstab und den Abstand
 
-Kleine, dichte Motive bilden einen dezenten Hintergrund, großflächigere Motive stechen an der Wand hervor und vertikale oder diagonale Wiederholungen leiten den Blick durch den Raum. Eine kleine Wiederholung für einen dezenten Hintergrund; Ein großflächiges Motiv für eine Statement-Wand; Eine vertikale oder diagonale Wiederholung.
+Kleine, dicht gesetzte Motive bilden einen dezenten Hintergrund; größere Motive mit mehr Abstand setzen Akzente an der Wand, und vertikale oder diagonale Rapporte leiten den Blick durch den Raum. Ein kleiner Rapport für einen dezenten Hintergrund; ein großes Motiv mit viel Abstand für eine Akzentwand; ein vertikaler oder diagonaler Rapport.
 
-![Hintergrundbild · leere Produktvisualisierung](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
+![Tapete · Darstellung eines Produktrohlings](https://podplo.app/pod-guide/generated/wallpaper-blank.webp)
 
 <a id="product-create"></a>
 
@@ -44,7 +44,7 @@ Quellbild
 
 Generiertes Kunstwerk
 
-![Hintergrundbild · Nahtloses Muster · AI-Produktvorschau](https://podplo.app/pod-guide/generated/wallpaper-seamless-pattern-proof.webp)
+![Tapete · Seamless Pattern · KI-Produktvorschau](https://podplo.app/pod-guide/generated/wallpaper-seamless-pattern-proof.webp)
 
 KI-Produktvorschau
 
@@ -60,6 +60,6 @@ Nutzen Sie die KI-Raumvorschau, um einen kleinen Rapport, ein großes Motiv und 
 
 - Große Motive machen die Wand zum Blickfang
 
-- Richtungswiederholungen können verändern, wie hoch oder breit der Raum erscheint
+- Gerichtete Rapporte können verändern, wie hoch oder breit ein Raum wirkt
 
-![Hintergrundbild · KI-Produktnachweis](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)
+![Tapete · KI-Produktansicht](https://podplo.app/pod-guide/generated/wallpaper-proof.webp)

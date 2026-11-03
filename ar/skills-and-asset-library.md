@@ -20,7 +20,7 @@
 
 ## تحويل صورة حيوان أليف إلى صورة ملكية
 
-[صورة الحيوانات الأليفة الملكية](https://podplo.app/skills/royal-pet-portrait) يضيف أزياء ومناظر طبيعية مع الحفاظ على التعرف على الحيوان الأليف.
+[صورة الحيوانات الأليفة الملكية](https://podplo.app/skills/royal-pet-portrait) يضيف أزياء تاريخية ومحيطًا مناسبًا مع بقاء الحيوان الأليف مميزًا.
 
 [صورة الحيوانات الأليفة الملكية](https://podplo.app/skills/royal-pet-portrait) يحول صورة حيوان أليف مألوفة إلى صورة شخصية ملكية. يمكن أن يتغير الزي والإعداد بشكل كبير بينما يحافظ شكل الوجه وعلامات الفراء والتعبير على الحيوان الأليف بشكل لا لبس فيه.
 
@@ -106,13 +106,13 @@
 
 <a id="_R_5mrk_-cards"></a>
 
-[![اجعله مثالاً على العمل الفني لعيد الهالوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+[![مثال عمل فني لـ«اجعله عيد الهالوين»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-اجعلها عيد الهالوين](https://podplo.app/skills/make-it-halloween)[![اجعله مثالاً على العمل الفني لعيد الحب](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+اجعلها عيد الهالوين](https://podplo.app/skills/make-it-halloween)[![مثال عمل فني لـ«اجعله عيد الحب»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-اجعله عيد الحب](https://podplo.app/skills/make-it-valentines)[![اجعله مثالاً على الأعمال الفنية لعيد الفصح](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+اجعله عيد الحب](https://podplo.app/skills/make-it-valentines)[![مثال عمل فني لـ«اجعله عيد الفصح»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-اجعله عيد الفصح](https://podplo.app/skills/make-it-easter)[![اجعله مثالاً على العمل الفني لعيد الشكر](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+اجعله عيد الفصح](https://podplo.app/skills/make-it-easter)[![مثال عمل فني لـ«اجعله عيد الشكر»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
 اجعله عيد الشكر](https://podplo.app/skills/make-it-thanksgiving)
 
@@ -140,8 +140,8 @@
 
 [![مثال على العمل الفني لإطار اسم الأزهار](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
-إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 </div>

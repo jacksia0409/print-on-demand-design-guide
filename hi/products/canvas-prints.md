@@ -32,7 +32,7 @@
 
 ### एक संपूर्ण कैनवास रचना व्यवस्थित करें
 
-मुख्य विषय को स्पष्ट रखें, फिर लेआउट को पूरा करने के लिए पृष्ठभूमि और सहायक तत्वों का उपयोग करें।
+मुख्य आकृति स्पष्ट रखें, फिर पृष्ठभूमि और सहायक तत्वों से लेआउट पूरा करें।
 
 [पोस्टर निर्माता](https://podplo.app/skills/poster-maker)
 
@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-**अधिक लेआउट खोजें और Skills सेट करें**
+**लेआउट और सेट बनाने वाले अधिक Skills खोजें**
 
 <a id="_R_bf3k_-title"></a>
 
-#### अधिक लेआउट खोजें और Skills सेट करें
+#### लेआउट और सेट बनाने वाले अधिक Skills खोजें
 
 4 / 14
 
@@ -96,9 +96,9 @@
 
 <a id="_R_bn3k_-cards"></a>
 
-[![रंग पेज कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
+[![रंग भरने के पृष्ठ की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-9.webp)
 
-रंग पेज](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
+रंग भरने का पृष्ठ](https://podplo.app/skills/coloring-page)[![सिल्हूट निर्माता कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-10.webp)
 
 सिल्हूट निर्माता](https://podplo.app/skills/silhouette-maker)[![मोनोक्रोम स्टाम्प कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
@@ -112,7 +112,7 @@
 
 [पुष्प नाम फ़्रेम](https://podplo.app/skills/floral-name-frame)
 
-एंड्रिया
+ANDREA
 
 नाम
 
@@ -136,7 +136,7 @@
 
 [![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 उत्तरी ध्रुव का नाम पोस्टर](https://podplo.app/skills/north-pole-name-poster)[![क्रेयॉन हार्ट्स नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -156,6 +156,6 @@
 
 - एक विस्तृत भूदृश्य दीवार के अधिक भाग को भर देता है
 
-- एक साधारण पृष्ठभूमि विषय पर ध्यान बनाए रखती है
+- सरल पृष्ठभूमि ध्यान को मुख्य दृश्य तत्व पर बनाए रखती है
 
-![कैनवास और फ़्रेमयुक्त प्रिंट · एआई उत्पाद प्रमाण](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)
+![कैनवास और फ़्रेमयुक्त प्रिंट · AI से बना उत्पाद प्रूफ़](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)

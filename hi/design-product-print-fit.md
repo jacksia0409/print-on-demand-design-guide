@@ -18,9 +18,9 @@
 
 ## एक कॉम्पैक्ट केंद्रित डिज़ाइन बनाएं
 
-[कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout) कलाकृति और कॉपी को एक बोल्ड केन्द्रित आकार में जोड़ता है।
+[कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout) कलाकृति और लिखावट को एक प्रभावशाली केंद्रीय आकार में जोड़ता है।
 
-[कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout) एक विषय को इकट्ठा करता है और एक घने, संतुलित आकार में कॉपी करता है। कलाकृति जो एक बार बिखरी हुई महसूस होती है वह एक स्पष्ट केंद्र बिंदु के साथ एक मजबूत केंद्रित ग्राफिक बन जाती है।
+[कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout) मुख्य आकृति और लिखावट को घने, संतुलित आकार में समेटता है। पहले बिखरी लगने वाली कलाकृति स्पष्ट केंद्र बिंदु वाला मज़बूत केंद्रीय ग्राफ़िक बन जाती है।
 
 ![लेआउट से पहले कलाकृति और सटीक शब्दांकन](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
@@ -126,7 +126,7 @@
 
 एक मॉकअप दिखाता है कि रंग, उत्पाद का आकार और सेटिंग एक ही कलाकृति को कैसे प्रभावित करते हैं। एक केन्द्रित आकृति शर्ट पर बोल्ड और नोटबुक पर कम दिखाई दे सकती है। पूर्वावलोकन एक अवधारणा छवि है, भौतिक नमूना नहीं।
 
-![सटीक कलाकृति का प्रमाण दिया जाना है](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
+![प्रूफ़-जाँच के लिए सटीक कलाकृति](https://podplo.app/pod-guide/t-shirts/golden-retriever-layout.webp)
 
 इनपुट
 
@@ -150,6 +150,6 @@
 
 कॉम्पैक्ट सेंटर लेआउट](https://podplo.app/skills/compact-center-layout)[![बैकग्राउंड रिमूवर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
-पृष्ठभूमि हटानेवाला](https://podplo.app/skills/background-remover)[![विस्तृत मरम्मत कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+पृष्ठभूमि हटानेवाला](https://podplo.app/skills/background-remover)[![डिटेल रिपेयर की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-विस्तृत मरम्मत](https://podplo.app/skills/detail-repair)
+डिटेल रिपेयर](https://podplo.app/skills/detail-repair)

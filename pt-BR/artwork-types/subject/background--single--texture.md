@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-Orientado por assunto / DIREÇÃO CRIATIVA / assunto único
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA / elemento principal único
 
 # Fundo texturizado
 
-Assunto único: granulação do papel, partículas ou outro caráter de superfície sustentam o conteúdo do primeiro plano.
+Elemento principal único: granulação do papel, partículas ou outra característica de superfície apoiam o conteúdo de primeiro plano.
 
 <a id="understand"></a>
 
-![Plano de fundo texturizado: Tema único: granulação do papel, partículas ou outro caráter de superfície dão suporte ao conteúdo do primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--texture-1.svg)
+![Fundo texturizado: elemento principal único: granulação do papel, partículas ou outra característica de superfície apoiam o conteúdo de primeiro plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--texture-1.svg)
 
 Ilustração da composição
 
@@ -28,7 +28,7 @@ COMO RECONHECER
 
 Um suporte texturizado não deve se tornar automaticamente um objeto independente ou uma cena narrativa completa. Na categoria de textura, distinga o fragmento da superfície principal do seu suporte.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Orientado por assunto → Assunto único → Plano de fundo → Fundo texturizado
+Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo texturizado
 
 **Entrada e saída**
 
@@ -48,7 +48,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
 **Fundo**
 
@@ -68,24 +68,24 @@ Um suporte texturizado não deve se tornar automaticamente um objeto independent
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Assunto único: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
+[![Fundo transparente: elemento principal único: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Sujeito único: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--single--transparent.md)[![Fundo sólido: Sujeito único: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+Elemento principal único: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--single--transparent.md)[![Fundo sólido: elemento principal único: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
 ### Fundo sólido↗
 
-Sujeito único: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--single--solid.md)[![Fundo gradiente: Assunto único: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+Elemento principal único: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--single--solid.md)[![Fundo em degradê: Elemento principal único: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Assunto único: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--single--gradient.md)[![Plano de fundo padronizado: local: assunto único: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
+Elemento principal único: o fundo muda continuamente de cor ou brilho, enquanto o conteúdo principal permanece claro.](background--single--gradient.md)[![Fundo estampado: local: Elemento principal único: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Assunto único: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--single--pattern-local.md)
+Elemento principal único: uma área decorativa fica atrás do conteúdo, deixando uma região fora dela.](background--single--pattern-local.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

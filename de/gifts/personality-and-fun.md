@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/gifts/personality-and-fun?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/gifts/personality-and-fun?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -16,7 +16,7 @@ Erstellen Sie persönliche Designs aus Spitznamen, Insider-Witzen, Hobbys, Rolle
 
 <a id="language-and-identity"></a>
 
-## Entwerfen Sie einen Insider-Witz
+## Gestalten Sie ein Design rund um einen Insiderwitz
 
 Ein Spitzname oder ein gemeinsamer Witz können ein kompaktes, sehr persönliches Design verankern.
 
@@ -40,9 +40,9 @@ Kompaktes Center-Layout
 
 Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)[![Beispiel für ein kreisförmiges Badge-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout)
 
@@ -52,7 +52,7 @@ Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout
 
 [Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout) verwandelt ein Hobby, eine Rolle oder ein Sternzeichen in ein persönliches Emblem.
 
-Wählen Sie ein bestimmtes Symbol aus einem Hobby, Beruf, einer Rolle oder einem Sternzeichen-Thema [Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout). Ein klares Etikett und ein aussagekräftiger visueller Hinweis schaffen ein persönliches Emblem, ohne sich auf Stereotypen zu verlassen.
+Wählen Sie ein bestimmtes Symbol aus einem Hobby, Beruf, einer Rolle oder einem Sternzeichenthema für ein [Kreisförmiges Abzeichen-Layout](https://podplo.app/skills/circular-badge-layout). Ein klares Etikett und ein aussagekräftiger visueller Hinweis schaffen ein persönliches Emblem, ohne sich auf Stereotypen zu verlassen.
 
 [![Abzeichendesign für ein Hobby oder eine Rolle](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)](https://podplo.app/skills/circular-badge-layout)
 
@@ -74,9 +74,9 @@ Plakatmacher](https://podplo.app/skills/poster-maker)[![Beispiel für ein Compac
 
 Kompaktes Center-Layout](https://podplo.app/skills/compact-center-layout)[![Beispiel für ein vertikales Stapellayout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Beispiel für ein Titel-Betreff-Untertitel-Layout](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Vertikales Stapellayout](https://podplo.app/skills/vertical-stack-layout)[![Bildbeispiel für ein Layout aus Titel, Motiv und Untertitel](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Titel-Betreff-Untertitel-Layout](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout aus Titel, Motiv und Untertitel](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="groups-and-sets"></a>
 

@@ -12,11 +12,11 @@
 
 <a id="overview"></a>
 
-FORMULÁRIO DE ARTE · 03/05
+FORMA DA ARTE · 03 / 05
 
 # Cenas
 
-Um cenário, um momento ou um espaço compartilhado dá contexto aos sujeitos. A ação é opcional.
+Um cenário, um momento ou um espaço compartilhado dá contexto aos elementos principais. A ação é opcional.
 
 <a id="scene-design"></a>
 
@@ -68,7 +68,7 @@ Use gestos preparatórios e pistas ambientais para sugerir o que está prestes a
 
 ##### Depois do evento
 
-Mostre o resultado através de restos mortais, expressões faciais ou mudanças visíveis no ambiente.
+Mostre o resultado por meio de vestígios, expressões faciais ou mudanças visíveis no ambiente.
 
 <a id="form-exp-10-0-4"></a>
 
@@ -116,7 +116,7 @@ Expresse um relacionamento cuidando, esperando ou compartilhando silenciosamente
 
 ##### Ritual e celebração
 
-Reúna um grupo em torno de um aniversário, festival, aniversário ou outra ocasião comemorativa.
+Reúna um grupo em torno de um aniversário de nascimento, um festival, uma data de aniversário ou outra ocasião comemorativa.
 
 <a id="form-exp-10-0-10"></a>
 
@@ -140,7 +140,7 @@ Faça com que a estrada, o grupo de viagem e o destino definam juntos a jornada.
 
 ##### Crescimento e mudança
 
-Use etapas sucessivas de mudança do mesmo assunto como conteúdo principal.
+Use etapas sucessivas de mudança do mesmo elemento principal como conteúdo central.
 
 <a id="form-exp-10-0-13"></a>
 
@@ -156,7 +156,7 @@ Sugira vida cíclica através de ações repetidas ou mudanças recorrentes no a
 
 ##### Situação tranquila
 
-Descreva um estado através de assuntos e arredores sem mostrar um evento óbvio.
+Descreva um estado por meio dos elementos principais e do ambiente, sem mostrar um acontecimento evidente.
 
 <a id="form-exp-10-0-15"></a>
 
@@ -170,9 +170,9 @@ Mantenha a causa ou resultado crucial fora do quadro para que pistas visíveis c
 
 <a id="scene-group-word-10-1"></a>
 
-#### Configurações e fragmentos do cotidiano
+#### Cenários e fragmentos do cotidiano
 
-Compare as configurações cotidianas por uso social, objetos, ocupantes e o tipo de atividade comum que cada espaço suporta.
+Compare cenários cotidianos pelo uso social, objetos, ocupantes e pelo tipo de atividade comum que cada espaço comporta.
 
 <a id="form-exp-10-1-0"></a>
 
@@ -184,9 +184,9 @@ Combine móveis, pertences do dia a dia e personagens para criar um interior de 
 
 <a id="form-exp-10-1-1"></a>
 
-![Natureza morta na área de trabalho - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-1.svg)
+![Natureza-morta de mesa — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-1.svg)
 
-##### Natureza morta na área de trabalho
+##### Natureza-morta de mesa
 
 Sugira o cotidiano por meio de objetos de mesa, sinais de uso e um foco de luz localizado.
 
@@ -288,7 +288,7 @@ Use uma área de atuação, público e iluminação para estabelecer o ato de as
 
 <a id="form-exp-10-1-14"></a>
 
-![Workshop e produção — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-14.svg)
+![Oficina e produção — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-1-14.svg)
 
 ##### Oficina e produção
 
@@ -340,7 +340,7 @@ Construa o espaço principal a partir de massas montanhosas, vales e fortes muda
 
 ##### Interior da floresta
 
-Camada de troncos, copa, clareiras e solo da floresta para criar profundidade dentro da floresta.
+Organize troncos, copa, clareiras e chão da floresta em camadas para criar profundidade no bosque.
 
 <a id="form-exp-10-2-2"></a>
 
@@ -460,7 +460,7 @@ Organize terreno ou arquitetura imaginária com regras espaciais internas consis
 
 #### Tempo e atmosfera
 
-Compare a mesma cena em diferentes épocas, estações, clima, visibilidade e condições atmosféricas, em vez de mudar o assunto.
+Compare a mesma cena em diferentes horários, estações, condições de tempo, visibilidade e atmosfera, em vez de mudar seu elemento principal.
 
 <a id="form-exp-10-3-0"></a>
 
@@ -572,7 +572,7 @@ Defina o ponto de vista próximo à altura dos personagens ou objetos primários
 
 ##### Visão de ângulo baixo
 
-Olhe de baixo para cima para fortalecer a massa ou altura aparente do sujeito.
+Olhe de baixo para cima para reforçar a massa ou a altura aparente do elemento principal.
 
 <a id="form-exp-10-4-2"></a>
 
@@ -674,7 +674,7 @@ Observe o evento à distância para que sua atividade seja lida dentro do ambien
 
 ![Participante próximo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-4-14.svg)
 
-##### Fechar participante
+##### Participante próximo
 
 Coloque o ponto de vista entre os personagens para criar um senso de participação mais forte.
 
@@ -708,7 +708,7 @@ Combine diferentes direções de visualização em uma cena e torne suas junçõ
 
 #### Faixa de enquadramento
 
-Compare o alcance do enquadramento pela quantidade de detalhes do ambiente e do motivo que permanecem visíveis, desde grandes planos até grandes planos íntimos.
+Compare a amplitude do enquadramento pela quantidade de ambiente e de detalhes do elemento principal que permanece visível, desde planos extremamente abertos até closes íntimos.
 
 <a id="form-exp-10-5-0"></a>
 
@@ -800,17 +800,17 @@ Compare a profundidade espacial através de planos em camadas, sobreposição, r
 
 <a id="form-exp-10-6-0"></a>
 
-![Meio e distância do primeiro plano - estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-0.svg)
+![Primeiro plano, plano intermediário e distância — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-0.svg)
 
-##### Meio e distância do primeiro plano
+##### Primeiro plano, plano intermediário e distância
 
-Dê ao primeiro plano, à distância média e à distância suas próprias camadas de conteúdo reconhecíveis.
+Dê ao primeiro plano, ao plano intermediário e ao plano distante suas próprias camadas de conteúdo reconhecível.
 
 <a id="form-exp-10-6-1"></a>
 
 ![Plano de estágio único — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-1.svg)
 
-##### Avião de estágio único
+##### Plano de um único palco
 
 Mantenha os personagens principalmente no mesmo plano com o ambiente organizado como um cenário teatral.
 
@@ -820,7 +820,7 @@ Mantenha os personagens principalmente no mesmo plano com o ambiente organizado 
 
 ##### Cenário em camadas
 
-Sobreponha várias silhuetas ambientais da frente para trás, como apartamentos em camadas.
+Sobreponha várias silhuetas de ambientes da frente para trás, como painéis de cenário em camadas.
 
 <a id="form-exp-10-6-3"></a>
 
@@ -860,7 +860,7 @@ Reduza os detalhes e o contraste à distância, mantendo nítidas as formas pró
 
 ##### Profundidade da zona clara
 
-Camadas de profundidade separadas com zonas distintas de luz e escuridão.
+Separe as camadas de profundidade com zonas distintas de luz e escuridão.
 
 <a id="form-exp-10-6-8"></a>
 
@@ -896,9 +896,9 @@ Organize o espaço em níveis sucessivos, ascendentes e descendentes.
 
 <a id="form-exp-10-6-12"></a>
 
-![Co-lideranças próximas e distantes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-12.svg)
+![Elementos próximos e distantes com igual destaque — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-6-12.svg)
 
-##### Co-líderes próximos e distantes
+##### Elementos próximos e distantes com igual destaque
 
 Deixe que um personagem próximo e um ponto de referência distante compartilhem igual importância temática.
 
@@ -916,7 +916,7 @@ Altere a escala relativa deliberadamente para criar um espaço onírico ou aleg�
 
 #### Composição e fluxo visual
 
-Compare a composição da cena por posicionamento focal, equilíbrio, caminho direcional, enquadramento, múltiplos centros de atividades, densidade panorâmica e escala de configuração para evento.
+Compare a composição da cena pelo posicionamento do foco, equilíbrio, trajetória direcional, enquadramento, múltiplos centros de atividade, densidade panorâmica e relação de escala entre cenário e acontecimento.
 
 <a id="form-exp-10-7-0"></a>
 
@@ -1024,9 +1024,9 @@ Distribua muitos pequenos eventos em um espaço panorâmico contínuo.
 
 <a id="form-exp-10-7-14"></a>
 
-![Grande evento pequeno – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-7-14.svg)
+![Cenário grande, acontecimento pequeno — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-7-14.svg)
 
-##### Grande cenário para pequenos eventos
+##### Cenário grande, acontecimento pequeno
 
 Deixe o cenário ocupar a maior parte da imagem enquanto o evento aparece como um pequeno detalhe.
 
@@ -1074,7 +1074,7 @@ Apresente etapas sucessivas de um evento em vários painéis ordenados.
 
 ![Mesmo lugar em momentos diferentes — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-3.svg)
 
-##### Mesmo lugar em horários diferentes
+##### Mesmo lugar em momentos diferentes
 
 Repita o mesmo lugar em momentos diferentes para revelar mudanças ao longo do tempo.
 
@@ -1082,23 +1082,23 @@ Repita o mesmo lugar em momentos diferentes para revelar mudanças ao longo do t
 
 ![Um personagem em todos os cenários – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-4.svg)
 
-##### Um personagem em todas as configurações
+##### Um personagem em diferentes cenários
 
 Siga um personagem por diferentes ambientes para conectar uma experiência mais longa.
 
 <a id="form-exp-10-8-5"></a>
 
-![Narrativa de rolagem contínua — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-5.svg)
+![Narrativa contínua em rolo — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-5.svg)
 
-##### Narrativa de rolagem contínua
+##### Narrativa contínua em rolo
 
-Deixe os eventos se desenvolverem continuamente em uma imagem estendida em forma de rolagem.
+Deixe os acontecimentos se desenvolverem continuamente ao longo de uma imagem alongada como um rolo.
 
 <a id="form-exp-10-8-6"></a>
 
-![Várias vezes em uma cena — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-6.svg)
+![Vários momentos em uma cena — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-8-6.svg)
 
-##### Várias vezes em uma cena
+##### Vários momentos em uma cena
 
 Repita o personagem dentro de um cenário para representar vários momentos diferentes.
 
@@ -1132,7 +1132,7 @@ Desdobre vários eventos simultaneamente para que eles se comparem ou ecoem entr
 
 ##### Memória e presente
 
-Memória separada e tempo presente com camadas ou limites claramente diferentes.
+Separe a memória e o tempo presente com camadas ou limites claramente diferentes.
 
 <a id="form-exp-10-8-11"></a>
 
@@ -1208,9 +1208,9 @@ Encaixe um ambiente completo dentro de um objeto como um copo ou garrafa.
 
 <a id="form-exp-10-9-5"></a>
 
-![Casa cortada – estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-9-5.svg)
+![Casa em corte — estudo visual](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-10-9-5.svg)
 
-##### Casa cortada
+##### Casa em corte
 
 Remova as paredes externas para revelar vários cômodos dentro da mesma casa.
 
@@ -1266,7 +1266,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Organize assuntos, ambiente e espaço em torno do tema original. O resultado pode ser um evento, um ambiente tranquilo, uma paisagem ou uma vinheta do quotidiano; criar ambientes relacionados se eles estiverem ausentes.
+Organize os elementos principais, o cenário e o espaço em torno do tema original. O resultado pode ser um acontecimento, um cenário tranquilo, uma paisagem ou uma vinheta cotidiana; crie um entorno relacionado se ele estiver ausente.
 
 **Fundo**
 
@@ -1282,6 +1282,6 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-A ação não é necessária. A decoração atrás de um objeto isolado, sem relações contextuais, está mais próxima de uma obra de arte centrada no assunto.
+A ação não é necessária. A decoração atrás de um objeto isolado, sem relações contextuais, se aproxima mais de uma composição centrada no elemento principal.
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

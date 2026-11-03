@@ -40,9 +40,9 @@ Remix تخطيطًا أو إضافة اسم أو إنشاء إصدار للعط�
 
 [![مثال على العمل الفني لصورة الحيوانات الأليفة بالألوان المائية الناعمة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-صورة الحيوانات الأليفة بالألوان المائية الناعمة](https://podplo.app/skills/soft-watercolor-pet-portrait)[![مثال على العمل الفني لصورة Naive Marker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
+صورة الحيوانات الأليفة بالألوان المائية الناعمة](https://podplo.app/skills/soft-watercolor-pet-portrait)[![مثال عمل فني لبورتريه عفوي بأقلام تحديد](https://images.podplo.app/official/skills/podplo-skill-media-20261027/home/portrait-skill-results/portrait-05-after.webp)
 
-صورة ساذجة ماركر](https://podplo.app/skills/naive-marker-portrait)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+بورتريه عفوي بأقلام تحديد](https://podplo.app/skills/naive-marker-portrait)[![مثال على العمل الفني لتخطيط الشارة الدائرية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 تخطيط شارة دائرية](https://podplo.app/skills/circular-badge-layout)[![مثال على العمل الفني لإطار اسم الأزهار](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 
@@ -56,7 +56,7 @@ Remix تخطيطًا أو إضافة اسم أو إنشاء إصدار للعط�
 
 **امنح تصميمك لمسة عطلة**](techniques/holiday-versions.md)[![الطلاء الخارجي الذكي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)
 
-**خذ صورتك خارج الإطار**](techniques/change-ratio.md)[![4 قطعة مولد الشبكة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+**خذ صورتك خارج الإطار**](techniques/change-ratio.md)[![مولّد شبكة 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
 **تحويل فكرة واحدة إلى مجموعة**](techniques/series-builder.md)[![إطار اسم الأزهار](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)
 

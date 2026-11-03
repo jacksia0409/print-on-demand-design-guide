@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-科目主導 / クリエイティブディレクション / 複数の科目
+モチーフ主体 / 制作の方向性 / 複数のモチーフ
 
 # 模様のある背景: 全領域
 
-複数の被写体: はっきりと読み取れる前景コンテンツの背後にある画像をパターン化した地面で覆います。
+複数のモチーフ：背景全体に柄を敷き、手前の内容ははっきり読み取れるようにします。
 
 <a id="understand"></a>
 
-![パターン化された背景: 全領域: 複数の被写体: パターン化された地面が、はっきりと読み取れる前景コンテンツの後ろの画像を覆います。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
+![柄の背景：全面：複数のモチーフ：背景全体に柄を敷き、手前の内容ははっきり読み取れるようにします。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-full-1.svg)
 
 構図の模式図
 
@@ -28,11 +28,11 @@
 
 完全にカバーされていても、完全な画像がシームレスにタイル表示されていることを証明するものではありません。パターンがメイン カテゴリである場合は、前景のコンテンツを表示したままにし、パターンの配置を保持します。
 
-[← 科目主導に戻る](../subject.md)
+[← モチーフ主体に戻る](../subject.md)
 
 <a id="ai-directions"></a>
 
-AIの指示
+AIで広げる創作の方向性
 
 ## この方向性を AI に取り入れましょう
 
@@ -40,7 +40,7 @@ AIの指示
 
 **目指す表現**
 
-被写体主導 → 複数の被写体 → 背景 → パターン化された背景：全領域
+モチーフ主体 → 複数のモチーフ → 背景 → 柄の背景：全面
 
 **入力と出力**
 
@@ -68,24 +68,24 @@ AIの指示
 
 <a id="related"></a>
 
-## 近くのルートを比較する
+## 近い創作の方向性を比べる
 
-[![透明な背景: 複数の被写体: 地面は透明のままです。チェッカーボードは単なる表示補助です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
+[![透明な背景: 複数のモチーフ: 背景は透明のまま保ちます。市松模様は、透過を示すための表示補助にすぎません。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### 透明背景↗
 
-複数の被写体: 地面は透明のままです。チェッカーボードは単なる表示補助です。](background--multiple--transparent.md)[![単色の背景: 複数の被写体: 1 つの均一な色が地面を形成します。白も単色の背景です。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+複数のモチーフ：背景は透明のままです。市松模様は透明部分を示す表示補助にすぎません。](background--multiple--transparent.md)[![無地の背景：複数のモチーフ：均一な一色を背景にします。白も無地の背景に含まれます。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
 ### 無地の背景↗
 
-複数の被写体: 1 つの均一な色が地面を形成します。白も単色の背景です。](background--multiple--solid.md)[![グラデーションの背景: 複数の主役: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+複数のモチーフ：均一な一色を背景にします。白も無地の背景に含まれます。](background--multiple--solid.md)[![グラデーションの背景: 複数の主役: メインのコンテンツはクリアなままで、背景の色または明るさが連続的に変化します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### グラデーション背景↗
 
-複数の主役: 主要なコンテンツは鮮明なままですが、背景の色または明るさが連続的に変化します。](background--multiple--gradient.md)[![パターン化された背景: ローカル: 複数の主役: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+複数の主役: 主要なコンテンツは鮮明なままですが、背景の色または明るさが連続的に変化します。](background--multiple--gradient.md)[![柄の背景：部分：複数のモチーフ：内容の背後に部分的な装飾の下地を置き、その外側には別の領域を残します。](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
-### パターン背景: ローカル↗
+### 柄の背景：部分↗
 
 複数の主役: 装飾的なパッチがコンテンツの後ろに配置され、パッチの外側に領域が残ります。](background--multiple--pattern-local.md)
 
-コードによる研究では、構成と視覚的処理を比較します。メディアとスタイルの例は概念的なものです。これらの方向は、画像モデルを使用して個別にテストされていません。生成されたテキスト、透明度、リピートエッジを確認します。
+コードで描いた図で、構図や視覚表現を比較します。画材やスタイルの例は概念を示すもので、これらの方向性を画像モデルで一つずつ検証したものではありません。生成した文字、透過、リピートの継ぎ目を確認してください。

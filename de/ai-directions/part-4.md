@@ -17,7 +17,7 @@ Hierbei handelt es sich um öffentliche Guide-Anweisungen, nicht um private Skil
 Text- und Motivbeziehungen: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.
 
 ```text
-Gestaltungsrichtung: Betreffgesteuert → Text- und Betreffbeziehungen → Hintergrund → Strukturierter Hintergrund
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Hintergrund → Strukturierter Hintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -33,30 +33,30 @@ Umfang und Grenzen: Ein strukturierter Hintergrund sollte nicht automatisch zu e
 ```
 
 
-## Umwelthintergrund
+## Umgebungshintergrund
 
-Text- und Themenbeziehungen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.
+Text-Motiv-Beziehungen: Eine zum Thema passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.
 
 ```text
-Gestaltungsrichtung: Themenorientiert → Text- und Subjektbeziehungen → Hintergrund → Umwelthintergrund
+Gestaltungsrichtung: Motiv im Mittelpunkt → Text-Motiv-Beziehungen → Hintergrund → Umgebungshintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
 Zielaufbau: Behalten Sie das Thema und die Kernbeziehung von Text und Bild bei. Koordinieren Sie Hierarchie, Platzierung und Lesart, ohne unterstützende Formulierungen in eine unabhängige, dominante Überschrift zu verwandeln.
 
-Hintergrund: Beziehen Sie sich auf den vorhandenen Standort, die Umgebungselemente und die Atmosphäre und passen Sie diese an den Hauptinhalt an. Wenn es nicht vorhanden ist oder nur schlicht oder transparent ist, erstellen Sie eine entsprechende Einstellung und koordinieren Sie Maßstab, Richtung und Tiefe.
+Hintergrund: Orientieren Sie sich an vorhandenem Ort, Umgebungselementen und Atmosphäre und passen Sie diese an den Hauptinhalt an. Fehlt eine Umgebung oder ist der Hintergrund nur einfarbig oder transparent, schaffen Sie eine passende Umgebung und stimmen Sie Maßstab, Richtung und Tiefe ab.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Für die Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Einstellung zweitrangig. Bewerten Sie das Bild als Szene neu, wenn die Umgebung oder die Erzählung zum Hauptausdruck wird.
+Umfang und Grenzen: In den Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Umgebung zweitrangig. Ordnen Sie das Bild erneut als Szene ein, wenn die Umgebung oder Erzählung zum Hauptausdruck wird.
 ```
 
 
 ## Transparenter Hintergrund
 
-Szenen: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.
+Szenen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.
 
 ```text
 Gestaltungsrichtung: Szenen → Hintergrund → Transparenter Hintergrund
@@ -65,7 +65,7 @@ Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsr
 
 Zielaufbau: Bewahren Sie den wesentlichen Raum, die Umgebung und jedes vorhandene Ereignis der Szene. Ändern Sie den Boden dahinter, die Himmelsebene oder den umgebenden Hintergrund, anstatt den Kontext zu entfernen, der es zu einer Szene macht.
 
-Hintergrund: Verwenden Sie alle relevanten Paletten, Behandlungen oder erforderlichen Themenhinweise von einem vorhandenen Hintergrund und entfernen Sie dann die Trägerschicht. Halten Sie einen fehlenden Hintergrund transparent, anstatt einen falschen Grund zu malen. Die notwendigen Farben im Inhalt können erhalten bleiben.
+Hintergrund: Übernehmen Sie relevante Farbpaletten, Gestaltungsmerkmale oder notwendige thematische Hinweise aus einem vorhandenen Hintergrund und entfernen Sie dann dessen Ebene. Ein fehlender Hintergrund bleibt transparent; malen Sie keinen künstlichen Untergrund. Notwendige Farben innerhalb des Inhalts dürfen erhalten bleiben.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
@@ -75,12 +75,12 @@ Umfang und Grenzen: Echte Transparenz erfordert einen Alphakanal. Malen Sie kein
 ```
 
 
-## Solider Hintergrund
+## Einfarbiger Hintergrund
 
-Szenen: Eine einheitliche Farbe bildet den Boden; Weiß ist auch ein solider Hintergrund.
+Szenen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.
 
 ```text
-Gestaltungsrichtung: Szenen → Hintergrund → Solider Hintergrund
+Gestaltungsrichtung: Szenen → Hintergrund → Einfarbiger Hintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -92,7 +92,7 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Fügen Sie dem Träger keine Muster, Farbverläufe, Texturen oder Szenen hinzu. Dadurch werden Farben und Details innerhalb des Vordergrundinhalts nicht eingeschränkt.
+Umfang und Grenzen: Ergänzen Sie im Hintergrund keine Muster, Farbverläufe, Texturen oder Szenen. Die Farben und Details des Vordergrundinhalts werden dadurch nicht eingeschränkt.
 ```
 
 
@@ -113,7 +113,7 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Zwei ebene Flächen mit harter Teilung stellen kein Gefälle dar. Vermeiden Sie, dass der Übergang den Hauptinhalt überfordert.
+Umfang und Grenzen: Zwei einfarbige Flächen mit harter Trennkante bilden keinen Farbverlauf. Der Übergang sollte den Hauptinhalt nicht überlagern.
 ```
 
 
@@ -128,13 +128,13 @@ Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsr
 
 Zielaufbau: Bewahren Sie den wesentlichen Raum, die Umgebung und jedes vorhandene Ereignis der Szene. Ändern Sie den Boden dahinter, die Himmelsebene oder den umgebenden Hintergrund, anstatt den Kontext zu entfernen, der es zu einer Szene macht.
 
-Hintergrund: Verwenden Sie Hintergrundelemente, Behandlung und Palette als Referenzen und reorganisieren Sie sie in einen lokalen dekorativen Hintergrund. Wenn keine vorhanden ist oder die Quelle nur einen glatten oder transparenten Grund hat, erstellen Sie verwandte Motive. Behalten Sie die Transparenz, die ursprüngliche Grundfarbe oder einen explizit gewünschten Grund außerhalb des Pflasters bei.
+Hintergrund: Nutzen Sie Hintergrundelemente, Gestaltung und Farbpalette als Referenz und ordnen Sie sie zu einer lokal begrenzten dekorativen Hintergrundfläche neu. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, schaffen Sie passende Motive. Außerhalb der dekorativen Fläche bleiben Transparenz, ursprüngliche Grundfarbe oder ein ausdrücklich gewünschter Hintergrund erhalten.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Umfang und Grenzen: Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 ```
 
 
@@ -180,24 +180,24 @@ Umfang und Grenzen: Ein strukturierter Hintergrund sollte nicht automatisch zu e
 ```
 
 
-## Umwelthintergrund
+## Umgebungshintergrund
 
 Szenen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.
 
 ```text
-Gestaltungsrichtung: Szenen → Hintergrund → Umwelthintergrund
+Gestaltungsrichtung: Szenen → Hintergrund → Umgebungshintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
 Zielaufbau: Bewahren Sie den wesentlichen Raum, die Umgebung und jedes vorhandene Ereignis der Szene. Ändern Sie den Boden dahinter, die Himmelsebene oder den umgebenden Hintergrund, anstatt den Kontext zu entfernen, der es zu einer Szene macht.
 
-Hintergrund: Beziehen Sie sich auf den vorhandenen Standort, die Umgebungselemente und die Atmosphäre und passen Sie diese an den Hauptinhalt an. Wenn es nicht vorhanden ist oder nur schlicht oder transparent ist, erstellen Sie eine entsprechende Einstellung und koordinieren Sie Maßstab, Richtung und Tiefe.
+Hintergrund: Orientieren Sie sich an vorhandenem Ort, Umgebungselementen und Atmosphäre und passen Sie diese an den Hauptinhalt an. Fehlt eine Umgebung oder ist der Hintergrund nur einfarbig oder transparent, schaffen Sie eine passende Umgebung und stimmen Sie Maßstab, Richtung und Tiefe ab.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Für die Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Einstellung zweitrangig. Bewerten Sie das Bild als Szene neu, wenn die Umgebung oder die Erzählung zum Hauptausdruck wird.
+Umfang und Grenzen: In den Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Umgebung zweitrangig. Ordnen Sie das Bild erneut als Szene ein, wenn die Umgebung oder Erzählung zum Hauptausdruck wird.
 ```
 
 
@@ -212,9 +212,9 @@ Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsr
 
 Zielaufbau: Behalten Sie Motivwiederholungen oder dekorative Ordnung bei. Wenn der gewählte Untertyp eine nahtlose Kachelung erfordert, müssen Vordergrund, Hintergrund und Text zusammen weitergeführt und nach einem Hintergrundwechsel erneut überprüft werden.
 
-Hintergrund: Verwenden Sie alle relevanten Paletten, Behandlungen oder erforderlichen Themenhinweise von einem vorhandenen Hintergrund und entfernen Sie dann die Trägerschicht. Halten Sie einen fehlenden Hintergrund transparent, anstatt einen falschen Grund zu malen. Die notwendigen Farben im Inhalt können erhalten bleiben.
+Hintergrund: Übernehmen Sie relevante Farbpaletten, Gestaltungsmerkmale oder notwendige thematische Hinweise aus einem vorhandenen Hintergrund und entfernen Sie dann dessen Ebene. Ein fehlender Hintergrund bleibt transparent; malen Sie keinen künstlichen Untergrund. Notwendige Farben innerhalb des Inhalts dürfen erhalten bleiben.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie ein kurzes themenbezogenes Wort oder eine Phrase als unterstützendes Motiv. Wenn eine nahtlose Kachelung erforderlich ist, fügen Sie den Wortlaut in die Wiederholungseinheit ein und überprüfen Sie die Rechtschreibung, die Kantenkontinuität und die Lesbarkeit. Andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie eine ausdrückliche Bitte, keinen Text zu senden.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, ergänzen Sie ein kurzes, thematisch passendes Wort oder eine Formulierung als ergänzendes Motiv. Ist eine nahtlose Kachelung nötig, integrieren Sie den Text in die Rapporteinheit und prüfen Sie Rechtschreibung, Anschluss an den Kanten und Lesbarkeit; andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie einen ausdrücklichen Wunsch nach einem Bild ohne Text.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
@@ -222,12 +222,12 @@ Umfang und Grenzen: Echte Transparenz erfordert einen Alphakanal. Malen Sie kein
 ```
 
 
-## Solider Hintergrund
+## Einfarbiger Hintergrund
 
-Muster: Eine einheitliche Farbe bildet den Grund; Weiß ist auch ein solider Hintergrund.
+Muster: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.
 
 ```text
-Gestaltungsrichtung: Muster → Hintergrund → Solider Hintergrund
+Gestaltungsrichtung: Muster → Hintergrund → Einfarbiger Hintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
@@ -235,11 +235,11 @@ Zielaufbau: Behalten Sie Motivwiederholungen oder dekorative Ordnung bei. Wenn d
 
 Hintergrund: Wählen Sie eine passende Farbe aus dem vorhandenen Hintergrund oder Thema oder verwenden Sie eine bestimmte Farbe. Wenn kein Untergrund mitgeliefert wird, erstellen Sie einen themenbezogenen einfarbigen Untergrund und halten Sie ihn einheitlich.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie ein kurzes themenbezogenes Wort oder eine Phrase als unterstützendes Motiv. Wenn eine nahtlose Kachelung erforderlich ist, fügen Sie den Wortlaut in die Wiederholungseinheit ein und überprüfen Sie die Rechtschreibung, die Kantenkontinuität und die Lesbarkeit. Andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie eine ausdrückliche Bitte, keinen Text zu senden.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, ergänzen Sie ein kurzes, thematisch passendes Wort oder eine Formulierung als ergänzendes Motiv. Ist eine nahtlose Kachelung nötig, integrieren Sie den Text in die Rapporteinheit und prüfen Sie Rechtschreibung, Anschluss an den Kanten und Lesbarkeit; andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie einen ausdrücklichen Wunsch nach einem Bild ohne Text.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Fügen Sie dem Träger keine Muster, Farbverläufe, Texturen oder Szenen hinzu. Dadurch werden Farben und Details innerhalb des Vordergrundinhalts nicht eingeschränkt.
+Umfang und Grenzen: Ergänzen Sie im Hintergrund keine Muster, Farbverläufe, Texturen oder Szenen. Die Farben und Details des Vordergrundinhalts werden dadurch nicht eingeschränkt.
 ```
 
 
@@ -256,17 +256,17 @@ Zielaufbau: Behalten Sie Motivwiederholungen oder dekorative Ordnung bei. Wenn d
 
 Hintergrund: Verwenden Sie Farbe und Atmosphäre des Quellhintergrunds oder -themas, um einen kontinuierlichen Ton-, Farb- oder Deckkraftübergang zu erzeugen. Erstellen Sie bei Abwesenheit einen entsprechenden Farbverlauf und koordinieren Sie dessen Richtung und Stärke.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie ein kurzes themenbezogenes Wort oder eine Phrase als unterstützendes Motiv. Wenn eine nahtlose Kachelung erforderlich ist, fügen Sie den Wortlaut in die Wiederholungseinheit ein und überprüfen Sie die Rechtschreibung, die Kantenkontinuität und die Lesbarkeit. Andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie eine ausdrückliche Bitte, keinen Text zu senden.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, ergänzen Sie ein kurzes, thematisch passendes Wort oder eine Formulierung als ergänzendes Motiv. Ist eine nahtlose Kachelung nötig, integrieren Sie den Text in die Rapporteinheit und prüfen Sie Rechtschreibung, Anschluss an den Kanten und Lesbarkeit; andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie einen ausdrücklichen Wunsch nach einem Bild ohne Text.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Zwei ebene Flächen mit harter Teilung stellen kein Gefälle dar. Vermeiden Sie, dass der Übergang den Hauptinhalt überfordert.
+Umfang und Grenzen: Zwei einfarbige Flächen mit harter Trennkante bilden keinen Farbverlauf. Der Übergang sollte den Hauptinhalt nicht überlagern.
 ```
 
 
 ## Gemusterter Hintergrund: lokal
 
-Muster: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.
+Muster: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.
 
 ```text
 Gestaltungsrichtung: Muster → Hintergrund → Gemusterter Hintergrund: lokal
@@ -275,13 +275,13 @@ Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsr
 
 Zielaufbau: Behalten Sie Motivwiederholungen oder dekorative Ordnung bei. Wenn der gewählte Untertyp eine nahtlose Kachelung erfordert, müssen Vordergrund, Hintergrund und Text zusammen weitergeführt und nach einem Hintergrundwechsel erneut überprüft werden.
 
-Hintergrund: Verwenden Sie Hintergrundelemente, Behandlung und Palette als Referenzen und reorganisieren Sie sie in einen lokalen dekorativen Hintergrund. Wenn keine vorhanden ist oder die Quelle nur einen glatten oder transparenten Grund hat, erstellen Sie verwandte Motive. Behalten Sie die Transparenz, die ursprüngliche Grundfarbe oder einen explizit gewünschten Grund außerhalb des Pflasters bei.
+Hintergrund: Nutzen Sie Hintergrundelemente, Gestaltung und Farbpalette als Referenz und ordnen Sie sie zu einer lokal begrenzten dekorativen Hintergrundfläche neu. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, schaffen Sie passende Motive. Außerhalb der dekorativen Fläche bleiben Transparenz, ursprüngliche Grundfarbe oder ein ausdrücklich gewünschter Hintergrund erhalten.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie ein kurzes themenbezogenes Wort oder eine Phrase als unterstützendes Motiv. Wenn eine nahtlose Kachelung erforderlich ist, fügen Sie den Wortlaut in die Wiederholungseinheit ein und überprüfen Sie die Rechtschreibung, die Kantenkontinuität und die Lesbarkeit. Andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie eine ausdrückliche Bitte, keinen Text zu senden.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, ergänzen Sie ein kurzes, thematisch passendes Wort oder eine Formulierung als ergänzendes Motiv. Ist eine nahtlose Kachelung nötig, integrieren Sie den Text in die Rapporteinheit und prüfen Sie Rechtschreibung, Anschluss an den Kanten und Lesbarkeit; andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie einen ausdrücklichen Wunsch nach einem Bild ohne Text.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Umfang und Grenzen: Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 ```
 
 
@@ -298,7 +298,7 @@ Zielaufbau: Behalten Sie Motivwiederholungen oder dekorative Ordnung bei. Wenn d
 
 Hintergrund: Entwickeln Sie vorhandene Hintergrundmotive und Farbhinweise zu einem Hintergrund, der das gesamte Bild abdeckt. Wenn nicht vorhanden, erstellen Sie verwandte Motive. Kontrollieren Sie Skalierung, Dichte und Kontrast, um die Vordergrundhierarchie beizubehalten.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie ein kurzes themenbezogenes Wort oder eine Phrase als unterstützendes Motiv. Wenn eine nahtlose Kachelung erforderlich ist, fügen Sie den Wortlaut in die Wiederholungseinheit ein und überprüfen Sie die Rechtschreibung, die Kantenkontinuität und die Lesbarkeit. Andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie eine ausdrückliche Bitte, keinen Text zu senden.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, ergänzen Sie ein kurzes, thematisch passendes Wort oder eine Formulierung als ergänzendes Motiv. Ist eine nahtlose Kachelung nötig, integrieren Sie den Text in die Rapporteinheit und prüfen Sie Rechtschreibung, Anschluss an den Kanten und Lesbarkeit; andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie einen ausdrücklichen Wunsch nach einem Bild ohne Text.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
@@ -319,7 +319,7 @@ Zielaufbau: Behalten Sie Motivwiederholungen oder dekorative Ordnung bei. Wenn d
 
 Hintergrund: Referenzieren Sie vorhandene Oberflächendetails, Farbpalette und Dichte oder erstellen Sie eine themenbezogene, störungsarme Textur, wenn diese nicht vorhanden ist. Koordinieren Sie Maßstab und Kontrast, damit das Material eine unterstützende Rolle spielt.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie ein kurzes themenbezogenes Wort oder eine Phrase als unterstützendes Motiv. Wenn eine nahtlose Kachelung erforderlich ist, fügen Sie den Wortlaut in die Wiederholungseinheit ein und überprüfen Sie die Rechtschreibung, die Kantenkontinuität und die Lesbarkeit. Andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie eine ausdrückliche Bitte, keinen Text zu senden.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, ergänzen Sie ein kurzes, thematisch passendes Wort oder eine Formulierung als ergänzendes Motiv. Ist eine nahtlose Kachelung nötig, integrieren Sie den Text in die Rapporteinheit und prüfen Sie Rechtschreibung, Anschluss an den Kanten und Lesbarkeit; andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie einen ausdrücklichen Wunsch nach einem Bild ohne Text.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
@@ -327,39 +327,39 @@ Umfang und Grenzen: Ein strukturierter Hintergrund sollte nicht automatisch zu e
 ```
 
 
-## Umwelthintergrund
+## Umgebungshintergrund
 
 Muster: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.
 
 ```text
-Gestaltungsrichtung: Muster → Hintergrund → Umwelthintergrund
+Gestaltungsrichtung: Muster → Hintergrund → Umgebungshintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
 Zielaufbau: Behalten Sie Motivwiederholungen oder dekorative Ordnung bei. Wenn der gewählte Untertyp eine nahtlose Kachelung erfordert, müssen Vordergrund, Hintergrund und Text zusammen weitergeführt und nach einem Hintergrundwechsel erneut überprüft werden.
 
-Hintergrund: Beziehen Sie sich auf den vorhandenen Standort, die Umgebungselemente und die Atmosphäre und passen Sie diese an den Hauptinhalt an. Wenn es nicht vorhanden ist oder nur schlicht oder transparent ist, erstellen Sie eine entsprechende Einstellung und koordinieren Sie Maßstab, Richtung und Tiefe.
+Hintergrund: Orientieren Sie sich an vorhandenem Ort, Umgebungselementen und Atmosphäre und passen Sie diese an den Hauptinhalt an. Fehlt eine Umgebung oder ist der Hintergrund nur einfarbig oder transparent, schaffen Sie eine passende Umgebung und stimmen Sie Maßstab, Richtung und Tiefe ab.
 
-Textinhalt: Behalten Sie den klar lesbaren Wortlaut und die Sprache der Quelle bei und passen Sie die Präsentation an. Behaupten Sie nicht, unleserlichen Text wiederhergestellt zu haben. Wenn keine Wörter angegeben sind, erstellen Sie ein kurzes themenbezogenes Wort oder eine Phrase als unterstützendes Motiv. Wenn eine nahtlose Kachelung erforderlich ist, fügen Sie den Wortlaut in die Wiederholungseinheit ein und überprüfen Sie die Rechtschreibung, die Kantenkontinuität und die Lesbarkeit. Andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie eine ausdrückliche Bitte, keinen Text zu senden.
+Wortlaut: Bewahren Sie klar lesbaren Originaltext und seine Sprache und passen Sie seine Darstellung an. Behaupten Sie nicht, unlesbaren Text wiederhergestellt zu haben. Wenn keine Wörter vorgegeben sind, ergänzen Sie ein kurzes, thematisch passendes Wort oder eine Formulierung als ergänzendes Motiv. Ist eine nahtlose Kachelung nötig, integrieren Sie den Text in die Rapporteinheit und prüfen Sie Rechtschreibung, Anschluss an den Kanten und Lesbarkeit; andernfalls versprechen Sie keine Nahtlosigkeit. Respektieren Sie einen ausdrücklichen Wunsch nach einem Bild ohne Text.
 
 Beibehalten und anpassen: Erhalten Sie das Kernthema und die wiedererkennbaren Merkmale. Nutzen Sie die visuelle Gestaltung und Farbpalette der Vorlage als Ausgangspunkt und ändern Sie diese nur, soweit die gewählte Richtung es erfordert. Beschreiben Sie neu hinzugefügte Inhalte nicht so, als wären sie bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Für die Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Einstellung zweitrangig. Bewerten Sie das Bild als Szene neu, wenn die Umgebung oder die Erzählung zum Hauptausdruck wird.
+Umfang und Grenzen: In den Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Umgebung zweitrangig. Ordnen Sie das Bild erneut als Szene ein, wenn die Umgebung oder Erzählung zum Hauptausdruck wird.
 ```
 
 
 ## Transparenter Hintergrund
 
-Texturen: Der Untergrund bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.
+Texturen: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.
 
 ```text
 Gestaltungsrichtung: Texturen → Hintergrund → Transparenter Hintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Halten Sie den materiellen Charakter im Vordergrund. Verwenden Sie ein lokales Texturfragment, wenn ein separater Boden sichtbar sein muss; Eine undurchsichtige Vollflächenstruktur und ihr Untergrund werden eins, so dass nicht auch eine andere Gesamtunterlage sichtbar bleiben kann.
+Zielstruktur: Halten Sie die Materialwirkung dominant. Verwenden Sie ein örtlich begrenztes Texturfragment, wenn ein eigener Hintergrund sichtbar bleiben muss; eine deckende vollflächige Textur und ihr Untergrund werden eins, sodass ein anderer vollständiger Hintergrund nicht zugleich sichtbar bleiben kann.
 
-Hintergrund: Verwenden Sie alle relevanten Paletten, Behandlungen oder erforderlichen Themenhinweise von einem vorhandenen Hintergrund und entfernen Sie dann die Trägerschicht. Halten Sie einen fehlenden Hintergrund transparent, anstatt einen falschen Grund zu malen. Die notwendigen Farben im Inhalt können erhalten bleiben.
+Hintergrund: Übernehmen Sie relevante Farbpaletten, Gestaltungsmerkmale oder notwendige thematische Hinweise aus einem vorhandenen Hintergrund und entfernen Sie dann dessen Ebene. Ein fehlender Hintergrund bleibt transparent; malen Sie keinen künstlichen Untergrund. Notwendige Farben innerhalb des Inhalts dürfen erhalten bleiben.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
@@ -369,16 +369,16 @@ Umfang und Grenzen: Echte Transparenz erfordert einen Alphakanal. Malen Sie kein
 ```
 
 
-## Solider Hintergrund
+## Einfarbiger Hintergrund
 
-Texturen: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.
+Texturen: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.
 
 ```text
-Gestaltungsrichtung: Texturen → Hintergrund → Solider Hintergrund
+Gestaltungsrichtung: Texturen → Hintergrund → Einfarbiger Hintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Halten Sie den materiellen Charakter im Vordergrund. Verwenden Sie ein lokales Texturfragment, wenn ein separater Boden sichtbar sein muss; Eine undurchsichtige Vollflächenstruktur und ihr Untergrund werden eins, so dass nicht auch eine andere Gesamtunterlage sichtbar bleiben kann.
+Zielstruktur: Halten Sie die Materialwirkung dominant. Verwenden Sie ein örtlich begrenztes Texturfragment, wenn ein eigener Hintergrund sichtbar bleiben muss; eine deckende vollflächige Textur und ihr Untergrund werden eins, sodass ein anderer vollständiger Hintergrund nicht zugleich sichtbar bleiben kann.
 
 Hintergrund: Wählen Sie eine passende Farbe aus dem vorhandenen Hintergrund oder Thema oder verwenden Sie eine bestimmte Farbe. Wenn kein Untergrund mitgeliefert wird, erstellen Sie einen themenbezogenen einfarbigen Untergrund und halten Sie ihn einheitlich.
 
@@ -386,7 +386,7 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Behalten Sie relevantes Material, Oberfläche, Farbpalette und Atmosphäre bei, ohne dass eine Objektsilhouette oder eine vollständige Szene erforderlich ist. Erzielen Sie den gewünschten Effekt, wenn materielle Hinweise fehlen, ohne den Anspruch zu erheben, das tatsächliche Material der Quelle identifiziert zu haben. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
 
-Umfang und Grenzen: Fügen Sie dem Träger keine Muster, Farbverläufe, Texturen oder Szenen hinzu. Dadurch werden Farben und Details innerhalb des Vordergrundinhalts nicht eingeschränkt.
+Umfang und Grenzen: Ergänzen Sie im Hintergrund keine Muster, Farbverläufe, Texturen oder Szenen. Die Farben und Details des Vordergrundinhalts werden dadurch nicht eingeschränkt.
 ```
 
 
@@ -399,7 +399,7 @@ Gestaltungsrichtung: Texturen → Hintergrund → Hintergrund mit Farbverlauf
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Halten Sie den materiellen Charakter im Vordergrund. Verwenden Sie ein lokales Texturfragment, wenn ein separater Boden sichtbar sein muss; Eine undurchsichtige Vollflächenstruktur und ihr Untergrund werden eins, so dass nicht auch eine andere Gesamtunterlage sichtbar bleiben kann.
+Zielstruktur: Halten Sie die Materialwirkung dominant. Verwenden Sie ein örtlich begrenztes Texturfragment, wenn ein eigener Hintergrund sichtbar bleiben muss; eine deckende vollflächige Textur und ihr Untergrund werden eins, sodass ein anderer vollständiger Hintergrund nicht zugleich sichtbar bleiben kann.
 
 Hintergrund: Verwenden Sie Farbe und Atmosphäre des Quellhintergrunds oder -themas, um einen kontinuierlichen Ton-, Farb- oder Deckkraftübergang zu erzeugen. Erstellen Sie bei Abwesenheit einen entsprechenden Farbverlauf und koordinieren Sie dessen Richtung und Stärke.
 
@@ -407,7 +407,7 @@ Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Spr
 
 Beibehalten und anpassen: Behalten Sie relevantes Material, Oberfläche, Farbpalette und Atmosphäre bei, ohne dass eine Objektsilhouette oder eine vollständige Szene erforderlich ist. Erzielen Sie den gewünschten Effekt, wenn materielle Hinweise fehlen, ohne den Anspruch zu erheben, das tatsächliche Material der Quelle identifiziert zu haben. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
 
-Umfang und Grenzen: Zwei ebene Flächen mit harter Teilung stellen kein Gefälle dar. Vermeiden Sie, dass der Übergang den Hauptinhalt überfordert.
+Umfang und Grenzen: Zwei einfarbige Flächen mit harter Trennkante bilden keinen Farbverlauf. Der Übergang sollte den Hauptinhalt nicht überlagern.
 ```
 
 
@@ -420,15 +420,15 @@ Gestaltungsrichtung: Texturen → Hintergrund → Gemusterter Hintergrund: lokal
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Halten Sie den materiellen Charakter im Vordergrund. Verwenden Sie ein lokales Texturfragment, wenn ein separater Boden sichtbar sein muss; Eine undurchsichtige Vollflächenstruktur und ihr Untergrund werden eins, so dass nicht auch eine andere Gesamtunterlage sichtbar bleiben kann.
+Zielstruktur: Halten Sie die Materialwirkung dominant. Verwenden Sie ein örtlich begrenztes Texturfragment, wenn ein eigener Hintergrund sichtbar bleiben muss; eine deckende vollflächige Textur und ihr Untergrund werden eins, sodass ein anderer vollständiger Hintergrund nicht zugleich sichtbar bleiben kann.
 
-Hintergrund: Verwenden Sie Hintergrundelemente, Behandlung und Palette als Referenzen und reorganisieren Sie sie in einen lokalen dekorativen Hintergrund. Wenn keine vorhanden ist oder die Quelle nur einen glatten oder transparenten Grund hat, erstellen Sie verwandte Motive. Behalten Sie die Transparenz, die ursprüngliche Grundfarbe oder einen explizit gewünschten Grund außerhalb des Pflasters bei.
+Hintergrund: Nutzen Sie Hintergrundelemente, Gestaltung und Farbpalette als Referenz und ordnen Sie sie zu einer lokal begrenzten dekorativen Hintergrundfläche neu. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, schaffen Sie passende Motive. Außerhalb der dekorativen Fläche bleiben Transparenz, ursprüngliche Grundfarbe oder ein ausdrücklich gewünschter Hintergrund erhalten.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
 Beibehalten und anpassen: Behalten Sie relevantes Material, Oberfläche, Farbpalette und Atmosphäre bei, ohne dass eine Objektsilhouette oder eine vollständige Szene erforderlich ist. Erzielen Sie den gewünschten Effekt, wenn materielle Hinweise fehlen, ohne den Anspruch zu erheben, das tatsächliche Material der Quelle identifiziert zu haben. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
 
-Umfang und Grenzen: Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Umfang und Grenzen: Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 ```
 
 
@@ -441,7 +441,7 @@ Gestaltungsrichtung: Texturen → Hintergrund → Gemusterter Hintergrund: vollf
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Halten Sie den materiellen Charakter im Vordergrund. Verwenden Sie ein lokales Texturfragment, wenn ein separater Boden sichtbar sein muss; Eine undurchsichtige Vollflächenstruktur und ihr Untergrund werden eins, so dass nicht auch eine andere Gesamtunterlage sichtbar bleiben kann.
+Zielstruktur: Halten Sie die Materialwirkung dominant. Verwenden Sie ein örtlich begrenztes Texturfragment, wenn ein eigener Hintergrund sichtbar bleiben muss; eine deckende vollflächige Textur und ihr Untergrund werden eins, sodass ein anderer vollständiger Hintergrund nicht zugleich sichtbar bleiben kann.
 
 Hintergrund: Entwickeln Sie vorhandene Hintergrundmotive und Farbhinweise zu einem Hintergrund, der das gesamte Bild abdeckt. Wenn nicht vorhanden, erstellen Sie verwandte Motive. Kontrollieren Sie Skalierung, Dichte und Kontrast, um die Vordergrundhierarchie beizubehalten.
 
@@ -462,7 +462,7 @@ Gestaltungsrichtung: Texturen → Hintergrund → Strukturierter Hintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Halten Sie den materiellen Charakter im Vordergrund. Verwenden Sie ein lokales Texturfragment, wenn ein separater Boden sichtbar sein muss; Eine undurchsichtige Vollflächenstruktur und ihr Untergrund werden eins, so dass nicht auch eine andere Gesamtunterlage sichtbar bleiben kann.
+Zielstruktur: Halten Sie die Materialwirkung dominant. Verwenden Sie ein örtlich begrenztes Texturfragment, wenn ein eigener Hintergrund sichtbar bleiben muss; eine deckende vollflächige Textur und ihr Untergrund werden eins, sodass ein anderer vollständiger Hintergrund nicht zugleich sichtbar bleiben kann.
 
 Hintergrund: Referenzieren Sie vorhandene Oberflächendetails, Farbpalette und Dichte oder erstellen Sie eine themenbezogene, störungsarme Textur, wenn diese nicht vorhanden ist. Koordinieren Sie Maßstab und Kontrast, damit das Material eine unterstützende Rolle spielt.
 
@@ -474,127 +474,127 @@ Umfang und Grenzen: Ein strukturierter Hintergrund sollte nicht automatisch zu e
 ```
 
 
-## Umwelthintergrund
+## Umgebungshintergrund
 
 Texturen: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.
 
 ```text
-Gestaltungsrichtung: Texturen → Hintergrund → Umwelthintergrund
+Gestaltungsrichtung: Texturen → Hintergrund → Umgebungshintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Halten Sie den materiellen Charakter im Vordergrund. Verwenden Sie ein lokales Texturfragment, wenn ein separater Boden sichtbar sein muss; Eine undurchsichtige Vollflächenstruktur und ihr Untergrund werden eins, so dass nicht auch eine andere Gesamtunterlage sichtbar bleiben kann.
+Zielstruktur: Halten Sie die Materialwirkung dominant. Verwenden Sie ein örtlich begrenztes Texturfragment, wenn ein eigener Hintergrund sichtbar bleiben muss; eine deckende vollflächige Textur und ihr Untergrund werden eins, sodass ein anderer vollständiger Hintergrund nicht zugleich sichtbar bleiben kann.
 
-Hintergrund: Beziehen Sie sich auf den vorhandenen Standort, die Umgebungselemente und die Atmosphäre und passen Sie diese an den Hauptinhalt an. Wenn es nicht vorhanden ist oder nur schlicht oder transparent ist, erstellen Sie eine entsprechende Einstellung und koordinieren Sie Maßstab, Richtung und Tiefe.
+Hintergrund: Orientieren Sie sich an vorhandenem Ort, Umgebungselementen und Atmosphäre und passen Sie diese an den Hauptinhalt an. Fehlt eine Umgebung oder ist der Hintergrund nur einfarbig oder transparent, schaffen Sie eine passende Umgebung und stimmen Sie Maßstab, Richtung und Tiefe ab.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
 Beibehalten und anpassen: Behalten Sie relevantes Material, Oberfläche, Farbpalette und Atmosphäre bei, ohne dass eine Objektsilhouette oder eine vollständige Szene erforderlich ist. Erzielen Sie den gewünschten Effekt, wenn materielle Hinweise fehlen, ohne den Anspruch zu erheben, das tatsächliche Material der Quelle identifiziert zu haben. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
 
-Umfang und Grenzen: Für die Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Einstellung zweitrangig. Bewerten Sie das Bild als Szene neu, wenn die Umgebung oder die Erzählung zum Hauptausdruck wird.
+Umfang und Grenzen: In den Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Umgebung zweitrangig. Ordnen Sie das Bild erneut als Szene ein, wenn die Umgebung oder Erzählung zum Hauptausdruck wird.
 ```
 
 
 ## Transparenter Hintergrund
 
-Abstraktes Kunstwerk: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.
+Abstrakte Gestaltung: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.
 
 ```text
 Gestaltungsrichtung: Abstrakte Gestaltung → Hintergrund → Transparenter Hintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Behalten Sie nichtfigurative Form-, Linien- und Farbbeziehungen bei. Der Boden sollte die Abstraktion unterstützen, anstatt ein dominantes identifizierbares Objekt einzuführen.
+Zielstruktur: Bewahren Sie die Beziehungen zwischen nichtgegenständlichen Formen, Linien und Farben. Der Hintergrund sollte die Abstraktion unterstützen, statt ein dominantes, erkennbares Objekt einzuführen.
 
-Hintergrund: Verwenden Sie alle relevanten Paletten, Behandlungen oder erforderlichen Themenhinweise von einem vorhandenen Hintergrund und entfernen Sie dann die Trägerschicht. Halten Sie einen fehlenden Hintergrund transparent, anstatt einen falschen Grund zu malen. Die notwendigen Farben im Inhalt können erhalten bleiben.
+Hintergrund: Übernehmen Sie relevante Farbpaletten, Gestaltungsmerkmale oder notwendige thematische Hinweise aus einem vorhandenen Hintergrund und entfernen Sie dann dessen Ebene. Ein fehlender Hintergrund bleibt transparent; malen Sie keinen künstlichen Untergrund. Notwendige Farben innerhalb des Inhalts dürfen erhalten bleiben.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
-Beibehalten und anpassen: Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Beibehalten und anpassen: Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung; die konkrete Gegenstandsidentität darf reduziert oder entfernt werden. Verlangen Sie nicht zugleich, dass die ursprüngliche Gegenstandssilhouette vollständig erhalten bleibt. Beschreiben Sie neu geschaffene Inhalte nicht so, als seien sie in der Vorlage vorhanden. Benennen Sie Konflikte zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
 Umfang und Grenzen: Echte Transparenz erfordert einen Alphakanal. Malen Sie kein Schachbrettmuster oder keinen weißen Grund in das Bild und bezeichnen Sie es als transparent; Geben Sie an, dass eine Nachbearbeitung erforderlich ist, wenn das Tool keine Transparenz erzeugen kann.
 ```
 
 
-## Solider Hintergrund
+## Einfarbiger Hintergrund
 
-Abstraktes Kunstwerk: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.
+Abstrakte Gestaltung: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.
 
 ```text
-Gestaltungsrichtung: Abstrakte Gestaltung → Hintergrund → Solider Hintergrund
+Gestaltungsrichtung: Abstrakte Gestaltung → Hintergrund → Einfarbiger Hintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Behalten Sie nichtfigurative Form-, Linien- und Farbbeziehungen bei. Der Boden sollte die Abstraktion unterstützen, anstatt ein dominantes identifizierbares Objekt einzuführen.
+Zielstruktur: Bewahren Sie die Beziehungen zwischen nichtgegenständlichen Formen, Linien und Farben. Der Hintergrund sollte die Abstraktion unterstützen, statt ein dominantes, erkennbares Objekt einzuführen.
 
 Hintergrund: Wählen Sie eine passende Farbe aus dem vorhandenen Hintergrund oder Thema oder verwenden Sie eine bestimmte Farbe. Wenn kein Untergrund mitgeliefert wird, erstellen Sie einen themenbezogenen einfarbigen Untergrund und halten Sie ihn einheitlich.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
-Beibehalten und anpassen: Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Beibehalten und anpassen: Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung; die konkrete Gegenstandsidentität darf reduziert oder entfernt werden. Verlangen Sie nicht zugleich, dass die ursprüngliche Gegenstandssilhouette vollständig erhalten bleibt. Beschreiben Sie neu geschaffene Inhalte nicht so, als seien sie in der Vorlage vorhanden. Benennen Sie Konflikte zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Fügen Sie dem Träger keine Muster, Farbverläufe, Texturen oder Szenen hinzu. Dadurch werden Farben und Details innerhalb des Vordergrundinhalts nicht eingeschränkt.
+Umfang und Grenzen: Ergänzen Sie im Hintergrund keine Muster, Farbverläufe, Texturen oder Szenen. Die Farben und Details des Vordergrundinhalts werden dadurch nicht eingeschränkt.
 ```
 
 
 ## Hintergrund mit Farbverlauf
 
-Abstraktes Kunstwerk: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.
+Abstrakte Gestaltung: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.
 
 ```text
 Gestaltungsrichtung: Abstrakte Gestaltung → Hintergrund → Hintergrund mit Farbverlauf
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Behalten Sie nichtfigurative Form-, Linien- und Farbbeziehungen bei. Der Boden sollte die Abstraktion unterstützen, anstatt ein dominantes identifizierbares Objekt einzuführen.
+Zielstruktur: Bewahren Sie die Beziehungen zwischen nichtgegenständlichen Formen, Linien und Farben. Der Hintergrund sollte die Abstraktion unterstützen, statt ein dominantes, erkennbares Objekt einzuführen.
 
 Hintergrund: Verwenden Sie Farbe und Atmosphäre des Quellhintergrunds oder -themas, um einen kontinuierlichen Ton-, Farb- oder Deckkraftübergang zu erzeugen. Erstellen Sie bei Abwesenheit einen entsprechenden Farbverlauf und koordinieren Sie dessen Richtung und Stärke.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
-Beibehalten und anpassen: Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Beibehalten und anpassen: Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung; die konkrete Gegenstandsidentität darf reduziert oder entfernt werden. Verlangen Sie nicht zugleich, dass die ursprüngliche Gegenstandssilhouette vollständig erhalten bleibt. Beschreiben Sie neu geschaffene Inhalte nicht so, als seien sie in der Vorlage vorhanden. Benennen Sie Konflikte zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Zwei ebene Flächen mit harter Teilung stellen kein Gefälle dar. Vermeiden Sie, dass der Übergang den Hauptinhalt überfordert.
+Umfang und Grenzen: Zwei einfarbige Flächen mit harter Trennkante bilden keinen Farbverlauf. Der Übergang sollte den Hauptinhalt nicht überlagern.
 ```
 
 
 ## Gemusterter Hintergrund: lokal
 
-Abstraktes Kunstwerk: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.
+Abstrakte Gestaltung: Eine dekorative Fläche liegt hinter dem Inhalt; außerhalb dieser Fläche bleibt Freiraum.
 
 ```text
 Gestaltungsrichtung: Abstrakte Gestaltung → Hintergrund → Gemusterter Hintergrund: lokal
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Behalten Sie nichtfigurative Form-, Linien- und Farbbeziehungen bei. Der Boden sollte die Abstraktion unterstützen, anstatt ein dominantes identifizierbares Objekt einzuführen.
+Zielstruktur: Bewahren Sie die Beziehungen zwischen nichtgegenständlichen Formen, Linien und Farben. Der Hintergrund sollte die Abstraktion unterstützen, statt ein dominantes, erkennbares Objekt einzuführen.
 
-Hintergrund: Verwenden Sie Hintergrundelemente, Behandlung und Palette als Referenzen und reorganisieren Sie sie in einen lokalen dekorativen Hintergrund. Wenn keine vorhanden ist oder die Quelle nur einen glatten oder transparenten Grund hat, erstellen Sie verwandte Motive. Behalten Sie die Transparenz, die ursprüngliche Grundfarbe oder einen explizit gewünschten Grund außerhalb des Pflasters bei.
+Hintergrund: Nutzen Sie Hintergrundelemente, Gestaltung und Farbpalette als Referenz und ordnen Sie sie zu einer lokal begrenzten dekorativen Hintergrundfläche neu. Fehlt ein Hintergrund oder ist er lediglich einfarbig oder transparent, schaffen Sie passende Motive. Außerhalb der dekorativen Fläche bleiben Transparenz, ursprüngliche Grundfarbe oder ein ausdrücklich gewünschter Hintergrund erhalten.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
-Beibehalten und anpassen: Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Beibehalten und anpassen: Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung; die konkrete Gegenstandsidentität darf reduziert oder entfernt werden. Verlangen Sie nicht zugleich, dass die ursprüngliche Gegenstandssilhouette vollständig erhalten bleibt. Beschreiben Sie neu geschaffene Inhalte nicht so, als seien sie in der Vorlage vorhanden. Benennen Sie Konflikte zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Umfang und Grenzen: Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 ```
 
 
 ## Gemusterter Hintergrund: vollflächig
 
-Abstraktes Kunstwerk: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.
+Abstrakte Gestaltung: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.
 
 ```text
 Gestaltungsrichtung: Abstrakte Gestaltung → Hintergrund → Gemusterter Hintergrund: vollflächig
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Behalten Sie nichtfigurative Form-, Linien- und Farbbeziehungen bei. Der Boden sollte die Abstraktion unterstützen, anstatt ein dominantes identifizierbares Objekt einzuführen.
+Zielstruktur: Bewahren Sie die Beziehungen zwischen nichtgegenständlichen Formen, Linien und Farben. Der Hintergrund sollte die Abstraktion unterstützen, statt ein dominantes, erkennbares Objekt einzuführen.
 
 Hintergrund: Entwickeln Sie vorhandene Hintergrundmotive und Farbhinweise zu einem Hintergrund, der das gesamte Bild abdeckt. Wenn nicht vorhanden, erstellen Sie verwandte Motive. Kontrollieren Sie Skalierung, Dichte und Kontrast, um die Vordergrundhierarchie beizubehalten.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
-Beibehalten und anpassen: Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Beibehalten und anpassen: Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung; die konkrete Gegenstandsidentität darf reduziert oder entfernt werden. Verlangen Sie nicht zugleich, dass die ursprüngliche Gegenstandssilhouette vollständig erhalten bleibt. Beschreiben Sie neu geschaffene Inhalte nicht so, als seien sie in der Vorlage vorhanden. Benennen Sie Konflikte zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
 Umfang und Grenzen: Eine vollständige Abdeckung ist kein Beweis dafür, dass das gesamte Bild nahtlos zusammengefügt wird. Halten Sie den Vordergrundinhalt sichtbar und behalten Sie die Anordnung des Musters bei, wenn Muster die Hauptkategorie darstellen.
 ```
@@ -602,41 +602,41 @@ Umfang und Grenzen: Eine vollständige Abdeckung ist kein Beweis dafür, dass da
 
 ## Strukturierter Hintergrund
 
-Abstraktes Kunstwerk: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.
+Abstrakte Gestaltung: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.
 
 ```text
 Gestaltungsrichtung: Abstrakte Gestaltung → Hintergrund → Strukturierter Hintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Behalten Sie nichtfigurative Form-, Linien- und Farbbeziehungen bei. Der Boden sollte die Abstraktion unterstützen, anstatt ein dominantes identifizierbares Objekt einzuführen.
+Zielstruktur: Bewahren Sie die Beziehungen zwischen nichtgegenständlichen Formen, Linien und Farben. Der Hintergrund sollte die Abstraktion unterstützen, statt ein dominantes, erkennbares Objekt einzuführen.
 
 Hintergrund: Referenzieren Sie vorhandene Oberflächendetails, Farbpalette und Dichte oder erstellen Sie eine themenbezogene, störungsarme Textur, wenn diese nicht vorhanden ist. Koordinieren Sie Maßstab und Kontrast, damit das Material eine unterstützende Rolle spielt.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
-Beibehalten und anpassen: Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Beibehalten und anpassen: Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung; die konkrete Gegenstandsidentität darf reduziert oder entfernt werden. Verlangen Sie nicht zugleich, dass die ursprüngliche Gegenstandssilhouette vollständig erhalten bleibt. Beschreiben Sie neu geschaffene Inhalte nicht so, als seien sie in der Vorlage vorhanden. Benennen Sie Konflikte zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
 Umfang und Grenzen: Ein strukturierter Hintergrund sollte nicht automatisch zu einem eigenständigen Objekt oder einer ganzen Erzählszene werden. Unterscheiden Sie in der Kategorie „Textur“ das Hauptoberflächenfragment von seinem tragenden Untergrund.
 ```
 
 
-## Umwelthintergrund
+## Umgebungshintergrund
 
-Abstraktes Kunstwerk: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.
+Abstrakte Gestaltung: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.
 
 ```text
-Gestaltungsrichtung: Abstrakte Gestaltung → Hintergrund → Umwelthintergrund
+Gestaltungsrichtung: Abstrakte Gestaltung → Hintergrund → Umgebungshintergrund
 
 Eingabe und Ausgabe: Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein Prompt vorliegt, formulieren Sie daraus einen vollständigen Prompt für die Bilderzeugung.
 
-Zielaufbau: Behalten Sie nichtfigurative Form-, Linien- und Farbbeziehungen bei. Der Boden sollte die Abstraktion unterstützen, anstatt ein dominantes identifizierbares Objekt einzuführen.
+Zielstruktur: Bewahren Sie die Beziehungen zwischen nichtgegenständlichen Formen, Linien und Farben. Der Hintergrund sollte die Abstraktion unterstützen, statt ein dominantes, erkennbares Objekt einzuführen.
 
-Hintergrund: Beziehen Sie sich auf den vorhandenen Standort, die Umgebungselemente und die Atmosphäre und passen Sie diese an den Hauptinhalt an. Wenn es nicht vorhanden ist oder nur schlicht oder transparent ist, erstellen Sie eine entsprechende Einstellung und koordinieren Sie Maßstab, Richtung und Tiefe.
+Hintergrund: Orientieren Sie sich an vorhandenem Ort, Umgebungselementen und Atmosphäre und passen Sie diese an den Hauptinhalt an. Fehlt eine Umgebung oder ist der Hintergrund nur einfarbig oder transparent, schaffen Sie eine passende Umgebung und stimmen Sie Maßstab, Richtung und Tiefe ab.
 
 Textinhalt: Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und passen Sie ihre Darstellung an. Behaupten Sie nicht, unleserlichen Text rekonstruiert zu haben. Wenn kein Text vorgegeben ist, ergänzen Sie eine kurze passende Formulierung als Begleittext, ohne Hauptmotive, Handlung oder Aufbau zu verdecken. Ordnen Sie vorhandenen Text in die gewünschte Hierarchie ein und beachten Sie eine ausdrückliche Vorgabe, keinen Text hinzuzufügen.
 
-Beibehalten und anpassen: Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Beibehalten und anpassen: Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung; die konkrete Gegenstandsidentität darf reduziert oder entfernt werden. Verlangen Sie nicht zugleich, dass die ursprüngliche Gegenstandssilhouette vollständig erhalten bleibt. Beschreiben Sie neu geschaffene Inhalte nicht so, als seien sie in der Vorlage vorhanden. Benennen Sie Konflikte zwischen ausdrücklichen Eingabevorgaben und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
-Umfang und Grenzen: Für die Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Einstellung zweitrangig. Bewerten Sie das Bild als Szene neu, wenn die Umgebung oder die Erzählung zum Hauptausdruck wird.
+Umfang und Grenzen: In den Kategorien Motiv, Muster, Textur oder Abstraktion bleibt die Umgebung zweitrangig. Ordnen Sie das Bild erneut als Szene ein, wenn die Umgebung oder Erzählung zum Hauptausdruck wird.
 ```

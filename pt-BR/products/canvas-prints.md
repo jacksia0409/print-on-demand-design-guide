@@ -20,7 +20,7 @@ Transforme uma ilustração ou foto favorita em arte em tela para a casa.
 
 ### Dê a uma imagem favorita sua própria parede
 
-Use um retrato de família, uma paisagem ampla ou um tema claro para criar uma tela que caiba no ambiente. Um retrato de família em camadas; Uma ampla paisagem; Um assunto claro sobre um fundo simples.
+Use um retrato de família, uma paisagem ampla ou um elemento principal bem-definido para criar uma tela adequada ao ambiente. Um retrato de família em camadas; uma paisagem ampla; um elemento principal bem-definido sobre um fundo simples.
 
 ![Impressões em tela e emolduradas · visual do produto em branco](https://podplo.app/pod-guide/generated/canvas-prints-blank.webp)
 
@@ -32,7 +32,7 @@ Use Skills diferentes para transformar a mesma imagem em novos layouts, arte bas
 
 ### Organize uma composição de tela completa
 
-Mantenha o assunto principal claro e use o plano de fundo e os elementos de apoio para finalizar o layout.
+Mantenha o elemento principal bem definido e use o fundo e os elementos de apoio para finalizar o layout.
 
 [Criador de pôsteres](https://podplo.app/skills/poster-maker)
 
@@ -46,13 +46,13 @@ Arte gerada
 
 ![Impressões em tela e emolduradas · Criador de pôsteres · Visualização de produto de IA](https://podplo.app/pod-guide/generated/canvas-prints-poster-maker-proof.webp)
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais layout e defina Skills**
+**Explore mais Skills de layout e de conjuntos**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explore mais layout e defina Skills
+#### Explore mais Skills de layout e de conjuntos
 
 4 / 14
 
@@ -64,7 +64,7 @@ Gerador de grade 4PC](https://podplo.app/skills/four-piece-grid)[![Exemplo de ar
 
 Gerador de grade 6PC](https://podplo.app/skills/six-piece-grid)[![Exemplo de arte do pacote de adesivos e clipart](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)
 
-Pacote de adesivos e clipart](https://podplo.app/skills/sticker-clipart-pack)[![Exemplo de arte de padrão sem costura](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
+Pacote de adesivos e clipart](https://podplo.app/skills/sticker-clipart-pack)[![Exemplo de arte de padrão sem emendas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
 Padrão sem emendas](https://podplo.app/skills/seamless-pattern)
 
@@ -84,13 +84,13 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais fotos e imagens Skills**
+**Explore mais Skills de fotos e imagens**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explore mais fotos e imagens Skills
+#### Explore mais Skills de fotos e imagens
 
 4 / 97
 
@@ -112,7 +112,7 @@ Coloque um nome no centro e organize as flores ao redor como uma composição co
 
 [Moldura floral com nome](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉIA
+ANDREA
 
 Nome
 
@@ -122,23 +122,23 @@ Arte gerada
 
 Prévia do produto em breve
 
-Visualização do produto de IA
+Prévia de produto gerada por IA
 
-**Explore mais nome e ocasião Skills**
+**Explore mais Skills de nomes e ocasiões**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Explore mais nome e ocasião Skills
+#### Explore mais Skills de nomes e ocasiões
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemplo de arte com nome de pata xadrez de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemplo de arte de nome em pata xadrez buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nome da pata xadrez de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Nome em pata xadrez buffalo](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemplo de arte de pôster com nome do Pólo Norte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Póster Nome do Pólo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte do padrão de nome Crayon Hearts](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Pôster de nome do Polo Norte](https://podplo.app/skills/north-pole-name-poster)[![Exemplo de arte de padrão de nome com corações em giz de cera](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
 Padrão de nome de corações de giz de cera](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemplo de arte padrão de nome de dinossauro](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
@@ -146,7 +146,7 @@ Padrão de nome de dinossauro](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
-## Visualize o design do produto
+## Visualize o design no produto
 
 ### Visualize a tela na parede
 
@@ -156,6 +156,6 @@ A visualização de IA coloca o retrato, a paisagem ou o gráfico em uma sala pa
 
 - Uma ampla paisagem preenche mais a parede
 
-- Um fundo simples mantém a atenção no assunto
+- Um fundo simples mantém a atenção no elemento principal
 
-![Impressões em tela e emolduradas · Prova de produto de IA](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)
+![Impressões em tela e emolduradas · Prova visual de produto gerada por IA](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)

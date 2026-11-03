@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/abstract-layout--abstract-layout-center?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/abstract/abstract-layout--abstract-layout-center?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -14,7 +14,7 @@ Abstrakte Gestaltung / GESTALTUNGSRICHTUNG
 
 # Zentraler Cluster
 
-Abstrakte Formen versammeln sich in der Nähe der Mitte und umgeben einen ruhigeren Raum.
+Abstrakte Formen gruppieren sich nahe der Mitte, umgeben von ruhigerem Freiraum.
 
 <a id="understand"></a>
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Spiegelsymmetrie ist optional. Wenn das Arrangement eindeutig ein bestimmtes Objekt darstellt, bewerten Sie es erneut als Subjektkunstwerk.
+Spiegelsymmetrie ist optional. Stellt die Anordnung klar einen bestimmten Gegenstand dar, ordnen Sie sie neu als Motivgestaltung ein.
 
 [← Zurück zu abstrakten Kunstwerken](../abstract.md)
 
@@ -34,13 +34,13 @@ Spiegelsymmetrie ist optional. Wenn das Arrangement eindeutig ein bestimmtes Obj
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Abstrakte Gestaltung → Zusammensetzung → Zentraler Cluster
+Abstrakte Gestaltung → Komposition → Zentrale Gruppierung
 
 **Eingabe und Ausgabe**
 
@@ -48,11 +48,11 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Konzentrieren Sie nichtfigurative Formen, Linien oder Farbbereiche in der Nähe der Mitte. Konzentrieren Sie sich durch Skalierung, Überlappung und Dichte und koordinieren Sie gleichzeitig den umgebenden Raum.
+Konzentrieren Sie nichtgegenständliche Formen, Linien oder Farbflächen nahe der Mitte. Schaffen Sie durch Größe, Überlappung und Dichte einen Blickfang und stimmen Sie den umgebenden Freiraum darauf ab.
 
 **Hintergrund**
 
-Referenzieren Sie Hintergrundfarben, Rhythmus und Stimmung. Falls nicht vorhanden, erstellen Sie zugehörige unterstützende Boden- oder Raumbeziehungen. Die Umgebung figurativer Quellen kann in unterstützende Hinweise vereinfacht werden, ohne die nichtfigurative Komposition zu ersetzen.
+Orientieren Sie sich an Hintergrundfarben, Rhythmus und Stimmung. Fehlen diese, schaffen Sie einen passenden unterstützenden Hintergrund oder räumliche Beziehungen. Eine gegenständliche Umgebung im Ausgangsbild darf zu unterstützenden Anhaltspunkten vereinfacht werden, ohne die nichtgegenständliche Komposition zu ersetzen.
 
 **Textinhalt**
 
@@ -60,63 +60,63 @@ Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und
 
 **Beibehalten und anpassen**
 
-Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung und lassen Sie dabei zu, dass die konkrete Identität von Objekten reduziert oder aufgehoben wird. Verlangen Sie nicht gleichzeitig, dass die ursprüngliche Objektsilhouette vollständig erhalten bleibt. Beschreiben Sie neu erzeugte Inhalte nicht als bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Einschränkungen der Eingabe und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
 **Umfang und Grenzen**
 
-Spiegelsymmetrie ist optional. Wenn das Arrangement eindeutig ein bestimmtes Objekt darstellt, bewerten Sie es erneut als Subjektkunstwerk.
+Spiegelsymmetrie ist optional. Stellt die Anordnung klar einen bestimmten Gegenstand dar, ordnen Sie sie neu als Motivgestaltung ein.
 
 <a id="backgrounds"></a>
 
 ## Erkunden Sie den Hintergrund
 
-Diese Beispiele vergleichen Gründe innerhalb derselben Inhaltsfamilie. Behalten Sie die aktuelle Zusammensetzung bei, wenn Sie eine Behandlung anwenden. Öffnen Sie ein Beispiel für die vollständige Anleitung.
+Diese Beispiele vergleichen Hintergründe innerhalb derselben Inhaltsgruppe. Bewahren Sie beim Anwenden einer Gestaltung die aktuelle Komposition; öffnen Sie ein Beispiel, um die vollständige Anleitung zu lesen.
 
-[![Transparenter Hintergrund: Abstraktes Kunstwerk: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
+[![Transparenter Hintergrund: Abstrakte Bilder: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Abstraktes Kunstwerk: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--abstract--transparent.md)[![Einfarbiger Hintergrund: Abstraktes Kunstwerk: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
+Abstrakte Gestaltung: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--abstract--transparent.md)[![Einfarbiger Hintergrund: Abstrakte Bilder: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Abstraktes Kunstwerk: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--abstract--solid.md)[![Hintergrund mit Farbverlauf: Abstraktes Kunstwerk: Die Farbe oder Helligkeit des Hintergrunds ändert sich kontinuierlich, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
+Abstrakte Gestaltung: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--abstract--solid.md)[![Hintergrund mit Farbverlauf: Abstraktes Kunstwerk: Die Farbe oder Helligkeit des Hintergrunds ändert sich kontinuierlich, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Abstraktes Kunstwerk: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--abstract--gradient.md)[![Gemusterter Hintergrund: lokal: Abstraktes Kunstwerk: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
+Abstrakte Gestaltung: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--abstract--gradient.md)[![Gemusterter Hintergrund, lokal: Abstrakte Gestaltung: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Abstraktes Kunstwerk: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--abstract--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Abstraktes Kunstwerk: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
+Abstrakte Gestaltung: Eine dekorative Fläche liegt hinter dem Inhalt; außerhalb dieser Fläche bleibt Freiraum.](background--abstract--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Abstraktes Kunstwerk: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
-Abstraktes Kunstwerk: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--abstract--pattern-full.md)[![Strukturierter Hintergrund: Abstraktes Kunstwerk: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--texture-1.svg)
+Abstrakte Gestaltung: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--abstract--pattern-full.md)[![Strukturierter Hintergrund: Abstraktes Kunstwerk: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--texture-1.svg)
 
 ### Strukturierter Hintergrund↗
 
-Abstraktes Kunstwerk: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--abstract--texture.md)[![Umgebungshintergrund: Abstraktes Kunstwerk: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
+Abstrakte Gestaltung: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--abstract--texture.md)[![Umgebungshintergrund: Abstraktes Kunstwerk: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--scene-1.svg)
 
-### Umwelthintergrund↗
+### Umgebungshintergrund↗
 
-Abstraktes Kunstwerk: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--abstract--scene.md)
+Abstrakte Gestaltung: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--abstract--scene.md)
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
 [![Offset-Abstraktion: Abstrakte Elemente konzentrieren sich auf einer Seite und bilden einen Kontrast zu einer offenen Fläche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-offset-1.svg)
 
 ### Offset-Abstraktion↗
 
-Abstrakte Elemente konzentrieren sich auf einer Seite und bilden einen Kontrast zu einem offenen Bereich.](abstract-layout--abstract-layout-offset.md)[![Freie Verbreitung: Abstrakte Elemente besetzen unterschiedliche Positionen ohne periodische Wiederholung.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-scatter-1.svg)
+Abstrakte Elemente konzentrieren sich auf einer Seite und bilden einen Kontrast zu einem offenen Bereich.](abstract-layout--abstract-layout-offset.md)[![Freie Verteilung: Abstrakte Elemente liegen an unterschiedlichen Positionen, ohne periodischen Rapport.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-scatter-1.svg)
 
-### Kostenlose Verteilung↗
+### Freie Verteilung↗
 
-Abstrakte Elemente nehmen unterschiedliche Positionen ohne periodische Wiederholung ein.](abstract-layout--abstract-layout-scatter.md)[![Zugeschnittene abstrakte Formen: Formen reichen über die Bildränder hinaus und lassen auf eine größere Komposition schließen.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-crop-1.svg)
+Abstrakte Elemente nehmen unterschiedliche Positionen ohne periodische Wiederholung ein.](abstract-layout--abstract-layout-scatter.md)[![Angeschnittene abstrakte Formen: Formen reichen über die Bildränder hinaus und deuten eine größere Komposition an.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-crop-1.svg)
 
-### Abgeschnittene abstrakte Formen↗
+### Angeschnittene abstrakte Formen↗
 
 Formen reichen über die Bildränder hinaus und lassen auf eine größere Komposition schließen.](abstract-layout--abstract-layout-crop.md)[![Überlappende Zonen: Abstrakte Regionen unterteilen das Bild und bilden durch Schnittpunkte Ebenen.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-abstract-layout--abstract-layout-zones-1.svg)
 
@@ -124,4 +124,4 @@ Formen reichen über die Bildränder hinaus und lassen auf eine größere Kompos
 
 Abstrakte Bereiche unterteilen das Bild und bilden durch Schnittpunkte Ebenen.](abstract-layout--abstract-layout-zones.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

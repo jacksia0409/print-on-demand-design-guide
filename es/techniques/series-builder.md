@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/techniques/series-builder?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/techniques/series-builder?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,9 +18,9 @@ Crea un conjunto coordinado de cuatro o seis piezas con un diseño diferente en 
 
 ## 4PC: explora cuatro direcciones
 
-[Generador de rejilla de 4 piezas](https://podplo.app/skills/four-piece-grid) desarrolla una referencia en cuatro direcciones de diseño coordinadas.
+[Generador de cuadrícula de 4 piezas](https://podplo.app/skills/four-piece-grid) desarrolla una referencia en cuatro direcciones de diseño coordinadas.
 
-[Generador de rejilla de 4 piezas](https://podplo.app/skills/four-piece-grid) desarrolla una referencia en cuatro composiciones relacionadas pero distintas. El sujeto se mantiene constante mientras el diseño, los elementos de soporte y el punto focal cambian de un panel a otro.
+[Generador de cuadrícula de 4 piezas](https://podplo.app/skills/four-piece-grid) desarrolla una referencia en cuatro composiciones relacionadas pero distintas. El sujeto se mantiene constante mientras el diseño, los elementos de soporte y el punto focal cambian de un panel a otro.
 
 ![Referencia para una colección de cuatro piezas.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16-before.webp)
 
@@ -28,7 +28,7 @@ Entrada
 
 [![Cuatro diseños coordinados en una cuadrícula de revisión.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)](https://podplo.app/skills/four-piece-grid)
 
-Generador de rejilla de 4 piezas
+Generador de cuadrícula de 4 piezas
 
 **Más Skills para explorar**
 
@@ -42,7 +42,7 @@ Generador de rejilla de 4 piezas
 
 [![Ejemplo de ilustración del generador de cuadrícula de 6 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
 
-Generador de rejilla de 6 piezas](https://podplo.app/skills/six-piece-grid)[![Ejemplo de ilustraciones del paquete de pegatinas y imágenes prediseñadas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)
+Generador de cuadrícula de 6 piezas](https://podplo.app/skills/six-piece-grid)[![Ejemplo de ilustraciones del paquete de pegatinas y imágenes prediseñadas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)
 
 Paquete de pegatinas y imágenes prediseñadas](https://podplo.app/skills/sticker-clipart-pack)
 
@@ -50,9 +50,9 @@ Paquete de pegatinas y imágenes prediseñadas](https://podplo.app/skills/sticke
 
 ## 6PC: construye una pequeña colección
 
-[Generador de rejilla de 6 piezas](https://podplo.app/skills/six-piece-grid) amplía una referencia en una colección coordinada de seis diseños.
+[Generador de cuadrícula de 6 piezas](https://podplo.app/skills/six-piece-grid) amplía una referencia en una colección coordinada de seis diseños.
 
-[Generador de rejilla de 6 piezas](https://podplo.app/skills/six-piece-grid) expande una referencia en seis direcciones coordinadas. Un tema y una paleta compartidos mantienen el conjunto consistente, mientras que la pose, el encuadre, el adorno o la composición hacen que cada panel sea distinto.
+[Generador de cuadrícula de 6 piezas](https://podplo.app/skills/six-piece-grid) expande una referencia en seis direcciones coordinadas. Un tema y una paleta compartidos mantienen el conjunto consistente, mientras que la pose, el encuadre, el adorno o la composición hacen que cada panel sea distinto.
 
 ![Referencia para una colección de seis piezas.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17-before.webp)
 
@@ -60,7 +60,7 @@ Entrada
 
 [![Seis diseños coordinados en una cuadrícula de revisión](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)](https://podplo.app/skills/six-piece-grid)
 
-Generador de rejilla de 6 piezas
+Generador de cuadrícula de 6 piezas
 
 **Más Skills para explorar**
 
@@ -72,9 +72,9 @@ Generador de rejilla de 6 piezas
 
 <a id="_R_2srk_-cards"></a>
 
-[![Ejemplo de arte del generador de cuadrícula 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+[![Ejemplo del generador de cuadrícula de 4 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-Generador de rejilla de 4 piezas](https://podplo.app/skills/four-piece-grid)[![Ejemplo de ilustraciones del paquete de pegatinas y imágenes prediseñadas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)
+Generador de cuadrícula de 4 piezas](https://podplo.app/skills/four-piece-grid)[![Ejemplo de ilustraciones del paquete de pegatinas y imágenes prediseñadas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)
 
 Paquete de pegatinas y imágenes prediseñadas](https://podplo.app/skills/sticker-clipart-pack)
 
@@ -100,11 +100,11 @@ Ejemplo
 
 <a id="_R_2urk_-cards"></a>
 
-[![Ejemplo de arte del generador de cuadrícula 4PC](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
+[![Ejemplo del generador de cuadrícula de 4 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-16.webp)
 
-Generador de rejilla de 4 piezas](https://podplo.app/skills/four-piece-grid)[![Ejemplo de ilustración del generador de cuadrícula de 6 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
+Generador de cuadrícula de 4 piezas](https://podplo.app/skills/four-piece-grid)[![Ejemplo de ilustración del generador de cuadrícula de 6 piezas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-17.webp)
 
-Generador de rejilla de 6 piezas](https://podplo.app/skills/six-piece-grid)[![Ejemplo de ilustraciones del paquete de pegatinas y imágenes prediseñadas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)
+Generador de cuadrícula de 6 piezas](https://podplo.app/skills/six-piece-grid)[![Ejemplo de ilustraciones del paquete de pegatinas y imágenes prediseñadas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-18.webp)
 
 Paquete de pegatinas y imágenes prediseñadas](https://podplo.app/skills/sticker-clipart-pack)[![Ejemplo de arte gráfico de Poster Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7.webp)
 

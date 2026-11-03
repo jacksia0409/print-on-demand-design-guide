@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/greeting-cards?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/greeting-cards?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -20,7 +20,7 @@ Créez une carte de vœux autour d'une illustration, d'un court message ou d'un 
 
 ### Conception pour une occasion spécifique
 
-Le recto de la carte peut commencer par l'image, le message ou une combinaison équilibrée des deux. Une illustration chaleureuse avec un message simple ; Une image ludique construite autour d’une blague ; Un nom ou une date ajouté à l’occasion.
+Le recto de la carte peut donner la priorité à l’image, au message ou à une combinaison équilibrée des deux. Une illustration chaleureuse avec un message simple ; une image ludique construite autour d’une blague ; un nom ou une date ajouté pour l’occasion.
 
 ![Cartes de vœux et invitations · visuel de produit vierge](https://podplo.app/pod-guide/generated/greeting-cards-blank.webp)
 
@@ -30,29 +30,29 @@ Le recto de la carte peut commencer par l'image, le message ou une combinaison �
 
 Utilisez différents Skills pour transformer la même image en de nouvelles mises en page, des illustrations basées sur des photos et des designs personnalisés.
 
-### Créez un motif transparent pour la carte
+### Créez un motif à raccords invisibles pour la carte
 
 Choisissez vos objets préférés et disposez-les de manière répétée sur le devant de la carte.
 
 [Motif sans raccord visible](https://podplo.app/skills/seamless-pattern)
 
-![Modèle sans couture · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Motif à raccords invisibles · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Image source
 
-[![Modèle sans couture · Oeuvre générée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Motif à raccords invisibles · Visuel généré](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de mise en page et définissez Skills**
+**Explorez davantage de Skills de mise en page et de création d’ensembles**
 
 <a id="_R_5v3k_-title"></a>
 
-#### Explorez plus de mise en page et définissez Skills
+#### Explorez davantage de Skills de mise en page et de création d’ensembles
 
 4 / 11
 

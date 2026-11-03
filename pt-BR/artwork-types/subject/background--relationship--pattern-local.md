@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-Orientado por assunto / DIREÇÃO CRIATIVA / texto e imagem
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA / texto e imagem
 
 # Fundo estampado: local
 
-Relações entre texto e assunto: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.
+Relações entre texto e elemento principal: uma área decorativa fica atrás do conteúdo, deixando uma região fora dela.
 
 <a id="understand"></a>
 
-![Fundo padronizado: local: Relações entre texto e assunto: Um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+![Fundo estampado: local: Relações entre texto e elemento principal: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
 Ilustração da composição
 
@@ -28,7 +28,7 @@ COMO RECONHECER
 
 O patch pode ser regular ou livre, mas não cobre a tela. A decoração que envolve principalmente o contorno externo é a decoração circundante; mantenha o conteúdo principal dominante.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -40,7 +40,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Orientado por assunto → Relações entre texto e assunto → Plano de fundo → Plano de fundo padronizado: local
+Composição guiada pelo elemento principal → Relações entre texto e elemento principal → Fundo → Fundo com padrão localizado
 
 **Entrada e saída**
 
@@ -68,24 +68,24 @@ O patch pode ser regular ou livre, mas não cobre a tela. A decoração que envo
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo transparente: Relações entre texto e assunto: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
+[![Fundo transparente: relações entre texto e elemento principal: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### Fundo transparente↗
 
-Relações entre texto e assunto: O fundo permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](background--relationship--transparent.md)[![Fundo sólido: Relações entre texto e assunto: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+Relações entre texto e elemento principal: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](background--relationship--transparent.md)[![Fundo sólido: relações entre texto e elemento principal: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
 ### Fundo sólido↗
 
-Relações entre texto e assunto: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--relationship--solid.md)[![Fundo gradiente: Relações entre texto e assunto: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+Relações entre texto e elemento principal: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--relationship--solid.md)[![Fundo em degradê: Relações entre texto e elemento principal: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Relações entre texto e assunto: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--relationship--gradient.md)[![Fundo padronizado: área completa: Relações entre texto e assunto: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
+Relações entre texto e elemento principal: o fundo muda continuamente de cor ou brilho, enquanto o conteúdo principal permanece claro.](background--relationship--gradient.md)[![Fundo estampado: área completa: Relações entre texto e elemento principal: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
-Relações entre texto e assunto: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--relationship--pattern-full.md)
+Relações entre texto e elemento principal: um fundo com padrão cobre a imagem atrás de um conteúdo de primeiro plano claramente legível.](background--relationship--pattern-full.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

@@ -48,7 +48,7 @@
 
 イースターにしよう](https://podplo.app/skills/make-it-easter)[![Make It 感謝祭のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-感謝祭を実現しましょう](https://podplo.app/skills/make-it-thanksgiving)
+感謝祭にアレンジ](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="valentines-version"></a>
 
@@ -84,7 +84,7 @@
 
 イースターにしよう](https://podplo.app/skills/make-it-easter)[![Make It 感謝祭のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-感謝祭を実現しましょう](https://podplo.app/skills/make-it-thanksgiving)
+感謝祭にアレンジ](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="mothers-day-version"></a>
 
@@ -98,7 +98,7 @@
 
 入力
 
-[![提供された人々を保存する母の日バージョン](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6.webp)](https://podplo.app/skills/make-it-mothers-day)
+[![元写真の人物をそのまま残した母の日バージョン](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6.webp)](https://podplo.app/skills/make-it-mothers-day)
 
 母の日にしましょう
 

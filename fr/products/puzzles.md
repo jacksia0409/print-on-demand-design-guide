@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/puzzles?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/puzzles?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Des énigmes
+# Puzzles
 
 Créez des puzzles à partir d'une scène détaillée, d'une photo de famille ou d'un monde illustré.
 
@@ -30,47 +30,47 @@ Les visages, les changements de couleur et les objets distincts donnent à chaqu
 
 Utilisez différents Skills pour transformer la même image en de nouvelles mises en page, des illustrations basées sur des photos et des designs personnalisés.
 
-### Créez un modèle de puzzle sans couture
+### Créez un motif à raccords invisibles pour puzzle
 
 Choisissez des formes de votre image et disposez-les de manière répétée avec des détails reconnaissables sur l’image.
 
 [Motif sans raccord visible](https://podplo.app/skills/seamless-pattern)
 
-![Modèle sans couture · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Motif à raccords invisibles · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Image source
 
-[![Modèle sans couture · Oeuvre générée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Motif à raccords invisibles · Visuel généré](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
 ### Transformez une photo de famille en illustration de bande dessinée
 
-Créez un portrait de famille comique tout en gardant chaque personne reconnaissable.
+Créez un portrait de famille en bande dessinée en gardant chaque personne reconnaissable.
 
-[Portrait de famille comique](https://podplo.app/skills/comic-family-portrait)
+[Portrait de famille en bande dessinée](https://podplo.app/skills/comic-family-portrait)
 
 ![Portrait de famille en bande dessinée · Source photo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-before.webp)
 
 Photo d’origine
 
-[![Portrait de famille comique · Oeuvre générée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
+[![Portrait de famille en bande dessinée · Visuel généré](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607583066813634-after.webp)](https://podplo.app/skills/comic-family-portrait)
 
 Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de photos et d'images Skills**
+**Explorez davantage de Skills photo et image**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explorez plus de photos et d'images Skills
+#### Explorez davantage de Skills photo et image
 
 4 / 92
 
@@ -82,7 +82,7 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration Sil
 
 Créateur de silhouettes](https://podplo.app/skills/silhouette-maker)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 

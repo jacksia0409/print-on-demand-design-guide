@@ -6,13 +6,13 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/scene/background--scene--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/scene/background--scene--scene?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 Escenas / DIRECCIÓN CREATIVA / Escenas
 
-# Antecedentes ambientales
+# Fondo ambiental
 
 Escenas: un entorno relacionado con el tema respalda el contenido principal desde detrás o alrededor de él.
 
@@ -32,15 +32,15 @@ Para las categorías de tema, patrón, textura o abstracto, el entorno sigue sie
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Escenas → Fondo → Antecedentes ambientales
+Escenas → Fondo → Fondo ambiental
 
 **Entrada y salida**
 
@@ -48,11 +48,11 @@ Si se proporciona una imagen, adáptala a esta dirección. Si se proporciona un 
 
 **Estructura deseada**
 
-Preservar el espacio esencial de la escena, el entorno y cualquier evento existente. Cambie el suelo detrás de él, la capa de cielo o el respaldo circundante en lugar de eliminar el contexto que lo convierte en una escena.
+Conserva el espacio esencial de la escena, el entorno y cualquier acontecimiento existente. Cambia el fondo que hay detrás, la capa de cielo o el fondo circundante, en vez de eliminar el contexto que la convierte en una escena.
 
 **Fondo**
 
-Referenciar la ubicación existente, los elementos ambientales y la atmósfera, adaptándolos al contenido principal. Si está ausente o es solo simple o transparente, cree una configuración relacionada y coordine la escala, dirección y profundidad.
+Toma como referencia el lugar, los elementos del entorno y la atmósfera existentes y adáptalos al contenido principal. Si no hay entorno, o solo hay un fondo liso o transparente, crea un escenario relacionado y coordina la escala, la dirección y la profundidad.
 
 **Texto**
 
@@ -68,13 +68,13 @@ Para las categorías de tema, patrón, textura o abstracto, el entorno sigue sie
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
 [![Fondo transparente: Escenas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Escenas: El suelo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--scene--transparent.md)[![Fondo sólido: Escenas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
+Escenas: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--scene--transparent.md)[![Fondo sólido: Escenas: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--scene--solid-1.svg)
 
 ### Fondo sólido↗
 
@@ -88,4 +88,4 @@ Escenas: el fondo cambia continuamente de color o brillo mientras el contenido p
 
 Escenas: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--scene--pattern-local.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

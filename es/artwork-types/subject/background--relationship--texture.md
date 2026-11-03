@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/artwork-types/subject/background--relationship--texture?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Orientado por el sujeto / DIRECCIÓN CREATIVA / texto e imagen
+Motivo principal / DIRECCIÓN CREATIVA / texto e imagen
 
 # Fondo texturizado
 
-Relaciones entre texto y tema: el grano del papel, las partículas u otros caracteres superficiales respaldan el contenido en primer plano.
+Relaciones entre texto y motivo principal: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.
 
 <a id="understand"></a>
 
-![Fondo texturizado: relaciones entre el texto y el tema: el grano del papel, las partículas u otros caracteres de la superficie respaldan el contenido del primer plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--texture-1.svg)
+![Fondo texturizado: relaciones entre texto y motivo principal: el grano del papel, las partículas u otra cualidad de superficie apoyan el contenido de primer plano.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--texture-1.svg)
 
 Ilustración de la composición
 
@@ -26,21 +26,21 @@ CÓMO RECONOCERLO
 
 ## ¿Qué define esta dirección?
 
-Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Un fondo texturizado no debe convertirse automáticamente en un objeto independiente ni en una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal del fondo que lo sostiene.
 
-[← Volver a temas](../subject.md)
+[← Volver a composición centrada en el motivo principal](../subject.md)
 
 <a id="ai-directions"></a>
 
-DIRECCIONES DE LA IA
+INSTRUCCIONES PARA IA
 
 ## Tome esta dirección hacia la IA
 
-Úselo con una imagen o pídale a AI que reescriba el mensaje de su imagen en esta dirección.
+Úsalo con una imagen o pide a una IA que reescriba tu prompt de imagen en esta dirección.
 
 **Dirección deseada**
 
-Dirigido por tema → Relaciones entre texto y tema → Fondo → Fondo texturizado
+Motivo principal → Relaciones entre texto y motivo principal → Fondo → Fondo texturizado
 
 **Entrada y salida**
 
@@ -64,28 +64,28 @@ Conserva el tema central y los rasgos que permiten reconocer el original. Usa su
 
 **Alcance y límites**
 
-Un soporte texturizado no debería convertirse automáticamente en un objeto independiente o en una escena narrativa completa. En la categoría de textura, distinga el fragmento de la superficie principal de su suelo de soporte.
+Un fondo texturizado no debe convertirse automáticamente en un objeto independiente ni en una escena narrativa completa. En la categoría de texturas, distingue el fragmento de superficie principal del fondo que lo sostiene.
 
 <a id="related"></a>
 
-## Compara direcciones cercanas
+## Compara propuestas relacionadas
 
-[![Fondo transparente: Relaciones entre texto y tema: El fondo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
+[![Fondo transparente: relaciones entre texto y motivo principal: el fondo permanece transparente; el damero solo es una ayuda de visualización.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--transparent-1.svg)
 
 ### Fondo transparente↗
 
-Relaciones entre texto y tema: el fondo permanece transparente; un tablero de ajedrez es sólo una ayuda de visualización.](background--relationship--transparent.md)[![Fondo sólido: Relaciones entre texto y tema: Un color uniforme forma el fondo; El blanco también es un fondo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
+Relaciones entre texto y motivo principal: el fondo permanece transparente; el damero solo es una ayuda de visualización.](background--relationship--transparent.md)[![Fondo de un solo color: relaciones entre texto y motivo principal: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--solid-1.svg)
 
 ### Fondo sólido↗
 
-Relaciones entre texto y tema: un color uniforme forma el fondo; El blanco también es un fondo sólido.](background--relationship--solid.md)[![Fondo degradado: relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
+Relaciones entre texto y motivo principal: un color uniforme forma el fondo; el blanco también es un fondo de color uniforme.](background--relationship--solid.md)[![Fondo degradado: relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--gradient-1.svg)
 
 ### Fondo degradado↗
 
-Relaciones entre texto y tema: el respaldo cambia continuamente de color o brillo mientras el contenido principal permanece claro.](background--relationship--gradient.md)[![Fondo estampado: local: Relaciones entre texto y tema: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
+Relaciones entre texto y motivo principal: el fondo cambia de color o brillo de forma continua y el contenido principal sigue distinguiéndose.](background--relationship--gradient.md)[![Fondo estampado localizado: relaciones entre texto y motivo principal: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--relationship--pattern-local-1.svg)
 
 ### Fondo estampado: local↗
 
-Relaciones entre texto y tema: un parche decorativo se coloca detrás del contenido, dejando un área fuera del parche.](background--relationship--pattern-local.md)
+Relaciones entre texto y motivo principal: una zona decorativa se sitúa detrás del contenido y deja espacio fuera de ella.](background--relationship--pattern-local.md)
 
-Los estudios elaborados con códigos comparan la composición y los tratamientos visuales; Los ejemplos de medios y estilos son conceptuales. Estas direcciones no han sido probadas individualmente con modelos de imágenes. Verifique el texto generado, la transparencia y los bordes repetidos.
+Los estudios dibujados mediante código comparan la composición y los acabados visuales; los ejemplos de técnicas y estilos son conceptuales. Estas instrucciones no se han probado individualmente con modelos de imágenes. Comprueba el texto generado, la transparencia y los bordes de repetición.

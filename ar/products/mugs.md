@@ -20,7 +20,7 @@
 
 ## أفكار التصميم لهذا المنتج
 
-### تصميم خارج الجبهة
+### صمّم ما يتجاوز الوجه الأمامي
 
 يمكن للكوب أن يقرن الصور والكلمات على الجانبين أو أن يحمل تصميمًا واحدًا متواصلًا حول الكوب. صورة مقترنة بعبارة قصيرة؛ الرسومات ذات الصلة على الجانبين المتقابلين؛ نمط متكرر حول الكوب.
 
@@ -34,27 +34,27 @@
 
 ### قم بإقران الصورة الرئيسية برسالة قصيرة
 
-أنشئ تخطيطًا واضحًا للصورة والنوع، ثم ضعه في المكان الذي يُقرأ فيه بشكل جيد أثناء دوران الكوب.
+أنشئ تخطيطًا واضحًا للصورة والكتابة، ثم ضعه في موضع يسهل قراءته عند تدوير الكوب.
 
-[العنوان – العنصر – تخطيط الترجمة](https://podplo.app/skills/title-subject-subtitle-layout)
+[تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي](https://podplo.app/skills/title-subject-subtitle-layout)
 
-![العنوان – العنصر – تخطيط الترجمة · مصدر الصورة](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
+![تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي · الصورة الأصلية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3-before.webp)
 
 صورة المصدر
 
-[![العنوان – العنصر – تخطيط الترجمة · العمل الفني الذي تم إنشاؤه](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![تخطيط العنوان–العنصر الرئيسي–العنوان الفرعي · عمل فني مولّد](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
 عمل فني تم إنشاؤه
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من التخطيط وقم بتعيين Skills**
+**استكشف المزيد من Skills للتخطيطات والمجموعات**
 
 <a id="_R_bf3k_-title"></a>
 
-#### اكتشف المزيد من التخطيط وقم بتعيين Skills
+#### استكشف المزيد من Skills للتخطيطات والمجموعات
 
 4 / 9
 
@@ -86,13 +86,13 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**استكشاف المزيد من الصور والصورة Skills**
+**استكشف المزيد من Skills للصور الفوتوغرافية والصور**
 
 <a id="_R_bn3k_-title"></a>
 
-#### استكشاف المزيد من الصور والصورة Skills
+#### استكشف المزيد من Skills للصور الفوتوغرافية والصور
 
 4 / 91
 
@@ -114,7 +114,7 @@
 
 [إطار اسم الأزهار](https://podplo.app/skills/floral-name-frame)
 
-أندريا
+ANDREA
 
 الاسم
 
@@ -124,25 +124,25 @@
 
 معاينة المنتج قريبا
 
-معاينة منتج الذكاء الاصطناعي
+معاينة منتج مولدة بالذكاء الاصطناعي
 
-**اكتشف المزيد من الاسم والمناسبة Skills**
+**استكشف المزيد من Skills للأسماء والمناسبات**
 
 <a id="_R_bv3k_-title"></a>
 
-#### اكتشف المزيد من الاسم والمناسبة Skills
+#### استكشف المزيد من Skills للأسماء والمناسبات
 
 4 / 10
 
 <a id="_R_bv3k_-cards"></a>
 
-[![مثال على العمل الفني لاسم Buffalo Plaid Paw](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![مثال لاسم مع شكل كف بنقشة مربعات بافالو](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-اسم مخلب الجاموس منقوشة](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+اسم مع شكل كف بنقشة مربعات بافالو](https://podplo.app/skills/buffalo-plaid-paw-name)[![مثال على العمل الفني لملصق اسم القطب الشمالي](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال على العمل الفني لنمط اسم قلوب تلوين](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+ملصق اسم القطب الشمالي](https://podplo.app/skills/north-pole-name-poster)[![مثال عمل فني لنمط اسم وقلوب بأقلام شمعية](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-تلوين قلوب اسم النمط](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+نمط اسم وقلوب بأقلام شمعية](https://podplo.app/skills/crayon-hearts-name-pattern)[![مثال على العمل الفني لنمط اسم الديناصور](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 نمط اسم الديناصور](https://podplo.app/skills/dinosaur-name-pattern)
 

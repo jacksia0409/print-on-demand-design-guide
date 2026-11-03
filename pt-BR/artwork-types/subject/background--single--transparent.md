@@ -10,15 +10,15 @@
 
 <a id="guide-main"></a>
 
-Orientado por assunto / DIREÇÃO CRIATIVA / assunto único
+Composição guiada pelo elemento principal / DIREÇÃO CRIATIVA / elemento principal único
 
 # Fundo transparente
 
-Sujeito único: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.
+Elemento principal único: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.
 
 <a id="understand"></a>
 
-![Fundo transparente: Assunto único: O chão permanece transparente; um tabuleiro de xadrez é apenas um auxiliar de exibição.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
+![Fundo transparente: elemento principal único: o fundo permanece transparente; o quadriculado serve apenas como auxílio de visualização.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 Ilustração da composição
 
@@ -26,11 +26,11 @@ COMO RECONHECER
 
 ## O que define essa direção
 
-A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+A transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 
-[← Voltar ao assunto](../subject.md)
+[← Voltar à composição guiada pelo elemento principal](../subject.md)
 
-![Assunto recortado com fundo transparente isolado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+![Elemento principal recortado e isolado sobre fundo transparente](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Exemplo de processamento · Plano de fundo removido
 
@@ -44,7 +44,7 @@ Use com uma imagem ou peça à IA para reescrever o prompt da imagem nessa dire�
 
 **Direção desejada**
 
-Orientado por assunto → Assunto único → Plano de fundo → Fundo transparente
+Composição guiada pelo elemento principal → Elemento principal único → Fundo → Fundo transparente
 
 **Entrada e saída**
 
@@ -52,7 +52,7 @@ Se receber uma imagem, adapte-a à direção escolhida. Se receber um prompt, re
 
 **Estrutura desejada**
 
-Mantenha um assunto focal coerente. Se estiverem presentes vários objetos independentes, escolha o tema principal ou organize um todo visual claramente unificado.
+Mantenha um único elemento focal coerente. Se houver vários objetos independentes, escolha o elemento principal ou organize um conjunto visual claramente unificado.
 
 **Fundo**
 
@@ -68,32 +68,32 @@ Preserve o tema central e as características que permitem reconhecer o original
 
 **Escopo e limites**
 
-A verdadeira transparência requer um canal alfa. Não pinte um tabuleiro de xadrez ou fundo branco na imagem e chame-a de transparente; afirmam que o pós-processamento é necessário se a ferramenta não puder produzir transparência.
+A transparência real exige um canal alfa. Não pinte um quadriculado ou fundo branco na imagem e o chame de transparente; informe que será necessário pós-processamento se a ferramenta não puder produzir transparência.
 
-[Abra o removedor de fundo Skill ↗](https://podplo.app/generate?skill=background-remover)
+[Abrir o Skill Removedor de fundo ↗](https://podplo.app/generate?skill=background-remover)
 
 Muda para este Skill e mantém suas imagens de referência e prompt existentes.
 
 <a id="related"></a>
 
-## Compare rotas próximas
+## Compare orientações próximas
 
-[![Fundo sólido: Sujeito único: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+[![Fundo sólido: elemento principal único: uma cor uniforme forma o fundo; o branco também é um fundo sólido.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
 ### Fundo sólido↗
 
-Sujeito único: Uma cor uniforme forma o fundo; o branco também é um fundo sólido.](background--single--solid.md)[![Fundo gradiente: Assunto único: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+Elemento principal único: uma cor uniforme forma o fundo; o branco também é um fundo de cor única.](background--single--solid.md)[![Fundo em degradê: Elemento principal único: O fundo muda continuamente de cor ou brilho, mantendo o conteúdo principal claro.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### Fundo gradiente↗
 
-Assunto único: O fundo muda continuamente de cor ou brilho enquanto o conteúdo principal permanece claro.](background--single--gradient.md)[![Plano de fundo padronizado: local: assunto único: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
+Elemento principal único: o fundo muda continuamente de cor ou brilho, enquanto o conteúdo principal permanece claro.](background--single--gradient.md)[![Fundo estampado: local: Elemento principal único: Uma área decorativa fica atrás do conteúdo, deixando espaço fora dela.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
 
-### Fundo padronizado: local↗
+### Fundo estampado: local↗
 
-Assunto único: um patch decorativo fica atrás do conteúdo, deixando uma área fora do patch.](background--single--pattern-local.md)[![Fundo padronizado: área completa: Tema único: Um fundo padronizado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
+Elemento principal único: uma área decorativa fica atrás do conteúdo, deixando uma região fora dela.](background--single--pattern-local.md)[![Fundo estampado: área completa: Elemento principal único: Um fundo estampado cobre a imagem por trás do conteúdo de primeiro plano claramente legível.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
 
-### Fundo padronizado: área completa↗
+### Fundo estampado: área completa↗
 
-Assunto único: um fundo padronizado cobre a imagem por trás do conteúdo em primeiro plano claramente legível.](background--single--pattern-full.md)
+Elemento principal único: um fundo com padrão cobre a imagem atrás de um conteúdo de primeiro plano claramente legível.](background--single--pattern-full.md)
 
 Estudos desenhados em código comparam composição e tratamentos visuais; exemplos de mídia e estilo são conceituais. Estas instruções não foram testadas individualmente com modelos de imagem. Verifique o texto gerado, a transparência e as bordas repetidas.

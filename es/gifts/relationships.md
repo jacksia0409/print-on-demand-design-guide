@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Índice de guía](../INDEX.md) · [Sigue leyendo PodPlo](https://podplo.app/pod-guide/gifts/relationships?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Índice de guía](../INDEX.md) · [Leer en PodPlo](https://podplo.app/pod-guide/gifts/relationships?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -38,17 +38,17 @@ Marco de nombre floral
 
 [![Ejemplo de diseño artístico del patrón de nombre de dinosaurio](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Patrón de nombre de dinosaurio](https://podplo.app/skills/dinosaur-name-pattern)[![Ejemplo de obra de arte con nombre de pata de cuadros de búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+Patrón de nombre de dinosaurio](https://podplo.app/skills/dinosaur-name-pattern)[![Ejemplo del nombre con huella de cuadros búfalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nombre de la pata de cuadros de búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
+Nombre con huella de cuadros búfalo](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="people-and-history"></a>
 
 ## Convierte una foto compartida en un retrato grupal
 
-[Retrato de familia 3D](https://podplo.app/skills/3d-family-portrait) convierte una foto compartida en un animado recuerdo grupal y al mismo tiempo mantiene a todos reconocibles.
+[Retrato de familia en 3D](https://podplo.app/skills/3d-family-portrait) convierte una foto compartida en un animado recuerdo grupal y al mismo tiempo mantiene a todos reconocibles.
 
-Una foto de amistad o de hermanos ya conlleva años de historia compartida. [Retrato de familia 3D](https://podplo.app/skills/3d-family-portrait) agrega profundidad y carácter mientras mantiene a todos reconocibles y utiliza solo el título que proporciona el cliente.
+Una foto de amistad o de hermanos ya conlleva años de historia compartida. [Retrato de familia en 3D](https://podplo.app/skills/3d-family-portrait) agrega profundidad y carácter mientras mantiene a todos reconocibles y utiliza solo el título que proporciona el cliente.
 
 ![Fotografía proporcionada de personas con una historia compartida.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-before.webp)
 
@@ -56,7 +56,7 @@ Entrada
 
 [![Retrato de grupo dimensional preservando a las personas suministradas.](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)](https://podplo.app/skills/3d-family-portrait)
 
-Retrato de familia 3D
+Retrato de familia en 3D
 
 **Más Skills para explorar**
 
@@ -104,8 +104,8 @@ Ejemplo
 
 Marco de nombre floral](https://podplo.app/skills/floral-name-frame)[![Ejemplo de arte de retrato familiar en 3D](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607301377358063-after.webp)
 
-Retrato de familia 3D](https://podplo.app/skills/3d-family-portrait)[![Ejemplo de arte de retrato de mascota en acuarela suave](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
+Retrato de familia en 3D](https://podplo.app/skills/3d-family-portrait)[![Ejemplo de arte de retrato de mascota en acuarela suave](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/605874592531900-after.webp)
 
-Retrato de mascota de acuarela suave](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Ejemplo de diseño de diseño de centro compacto](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Retrato de mascota de acuarela suave](https://podplo.app/skills/soft-watercolor-pet-portrait)[![Ejemplo de composición central compacta](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
 Diseño central compacto](https://podplo.app/skills/compact-center-layout)

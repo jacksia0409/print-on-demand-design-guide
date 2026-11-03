@@ -6,21 +6,21 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/products/ornaments?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/products/ornaments?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
 # Ornamente und Sonnenfänger
 
-Verwandeln Sie ein Haustierporträt, ein Paarfoto, einen Namen oder ein Datum in ein Feiertagsornament-Design.
+Verwandeln Sie ein Haustierporträt, ein Paarfoto, einen Namen oder ein Datum in ein festliches Motiv für einen Schmuckanhänger.
 
 <a id="product-overview"></a>
 
 ## Designideen für dieses Produkt
 
-### Konzentrieren Sie sich auf das Design
+### Halten Sie das Design auf das Wesentliche konzentriert
 
-Ornamente funktionieren am besten mit einem klaren Motiv, einer einfachen Feiertagsgrafik oder einem kurzen Namen und Jahr. Ein Haustier oder eine Person als Hauptthema; Ein einfaches Feiertagssymbol; Ein Name und eine Jahreszahl sind in das Design integriert.
+Schmuckanhänger wirken am besten mit einem klaren Motiv, einer einfachen Feiertagsgrafik oder einem kurzen Namen und einer Jahreszahl. Ein Haustier oder eine Person als Hauptmotiv; Ein einfaches Feiertagssymbol; Ein in das Design integrierter Name und eine Jahreszahl.
 
 [![Ornamente und Sonnenfänger · Acrylornament](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
@@ -30,7 +30,7 @@ Ornamente funktionieren am besten mit einem klaren Motiv, einer einfachen Feiert
 
 Verwenden Sie verschiedene Skills, um dasselbe Bild in neue Layouts, fotobasierte Grafiken und personalisierte Designs umzuwandeln.
 
-### Verwandeln Sie ein Paarfoto in ein dekoratives Kunstwerk
+### Verwandeln Sie ein Paarfoto in ein Motiv für einen Schmuckanhänger.
 
 Aus einem klaren Pärchenfoto wird für die Deko ein Weihnachtsportrait.
 
@@ -48,11 +48,11 @@ Produktvorschau folgt in Kürze
 
 KI-Produktvorschau
 
-**Entdecken Sie weitere Fotos und Bilder Skills**
+**Entdecken Sie weitere Foto- und Bild-Skills**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Entdecken Sie weitere Fotos und Bilder Skills
+#### Entdecken Sie weitere Foto- und Bild-Skills
 
 1 / 1
 
@@ -62,11 +62,11 @@ KI-Produktvorschau
 
 Familienporträt aus Buntglas](https://podplo.app/skills/stained-glass-family-portrait)
 
-### Fügen Sie dem Originalthema weihnachtliche Details hinzu
+### Fügen Sie dem ursprünglichen Motiv weihnachtliche Details hinzu
 
 Fügen Sie eine kleine Reihe von Feiertagselementen hinzu und bewahren Sie dabei das ursprüngliche Motiv.
 
-[Machen Sie es zu Weihnachten](https://podplo.app/skills/make-it-christmas)
+[Weihnachtlich gestalten](https://podplo.app/skills/make-it-christmas)
 
 ![Make It Christmas · Quellbild](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
@@ -88,7 +88,7 @@ KI-Produktvorschau
 
 Die KI-Vorschau platziert das Design zwischen Lichtern, Zweigen und anderen Feiertagsdekorationen.
 
-- Verwenden Sie ein klares Thema
+- Verwenden Sie ein klar erkennbares Motiv.
 
 - Halten Sie den Namen kurz und leicht lesbar
 
@@ -96,4 +96,4 @@ Die KI-Vorschau platziert das Design zwischen Lichtern, Zweigen und anderen Feie
 
 [![Ornamente und Sonnenfänger · Acrylornament](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256098413752668529.webp)](https://podplo.app/products/mockup-zazzle-256098413752668529)
 
-[![Ornamente und Sonnenfänger · Memorial Tag 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)](https://podplo.app/products/mockup-temu-605893919926956)
+[![Schmuckanhänger und Sonnenfänger · Gedenkanhänger 01](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)](https://podplo.app/products/mockup-temu-605893919926956)

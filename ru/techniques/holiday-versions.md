@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques/holiday-versions?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/techniques/holiday-versions?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -18,17 +18,17 @@
 
 ## Создайте рождественский вариант
 
-[Сделай это Рождеством](https://podplo.app/skills/make-it-christmas) добавляет согласованные детали праздника, сохраняя при этом исходную тему.
+[Оформить к Рождеству](https://podplo.app/skills/make-it-christmas) добавляет согласованные праздничные детали, сохраняя исходный главный объект.
 
-[Сделай это Рождеством](https://podplo.app/skills/make-it-christmas) добавляет свет, зелень, снег и другие детали праздника вокруг исходного объекта. Человек, домашнее животное, рисунок и текст остаются узнаваемыми.
+[Оформить к Рождеству](https://podplo.app/skills/make-it-christmas) добавляет свет, зелень, снег и другие детали праздника вокруг исходного объекта. Человек, домашнее животное, рисунок и текст остаются узнаваемыми.
 
-![Ссылка перед добавлением рождественской темы](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
+![Референс перед добавлением рождественской темы](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1-before.webp)
 
 Ввод
 
 [![Рождественская версия, сохраняющая исходную идентичность](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)](https://podplo.app/skills/make-it-christmas)
 
-Сделай это Рождеством
+Оформить к Рождеству
 
 **Еще больше Skills для изучения**
 
@@ -42,23 +42,23 @@
 
 [![Пример иллюстрации «Сделай это на Хэллоуин»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример рисунка Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример оформления ко Дню святого Валентина](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines)[![Пример пасхальной работы Make It It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines)[![Пример оформления к Пасхе](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Сделай это Пасхой](https://podplo.app/skills/make-it-easter)[![Пример иллюстрации «Сделай это на День Благодарения»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Оформить к Пасхе](https://podplo.app/skills/make-it-easter)[![Пример оформления ко Дню благодарения](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Сделай это на День Благодарения](https://podplo.app/skills/make-it-thanksgiving)
+Оформить ко Дню благодарения](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="valentines-version"></a>
 
-## Создайте вариант валентинки
+## Создайте вариант ко Дню святого Валентина
 
 [Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines) добавляет романтические детали уже показанным людям, домашним животным или произведениям искусства.
 
 [Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines) добавляет сердечки, цветы, теплые цвета или короткое сообщение вокруг существующего человека, пары, домашнего животного или произведения искусства. Он основывается на уже показанных отношениях, а не изобретает их.
 
-![Ссылка перед добавлением темы ко Дню святого Валентина](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3-before.webp)
+![Референс перед добавлением темы Дня святого Валентина](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3-before.webp)
 
 Ввод
 
@@ -76,31 +76,31 @@
 
 <a id="_R_2srk_-cards"></a>
 
-[![Пример иллюстрации «Сделай это Рождество»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+[![Пример оформления к Рождеству](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-Сделай это Рождеством](https://podplo.app/skills/make-it-christmas)[![Пример иллюстрации «Сделай это на Хэллоуин»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+Оформить к Рождеству](https://podplo.app/skills/make-it-christmas)[![Пример иллюстрации «Сделай это на Хэллоуин»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример пасхальной работы Make It It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример оформления к Пасхе](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Сделай это Пасхой](https://podplo.app/skills/make-it-easter)[![Пример иллюстрации «Сделай это на День Благодарения»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
+Оформить к Пасхе](https://podplo.app/skills/make-it-easter)[![Пример оформления ко Дню благодарения](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-5.webp)
 
-Сделай это на День Благодарения](https://podplo.app/skills/make-it-thanksgiving)
+Оформить ко Дню благодарения](https://podplo.app/skills/make-it-thanksgiving)
 
 <a id="mothers-day-version"></a>
 
 ## Создайте вариант ко Дню матери
 
-[Сделайте это Днем матери](https://podplo.app/skills/make-it-mothers-day) добавляет цветы и личное сообщение, сохраняя при этом тех же членов семьи.
+[Оформить ко Дню матери](https://podplo.app/skills/make-it-mothers-day) добавляет цветы и личное сообщение, сохраняя при этом тех же членов семьи.
 
-[Сделайте это Днем матери](https://podplo.app/skills/make-it-mothers-day) добавляет цветы, теплые цвета и послание для клиентов вокруг людей на исходном изображении. Он сохраняет каждого члена семьи на своем месте, никого не добавляя и не заменяя.
+[Оформить ко Дню матери](https://podplo.app/skills/make-it-mothers-day) добавляет цветы, тёплые цвета и сообщение клиента вокруг людей на исходном изображении. Сохраняет каждого члена семьи на своём месте, никого не добавляя и не заменяя.
 
-![Ссылка на семью перед добавлением темы Дня матери](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6-before.webp)
+![Семейный референс перед добавлением темы Дня матери](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6-before.webp)
 
 Ввод
 
-[![Версия ко Дню матери с сохранением снабженцев](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6.webp)](https://podplo.app/skills/make-it-mothers-day)
+[![Версия ко Дню матери с сохранением всех людей с предоставленных изображений](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-6.webp)](https://podplo.app/skills/make-it-mothers-day)
 
-Сделайте это Днем матери
+Оформить ко Дню матери
 
 **Еще больше Skills для изучения**
 
@@ -112,12 +112,12 @@
 
 <a id="_R_2urk_-cards"></a>
 
-[![Пример иллюстрации «Сделай это Рождество»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
+[![Пример оформления к Рождеству](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-1.webp)
 
-Сделай это Рождеством](https://podplo.app/skills/make-it-christmas)[![Пример иллюстрации «Сделай это на Хэллоуин»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
+Оформить к Рождеству](https://podplo.app/skills/make-it-christmas)[![Пример иллюстрации «Сделай это на Хэллоуин»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-2.webp)
 
-Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример рисунка Make It Valentine](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
+Устройте Хэллоуин](https://podplo.app/skills/make-it-halloween)[![Пример оформления ко Дню святого Валентина](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-3.webp)
 
-Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines)[![Пример пасхальной работы Make It It](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
+Сделай это ко Дню святого Валентина](https://podplo.app/skills/make-it-valentines)[![Пример оформления к Пасхе](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-5-4.webp)
 
-Сделай это Пасхой](https://podplo.app/skills/make-it-easter)
+Оформить к Пасхе](https://podplo.app/skills/make-it-easter)

@@ -12,15 +12,15 @@
 
 # Leve sua imagem além do quadro
 
-Amplie uma cena pintando ou reorganizando a composição. Explore uma visão mais ampla da mesma ideia.
+Expanda uma cena com extensão de imagem ou reorganize a composição. Explore uma visão mais ampla da mesma ideia.
 
 <a id="extend-scene"></a>
 
 ## Estenda a cena para uma nova forma
 
-[Pintura Inteligente](https://podplo.app/skills/smart-outpaint) estende uma cena completa em uma imagem mais ampla, mais alta ou mais espaçosa.
+[Expansão inteligente da imagem](https://podplo.app/skills/smart-outpaint) estende uma cena completa em uma imagem mais ampla, mais alta ou mais espaçosa.
 
-[Pintura Inteligente](https://podplo.app/skills/smart-outpaint) adiciona mais céu, paisagem, espaço interior ou atmosfera ao redor de uma cena completa sem esticar o assunto. A imagem pode ficar mais larga, mais alta ou simplesmente mais espaçosa.
+[Expansão inteligente da imagem](https://podplo.app/skills/smart-outpaint) adiciona mais céu, paisagem, espaço interno ou atmosfera ao redor de uma cena completa sem esticar o elemento principal. A imagem pode ficar mais larga, mais alta ou simplesmente mais espaçosa.
 
 ![Cena original na proporção da fonte](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6-before.webp)
 
@@ -28,7 +28,7 @@ Entrada
 
 [![Cena naturalmente estendida em uma nova proporção](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-6.webp)](https://podplo.app/skills/smart-outpaint)
 
-Pintura Inteligente
+Expansão inteligente da imagem
 
 **Mais Skills para explorar**
 
@@ -40,11 +40,11 @@ Pintura Inteligente
 
 <a id="_R_2qrk_-cards"></a>
 
-[![Exemplo de arte de reparo detalhado](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![Exemplo de arte do Reparo de detalhes](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-Reparo Detalhado](https://podplo.app/skills/detail-repair)[![Exemplo de arte HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+Reparo de detalhes](https://podplo.app/skills/detail-repair)[![Exemplo de arte HD Upscale](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
-Alto padrão em alta definição](https://podplo.app/skills/hd-upscale)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
+Ampliação HD](https://podplo.app/skills/hd-upscale)[![Exemplo de arte do removedor de fundo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-3.webp)
 
 Removedor de fundo](https://podplo.app/skills/background-remover)
 
@@ -52,9 +52,9 @@ Removedor de fundo](https://podplo.app/skills/background-remover)
 
 ## Reconstrua o layout para uma nova forma
 
-[Criador de pôsteres](https://podplo.app/skills/poster-maker) reorganiza a mesma arte e cópia para um novo formato de tela.
+[Criador de pôsteres](https://podplo.app/skills/poster-maker) reorganiza a mesma arte e o texto para um novo formato de tela.
 
-[Criador de pôsteres](https://podplo.app/skills/poster-maker) reposiciona o título, o assunto e a linha de suporte para uma nova forma, em vez de simplesmente cortar a imagem antiga. O texto e o assunto permanecem os mesmos enquanto a hierarquia muda.
+[Criador de pôsteres](https://podplo.app/skills/poster-maker) reposiciona o título, o elemento principal e a frase de apoio para um novo formato, em vez de simplesmente cortar a imagem antiga. O texto e o elemento principal permanecem iguais enquanto a hierarquia muda.
 
 ![Material de origem antes da recomposição](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-7-before.webp)
 
@@ -78,9 +78,9 @@ Criador de pôsteres
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -88,9 +88,9 @@ Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
 ## Retrabalhe o design como um emblema compacto
 
-[Layout central compacto](https://podplo.app/skills/compact-center-layout) transforma obras de arte soltas e cópias em um emblema limpo e compacto.
+[Layout central compacto](https://podplo.app/skills/compact-center-layout) transforma a arte e o texto dispersos em um emblema claro e compacto.
 
-[Layout central compacto](https://podplo.app/skills/compact-center-layout) reúne um assunto e copia em uma composição compacta e transparente, em vez de adicionar mais cenários. Um design largo ou solto torna-se um gráfico semelhante a um emblema.
+[Layout central compacto](https://podplo.app/skills/compact-center-layout) reúne um elemento principal e o texto em uma composição compacta com fundo transparente, em vez de adicionar mais cenário. Um design amplo ou disperso se torna uma composição clara semelhante a um emblema.
 
 ![Arte e texto antes do layout do vestuário](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
@@ -114,8 +114,8 @@ Layout central compacto
 
 Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)

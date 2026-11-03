@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/artwork-types/abstract?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -80,9 +80,9 @@ Créez du rythme à partir de lignes droites parallèles en faisant varier leur 
 
 <a id="form-exp-12-0-5"></a>
 
-![Toile de franchissement de lignes — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-5.svg)
+![Réseau de lignes croisées — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-0-5.svg)
 
-##### Toile de franchissement de ligne
+##### Réseau de lignes croisées
 
 Traversez plusieurs ensembles de lignes droites pour former une structure non figurative visible.
 
@@ -240,9 +240,9 @@ Gardez les limites des formes nettes, sans transitions douces entre les couleurs
 
 <a id="form-exp-12-1-9"></a>
 
-![Géométrie décrite — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-1-9.svg)
+![Géométrie au trait — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-1-9.svg)
 
-##### Géométrie décrite
+##### Géométrie au trait
 
 Définissez les formes uniquement avec des contours tout en laissant leurs intérieurs ouverts.
 
@@ -260,7 +260,7 @@ Déformez légèrement les formes géométriques tout en conservant à la fois l
 
 ##### Tranches géométriques
 
-Découpez les avions, décalez leurs morceaux et recombinez-les dans un nouvel arrangement.
+Découpez les plans, décalez leurs parties et recombinez-les dans une nouvelle disposition.
 
 <a id="abstract-panel-word-12-2"></a>
 
@@ -272,9 +272,9 @@ Comparez les formes abstraites organiques à travers la croissance, le flux, les
 
 <a id="form-exp-12-2-0"></a>
 
-![Blocs organiques gratuits – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-0.svg)
+![Blocs organiques libres — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-0.svg)
 
-##### Blocs organiques gratuits
+##### Blocs organiques libres
 
 Créez des relations plates à partir de formes irrégulières aux bords légèrement arrondis.
 
@@ -300,7 +300,7 @@ Utilisez des formes fluides pour exprimer la direction et les changements de vis
 
 ##### Flux tourbillonnant
 
-La bobine se forme vers l’intérieur ou vers l’extérieur à partir d’un centre de rotation.
+Enroulez les formes vers l’intérieur ou vers l’extérieur autour d’un centre de rotation.
 
 <a id="form-exp-12-2-4"></a>
 
@@ -360,9 +360,9 @@ S'étire ou s'égoutte comme si le matériau fondait.
 
 <a id="form-exp-12-2-11"></a>
 
-![Plis et plis — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-11.svg)
+![Plis et plissés — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-2-11.svg)
 
-##### Plis et plis
+##### Plis et plissés
 
 Créez un rythme de crêtes et de vallées à partir de plans courbés en forme de ruban.
 
@@ -384,11 +384,11 @@ Construisez l’image grâce à la direction et à la couverture de larges coups
 
 <a id="form-exp-12-3-1"></a>
 
-![Lacunes de brosse sèche — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-1.svg)
+![Réserves du pinceau sec — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-1.svg)
 
-##### Interstices avec une brosse sèche
+##### Réserves du pinceau sec
 
-Laissez la peinture manquante et le sol exposé visibles comme preuve des poils et de la vitesse.
+Laissez visibles les manques de peinture et le fond exposé comme traces des poils de pinceau et de la vitesse du geste.
 
 <a id="form-exp-12-3-2"></a>
 
@@ -408,9 +408,9 @@ Utilisez des gouttelettes et des marques de pulvérisation vers l'extérieur pou
 
 <a id="form-exp-12-3-4"></a>
 
-![Sentiers d'égouttement — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-4.svg)
+![Traînées de coulures — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-4.svg)
 
-##### Sentiers goutte à goutte
+##### Traînées de coulures
 
 Laissez le pigment laisser des traces le long de la gravité ou dans une direction inclinée.
 
@@ -432,9 +432,9 @@ Couvrez les couches de couleur à plusieurs reprises tout en conservant les trac
 
 <a id="form-exp-12-3-7"></a>
 
-![Accumulation de course courte - étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-7.svg)
+![Accumulation de traits courts — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-3-7.svg)
 
-##### Accumulation à course courte
+##### Accumulation de traits courts
 
 Accumulez de nombreux traits courts dont la densité et la direction changent à travers le champ.
 
@@ -476,7 +476,7 @@ Créez des formes négatives actives en supprimant ou en simulant l’effacement
 
 #### Champs de couleur et optiques
 
-Comparez les champs de couleurs abstraites en fonction du nombre de palettes, de la température, de la valeur, des dégradés, des bandes, du chevauchement transparent, de la lueur, de l'obscurité et des vibrations optiques.
+Comparez les champs de couleur abstraits selon le nombre de couleurs de la palette, la température, les valeurs, les dégradés, les bandes, les superpositions transparentes, la lueur, l’obscurité et les vibrations optiques.
 
 <a id="form-exp-12-4-0"></a>
 
@@ -584,7 +584,7 @@ FORMES VISUELLES · 24
 
 <a id="abstract-methods-group-word-12-5"></a>
 
-#### Chevauchement et mise à la terre
+#### Chevauchement et rapport figure-fond
 
 Comparez la construction abstraite figure-fond par contiguïté, chevauchement opaque ou transparent, limites partagées, masquage, découpage et inversions.
 
@@ -602,7 +602,7 @@ Placez les formes contre des limites partagées sans les laisser se chevaucher.
 
 ##### Chevauchement opaque
 
-Créez des calques en laissant les plans opaques s'obscurcir visiblement.
+Créez des couches en laissant les plans opaques se masquer visiblement les uns les autres.
 
 <a id="form-exp-12-5-2"></a>
 
@@ -648,7 +648,7 @@ Donnez aux formes solides et aux zones vides environnantes une importance visuel
 
 ![Inversion figure-fond — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-5-7.svg)
 
-##### Inversion figure-sol
+##### Inversion figure-fond
 
 Faites basculer l’attention entre les formes lues au premier plan et les formes lues en arrière-plan.
 
@@ -674,7 +674,7 @@ Emboîtez les formes successivement pour créer une progression en échelle ou e
 
 ##### Frontière brisée
 
-Laissez les formulaires sélectionnés traverser la grille ou la limite qui les contenait à l’origine.
+Laissez les formes sélectionnées traverser la grille ou la limite qui les contenait à l’origine.
 
 <a id="form-exp-12-5-11"></a>
 
@@ -690,7 +690,7 @@ Découpez une forme en morceaux, puis déplacez ou faites pivoter les fragments 
 
 #### Ordre et génération
 
-Comparez l'ordre généré par la répétition, la symétrie, le glissement, la récursion, la croissance fractale, le caractère aléatoire, le bruit, le changement de paramètres, la topologie et le réarrangement des problèmes.
+Comparez l’ordre généré par la répétition, la symétrie, le glissement, la récursion, la croissance fractale, le hasard, le bruit, la variation des paramètres, la topologie et les réarrangements par glitch.
 
 <a id="form-exp-12-6-0"></a>
 
@@ -704,7 +704,7 @@ Répétez la même forme plusieurs fois selon une règle cohérente.
 
 ![Réseau rotatif – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-6-1.svg)
 
-##### Tableau rotatif
+##### Disposition par rotation
 
 Faites pivoter les unités successives autour d’un centre partagé dans un tableau ordonné.
 
@@ -718,11 +718,11 @@ Faire correspondre les formes sur un ou plusieurs axes de réflexion.
 
 <a id="form-exp-12-6-3"></a>
 
-![Disposition des glissades — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-6-3.svg)
+![Disposition par glissement — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-6-3.svg)
 
-##### Disposition des glissades
+##### Disposition par glissement
 
-Combinez traduction et réflexion au sein d’une même opération répétitive.
+Combinez translation et réflexion dans une même opération de répétition.
 
 <a id="form-exp-12-6-4"></a>
 
@@ -738,7 +738,7 @@ Répétez les structures associées à plusieurs échelles différentes dans le 
 
 ##### Croissance de type fractal
 
-Faites en sorte que les parties locales et le formulaire global partagent des structures de branchement ou hiérarchiques similaires.
+Faites partager aux parties locales et à la forme globale des structures ramifiées ou hiérarchiques similaires.
 
 <a id="form-exp-12-6-6"></a>
 
@@ -784,7 +784,7 @@ Insistez sur la façon dont les formes se connectent et se traversent.
 
 ![Réarrangement des glitchs – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-6-11.svg)
 
-##### Réarrangement des problèmes
+##### Réarrangement par glitch
 
 Créez une distorsion numérique grâce à des déplacements, des pauses et des répétitions par blocs.
 
@@ -818,7 +818,7 @@ Concentrez les principales formes abstraites près du centre.
 
 ##### Espace ouvert décentré
 
-Déplacez les formulaires vers un côté tout en gardant l’autre côté ouvert.
+Déplacez les formes vers un côté en laissant l’autre côté libre.
 
 <a id="form-exp-12-7-2"></a>
 
@@ -850,13 +850,13 @@ Formes dispersées sans motif périodique tout en équilibrant leur poids visuel
 
 ##### Champ complet dense
 
-Couvrez la majeure partie du cadre avec des coffrages et laissez très peu d'espace ouvert.
+Couvrez la majeure partie du cadre de formes en laissant très peu d’espace libre.
 
 <a id="form-exp-12-7-6"></a>
 
-![Enceinte Edge – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-7-6.svg)
+![Encadrement par les bords — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-7-6.svg)
 
-##### Boîtier de bord
+##### Encadrement par les bords
 
 Concentrez le contenu le long des bords extérieurs tout en préservant un centre ouvert.
 
@@ -906,13 +906,13 @@ Divisez le champ en plusieurs zones, puis laissez ces zones se chevaucher.
 
 #### Rythme et mouvement
 
-Comparez le mouvement abstrait à travers des battements pairs ou alternés, un changement progressif, un rassemblement, une dispersion, une convergence, une expansion, des spirales, des vagues et des forces croisées.
+Comparez le mouvement abstrait à travers des rythmes réguliers ou alternés, des changements progressifs, des rassemblements, des dispersions, des convergences, des expansions, des spirales, des vagues et des forces croisées.
 
 <a id="form-exp-12-8-0"></a>
 
-![Même les battements – étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-0.svg)
+![Rythmes réguliers — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-8-0.svg)
 
-##### Même des battements
+##### Rythmes réguliers
 
 Gardez les intervalles entre les unités presque égaux pour établir un rythme régulier.
 
@@ -978,7 +978,7 @@ Dirigez les lignes et les formes vers un centre commun.
 
 ##### Expansion vers l'extérieur
 
-Développez les formulaires vers l’extérieur à partir du centre du champ.
+Étendez les formes vers l’extérieur à partir du centre du champ.
 
 <a id="form-exp-12-8-9"></a>
 
@@ -1042,7 +1042,7 @@ Utilisez des lignes convergentes régulières pour établir un espace s’étend
 
 ##### Masses flottantes
 
-Suspendez des formulaires sans fond clairement défini en dessous.
+Suspendez des formes sans sol clairement défini sous elles.
 
 <a id="form-exp-12-9-4"></a>
 
@@ -1058,13 +1058,13 @@ Utilisez des relations de valeur ou de ligne pour suggérer des surfaces de gonf
 
 ##### Espace impossible
 
-Connectez les formulaires dans un espace qui ne pourrait pas exister physiquement.
+Reliez les formes dans un espace physiquement impossible.
 
 <a id="form-exp-12-9-6"></a>
 
-![Récolte partielle — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-9-6.svg)
+![Recadrage partiel — étude visuelle](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/exp-12-9-6.svg)
 
-##### Récolte partielle
+##### Recadrage partiel
 
 Recadrez les formes au niveau du cadre pour impliquer qu'elles continuent au-delà.
 

@@ -48,11 +48,11 @@
 
 एआई उत्पाद पूर्वावलोकन
 
-**अधिक लेआउट खोजें और Skills सेट करें**
+**लेआउट और सेट बनाने वाले अधिक Skills खोजें**
 
 <a id="_R_bf3k_-title"></a>
 
-#### अधिक लेआउट खोजें और Skills सेट करें
+#### लेआउट और सेट बनाने वाले अधिक Skills खोजें
 
 4 / 14
 
@@ -96,9 +96,9 @@
 
 <a id="_R_bn3k_-cards"></a>
 
-[![विस्तृत मरम्मत कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
+[![डिटेल रिपेयर की कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-1.webp)
 
-विस्तृत मरम्मत](https://podplo.app/skills/detail-repair)[![एचडी अपस्केल कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
+डिटेल रिपेयर](https://podplo.app/skills/detail-repair)[![एचडी अपस्केल कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-2.webp)
 
 एचडी अपस्केल](https://podplo.app/skills/hd-upscale)[![वेक्टर शैली कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-4.webp)
 
@@ -134,11 +134,11 @@
 
 <a id="_R_bv3k_-cards"></a>
 
-[![गुलाबी धनुष नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607234000023917-artwork.webp)
+[![गुलाबी बो वाला नाम-पैटर्न — कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607234000023917-artwork.webp)
 
-गुलाबी धनुष नाम पैटर्न](https://podplo.app/skills/pink-bow-name-pattern)[![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+गुलाबी बो वाला नाम-पैटर्न](https://podplo.app/skills/pink-bow-name-pattern)[![बफ़ेलो प्लेड पंजा नाम कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-भैंस प्लेड पंजा नाम](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+बफ़ेलो-प्लेड पंजे और नाम वाला डिज़ाइन](https://podplo.app/skills/buffalo-plaid-paw-name)[![उत्तरी ध्रुव का नाम पोस्टर कलाकृति का उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
 उत्तरी ध्रुव का नाम पोस्टर](https://podplo.app/skills/north-pole-name-poster)[![क्रेयॉन हार्ट्स नाम पैटर्न कलाकृति उदाहरण](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
@@ -158,4 +158,4 @@
 
 - किसी नाम को थीम में एकीकृत किया जा सकता है
 
-![बैकपैक और लंच बैग · एआई उत्पाद प्रमाण](https://podplo.app/pod-guide/generated/backpacks-proof.webp)
+![बैकपैक और लंच बैग · AI से बना उत्पाद प्रूफ़](https://podplo.app/pod-guide/generated/backpacks-proof.webp)

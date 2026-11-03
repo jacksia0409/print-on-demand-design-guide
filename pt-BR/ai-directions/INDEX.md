@@ -8,7 +8,7 @@
 
 # Orientações criativas públicas para IA
 
-Estas são instruções públicas do Guia, não regras Skill privadas. Os estudos visuais são conceituais; os resultados devem ser revistos.
+Estas são instruções públicas do Guide, e não regras privadas de Skill. Os estudos visuais são conceituais; os resultados devem ser conferidos.
 
 Leia as 123 orientações em quatro partes. Cada uma inclui um bloco de instruções pronto para copiar.
 

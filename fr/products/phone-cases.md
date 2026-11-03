@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Index des guides](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/phone-cases?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Sommaire du guide](../INDEX.md) · [Lire la suite PodPlo](https://podplo.app/pod-guide/products/phone-cases?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -30,29 +30,29 @@ Les coques de téléphone fonctionnent bien avec des sujets de grande taille, de
 
 Utilisez différents Skills pour transformer la même image en de nouvelles mises en page, des illustrations basées sur des photos et des designs personnalisés.
 
-### Un modèle à garder de près
+### Un motif à garder près de soi
 
 Répétez vos détails préférés pour créer un motif pour la forme haute et étroite de la coque de téléphone.
 
 [Motif sans raccord visible](https://podplo.app/skills/seamless-pattern)
 
-![Modèle sans couture · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Motif à raccords invisibles · Image source](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Image source
 
-[![Modèle sans couture · Oeuvre générée](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Motif à raccords invisibles · Visuel généré](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de mise en page et définissez Skills**
+**Explorez davantage de Skills de mise en page et de création d’ensembles**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Explorez plus de mise en page et définissez Skills
+#### Explorez davantage de Skills de mise en page et de création d’ensembles
 
 4 / 12
 
@@ -68,7 +68,7 @@ Disposition de la pile verticale](https://podplo.app/skills/vertical-stack-layou
 
 Disposition titre-sujet-sous-titre](https://podplo.app/skills/title-subject-subtitle-layout)
 
-### Transformez un portrait en un dessin au crayon
+### Transformez un portrait en une création avec cadre au crayon de cire.
 
 Une photo claire devient un portrait encadré dimensionné pour la coque du téléphone.
 
@@ -84,13 +84,13 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Explorez plus de photos et d'images Skills**
+**Explorez davantage de Skills photo et image**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Explorez plus de photos et d'images Skills
+#### Explorez davantage de Skills photo et image
 
 4 / 97
 
@@ -102,7 +102,7 @@ Coloriage](https://podplo.app/skills/coloring-page)[![Exemple d'illustration Sil
 
 Créateur de silhouettes](https://podplo.app/skills/silhouette-maker)[![Exemple d'illustration de tampon monochrome](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-12.webp)
 
-Timbre monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
+Tampon monochrome](https://podplo.app/skills/monochrome-stamp)[![Exemple d'illustration du fabricant de pochoirs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
 Fabricant de pochoirs](https://podplo.app/skills/stencil-maker)
 
@@ -112,7 +112,7 @@ Placez un nom dans un arrangement floral dimensionné pour le boîtier vertical.
 
 [Cadre de nom floral](https://podplo.app/skills/floral-name-frame)
 
-ANDRÉA
+ANDREA
 
 Nom
 
@@ -122,25 +122,25 @@ Oeuvre générée
 
 Aperçu du produit à venir
 
-Aperçu du produit IA
+Aperçu de produit généré par IA
 
-**Découvrez plus de noms et d'occasions Skills**
+**Découvrez davantage de Skills pour les noms et les occasions**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Découvrez plus de noms et d'occasions Skills
+#### Découvrez davantage de Skills pour les noms et les occasions
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Exemple d'illustration du nom de patte à carreaux de Buffalo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Exemple de visuel « Prénom sur empreinte de patte à grands carreaux »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Nom de la patte à carreaux de buffle](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple d'illustration d'affiche de nom du pôle Nord](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Prénom sur empreinte de patte à grands carreaux](https://podplo.app/skills/buffalo-plaid-paw-name)[![Exemple d'illustration d'affiche de nom du pôle Nord](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Nom du pôle Nord Poster](https://podplo.app/skills/north-pole-name-poster)[![Exemple d'illustration de motif de nom de crayon coeurs](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Affiche du pôle Nord avec prénom](https://podplo.app/skills/north-pole-name-poster)[![Exemple de visuel « Motif de cœurs au crayon avec prénom »](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Modèle de nom de coeurs de crayon](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Motif de cœurs au crayon avec prénom](https://podplo.app/skills/crayon-hearts-name-pattern)[![Exemple d'illustration de motif de nom de dinosaure](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
 Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)
 
@@ -148,7 +148,7 @@ Modèle de nom de dinosaure](https://podplo.app/skills/dinosaur-name-pattern)
 
 ## Prévisualiser le design sur le produit
 
-### Aperçu du dossier complet
+### Prévisualiser la coque entière
 
 L'aperçu AI montre la composition verticale et l'espace autour de la zone de la caméra.
 

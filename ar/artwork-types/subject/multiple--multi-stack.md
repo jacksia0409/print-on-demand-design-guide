@@ -30,7 +30,7 @@
 
 ليس من الضروري أن تدعم الكائنات بعضها البعض جسديًا. يختلف التجميع المحدود عن النمط المتكرر الذي يتم تجانبه عبر السطح.
 
-[← العودة إلى العنصر الذي يقوده](../subject.md)
+[← العودة إلى التكوينات المرتكزة على العنصر الرئيسي](../subject.md)
 
 <a id="ai-directions"></a>
 
@@ -42,7 +42,7 @@
 
 **الاتجاه المطلوب**
 
-العنصر بقيادة → عناصر متعددة → التجميع العمودي
+تكوين يرتكز على العنصر الرئيسي → عناصر متعددة → تجميع رأسي
 
 **المدخلات والمخرجات**
 
@@ -72,21 +72,21 @@
 
 ## استكشاف الخلفية
 
-تقارن هذه الأمثلة الأسباب ضمن عائلة المحتوى نفسها. احتفظ بالتركيبة الحالية عند تطبيق المعالجة؛ فتح مثال لتوجيهاته الكاملة.
+تقارن هذه الأمثلة الخلفيات ضمن فئة المحتوى نفسها. احتفظ بالتكوين الحالي عند تطبيق المعالجة؛ وافتح مثالًا لقراءة تعليماته الكاملة.
 
 [![خلفية شفافة: عناصر متعددة: تظل الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--transparent-1.svg)
 
 ### خلفية شفافة↗
 
-عناصر متعددة: تبقى الأرض شفافة؛ رقعة الشطرنج ليست سوى وسيلة مساعدة للعرض.](background--multiple--transparent.md)[![الخلفية الصلبة: عناصر متعددة: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
+عناصر متعددة: تبقى الخلفية شفافة؛ ونمط المربعات مجرد وسيلة مساعدة للعرض.](background--multiple--transparent.md)[![خلفية أحادية اللون: عناصر متعددة: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--solid-1.svg)
 
-### خلفية صلبة ↗
+### خلفية أحادية اللون↗
 
-عناصر متعددة: لون واحد موحد يشكل الأرض؛ الأبيض هو أيضًا خلفية صلبة.](background--multiple--solid.md)[![خلفية متدرجة: عناصر متعددة: يتغير الدعم بشكل مستمر في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
+عناصر متعددة: يشكل لون موحد واحد الخلفية؛ والأبيض أيضًا خلفية أحادية اللون.](background--multiple--solid.md)[![خلفية متدرجة: عناصر متعددة: يتغير لون الخلفية أو سطوعها باستمرار مع بقاء المحتوى الرئيسي واضحًا.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--gradient-1.svg)
 
 ### خلفية متدرجة ↗
 
-عناصر متعددة: يتغير الدعم بشكل مستمر في اللون أو السطوع بينما يظل المحتوى الرئيسي واضحًا.](background--multiple--gradient.md)[![الخلفية المنقوشة: محلية: عناصر متعددة: توجد رقعة زخرفية خلف المحتوى، مع ترك مساحة خارج الرقعة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
+عناصر متعددة: يتغير لون الخلفية أو سطوعها باستمرار مع بقاء المحتوى الرئيسي واضحًا.](background--multiple--gradient.md)[![الخلفية المنقوشة: محلية: عناصر متعددة: توجد رقعة زخرفية خلف المحتوى، مع ترك مساحة خارج الرقعة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--pattern-local-1.svg)
 
 ### الخلفية المنقوشة: محلية↗
 
@@ -94,15 +94,15 @@
 
 ### خلفية منقوشة: منطقة كاملة↗
 
-عناصر متعددة: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--multiple--pattern-full.md)[![خلفية مزخرفة: عناصر متعددة: تدعم حبيبات الورق أو الجزيئات أو أي حرف سطحي آخر محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
+عناصر متعددة: تغطي الأرضية المنقوشة الصورة خلف محتوى أمامي يمكن قراءته بوضوح.](background--multiple--pattern-full.md)[![خلفية ذات ملمس: عناصر رئيسية متعددة: تدعم حبيبات الورق أو الجزيئات أو غيرها من سمات السطح محتوى المقدمة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--texture-1.svg)
 
-### خلفية محكم↗
+### خلفية ذات ملمس↗
 
-عناصر متعددة: تدعم حبيبات الورق أو الجزيئات أو أي حرف سطحي آخر محتوى المقدمة.](background--multiple--texture.md)[![الخلفية البيئية: موضوعات متعددة: تدعم البيئة المرتبطة بالموضوع المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
+عناصر متعددة: تدعم حبيبات الورق أو الجزيئات أو سمة سطحية أخرى المحتوى الأمامي.](background--multiple--texture.md)[![خلفية بيئية: عناصر متعددة: تدعم بيئة مرتبطة بالفكرة المحتوى الرئيسي من خلفه أو من حوله.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--multiple--scene-1.svg)
 
 ### الخلفية البيئية↗
 
-مواضيع متعددة: تدعم البيئة المرتبطة بالموضوع المحتوى الرئيسي من خلفه أو من حوله.](background--multiple--scene.md)
+عناصر متعددة: تدعم بيئة مرتبطة بالفكرة المحتوى الرئيسي من خلفه أو من حوله.](background--multiple--scene.md)
 
 <a id="related"></a>
 
@@ -114,7 +114,7 @@
 
 تم ترتيب العديد من العناصر التي يمكن التعرف عليها أفقيًا وعرضها معًا.](multiple--multi-parallel.md)[![العناصر الأساسية والداعمة: عنصر واحد يقود التكوين بينما تدعمه كائنات أخرى.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-dominant-1.svg)
 
-### المواد الأساسية والداعمة↗
+### عناصر رئيسية ومساندة↗
 
 عنصر واحد يقود التكوين بينما تدعمه كائنات أخرى.](multiple--multi-dominant.md)[![التجميع المتماثل: تتوافق العناصر عبر محور لإنشاء تركيبة متوازنة.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-multiple--multi-symmetric-1.svg)
 

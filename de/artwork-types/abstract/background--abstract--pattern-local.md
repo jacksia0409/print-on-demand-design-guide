@@ -6,19 +6,19 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/abstract/background--abstract--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/abstract/background--abstract--pattern-local?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-Abstraktes Kunstwerk / KREATIVE RICHTUNG / Abstraktes Kunstwerk
+Abstrakte Gestaltung / GESTALTUNGSRICHTUNG / Abstrakte Gestaltung
 
 # Gemusterter Hintergrund: lokal
 
-Abstraktes Kunstwerk: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.
+Abstrakte Gestaltung: Eine dekorative Fläche liegt hinter dem Inhalt; außerhalb dieser Fläche bleibt Freiraum.
 
 <a id="understand"></a>
 
-![Gemusterter Hintergrund: lokal: Abstraktes Kunstwerk: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
+![Gemusterter Hintergrund, lokal: Abstrakte Gestaltung: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-local-1.svg)
 
 Kompositionsskizze
 
@@ -26,7 +26,7 @@ WIE MAN ES ERKENNT
 
 ## Was definiert diese Richtung?
 
-Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 
 [← Zurück zu abstrakten Kunstwerken](../abstract.md)
 
@@ -34,13 +34,13 @@ Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Lei
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Abstraktes Kunstwerk → Hintergrund → Gemusterter Hintergrund: lokal
+Abstrakte Gestaltung → Hintergrund → Gemusterter Hintergrund: lokal
 
 **Eingabe und Ausgabe**
 
@@ -48,11 +48,11 @@ Wenn ein Bild vorliegt, passen Sie es an diese Gestaltungsrichtung an. Wenn ein 
 
 **Zielaufbau**
 
-Behalten Sie nichtfigurative Form-, Linien- und Farbbeziehungen bei. Der Boden sollte die Abstraktion unterstützen, anstatt ein dominantes identifizierbares Objekt einzuführen.
+Bewahren Sie die Beziehungen zwischen nichtgegenständlichen Formen, Linien und Farben. Der Hintergrund sollte die Abstraktion unterstützen, statt ein dominantes, erkennbares Objekt einzuführen.
 
 **Hintergrund**
 
-Verwenden Sie Hintergrundelemente, Behandlung und Palette als Referenzen und reorganisieren Sie sie in einen lokalen dekorativen Hintergrund. Wenn keine vorhanden ist oder die Quelle nur einen glatten oder transparenten Grund hat, erstellen Sie verwandte Motive. Behalten Sie die Transparenz, die ursprüngliche Grundfarbe oder einen explizit gewünschten Grund außerhalb des Pflasters bei.
+Verwenden Sie Hintergrundelemente, Gestaltung und Farbpalette als Referenzen und ordnen Sie diese zu einer örtlich begrenzten dekorativen Hintergrundfläche neu an. Ist keine vorhanden oder hat die Vorlage nur einen einfarbigen oder transparenten Hintergrund, schaffen Sie passende Motive. Bewahren Sie außerhalb der Fläche die Transparenz, ursprüngliche Grundfarbe oder einen ausdrücklich gewünschten Hintergrund.
 
 **Textinhalt**
 
@@ -60,32 +60,32 @@ Behalten Sie eindeutig lesbare Wörter aus der Vorlage und deren Sprache bei und
 
 **Beibehalten und anpassen**
 
-Behalten Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung bei und lassen Sie gleichzeitig zu, dass die konkrete Objektidentität reduziert oder entfernt wird. Es ist nicht gleichzeitig erforderlich, dass die ursprüngliche Objektsilhouette intakt bleibt. Beschreiben Sie neu erstellte Inhalte nicht als in der Quelle vorhanden. Geben Sie einen Konflikt zwischen expliziten Eingabebeschränkungen und notwendigen Zielbedingungen an, anstatt zu behaupten, dass beide erfüllt seien.
+Bewahren Sie Thema, Atmosphäre, Farbpalette, Rhythmus oder Richtung und lassen Sie dabei zu, dass die konkrete Identität von Objekten reduziert oder aufgehoben wird. Verlangen Sie nicht gleichzeitig, dass die ursprüngliche Objektsilhouette vollständig erhalten bleibt. Beschreiben Sie neu erzeugte Inhalte nicht als bereits in der Vorlage vorhanden. Benennen Sie einen Konflikt zwischen ausdrücklichen Einschränkungen der Eingabe und notwendigen Zielbedingungen, statt zu behaupten, beide seien erfüllt.
 
 **Umfang und Grenzen**
 
-Der Patch kann regelmäßig oder frei geformt sein, bedeckt jedoch nicht die Leinwand. Dekoration, die hauptsächlich die Außenkontur umschließt, ist umgebende Dekoration; Halten Sie den Hauptinhalt im Vordergrund.
+Die Fläche darf regelmäßig oder frei geformt sein, bedeckt aber nicht die gesamte Bildfläche. Dekoration, die hauptsächlich die Außenkontur umschließt, gilt als umgebende Dekoration; halten Sie den Hauptinhalt dominant.
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Transparenter Hintergrund: Abstraktes Kunstwerk: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
+[![Transparenter Hintergrund: Abstrakte Bilder: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Abstraktes Kunstwerk: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--abstract--transparent.md)[![Einfarbiger Hintergrund: Abstraktes Kunstwerk: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
+Abstrakte Gestaltung: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--abstract--transparent.md)[![Einfarbiger Hintergrund: Abstrakte Bilder: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Abstraktes Kunstwerk: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--abstract--solid.md)[![Hintergrund mit Farbverlauf: Abstraktes Kunstwerk: Die Farbe oder Helligkeit des Hintergrunds ändert sich kontinuierlich, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
+Abstrakte Gestaltung: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--abstract--solid.md)[![Hintergrund mit Farbverlauf: Abstraktes Kunstwerk: Die Farbe oder Helligkeit des Hintergrunds ändert sich kontinuierlich, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Abstraktes Kunstwerk: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--abstract--gradient.md)[![Gemusterter Hintergrund: Vollflächig: Abstraktes Kunstwerk: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
+Abstrakte Gestaltung: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--abstract--gradient.md)[![Gemusterter Hintergrund: Vollflächig: Abstraktes Kunstwerk: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--abstract--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
-Abstraktes Kunstwerk: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--abstract--pattern-full.md)
+Abstrakte Gestaltung: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbaren Vordergrundinhalten.](background--abstract--pattern-full.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

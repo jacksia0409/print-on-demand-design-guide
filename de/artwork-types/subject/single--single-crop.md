@@ -6,7 +6,7 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Leitfadenindex](../../INDEX.md) · [Lesen Sie weiter PodPlo](https://podplo.app/pod-guide/artwork-types/subject/single--single-crop?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Leitfadenindex](../../INDEX.md) · [Auf PodPlo lesen](https://podplo.app/pod-guide/artwork-types/subject/single--single-crop?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
@@ -28,19 +28,19 @@ WIE MAN ES ERKENNT
 
 Dadurch wird ein einzelnes Motiv beschnitten. Zu einer Szenen-Nahaufnahme gehört eine beschnittene Umgebung oder ein Moment mit kontextuellen Zusammenhängen.
 
-[← Zurück zur Themenführung](../subject.md)
+[← Zurück zu „Motiv im Mittelpunkt“](../subject.md)
 
 <a id="ai-directions"></a>
 
 KI-ANWEISUNGEN
 
-## Nehmen Sie diese Richtung in Richtung KI
+## Setzen Sie diese Gestaltungsrichtung mit KI um.
 
-Verwenden Sie es mit einem Bild oder bitten Sie die KI, Ihre Bildaufforderung in diese Richtung umzuschreiben.
+Verwenden Sie dies mit einem Bild oder bitten Sie eine KI, Ihren Bild-Prompt in dieser Gestaltungsrichtung neu zu formulieren.
 
 **Gestaltungsrichtung**
 
-Betreffgesteuert → Einzelbetreff → Vergrößerter Ausschnitt
+Motiv im Mittelpunkt → Einzelmotiv → Vergrößertes Detail
 
 **Eingabe und Ausgabe**
 
@@ -70,25 +70,25 @@ Dadurch wird ein einzelnes Motiv beschnitten. Zu einer Szenen-Nahaufnahme gehör
 
 ## Erkunden Sie den Hintergrund
 
-Diese Beispiele vergleichen Gründe innerhalb derselben Inhaltsfamilie. Behalten Sie die aktuelle Zusammensetzung bei, wenn Sie eine Behandlung anwenden. Öffnen Sie ein Beispiel für die vollständige Anleitung.
+Diese Beispiele vergleichen Hintergründe innerhalb derselben Inhaltsgruppe. Bewahren Sie beim Anwenden einer Gestaltung die aktuelle Komposition; öffnen Sie ein Beispiel, um die vollständige Anleitung zu lesen.
 
-[![Transparenter Hintergrund: Einzelnes Motiv: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
+[![Transparenter Hintergrund: Einzelmotiv: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--transparent-1.svg)
 
 ### Transparenter Hintergrund↗
 
-Einzelmotiv: Der Boden bleibt transparent; Ein Schachbrett ist nur eine Anzeigehilfe.](background--single--transparent.md)[![Einfarbiger Hintergrund: Einzelnes Motiv: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
+Einzelmotiv: Der Hintergrund bleibt transparent; das Schachbrettmuster dient nur als Anzeigehilfe.](background--single--transparent.md)[![Einfarbiger Hintergrund: Einzelmotiv: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--solid-1.svg)
 
-### Solider Hintergrund↗
+### Einfarbiger Hintergrund↗
 
-Einzelmotiv: Eine einheitliche Farbe bildet den Untergrund; Weiß ist auch ein solider Hintergrund.](background--single--solid.md)[![Hintergrund mit Farbverlauf: Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
+Einzelmotiv: Eine einheitliche Farbe bildet den Hintergrund; auch Weiß ist ein einfarbiger Hintergrund.](background--single--solid.md)[![Hintergrund mit Farbverlauf: Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--gradient-1.svg)
 
 ### Hintergrund mit Farbverlauf↗
 
-Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--single--gradient.md)[![Gemusterter Hintergrund: lokal: Einzelnes Motiv: Ein dekorativer Patch befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Patches frei.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
+Einzelnes Motiv: Der Hintergrund ändert sich kontinuierlich in Farbe oder Helligkeit, während der Hauptinhalt klar bleibt.](background--single--gradient.md)[![Gemusterter Hintergrund, lokal: Einzelmotiv: Eine dekorative Fläche liegt hinter dem Inhalt und lässt außerhalb davon Freiraum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-local-1.svg)
 
 ### Gemusterter Hintergrund: lokal↗
 
-Einzelnes Motiv: Ein dekorativer Aufnäher befindet sich hinter dem Inhalt und lässt einen Bereich außerhalb des Aufnähers frei.](background--single--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Einzelnes Motiv: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
+Einzelmotiv: Eine dekorative Fläche liegt hinter dem Inhalt; außerhalb dieser Fläche bleibt ein Bereich frei.](background--single--pattern-local.md)[![Gemusterter Hintergrund: Vollflächig: Einzelnes Motiv: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich lesbarem Vordergrundinhalt.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--pattern-full-1.svg)
 
 ### Gemusterter Hintergrund: vollflächig↗
 
@@ -96,23 +96,23 @@ Einzelnes Motiv: Ein gemusterter Hintergrund bedeckt das Bild hinter deutlich le
 
 ### Strukturierter Hintergrund↗
 
-Einzelnes Motiv: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--single--texture.md)[![Umgebungshintergrund: Einzelnes Thema: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--scene-1.svg)
+Einzelnes Motiv: Papierkörnung, Partikel oder eine andere Oberflächenbeschaffenheit unterstützen den Vordergrundinhalt.](background--single--texture.md)[![Umgebungshintergrund: Einzelmotiv: Eine thematisch passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-background--single--scene-1.svg)
 
-### Umwelthintergrund↗
+### Umgebungshintergrund↗
 
-Einzelnes Thema: Eine themenbezogene Umgebung unterstützt den Hauptinhalt dahinter oder um ihn herum.](background--single--scene.md)
+Einzelmotiv: Eine zum Thema passende Umgebung unterstützt den Hauptinhalt von hinten oder umgibt ihn.](background--single--scene.md)
 
 <a id="related"></a>
 
-## Vergleichen Sie Wegbeschreibungen in der Nähe
+## Ähnliche Gestaltungsrichtungen vergleichen
 
-[![Zentriertes Motiv: Ein Hauptmotiv befindet sich in der Nähe der Mitte und hat um ihn herum Platz.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-center-1.svg)
+[![Zentriertes Motiv: Ein Hauptmotiv liegt nahe der Mitte und hat Freiraum um sich herum.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-center-1.svg)
 
-### Zentriertes Subjekt↗
+### Zentriertes Motiv↗
 
 Ein Hauptmotiv befindet sich in der Nähe der Mitte und ist umgeben von Raum.](single--single-center.md)[![Versetzt mit offenem Raum: Das Hauptmotiv befindet sich auf einer Seite und lässt an anderer Stelle einen deutlich ruhigeren Bereich übrig.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-offset-1.svg)
 
-### Versatz zum Freiraum↗
+### Versetzt mit Freiraum↗
 
 Das Hauptmotiv befindet sich auf einer Seite, sodass an anderer Stelle ein deutlich ruhigerer Bereich entsteht.](single--single-offset.md)[![Diagonale Komposition: Das Motiv erstreckt sich entlang einer Diagonale und gibt dem Bild eine klare Richtung.](https://images.podplo.app/official/pod-guide/diagrams/b2382e28cd57b514819e/legacy-single--single-diagonal-1.svg)
 
@@ -120,4 +120,4 @@ Das Hauptmotiv befindet sich auf einer Seite, sodass an anderer Stelle ein deutl
 
 Das Motiv erstreckt sich entlang einer Diagonale und gibt dem Bild eine klare Richtung.](single--single-diagonal.md)
 
-Codebasierte Studien vergleichen Komposition und visuelle Behandlungen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Überprüfen Sie generierten Text, Transparenz und Wiederholungskanten.
+Codegezeichnete Studien vergleichen Komposition und visuelle Gestaltungsweisen; Medien- und Stilbeispiele sind konzeptionell. Diese Richtungen wurden nicht einzeln mit Bildmodellen getestet. Prüfen Sie generierten Text, Transparenz und Rapportkanten.

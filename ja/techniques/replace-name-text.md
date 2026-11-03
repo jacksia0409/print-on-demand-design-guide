@@ -38,21 +38,21 @@
 
 [![恐竜の名前パターンのアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-恐竜の名前のパターン](https://podplo.app/skills/dinosaur-name-pattern)[![バッファローチェック柄の足名のアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+恐竜の名前のパターン](https://podplo.app/skills/dinosaur-name-pattern)[![バッファローチェックの肉球と名前の作品例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-バッファローチェック柄の足の名前](https://podplo.app/skills/buffalo-plaid-paw-name)
+バッファローチェックの肉球と名前](https://podplo.app/skills/buffalo-plaid-paw-name)
 
 <a id="name-pattern"></a>
 
 ## 短いフレーズを中心にデザインを構築する
 
-[タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout) STAY WILD と 1 つのアートワークを中心に、テキスト主導の明確な構成を構築します。
+[タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout) STAY WILD と 1 つのアートワークを中心に、テキスト主導の明確な構成を構築します。
 
-[タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout) STAY WILDなどの行を見出しにし、その周りにアートワークや任意の補助線を配置します。画像はレイアウトを示しています。テキストの自動置換ではありません。
+[タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout) STAY WILDのような一文を見出しにし、その周囲に図案と任意の補足文を配置します。画像はレイアウトの例であり、文字を自動で置き換えるものではありません。
 
-[![タイトル、件名、補助線のレイアウト例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
+[![タイトル、モチーフ、補足の一文を配置した例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)](https://podplo.app/skills/title-subject-subtitle-layout)
 
-タイトル、件名、サブタイトルのレイアウト
+タイトル・モチーフ・サブタイトルのレイアウト
 
 **さらに Skills を探索してください**
 
@@ -80,7 +80,7 @@
 
 [円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout) アートワークと日付をコンパクトな記念エンブレムに組み合わせました。
 
-[円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout) EST などのテキストを折り返す。中央のアートワークの周りに「2024」または「10.12.2024」と表示されるため、日付が構成の一部になります。画像はバッジの構造を示しています。日付の自動置換ではありません。
+[円形バッジのレイアウト](https://podplo.app/skills/circular-badge-layout) EST. 2024や10.12.2024などの文言を中央の図案の周囲に配置し、日付を構図の一部にします。画像はバッジの構造を示すものであり、日付が自動で置き換わるわけではありません。
 
 [![円形バッジに配置された正確な文言の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)](https://podplo.app/skills/circular-badge-layout)
 
@@ -102,6 +102,6 @@
 
 コンパクトなセンターレイアウト](https://podplo.app/skills/compact-center-layout)[![垂直スタックレイアウトのアートワークの例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・件名・字幕のレイアウトアートワーク例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+垂直スタックレイアウト](https://podplo.app/skills/vertical-stack-layout)[![タイトル・モチーフ・サブタイトルのレイアウト 図案の例](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-タイトル、件名、サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)
+タイトル・モチーフ・サブタイトルのレイアウト](https://podplo.app/skills/title-subject-subtitle-layout)

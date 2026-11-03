@@ -12,7 +12,7 @@
 
 # Uma imagem. Infinitas possibilidades.
 
-Remix suas imagens e texto com diferentes Skills. Experimente novos layouts e transforme uma ideia em uma variedade de designs.
+Remixe suas imagens e seu texto com diferentes Skills. Experimente novos layouts e transforme uma ideia em uma variedade de designs.
 
 <a id="material-is-the-start"></a>
 
@@ -24,21 +24,21 @@ Remix suas imagens e texto com diferentes Skills. Experimente novos layouts e tr
 
 <a id="opaque-artwork"></a>
 
-[Layout central compacto](https://podplo.app/skills/compact-center-layout) combina um assunto reconhecível e uma cópia em um gráfico centralizado em negrito.
+[Layout central compacto](https://podplo.app/skills/compact-center-layout) combina um elemento principal reconhecível e o texto em uma composição centralizada marcante.
 
-Comece com uma imagem carregada ou um ativo PodPlo. [Layout central compacto](https://podplo.app/skills/compact-center-layout) combina o assunto e a cópia em um gráfico centralizado e equilibrado, mantendo a fonte reconhecível.
+Comece com uma imagem carregada ou um ativo PodPlo. [Layout central compacto](https://podplo.app/skills/compact-center-layout) combina o elemento principal e o texto em uma composição centralizada e equilibrada, mantendo a origem reconhecível.
 
 ### Crie um gráfico forte e centrado
 
-[Layout central compacto](https://podplo.app/skills/compact-center-layout) combina um assunto e uma cópia em uma forma densa e equilibrada. Uma imagem de origem solta torna-se um gráfico fortemente centrado com um ponto focal claro.
+[Layout central compacto](https://podplo.app/skills/compact-center-layout) combina um elemento principal e o texto em uma forma densa e equilibrada. Uma imagem de origem dispersa se torna uma composição centralizada forte com um ponto focal claro.
 
-### Empilhe um assunto alto e copie
+### Empilhe um elemento principal alto e o texto
 
-[Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout) organiza um assunto alto e copia de cima para baixo em uma ordem de leitura clara. A composição aberta deixa o fundo visível ao redor da arte.
+[Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout) organiza um elemento principal alto e o texto de cima para baixo, em uma ordem de leitura clara. A composição aberta deixa o fundo visível ao redor da arte.
 
 ### Mantenha a cena completa intacta
 
-[Criador de pôsteres](https://podplo.app/skills/poster-maker) pode preservar uma cena, moldura ou textura completa quando o ambiente faz parte do design. O resultado parece um pôster finalizado, e não um assunto isolado.
+[Criador de pôsteres](https://podplo.app/skills/poster-maker) pode preservar uma cena, moldura ou textura completa quando o entorno faz parte do design. O resultado é percebido como um pôster finalizado, e não como um elemento isolado.
 
 ![Elemento de origem e texto exato](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1-before.webp)
 
@@ -62,9 +62,9 @@ Layout central compacto
 
 Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)[![Exemplo de arte de layout de emblema circular](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-4.webp)
 
 Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
@@ -80,13 +80,13 @@ Layout de crachá circular](https://podplo.app/skills/circular-badge-layout)
 
 ### Compare um emblema com um layout aberto
 
-[Layout de crachá circular](https://podplo.app/skills/circular-badge-layout) envolve a arte e a cópia em um emblema completo, enquanto o Compact Center Layout cria uma forma aberta mais densa. A mesma fonte pode parecer clássica e contida ou mais enérgica e informal.
+[Layout de crachá circular](https://podplo.app/skills/circular-badge-layout) envolve a arte e o texto em um emblema completo, enquanto o Compact Center Layout cria uma forma aberta mais densa. A mesma origem pode transmitir um aspecto clássico e contido ou mais enérgico e informal.
 
-![Motivo de fonte única](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
+![Um único motivo de origem](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8-before.png)
 
 Entrada
 
-[![Ladrilho de padrão sem costura repetível](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
+[![Módulo de padrão repetível sem emendas](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)](https://podplo.app/skills/seamless-pattern)
 
 Padrão sem emendas
 
@@ -106,9 +106,9 @@ Criador de pôsteres](https://podplo.app/skills/poster-maker)[![Exemplo de arte 
 
 Layout central compacto](https://podplo.app/skills/compact-center-layout)[![Exemplo de arte de layout de pilha vertical](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte de layout de título–assunto–subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Layout de pilha vertical](https://podplo.app/skills/vertical-stack-layout)[![Exemplo de arte do Layout Título–Elemento principal–Subtítulo](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Layout Título-Assunto-Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
+Layout Título–Elemento principal–Subtítulo](https://podplo.app/skills/title-subject-subtitle-layout)
 
 <a id="product-changes-the-result"></a>
 
@@ -150,7 +150,7 @@ Gerador de grade 6PC](https://podplo.app/skills/six-piece-grid)
 
 <a id="repeatable-combination-workflow"></a>
 
-## Salve uma configuração de criativo repetível
+## Salve uma configuração criativa reutilizável
 
 Salve a fonte, Skill, e o resultado mais forte para que a configuração seja fácil de reutilizar.
 

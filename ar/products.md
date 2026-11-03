@@ -28,9 +28,9 @@
 
 معاينة القميص
 
-![معاينة بهلوان AI لنفس تكرار الأزهار](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+![معاينة بالذكاء الاصطناعي لنفس النمط الزهري على كوب حراري](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
-معاينة بهلوان
+معاينة كوب حراري
 
 **استكشاف Skills ذات الصلة**
 
@@ -62,45 +62,45 @@
 
 **بلوزات وهوديس**
 
-طبقات مريحة ذات شخصية](products/sweatshirts.md)[![القبعات والقبعات](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)
+طبقات مريحة ذات شخصية](products/sweatshirts.md)[![قبعات وطواقي](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-256114317380662744.webp)
 
-**القبعات والقبعات**
+**قبعات وطواقي**
 
 تصميمات صغيرة مميزة](products/hats.md)[![أكواب](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601105306992710.webp)
 
 **أكواب**
 
-اجعل طقوسك اليومية شخصية](products/mugs.md)[![البهلوانات](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
+اجعل طقوسك اليومية شخصية](products/mugs.md)[![أكواب حرارية](https://podplo.app/pod-guide/generated/tumblers-proof.webp)
 
-**البهلوانات**
+**أكواب حرارية**
 
 خذ تصميمك المفضل معك](products/tumblers.md)[![الملصقات والمطبوعات الفنية](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100781713611.webp)
 
 **الملصقات والمطبوعات الفنية**
 
-إفساح المجال لصورة مفضلة](products/art-prints.md)[![مطبوعات قماشية ومؤطرة](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)
+إفساح المجال لصورة مفضلة](products/art-prints.md)[![لوحات كانفاس ومطبوعات مؤطرة](https://podplo.app/pod-guide/generated/canvas-prints-proof.webp)
 
-**مطبوعات قماشية ومؤطرة**
+**لوحات كانفاس ومطبوعات مؤطرة**
 
 تحويل الصورة المفضلة لديك إلى جدار الفن](products/canvas-prints.md)[![الملصقات والعلامات](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606139739697740.webp)
 
 **الملصقات والعلامات**
 
-صور صغيرة مع الكثير لتقوله](products/stickers.md)[![حمل الحقائب](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-149520694559925464.webp)
+صور صغيرة مع الكثير لتقوله](products/stickers.md)[![حقائب توت](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-149520694559925464.webp)
 
-**حمل الحقائب**
+**حقائب توت**
 
 احمل تصميمك المفضل](products/tote-bags.md)[![حقائب الظهر وحقائب الغداء](https://podplo.app/pod-guide/generated/backpacks-proof.webp)
 
 **حقائب الظهر وحقائب الغداء**
 
-حقيبة ملكك بلا شك](products/backpacks.md)[![حالات الهاتف](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100560723646.webp)
+حقيبة ملكك بلا شك](products/backpacks.md)[![حافظات هواتف](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-601100560723646.webp)
 
-**حالات الهاتف**
+**حافظات هواتف**
 
-احتفظ بالصورة المفضلة بالقرب منك](products/phone-cases.md)[![دفاتر الملاحظات والمخططين](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
+احتفظ بالصورة المفضلة بالقرب منك](products/phone-cases.md)[![دفاتر ملاحظات ومفكرات](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
 
-**دفاتر الملاحظات والمخططين**
+**دفاتر ملاحظات ومفكرات**
 
 غلاف لفصلك القادم](products/notebooks.md)[![بطاقات التهنئة والدعوات](https://podplo.app/pod-guide/generated/greeting-cards-proof.webp)
 
@@ -110,13 +110,13 @@
 
 **البطانيات**
 
-اختتام في الذاكرة المفضلة](products/blankets.md)[![الوسائد والوسائد](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
+تدثّر بذكرى تحبها](products/blankets.md)[![الوسائد والوسائد](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-zazzle-189947358269810815.webp)
 
 **الوسائد والوسائد**
 
-أضف لمسة شخصية إلى أي غرفة](products/pillows.md)[![الحلي وواقيات الشمس](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)
+أضف لمسة شخصية إلى أي غرفة](products/pillows.md)[![زينة معلّقة وزينة نوافذ ملتقطة للشمس](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-605893919926956.webp)
 
-**الحلي وواقيات الشمس**
+**زينة معلّقة وزينة نوافذ ملتقطة للشمس**
 
 تذكارات صغيرة للحظات كبيرة](products/ornaments.md)[![الألغاز](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606793900074986.webp)
 
@@ -126,7 +126,7 @@
 
 **سجادات تغذية الحيوانات الأليفة**
 
-اجعل وقت تناول الطعام خاصًا بك](products/pet-products.md)[![ورق التغليف](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)
+اجعل وقت طعام حيوانك الأليف خاصًا به](products/pet-products.md)[![ورق التغليف](https://images.podplo.app/official/mockups/podplo-product-mockups-20261028/mockup-temu-606545077228686.webp)
 
 **ورق التغليف**
 
@@ -134,6 +134,6 @@
 
 **ورق جدران**
 
-عزر واحد. غرفة جديدة بالكامل.](products/wallpaper.md)
+زخرفة واحدة. غرفة جديدة بالكامل.](products/wallpaper.md)
 
 </div>

@@ -6,11 +6,11 @@
 </div>
 <!-- LANGUAGES:END -->
 
-[← Путеводитель](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/notebooks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
+[← Оглавление руководства](../INDEX.md) · [Читать на PodPlo](https://podplo.app/pod-guide/products/notebooks?utm_source=github&utm_medium=guide&utm_campaign=print-on-demand-design-guide)
 
 <a id="guide-main"></a>
 
-# Блокноты и планировщики
+# Блокноты и ежедневники
 
 Превратите обложку блокнота в плакат, узор или индивидуальный дизайн.
 
@@ -22,7 +22,7 @@
 
 Используйте одно яркое изображение, объедините заголовок с иллюстрацией или расширьте повтор по всей обложке. Изображение обложки по центру; Название, интегрированное в иллюстрацию; Полное повторение.
 
-![Блокноты и планировщики · пустой визуальный продукт](https://podplo.app/pod-guide/generated/notebooks-blank.webp)
+![Блокноты и ежедневники · Изображение товара без рисунка](https://podplo.app/pod-guide/generated/notebooks-blank.webp)
 
 <a id="product-create"></a>
 
@@ -48,11 +48,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Изучите больше макета и установите Skills**
+**Изучите другие Skill для композиций и наборов**
 
 <a id="_R_bf3k_-title"></a>
 
-#### Изучите больше макета и установите Skills
+#### Изучите другие Skill для композиций и наборов
 
 4 / 12
 
@@ -60,25 +60,25 @@
 
 [![Пример иллюстрации бесшовного рисунка](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-8.webp)
 
-Бесшовный узор](https://podplo.app/skills/seamless-pattern)[![Пример макета компактного центра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
+Бесшовный узор](https://podplo.app/skills/seamless-pattern)[![Пример компактной композиции по центру](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-1.webp)
 
-Компактная центральная планировка](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
+Компактная композиция по центру](https://podplo.app/skills/compact-center-layout)[![Пример макета вертикального стека](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-2.webp)
 
-Вертикальная компоновка стека](https://podplo.app/skills/vertical-stack-layout)[![Пример оформления «Заголовок–Тема–Субтитры»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
+Вертикальная композиция](https://podplo.app/skills/vertical-stack-layout)[![Пример работы с композицией «Заголовок — главный объект — подзаголовок»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-21-3.webp)
 
-Заголовок–Тема–Макет субтитров](https://podplo.app/skills/title-subject-subtitle-layout)
+Композиция «Заголовок — главный объект — подзаголовок»](https://podplo.app/skills/title-subject-subtitle-layout)
 
 ### Превратите портрет в фэнтезийную обложку
 
 Четкая фотография становится для блокнота портретом всадника на драконе.
 
-[Портрет Всадника Дракона](https://podplo.app/skills/dragon-rider-portrait)
+[Портрет всадника на драконе](https://podplo.app/skills/dragon-rider-portrait)
 
-![Портрет Всадника Дракона · Исходное фото](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607039115867926-before.webp)
+![Портрет всадника на драконе · Исходное фото](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607039115867926-before.webp)
 
 Исходное фото
 
-[![Портрет Всадника на драконе · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607039115867926-after.webp)](https://podplo.app/skills/dragon-rider-portrait)
+[![Портрет всадника на драконе · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607039115867926-after.webp)](https://podplo.app/skills/dragon-rider-portrait)
 
 Созданное произведение искусства
 
@@ -86,11 +86,11 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Исследуйте больше фотографий и изображений Skills**
+**Изучите другие Skill для фотографий и изображений**
 
 <a id="_R_bn3k_-title"></a>
 
-#### Исследуйте больше фотографий и изображений Skills
+#### Изучите другие Skill для фотографий и изображений
 
 4 / 97
 
@@ -104,19 +104,19 @@
 
 Монохромная марка](https://podplo.app/skills/monochrome-stamp)[![Пример изображения в Stencil Maker](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/podplo-skill-13.webp)
 
-Трафарет Производитель](https://podplo.app/skills/stencil-maker)
+Создатель трафаретов](https://podplo.app/skills/stencil-maker)
 
-### Создайте цветочную обложку для имени
+### Создайте обложку с именем и цветами
 
 Поместите имя в цветочную рамку, чтобы создать индивидуальный дизайн блокнота.
 
 [Цветочная рамка имени](https://podplo.app/skills/floral-name-frame)
 
-АНДРЕА
+ANDREA
 
 Имя
 
-[![Цветочная рамка для имени · Созданные иллюстрации](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
+[![Цветочная рамка для имени · Сгенерированное изображение](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/601103593435524-artwork.webp)](https://podplo.app/skills/floral-name-frame)
 
 Созданное произведение искусства
 
@@ -124,25 +124,25 @@
 
 Предварительный просмотр продукта с ИИ
 
-**Узнайте больше об имени и случае Skills**
+**Изучите другие Skill для имён и особых поводов**
 
 <a id="_R_bv3k_-title"></a>
 
-#### Узнайте больше об имени и случае Skills
+#### Изучите другие Skill для имён и особых поводов
 
 4 / 19
 
 <a id="_R_bv3k_-cards"></a>
 
-[![Пример изображения имени лапы Buffalo Plaid Paw Name](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
+[![Пример дизайна «Лапа в крупную клетку с именем»](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/606775881362588-artwork.webp)
 
-Имя лапы в клетку буйвола](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример изображения плаката с названием Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
+Лапа в крупную клетку с именем](https://podplo.app/skills/buffalo-plaid-paw-name)[![Пример именного постера Северного полюса](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607551290739347-artwork.webp)
 
-Плакат с названием Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример изображения узора в виде сердечек из карандашей](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
+Именной постер Северного полюса](https://podplo.app/skills/north-pole-name-poster)[![Пример узора с именем и сердечками, нарисованными мелками](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607132934055196-artwork.webp)
 
-Образец имени в виде сердечек из карандашей](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример изображения шаблона имени динозавра](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
+Узор с именем и сердечками, нарисованными мелками](https://podplo.app/skills/crayon-hearts-name-pattern)[![Пример узора с динозаврами и именем](https://images.podplo.app/official/skills/podplo-skill-media-20261027/skills/pod-personalized/607029854859690-artwork.webp)
 
-Образец имени динозавра](https://podplo.app/skills/dinosaur-name-pattern)
+Узор с динозаврами и именем](https://podplo.app/skills/dinosaur-name-pattern)
 
 <a id="product-mockup"></a>
 
@@ -150,12 +150,12 @@
 
 ### Предварительный просмотр дизайна обложки
 
-Предварительный просмотр с помощью искусственного интеллекта показывает, как рисунок соответствует обложке ноутбука, и сравнивает жирное фокусное изображение с более простым узором.
+Предпросмотр с ИИ показывает, как рисунок смотрится на обложке блокнота, и позволяет сравнить выразительное центральное изображение с более простым узором.
 
 - Центрированное изображение создает четкий фокус
 
 - Имя делает обложку личной
 
-- Повторение может распространяться на всю согласованную серию блокнотов.
+- Повторяющийся узор можно использовать во всей согласованной серии блокнотов
 
 ![Блокноты и планировщики · Проверка продукта с использованием искусственного интеллекта](https://podplo.app/pod-guide/generated/notebooks-proof.webp)
